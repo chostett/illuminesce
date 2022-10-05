@@ -6,32 +6,10 @@
   --content: #43256E;
 }
 
- @font-face {
-  font-family: RobotoCondensed;
-  src: url('https://illuminesce.neocities.org/font/RobotoCondensed-Light.ttf');
-      }
-
-@font-face {
-    font-family: RobotoCondensed;
-    src: url('https://illuminesce.neocities.org/font/RobotoCondensed-LightItalic.ttf');
-    font-weight: italic;
-}
-
-@font-face {
-    font-family: RobotoCondensed;
-    src: url('https://illuminesce.neocities.org/font/RobotoCondensed-Bold.ttf');
-    font-style: bold;
-}
-
-@font-face {
-    font-family: RobotoCondensed;
-    src: url('https://illuminesce.neocities.org/font/RobotoCondensed-BoldItalic.ttf');
-    font-style: italic;
-    font-weight: bold;
-}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,600;1,300;1,600&display=swap');
 
 body {
-    font-family: 'RobotoCondensed', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin: 0;
     background-color: #103D15;
     color: #A8F9A4;
@@ -82,7 +60,7 @@ text-decoration:none; */
     /* header color here! */
     height: 150px;
     /* this is only for a background image! */
-    /* if you want to put images IN the header, 
+    /* if you want to put images IN the header,
 you can add them directly to the <div id="header"></div> element! */
     background-image: var(--header-image);
     background-size: 100%;
@@ -207,10 +185,10 @@ strong {
 
 /* BELOW THIS POINT IS MEDIA QUERY */
 
-/* so you wanna change the width of your page? 
+/* so you wanna change the width of your page?
 by default, the container width is 900px.
 in order to keep things responsive, take your new height,
-and then subtrack it by 100. use this new number as the 
+and then subtrack it by 100. use this new number as the
 "max-width" value below
 */
 
