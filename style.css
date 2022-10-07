@@ -183,6 +183,20 @@ strong {
     background-color: #13092D;
 }
 
+/* flexbox for list entries. makes a left-aligned column for an icon and a right-alighed column for text. */
+.section-header {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.section-icon {
+  width: 100px;
+}
+
+.section-title {
+  flex-grow: 1;
+}
 
 /* BELOW THIS POINT IS MEDIA QUERY */
 
