@@ -2,6 +2,9 @@ html, body {
   margin: 0;
   padding: 0;
   font-family: 'Libre Baskerville', sans-serif;
+  font-size: 18px;
+  color: #D6D6D6;
+  line-height: 2;
   background-color: #0C2C0E;
 }
 
@@ -80,10 +83,9 @@ a {
   line-height: 2;
 }
 
-.content p {
-  font-size: 18px;
-  color: #D6D6D6;
-  line-height: 2;
+.subheader {
+  font-size: 16px;
+  font-style: italic;
 }
 
 /*Footer Section*/
@@ -106,13 +108,16 @@ a {
 
 /*Home*/
 .welcome-message {
-  padding: 20px 0 70px 0;
+  padding: 20px 0 60px 0;
 }
 
 /*Writing*/
-.content-block {
+.cat-block {
   padding: 20px 0;
   border-bottom: 1px solid #fff;
+}
+.content-body {
+  padding-bottom: 60px;
 }
 
 /*Columns*/
