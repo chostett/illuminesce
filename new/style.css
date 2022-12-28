@@ -77,13 +77,13 @@ a {
 
 .content h2 span {
   color: #0EFF00;
+  line-height: 2;
 }
 
 .content p {
-  text-shadow: 0 0;
-  font-size: 20px;
+  font-size: 18px;
   color: #D6D6D6;
-  margin-bottom: 70px;
+  line-height: 2;
 }
 
 /*Footer Section*/
@@ -102,6 +102,17 @@ a {
   font-size:14px;
   margin-bottom: 0;
   margin-left: 50px;
+}
+
+/*Home*/
+.welcome-message {
+  padding: 20px 0 70px 0;
+}
+
+/*Writing*/
+.content-block {
+  padding: 20px 0;
+  border-bottom: 1px solid #fff;
 }
 
 /*Columns*/
