@@ -1,0 +1,237 @@
+:root {
+  --header-image: url('https://sadhost.neocities.org/images/layouts/wp.jpeg');
+  --body-bg-image: url('https://illuminesce.neocities.org/images/vhs-background.png');
+
+  /* colors */
+  --content: #43256E;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,600;1,300;1,600&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    background-color: #103D15;
+    color: #A8F9A4;
+    background-image: var(--body-bg-image);
+}
+
+* {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+/* below this line is CSS for the layout */
+
+/* this is a CSS comment
+to uncomment a line of CSS, remove the * and the /
+before and after the text */
+
+
+/* the "container" is what wraps your entire website */
+/* if you want something (like the header) to be Wider than
+the other elements, you will need to move that div outside
+of the container */
+#container {
+    max-width: 1200px;
+    /* this is the width of your layout! */
+    /* if you change the above value, scroll to the bottom
+and change the media query according to the comment! */
+    margin: 0 auto;
+    /* this centers the entire page */
+}
+
+/* the area below is for all links on your page
+EXCEPT for the navigation */
+#container a {
+    color: #0EFF00;
+    font-weight: bold;
+    /* if you want to remove the underline
+you can add a line below here that says:
+text-decoration:none; */
+}
+
+#container hr {
+  margin: 20px 0;
+}
+
+#header {
+    width: 100%;
+    background-color: #5e4e8c;
+    /* header color here! */
+    height: 150px;
+    /* this is only for a background image! */
+    /* if you want to put images IN the header,
+you can add them directly to the <div id="header"></div> element! */
+    background-image: var(--header-image);
+    background-size: 100%;
+}
+
+/* navigation section!! */
+#navbar {
+    height: 40px;
+    background-color: #091B0A;
+    /* navbar color */
+    width: 100%;
+}
+
+#navbar ul {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    justify-content: space-evenly;
+}
+
+#navbar li {
+    padding-top: 10px;
+}
+
+/* navigation links*/
+#navbar li a {
+    color: #0EFF00;
+    /* navbar text color */
+    font-weight: 800;
+    text-decoration: none;
+    /* this removes the underline */
+}
+
+/* navigation link when a link is hovered over */
+#navbar li a:hover {
+    color: #A6FF00;
+    text-decoration: underline;
+}
+
+#flex {
+    display: flex;
+}
+
+/* this colors BOTH sidebars
+if you want to style them separately,
+create styles for #leftSidebar and #rightSidebar */
+aside {
+    background-color: #0C2C0E;
+    width: 250px;
+    padding: 20px;
+    font-size: smaller;
+    /* this makes the sidebar text slightly smaller */
+}
+
+
+/* this is the color of the main content area,
+between the sidebars! */
+main {
+    background-color: #103D15;
+    flex: 1;
+    padding: 20px;
+    order: 2;
+}
+
+/* what's this "order" stuff about??
+allow me to explain!
+if you're using both sidebars, the "order" value
+tells the CSS the order in which to display them.
+left sidebar is 1, content is 2, and right sidebar is 3! */
+
+*/ #leftSidebar {
+    order: 1;
+}
+
+#rightSidebar {
+    order: 3;
+}
+
+footer {
+    background-color: #091B0A;
+    /* background color for footer */
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    text-align: center;
+    /* this centers the footer text */
+}
+
+h1,
+h2,
+h3 {
+    color: #ECF8EB;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+strong {
+    /* this styles bold text */
+    color: #ECF8EB;
+}
+
+/* this is just a cool box, it's the darker colored one */
+.box {
+    background-color: #091B0A;
+    border: 1px solid #0EFF00;
+    padding: 10px;
+}
+
+/* CSS for extras */
+
+#topBar {
+    width: 100%;
+    height: 30px;
+    padding: 10px;
+    font-size: smaller;
+    background-color: #13092D;
+}
+
+/* flexbox for list entries. makes a left-aligned column for an icon and a right-alighed column for text. */
+.section-header {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.section-icon {
+  width: 100px;
+}
+
+.section-title {
+  flex-grow: 1;
+}
+
+/* BELOW THIS POINT IS MEDIA QUERY */
+
+/* so you wanna change the width of your page?
+by default, the container width is 900px.
+in order to keep things responsive, take your new height,
+and then subtrack it by 100. use this new number as the
+"max-width" value below
+*/
+
+@media only screen and (max-width: 1100px) {
+    #flex {
+        flex-wrap: wrap;
+    }
+
+    aside {
+        width: 100%;
+    }
+
+    /* the order of the items is adjusted here for responsiveness!
+since the sidebars would be too small on a mobile device.
+feel free to play around with the order!
+*/
+    main {
+        order: 1;
+    }
+
+    #leftSidebar {
+        order: 2;
+    }
+
+    #rightSidebar {
+        order: 3;
+    }
+
+    #navbar ul {
+        flex-wrap: wrap;
+    }
