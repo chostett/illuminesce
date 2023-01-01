@@ -18,14 +18,15 @@ ul {
   text-align: right;
 }
 
-h1 {
-  font-size: 20px;
-}
-
 a {
   color: #1BCC00;
   font-weight: bold;
   text-decoration: none;
+}
+
+h1 {
+  font-size: 20px;
+  color: #E8FFE5;
 }
 
 /*Sizing*/
