@@ -20,7 +20,6 @@ ul {
 
 h1 {
   font-size: 20px;
-  color: #E8FFE5;
 }
 
 a {
@@ -66,6 +65,7 @@ a {
 
 .selected {
   text-decoration: underline;
+  color: #1BCC00;
 }
 
 /*Content Section*/
@@ -91,12 +91,40 @@ a {
 
 /* Tags */
 button {
+    font-size: 16px;
+    font-weight: bold;
     background-color: #091B0A;
     color: #1BCC00;
-    padding: 5px;
+    padding: 5px 20px;
     margin-right: 5px;
-    margin-bottom:10px;
-    border-radius: 5px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+
+.cat-tags ul  {
+  text-align: left;
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+.cat-tags li {
+  font-size: 14px;
+  font-style: italic;
+  color: #82B095;
+  background-color: #091B0A;
+  border: 1px solid #091B0A;
+  border-radius: 20px;
+  padding: 0px 20px;
+  margin: 5px;
+  float: left;
+}
+
+.cat-tags ul::after {
+  content: "";
+  clear: both;
+  display: table;
+  padding-bottom: 30px;
 }
 
 /*Footer Section*/
