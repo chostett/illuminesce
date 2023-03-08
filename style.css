@@ -173,6 +173,15 @@ button {
 .content-body {
   padding-bottom: 60px;
 }
+.content-row {
+  display: flex;
+}
+.description {
+  flex: 1;
+}
+.image {
+  padding: 20px;
+}
 
 /*Columns*/
 .col {
