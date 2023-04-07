@@ -30,6 +30,7 @@ a {
 /*Sizing*/
 .container {
   margin: 0 auto;
+  padding-bottom: 60px;
 }
 
 .spacer {
@@ -58,7 +59,7 @@ a {
 }
 
 .header li a {
-  padding: 0px 5px;
+  padding: 0px 8px;
   border:0px;
 }
 
@@ -102,6 +103,19 @@ a {
   color: #0C2C0E;
   padding: 5px;
   text-align: center;
+}
+
+/* Icons */
+
+#icons {
+  text-align: center;
+}
+
+.social-icon {
+  height: 50px;
+  width: 50px;
+  fill: #1BCC00;
+  padding: 0 10px;
 }
 
 /* Tags */
@@ -167,8 +181,7 @@ button {
 
 /*Writing*/
 .cat-block {
-  padding: 20px 0;
-  border-bottom: 1px solid #fff;
+  padding-bottom: 60px;
 }
 .content-body {
   padding-bottom: 60px;
