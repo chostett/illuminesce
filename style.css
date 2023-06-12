@@ -162,18 +162,18 @@ button {
 }
 
 /*Footer Section*/
-.footer {
+#footer {
   padding: 60px 0px;
   background-color: #091B0A;
   color: #D6D6D6;
 }
 
-.footer h3 {
+#footer h3 {
   font-size: 20px;
   margin-left: 50px;
 }
 
-.footer p {
+#footer p {
   font-size:14px;
   margin-bottom: 0;
   margin-left: 50px;
