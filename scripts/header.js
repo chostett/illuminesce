@@ -3,7 +3,7 @@ let headerHTML = `<div class='container'>
       <h1><a href='index.html'>illuminesce.</a></h1>
       <ul>
         <li><a href='blog/index.html'>blog</a></li>
-        <li><a href='work.html'>work</a></li>
+        <li><a href='games.html'>games</a></li>
         <li><a href='talks.html'>talks</a></li>
         <li><a href='contact.html'>contact</a>&nbsp;|&nbsp;</li>
         <li><a href='index_jp.html'>日本語</a></li>
