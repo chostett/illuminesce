@@ -43,24 +43,29 @@ a {
 }
 
 /*Header Section*/
-.header {
+#header {
   padding: 30px 0px 40px;
   margin-left: 50px;
   margin-right: 50px;
 }
 
-.header h1 a {
+#header h1 a {
   color: #D6D6D6;
 }
 
-.header li {
+#header li {
   list-style: none;
   display: inline-block;
 }
 
-.header li a {
+#header li a {
   padding: 0px 8px;
   border:0px;
+}
+
+#header .container {
+  display: flex;
+  justify-content: space-between;
 }
 
 .selected {
