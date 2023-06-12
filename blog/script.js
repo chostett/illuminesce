@@ -14,7 +14,7 @@
 
 //==[ 1. BASIC INFO ]==
 
-let blogName = "this blog";
+let blogName = "sketches and scraps";
 let authorName = "illuminesce";
 let authorLink = "https://illuminesce.neocities.org"; // Enter your website, social media, etc. Some way for people to tell you they like your blog! (Leaving it empty is okay too)
 
@@ -32,10 +32,11 @@ let authorLink = "https://illuminesce.neocities.org"; // Enter your website, soc
 
 let postsArray = [
 //[ "posts/2020-11-10-Special-Characters-Example.html", encodeURI( 'Spéci@l "Character\'s" Examp|e' ) ]
-//[ "posts/2020-11-10-My-Third-Post-Example.html" ],
-//[ "posts/2020-11-10-My-Second-Post-Example.html" ],
-[ "posts/2023-01-23-I-left-work-to-take-a-sabbatical.html" ],
-[ "posts/2023-06-10-the-new-normal.html" ] ];
+["posts/2023-06-10-the-new-normal.html"],
+["posts/2023-01-23-I-left-work-to-take-a-sabbatical.html"],
+["posts/2022-09-14-A-Birthday-Letter-2022.html"],
+["posts/2021-09-14-A-Birthday-Letter-2021.html"],
+["posts/2020-09-14-A-Birthday-Letter-2020.html"] ];
 
 //-----------------------------
 
@@ -53,12 +54,12 @@ if ( url.includes("posts/") ) {
 }
 
 //Write the Header HTML, a series of list items containing links.
-let headerHTML = '<ul> <li><a href="https://illuminesce.neocities.org">Back to main</a></li>' + 
-'<li><a href="' + relativePath + '/index.html">Posts</a></li>' + 
-'<li><a href="' + relativePath + '/archive.html">Archive</a></li> </ul>';
+let headerHTML = '<ul> <li><a href="' + relativePath + '/index.html">home</a></li>' + 
+'<li><a href="' + relativePath + '/archive.html">archive</a></li>' + 
+'<li><a href="https://illuminesce.neocities.org">back to chostett.com</a></ul>';
 
 //Write the Footer HTML, which has information about the blog.
-let footerHTML = "<hr><p>" + blogName + " is written by <a href='" + authorLink + "'>" + authorName + "</a>, built with <a href='https://zonelets.net/'>Zonelets</a>, and hosted by <a href='https://neocities.org/'>Neocities!</a></p>";
+let footerHTML = "<hr><p><em>this blog is built with <a href='https://zonelets.net/'>zonelets</a>, and hosted by <a href='https://neocities.org/'>neocities.</a></em></p>";
 
 //To do the following stuff, we want to know where we are in the posts array (if we're currently on a post page).
 let currentIndex = -1;
@@ -167,17 +168,17 @@ let prevlink = "";
  a "Next Post" link, right? And vice versa with the oldest 
  post! That's what the following code handles.*/
 if ( postsArray.length < 2 ) {
-  nextprevHTML = '<a href="' + relativePath + '/index.html">Home</a>';
+  nextprevHTML = '<a href="' + relativePath + '/index.html">home</a>';
 } else if ( currentIndex === 0 ) {
   prevlink = postsArray[currentIndex + 1][0];
-  nextprevHTML = '<a href="' + relativePath + '/index.html">Home</a> | <a href="'+ relativePath + '/' + prevlink +'">Previous Post \u00BB</a>';
+  nextprevHTML = '<a href="' + relativePath + '/index.html">home</a> | <a href="'+ relativePath + '/' + prevlink +'">previous post \u00BB</a>';
 } else if ( currentIndex === postsArray.length - 1 ) {
   nextlink = postsArray[currentIndex - 1][0];
-  nextprevHTML = '<a href="' + relativePath + '/' + nextlink +'">\u00AB Next Post</a> | <a href="' + relativePath + '/index.html">Home</a>';
+  nextprevHTML = '<a href="' + relativePath + '/' + nextlink +'">\u00AB next post</a> | <a href="' + relativePath + '/index.html">home</a>';
 } else if ( 0 < currentIndex && currentIndex < postsArray.length - 1 ) {
   nextlink = postsArray[currentIndex - 1][0];
   prevlink = postsArray[currentIndex + 1][0];
-  nextprevHTML = '<a href="' + relativePath + '/'+ nextlink +'">\u00AB Next Post</a> | <a href="' + relativePath + '/index.html">Home</a> | <a href="' + relativePath + '/'+ prevlink +'">Previous Post \u00BB</a>';
+  nextprevHTML = '<a href="' + relativePath + '/'+ nextlink +'">\u00AB next post</a> | <a href="' + relativePath + '/index.html">home</a> | <a href="' + relativePath + '/'+ prevlink +'">previous post \u00BB</a>';
 }
 
 //-----------------------------

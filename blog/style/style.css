@@ -7,7 +7,7 @@ body {
   background-image: url('../images/bg_diamond.png');
 	background-position: top;
   font-size: 18px;
-  font-family: 'Libre Baskerville', sans-serif;
+  font-family: 'Libre Baskerville', serif;
   margin: 0;
 }
 
@@ -54,13 +54,9 @@ img {
   text-align: center;
 }
 
-a:hover { 
-  background-color: #e7efe5;
-}
-
 h1, h2, h3, h4, h5 {
-  font-family: Tahoma, Geneva, sans-serif;
-  color: #28881a;
+  font-style: italic;
+  color: #6a8066;
 }
 
 /*#CONTAINER is the rectangle that contains everything but the background!*/
@@ -95,7 +91,7 @@ h1, h2, h3, h4, h5 {
   margin: 0;
 }
 #header li {
-  font-size: 1.2em;
+  font-size: 1.0em;
   display: inline-block;
   margin-right: 1.5em;
   margin-bottom: 0.2em;
@@ -103,6 +99,7 @@ h1, h2, h3, h4, h5 {
 }
 #header li a {
   color: #1BCC00;
+  font-weight: bold;
   text-decoration: none;
   background-color: inherit;
 }
@@ -110,14 +107,19 @@ h1, h2, h3, h4, h5 {
   text-decoration: underline;
 }
 
+/*POST STYLE*/
+#content a {
+  color: #0C2C0E;
+}
+
 /*POST LIST STYLE*/
 #postlistdiv ul {
-  font-size: 1.2em;
+  font-size: 1.0em;
   padding: 0;
   list-style-type: none;
 }
 #recentpostlistdiv ul {
-  font-size: 1.2em;
+  font-size: 1.0em;
   padding: 0;
   list-style-type: none;
 }
@@ -129,7 +131,8 @@ h1, h2, h3, h4, h5 {
 /*NEXT AND PREVIOUS LINKS STYLE*/
 #nextprev {
   text-align: center;
-  margin-top: 1.4em;
+  font-weight: bold;
+  margin-top: 1.2em;
 }
 
 /*DISQUS STYLE*/
@@ -141,4 +144,8 @@ h1, h2, h3, h4, h5 {
 #footer {
   font-size: 0.8em;
   padding: 0 5% 10px 5%;
+}
+
+#footer a {
+  color: #236E16;
 }
