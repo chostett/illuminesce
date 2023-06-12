@@ -36,7 +36,9 @@ let postsArray = [
 ["posts/2023-01-23-I-left-work-to-take-a-sabbatical.html"],
 ["posts/2022-09-14-A-Birthday-Letter-2022.html"],
 ["posts/2021-09-14-A-Birthday-Letter-2021.html"],
-["posts/2020-09-14-A-Birthday-Letter-2020.html"] ];
+["posts/2020-09-14-A-Birthday-Letter-2020.html"],
+["posts/2018-06-25-Inclusion-Is-A-Verb.html"],
+["posts/2014-04-02-An-Open-World-is-Not-A-Feature.html"]];
 
 //-----------------------------
 
@@ -55,8 +57,9 @@ if ( url.includes("posts/") ) {
 
 //Write the Header HTML, a series of list items containing links.
 let headerHTML = '<ul> <li><a href="' + relativePath + '/index.html">home</a></li>' + 
+'<li><a href="' + relativePath + '/about.html">about</a></li>' + 
 '<li><a href="' + relativePath + '/archive.html">archive</a></li>' + 
-'<li><a href="https://illuminesce.neocities.org">back to chostett.com</a></ul>';
+'<li><a href="https://illuminesce.neocities.org">back to main</a></li></ul>';
 
 //Write the Footer HTML, which has information about the blog.
 let footerHTML = "<hr><p><em>this blog is built with <a href='https://zonelets.net/'>zonelets</a>, and hosted by <a href='https://neocities.org/'>neocities.</a></em></p>";
