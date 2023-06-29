@@ -96,6 +96,16 @@ a {
   max-width: 50%;
   border: 5px solid #82B095;
   background-color: #82B095;
+  line-height: 0;
+}
+
+.content-body-sub .image {
+  display: block;
+  margin: auto;
+  max-width: 35%;
+  border: 5px solid #82B095;
+  background-color: #82B095;
+  line-height: 0;
 }
 
 .caption {
@@ -192,9 +202,7 @@ button {
 }
 .description {
   flex: 1;
-}
-.image {
-  padding: 20px;
+  margin-right: 20px;
 }
 
 /*Columns*/
