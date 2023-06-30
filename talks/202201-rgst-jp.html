@@ -1,0 +1,379 @@
+<!doctype html>
+<html>
+
+<head>
+  <link href='https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet'>
+  <link rel='stylesheet' href='../style.css'>
+  <title>「どうしてアジャイル会社でデザイン部が必要なのか?」</title>
+  <meta name="description" content="yamanecoのデザイナーとしての私自身の旅、そしてデザイン思考とスクラムの原則をミックスすることについて学んだこと。">
+  <meta charset="utf-8">
+  <meta name="keywords" content="keywords">
+  <meta name="author" content="CJ Hostetter">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="../scripts/main.js"></script>
+</head>
+
+<body>
+  <div id="header">JavaScriptが必要になります。</div>
+  <div class='content'>
+    <div class='container'>
+      <h2>「どうしてアジャイル会社でデザイン部が必要なのか?」</h2>
+      <div class="subheader">この記事は、<a href="https://2022.scrumgatheringtokyo.org/" target="_blank">Regional Scrum Gathering Tokyo,</a>のために私が行ったトークを参考にしています。</div>
+      <div class="content-body-sub">
+        <p>
+          <iframe src="https://www.slideshare.net/slideshow/embed_code/key/m1YG41oPZsvpWv?hostedIn=slideshare&page=upload"
+            width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+        </p>
+        <h3>Transcript</h3>
+        <div class="content-row">
+          <div class="description">
+            <p>
+              こんにちは、皆さん。トークにお越しいただきありがとうございます。
+            </p>
+            <p>
+              まずは自己紹介をさせていただきます。シージェと申します。9年以上UXデザインとして仕事をしています。今は、デザイン部長としてyamanecoと呼ばれるアジャイルスタートアップで働いています。
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-01.png" alt="どうしてアジャイル会社でデザイン部が必要なのか？">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+              趣味は、色々ありますね。（笑）
+            </p>
+            <p>
+              吹きガラスをして、ビジュアルノベルを開発しています。今年でスチームにリリスしたいと思います。後は、私の可愛い猫と一緒に写真を撮るのは好きです。よろしくお願いします。見た目から分かると思いますが、私はアメリカ出身なので、日本語は母国語ではありません。そして、職業はスクラムマスターでもアジャイルコーチでもなく、デザイナーです。
+            </p>
+            <p>
+              なぜ、私は外国語を話すことにしたのでしょうか？
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-03.png" alt="趣味：吹きガラス、インディーズゲームを開発したり、猫ちゃんと写真を撮る。">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+              それは、より多くの人に同じことをやってほしいからです。たとえ難しくても、間違えても、アジャイルの世界とデザインの世界を近付かせるために、新しい視点と言語を取り入れてみたいのです。
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-04.png" alt="アジャイルの世界とデザインの世界を近付かせるために、新しい視点と言語を取り入れてみたいのです。">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+              私がアジャイルスタートアップに入社する前にそう思っていたこと。その思いから今までどうやってここにたどり着いたかを理解するために、ストーリーを語ります。以前、frogと呼ばれる国際的なデザインエージェンシーで働いていました。私は、グレーのスーツが着ている社長のプロダクトを厳しく批判しました。
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-05.png" alt="「アジャイルとデザインは絶対にうまくいかない。」">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+              “Your product sucks,” と言いました。 “You need design to fix it.”
+            </p>
+            <p>
+              全ての疑問は、デザインによって解決できると思いました。クライアントは顧客の声やビジョンではなく、バックログを意思決定の北極星として指さしました。顧客の体験を改善しようと思ったら、プロダクトの技術的な制限があり、諦めるので、スクラムもアジャイルも厳しく批判しました。
+            </p>
+            <p>
+              外から見ると、「スクラムとアジャイルの目的はただ機能のバックログを作ることだけだ」と誤解されていました。
+            </p>
+            <p>
+              では、なぜスクラムとアジャイルを厳しく批判したのか？
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-08.png" alt="スクラムとデザイン：バックログvs.お客さんの声">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+              2017年、プロダクト開発の外から中へ飛び込んできました。以前冷たい目で見ていた私は開発者の苦労していること、不安を感じていることについて、共感し始めました。スクラムとアジャイルは違うと分かって来て、価値を理解し始めました。frogで学んだデザインプロセスや、開発者が使用しているスクラムを総合したいと思いました。
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-10.png" alt="プロダクト開発のチームの写真。プライバシー保護のため、絵文字を追加しました。">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+              でも、一つの問題がありました。何がチームで、何が個人の判断なのか、デザインプロセスとスクラムイベントは一致しないのです。
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-11.png" alt="何がチームで、何が個人の判断なのか、デザインプロセスとスクラムイベントは一致しないのです。">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+              デザイナーが主に使っているフレームワークのダブルダイヤモンドを紹介したいと思います。ユーザーのニーズを解決するプロダクトを作るための疑問を理解し、疑問を解決するために必要な、発散と収束を表しています。
+            </p>
+            <p>
+              フレームワークですので、スクラムと同じように考えてみてください。
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-12.png" alt="デザイナーが主に使っているフレームワークのダブルダイヤモンド。">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+              発散とは、新しい情報を得て、新しいアイデアを作ることであり、いくつかのオプションを取り、さらに追加していくことです。そうすることで、新しい可能性を思い描くことができるのです。
+            </p>
+            <p>
+              例えば、機能を実装する時に、ホワイトボードでいくつかのアプリ画面を書き出します。
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-14.png" alt="発散の例： 顧客との対話とペルソナ作成、新機能のためのブレインストーミングセッション、5年後の製品を想像する、等">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+              このような時に、発散はスクラムイベントの外でPOやデザイナーと一緒に考えられていて、スプリントデモやプラニングの結果について話します。スクラムの「開発者」の言葉は、エンジニアだけではなくて、デザインにも含まれてますが、プロダクト開発の世界の中では開発者の役割は「コードを書く」ということ、そしてPOとデザイナーの役割は「案を描き出す」という考え方があります。
+            </p>
+            <p>
+              そういう考え方をチャレンジしたいと思います。デザインはフィードバックに大きく依存しているので、デザイナーが一人しかいない場合、顧客や他のチームメンバーからのインプットがないと行き詰まってしまいます。発散は、異なる分野の人が複数参加することで、革新的なアイデアが生まれる可能性が高まるというメリットがあります。
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-15.png" alt="例：スクラムチームでは、発散は個人の判断、デザインプロセスではチームの判断。">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+              収束とは、意思決定と優先付けのことで、得たアイデアや情報など多くのオプションを取り込んで、減らしていくことです。
+            </p>
+            <p>
+              例えば、バックログを優先付ける時に、ユーザーストーリーを収集し、その中から注目すべきものをピックアップし、スプリントに何か中心すべきなのかを決定する。私が観察したチームでは、全員参加します。なぜでしょうか？収束が必要な事象は、決める前に開発者の見積もりと意見を聞かせていただきたいからと言うことは一つの理由です。
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-16.png" alt="ダブルダイヤモンドの収束。">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+              しかし、デザインプロセスでは、デザイナーがチームにヒアリングして、一人か二人で収束することは多いです。なぜなら、デザインでは、チームの合意よりも、プロダクトに対する一致されているビジョンが評価されるからです。収束する時に、意見がぶつかり、難しい会話が必要になります。同意しない、討論する、そしてコンフリクトが行うまでするのは普通です。そうしないと、プロダクトの範囲が広がり、プロダクトビジョンが見えなくなってしまいます。収束に関わる人数が少なければ少ないほど、難しい会話は短くなるので、デザイナーが大部分を担当しています。
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-17.png" alt="発散の例： ユーザーストーリーマッピング、バックログの優先付け、新機能のアイデア決定、等。">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+              ちなみに、強いデザイン、つまり、プロダクトビジョンに一致している、ユーザーニーズに検証していた理解しやすいデザインを作るために、何回も何回も収束と発散をします。そのために、フィードバック、それと批評が必要になります。デザイン批評は、1日1回から2日に1回がベスト。もし1週間に1回、2週間スプリントが1回しかフィードバックを頂かなければ、デザイン的には遅いです。
+            </p>
+            <p>
+              スクラムでは、２週間スプリントに別れ、レビューに出来上がったものをデモしますが、あまり思いで深く話せる時間がありません。では、どうやって時間を作るのでしょうか？
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-18.png" alt="例：スクラムチームでは、収束はチームの判断、デザインプロセスでは個人の判断。">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+              入っていたプロダクトチームの中でこの問題が何回も出てきました。何回も統合してみても、スクラムとデザインのビジョンが合わせても、誰が何をするのかを一致しないと、困ります。
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-20.png" alt="アジャイルチームでデザインコーチングからの学び。">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+              告白してもいいでしょうか？
+            </p>
+            <p>
+              プロダクト開発チームで、私はまだどうやって解決するのか分かりませんでした。ある日、yamanecoと呼ばれる会社から来たアジャイルコーチが入ってくださりました。そのときに、私は文句を言うばかりでした。そのアジャイルコーチとよく喧嘩をしました。
+            </p>
+            <p>
+              プロダクトチームをやめた時に、yamanecoから「ジョインしてみないか」ということを提案されました。
+            </p>
+            <p>
+              「なぜ、私にお願いしているの？以前、アジャイルコーチと喧嘩したこともあるのに、、」
+            </p>
+            <p>
+              「だからこそ、あなたはデザインとスクラムを統合できると思います。」
+            </p>
+            <p>
+              「は？」
+            </p>
+            <p>
+              そして、統合するのは多分無理と思っていた私がyamanecoに入社しました。でも、他のアジャイルチームとデザイナーは私と同じようなことに困っていると理解しました。コーチングから来た学びを次に共有したいと思います。
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-21.png" alt="以前、私は文句を言うばかりでした。">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+            <h3>デザインが協力的な仕事ですが、主にデザイナーは一人で働く。</h3>
+            </p>
+            <p>
+              私は2年半の間、yamanecoの唯一のデザイナーでした。、何でも一人でやっていました。一人で顧客のヒアリング、案出し、決定。私が関わってきたアジャイルチームの大半は、デザイナーが一人しかいません。主なデザイナーはパターンライブラリを作るような長期的な仕事を諦めて、画像をエクスポートするような短期的な仕事が中心でした。そうすると技術的負債のような「デザイン負債」がだんだん増えて行きます。
+            </p>
+            <p>
+              短期的な仕事と長期的な仕事のバランスを保つため、チームの協力が必要です。ブレインストーミング、案を描き出す、デザイン画面を批評することは、POの責任だけではなくて、皆の責任です。先に言いましたが、デザイン批評は、1日1回から2日に1回がベスト。一人のデザイナーはその頻度で自分の作業を批評するのは無理です。
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-22.png" alt="デザインが協力的な仕事ですが、主にデザイナーは一人で働く。">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+            <h3>コンフリクトが安全に行うために、心理的な安全性が必要。</h3>
+            </p>
+            <p>
+              収束をうまく行うために、チーム内で心理的安全性があれば安全なコンフリクトが行われます。案がぶつかったり、討論するのは普通ですので、心理的安全性がないチームでは、デザインが生き詰まります。
+            </p>
+            <p>
+              例えば、あるチームのデザイナーは、いつも勝手に一人で収束しました。彼はもちろん頭がいいのですが、何かを決定する時は、いつもチームが関わっていませんでした。スプリントプラニングで彼のタスクは行き詰まり、収束が必要になりました。ですが、皆さんは馬鹿にしたくないと思いましたので、誰も意見を出せませんでした。タスクはそのままで止まって、チーム内で喧嘩が始まりました。
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-23.png" alt="コンフリクトが安全に行うために、心理的な安全性が必要。">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+            <h3>全てを捨てて、新しいフレームワークを立ち上げられるのは怖い。</h3>
+            </p>
+            <p>
+              私がデザインとスクラムを総合しようとコーチングを学び始めた頃、あるチームでは「スクラムを捨てる」という話が出ました。チームが、今までで学んできたスクラムプロセスを全部捨てるのは怖いと言いました。
+            </p>
+            <p>
+              でも、他のフレームワークを試してみるのはいかがでしょうか？
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-24.png" alt="全てを捨てて、新しいフレームワークを立ち上げられるのは怖い。">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+              <a href="https://www.mobiusloop.com/" target="_blank">Mobius Loop</a>は、デザイン思考とアジャイル原則を統合したフレームワークです。発見、生成、選択、測定、学びというプロセスをわかりやすくまとめています。(日本語の説明はこちら。)このフレームワークはダブルダイヤモンドのように見えますが、ダイヤモンドにはない重要な点、たとえば、学んだことを新しい案に統合することなどが含まれています。
+            </p>
+            <p>
+              yamanecoは、これを不安を感じているスクラムチームに提案し、彼らは元気に会話をし始めました。Mobius Loopを自分のプロセスに比べて、どの部分を追加したい、改善したい、そして捨てたいと話しました。それを見て嬉しくなりました。このフレームワークだけではなくて、自分のチームに合わせたフレームワークを作成できます!
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-25.png" alt="Mobius Loopは、デザイン思考とアジャイル原則を統合したフレームワークです。">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+              「アジャイルとデザインは絶対にうまくいかない」と思ったことがありました。嬉しいことに、私は間違っていたです。このような貴重(きちょう)な学びを与えてくれたyamanecoの同僚とクライアントにとても感謝しています。
+            </p>
+            <p>
+              以前に、私はスクラムとアジャイルと開発者の仕事を理解しなかったので、厳しく批判しました。
+            </p>
+            <p>
+              ですが、今ではスクラムとアジャイルの世界が少しだけ理解でき、好きだからこそ、厳しく批判しています。強いデザインを作るために、批評が必要です。今までで「デザインとスクラムをどうやって統合するのか」という話は、「スクラムを何も変えずデザインに入れてみたい」とか「ダブルダイヤモンドを変えず、スクラムイベントを入れてみたい」と言うことです。
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-26.png" alt="「アジャイルとデザインは絶対にうまくいかない。」">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+              しかし、違うと思います。
+            </p>
+            <p>
+              結婚した方がいらっしゃいますか？
+            </p>
+            <p>
+              今年が７年の結婚記念になります。「拍手」
+            </p>
+            <p>
+              ありがとうございます。「笑」
+            </p>
+            <p>
+              「私の生活、意見は何も変わらずに、いつもパートナーとラブラブしまーす」と以前は思っていました。でも、それは現実的ではないと皆さんご存じだと思います。私とパートナーは別の人です。コンフリクトがあるのは普通でしょう。ですので、心理的安全性を作って、お互いの気持ちを理解し、話が難しくても、怖くても、目をさまして、前へ向かいます。
+            </p>
+            <p>
+              スクラム、アジャイル、デザインと結婚することはできますが、いつもラブラブしないですよ。コンフリクトが行うのは当然なので、怖くても、やってもいいんじゃないか？
+            </p>
+            <p>
+              <a href="https://www.yamaneco.co.jp/design-at-yamaneco/" target="_blank">yamanecoのデザイン部は、そのようなコーチングをします。</a> だからこそ、アジャイル会社の中でデザイン部を立ち上げました。
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-27.png" alt="「どうしてアジャイル会社でデザイン部が必要なのか？">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="description">
+            <p>
+              この話を聞いて、「Mobius Loopを試してみたいな」と思えば、自分のプロセスに対して、デザイン思考に興味を持つかもっと言えば、あるいは全てを捨てて、新しいことを作りたくなったら、ぜひやってみてください!
+            </p>
+            <p>
+              たとえ失敗しても、一緒に成長すれば、もっと強くなれるはずです。
+            </p>
+            <p>
+              ありがとうございました。
+            </p>
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-jp/rgst-jp-28.png" alt="yamanecoのTwitterは、@yamaneco_agile, 自分のTwitterは@chostett.">
+          </div>
+        </div>
+        <p><em><a href="https://medium.com/yamaneco/%E3%81%A9%E3%81%86%E3%81%97%E3%81%A6%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E9%83%A8%E3%81%8C%E5%BF%85%E8%A6%81%E3%81%AA%E3%81%AE%E3%81%8B-310bb8723754">Medium</a>の記事はこちらへ。</em></p>
+        <h3>写真</h3>
+        <p>
+          <a href="https://twitter.com/callas1900" target="_blank">Ryo</a>さん、トークの写真を撮ってくれてホンマにありがとうございます。；）
+        </p>
+        <div class="content-row">
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-en/rgst-01.png" alt="CJのトークの写真">
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-en/rgst-02.png" alt="CJのトークの写真">
+          </div>
+        </div>
+        <div class="content-row">
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-en/rgst-03.png" alt="CJのトークの写真">
+          </div>
+          <div class="image">
+            <img src="https://illuminesce.neocities.org/talks/images/202201-rgst-en/rgst-04.png" alt="CJのトークの写真">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="footer"></div>
+  <script src="header.js"></script>
+  <script src="../scripts/footer.js"></script>
+</body>
+
+</html>
