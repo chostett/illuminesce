@@ -69,57 +69,6 @@ a {
   color: #1BCC00;
 }
 
-/*Content Section*/
-.content {
-  max-width: 75%;
-  margin-left: 50px;
-}
-
-.content h2 {
-  font-size: 40px;
-  color: #E8FFE5;
-}
-
-.content h2 span {
-  color: #0EFF00;
-  line-height: 2;
-}
-
-.subheader {
-  font-size: 16px;
-  font-style: italic;
-}
-
-.content-row img {
-  border: 2px inset #82B095;
-}
-
-.content-body .image {
-  display: block;
-  margin: auto;
-  max-width: 50%;
-  border: 5px solid #82B095;
-  background-color: #82B095;
-  line-height: 0;
-}
-
-.content-body-sub .image {
-  display: block;
-  margin: auto;
-  max-width: 35%;
-  border: 5px solid #82B095;
-  background-color: #82B095;
-  line-height: 0;
-}
-
-.caption {
-  font-size: 14px;
-  font-style: italic;
-  color: #0C2C0E;
-  padding: 5px;
-  text-align: center;
-}
-
 /* Icons */
 
 #icons {
@@ -194,7 +143,7 @@ button {
   padding: 20px 0 60px 0;
 }
 
-/*Writing*/
+/*Content Section*/
 .cat-block {
   padding-bottom: 60px;
 }
@@ -207,6 +156,27 @@ button {
 .description {
   flex: 1;
   margin-right: 50px;
+}
+.content-body .image {
+  display: block;
+  margin: auto;
+  max-width: 50%;
+  border: 5px solid #82B095;
+  background-color: #82B095;
+  line-height: 0;
+}
+.content-body-sub .content-row {
+  display: block;
+}
+.content-body-sub .image {
+  max-width: 70%;
+}
+.caption {
+  font-size: 14px;
+  font-style: italic;
+  color: #0C2C0E;
+  padding: 5px;
+  text-align: center;
 }
 .transcript {
   font-size: 16px;
@@ -221,10 +191,47 @@ button {
   margin-bottom: 30px;
   width: 300px;
 }
+.content {
+  max-width: 75%;
+  margin-left: 50px;
+}
+.content h2 {
+  font-size: 40px;
+  color: #E8FFE5;
+}
+.content h2 span {
+  color: #0EFF00;
+  line-height: 2;
+}
+.subheader {
+  font-size: 16px;
+  font-style: italic;
+}
+.content-row img {
+  border: 2px inset #82B095;
+}
 
 /*Columns*/
 .col {
   display: inline-flex;
   flex-direction: column;
   justify-content: space-between;
+}
+
+/*CSS Breakpoints*/
+@media only screen and (min-width: 768px) {
+  /* tablets and desktop */
+}
+
+@media only screen and (max-width: 767px) {
+  /* phones */
+  .content {
+      max-width: 100%;
+    }
+  .content-row {
+      display: block;
+    }
+  .content-body-sub .image {
+      display: none;
+  }
 }

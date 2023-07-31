@@ -4,7 +4,7 @@ let headerHTML = `<div class='container'>
       <ul>
         <li><a href='../blog/index.html'>blog</a></li>
         <li><a href='../games.html'>games</a></li>
-        <li><a href='../talks.html'>talks</a></li>
+        <li class="selected"><a href='../talks.html'>talks</a></li>
         <li><a href='../contact.html'>contact</a>&nbsp;|&nbsp;</li>
         <li><a href='../index_jp.html'>日本語</a></li>
       </ul>
@@ -16,8 +16,4 @@ let header = document.getElementById("header");
 if (header) {
   // Inject navigation links into header.
   header.innerHTML = headerHTML;
-  // Takes our pathname, gets the last part of the pathname (url) and applies .selected class
-  let url = window.location.pathname.split('/');
-  let selectedLink = header.querySelector(`a[href$="${url[url.length - 1]}"]`);
-  selectedLink.classList.add('selected');
 }
