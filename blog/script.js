@@ -32,6 +32,7 @@ let authorLink = "https://illuminesce.neocities.org"; // Enter your website, soc
 
 let postsArray = [
 //[ "posts/2020-11-10-Special-Characters-Example.html", encodeURI( 'Spéci@l "Character\'s" Examp|e' ) ]
+["posts/2023-08-02-unexpectedly-hopeful.html"],
 ["posts/2023-07-01-Finding-a-Home-on-the-Internet.html"],
 ["posts/2023-06-10-the-new-normal.html"],
 ["posts/2023-01-23-I-left-work-to-take-a-sabbatical.html"],
