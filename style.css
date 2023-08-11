@@ -142,6 +142,13 @@ button {
 .welcome-message {
   padding: 20px 0 60px 0;
 }
+.callout {
+  background-color: #091B0A;
+  border: 2px dotted #1BCC00;
+  border-radius: 10px;
+  padding: 5px 20px;
+  font-size: 1em;
+}
 
 /*Content Section*/
 .cat-block {
