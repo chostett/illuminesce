@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>CJ | design & video games</title>
+  <description>This is my personal home on the web. I write about games, design, technology and being human.</description>
+  <link>https://illuminesce.neocities.org</link>
+  <lastBuildDate>
+    Tue, 15 Aug 2023 05:46:52 +0000
+  </lastBuildDate>
+  <ttl>20000</ttl>
+
+    <item>
+        <title>Interface Dramas: A New Way of Telling Stories Through Software</title>
+        <description>
+             Our generation grew up online. So it's only natural that stories told by our generation are, by their nature, defined by the online spaces they inhabit. In this talk, CJ and mabbees talk about a new genre of games; interface dramas, and why they redefine the way our generation and younger will tell stories.
+        </description>
+        <link>https://chostett.com/talks/202212-interface-drama</link>
+        <pubDate>
+            Tue, 15 Aug 2023 05:46:52 +0000
+        </pubDate>
+    </item>
+
+    <item>
+        <title>unexpectedly hopeful</title>
+        <description>
+             In my last update, I spoke about how frustrating it was to do constant trial and error when it came to my health. After two months, I have an unexpectedly hopeful update.
+        </description>
+        <link>https://chostett.com/blog/posts/2023-08-02-unexpectedly-hopeful</link>
+        <pubDate>
+            Wed, 02 Aug 2023 18:00:00 +0000
+        </pubDate>
+    </item>
+
+    <item>
+        <title>Finding a Home on the Internet</title>
+        <description>
+             I was eleven when I made my first Angelfire site. The site has the feel of a kid's room; nothing matches and the only theme binding them together is, "CJ likes this."
+        </description>
+        <link>https://chostett.com/blog/posts/2023-07-01-Finding-a-Home-on-the-Internet</link>
+        <pubDate>
+            Sat, 15 Jul 2023 10:00:00 +0000
+        </pubDate>
+    </item>
+
+    <item>
+        <title>How Technology Spreads Bias: And How You Can Stop It</title>
+        <description>
+             An interactive workshop centered around small-group discussions tailored to digging in deep about racism, homophobia, transphobia, and other kinds of biases prevalent in tech.
+        </description>
+        <link>https://chostett.com/talks/202306-bias-in-tech</link>
+        <pubDate>
+            Fri, 30 Jun 2023 10:00:00 +0000
+        </pubDate>
+    </item>
+
+</channel>
+</rss>

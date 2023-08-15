@@ -5,7 +5,8 @@ let headerHTML = `<div class='container'>
         <li><a href='blog/index.html'>blog</a></li>
         <li><a href='games.html'>games</a></li>
         <li><a href='talks.html'>talks</a></li>
-        <li><a href='contact.html'>contact</a>&nbsp;|&nbsp;</li>
+        <li><a href='contact.html'>contact</a></li>
+        <li><a href='rss.txt'>rss</a>&nbsp;|&nbsp;</li>
         <li><a href='index_jp.html'>日本語</a></li>
       </ul>
     </div>`;
