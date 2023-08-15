@@ -216,6 +216,7 @@ button {
 }
 .content-row img {
   border: 2px inset #82B095;
+  margin-top: 25px;
 }
 
 /*Columns*/
