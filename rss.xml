@@ -5,9 +5,20 @@
   <description>This is my personal home on the web. I write about games, design, technology and being human.</description>
   <link>https://www.chostett.com</link>
   <lastBuildDate>
-    Tue, 15 Aug 2023 05:46:52 +0000
+    Thu, 17 Aug 2023 13:17:32 +0000
   </lastBuildDate>
   <ttl>20000</ttl>
+
+    <item>
+        <title>The Interface Drama Master List</title>
+        <description>
+             Interface dramas are games that tell an immersive story through software and app interfaces. They are commonly called "desktop simulators" or "UI games" but I've found these labels to be either too prescriptive or too general to describe this emergent genre. And so, I'm making a master list of interface dramas here for people to play and hopefully build support for this unique type of game. 
+        </description>
+        <link>https://chostett.com/interface-drama</link>
+        <pubDate>
+            Thu, 17 Aug 2023 13:17:32 +0000
+        </pubDate>
+    </item>
 
     <item>
         <title>Interface Dramas: A New Way of Telling Stories Through Software</title>
