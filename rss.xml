@@ -5,9 +5,20 @@
   <description>This is my personal home on the web. I write about games, design, technology and being human.</description>
   <link>https://www.chostett.com</link>
   <lastBuildDate>
-    Thu, 17 Aug 2023 13:17:32 +0000
+    Wed, 23 Aug 2023 03:57:25 +0000
   </lastBuildDate>
   <ttl>20000</ttl>
+
+    <item>
+        <title>The Interface Drama Master List FAQ</title>
+        <description>
+             Interface dramas, also known as interface fictions or interactive narratives, are a small but growing form of game where a user interface is used to tell an immersive story. Check out definitions at the FAQ here!
+        </description>
+        <link>https://chostett.com/blog/posts/2023-08-15-Interface-Drama-Master-List</link>
+        <pubDate>
+            Wed, 23 Aug 2023 03:57:25 +0000
+        </pubDate>
+    </item>
 
     <item>
         <title>The Interface Drama Master List</title>
