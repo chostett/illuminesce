@@ -14,7 +14,7 @@
 
 //==[ 1. BASIC INFO ]==
 
-let blogName = "sketches and scraps";
+let blogName = "illuminesce's Blog";
 let authorName = "illuminesce";
 let authorLink = "https://illuminesce.neocities.org"; // Enter your website, social media, etc. Some way for people to tell you they like your blog! (Leaving it empty is okay too)
 
