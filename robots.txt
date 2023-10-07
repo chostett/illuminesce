@@ -1,7 +1,3 @@
-User-agent: *
-Disallow: /twitter/chostett/
-Allow: /blog/
-
 User-agent: GPTBot
 Disallow: /
 
