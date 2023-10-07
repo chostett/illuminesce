@@ -239,13 +239,21 @@ button {
   .content-body-sub .image {
       display: none;
   }
-  .title {
-      display: none;
+  #header {
+    padding: 20px 0px 0px;
+  }
+  #header .container {
+    flex-direction: column;
+    margin: auto;
+    font-size: 24px;
+    padding-bottom: 5px;
+  }
+  #header ul {
+    padding: 0px;
+    margin: 0px;
   }
   #header li {
     display: block;
-    margin: auto;
-    font-size: 24px;
   }
   #header li a {
     padding: 2px 0px;
