@@ -233,13 +233,24 @@ button {
 
 @media only screen and (max-width: 767px) {
   /* phones */
-  .content {
-      max-width: 100%;
-    }
   .content-row {
       display: block;
     }
   .content-body-sub .image {
       display: none;
+  }
+  .title {
+      display: none;
+  }
+  #header li {
+    display: block;
+    margin: auto;
+    font-size: 24px;
+  }
+  #header li a {
+    padding: 2px 0px;
+  }
+  .transcript {
+    width: 80%;
   }
 }
