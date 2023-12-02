@@ -5,9 +5,31 @@
   <description>This is my personal home on the web. I write about games, design, technology and being human.</description>
   <link>https://www.chostett.com</link>
   <lastBuildDate>
-    Sat, 30 Sep 2023 13:32:58 +0000
+    Sat, 02 Dec 2023 03:03:00 +0000
   </lastBuildDate>
   <ttl>20000</ttl>
+
+    <item>
+        <title>I have to talk to you about normal_fantasies.exe</title>
+        <description>
+              normal_fantasies.exe is about a college girl, Lynette, who is using a mix of the nostalgic old-school Facebook circa 2010 + a speculative fiction add on AI girlfriend to explore her unresolved fantasies as a queer woman.
+        </description>
+        <link>https://chostett.com/blog/posts/2023-10-27-I-have-to-talk-to-you-about-normalfantasies.html</link>
+        <pubDate>
+            Thu, 27 Oct 2023 03:03:00 +0000 
+        </pubDate>
+    </item>
+
+    <item>
+        <title>New Interface Drama: Tachygram</title>
+        <description>
+              Introducing Tachygram by @belbeeno, a new interface drama about teens posting. Inspired by Hypnospace Outlaw.
+        </description>
+        <link>https://chostett.com/blog/posts/2023-10-26-New-Interface-Drama-Tachygram.html</link>
+        <pubDate>
+            Thu, 26 Oct 2023 03:03:00 +0000 
+        </pubDate>
+    </item>
 
     <item>
         <title>Visiting the First Boy's Love Exhibition in Japan</title>
