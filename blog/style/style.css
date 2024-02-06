@@ -55,20 +55,15 @@ img {
 
 h1, h2, h3, h4, h5 {
   font-style: italic;
-  color: #6a8066;
+  color: #282419;
 }
 
 /*#CONTAINER is the rectangle that contains everything but the background!*/
 #container {
   margin: 3em auto;
-  width: 90%;
-	max-width: 900px;
-	background-color: #e7efe5;
-  color: #0C2C0E; 
-  outline-color: #a9a9a9;
-  outline-style: ridge;
-  outline-width: 4px;
-  outline-offset: 0;
+  width: 80%;
+	background-color: #ffffff;
+  color: #484232; 
 }
 
 #content {
@@ -78,11 +73,9 @@ h1, h2, h3, h4, h5 {
 
 /*HEADER STYLE*/
 #header {
-  background-color: #272F24;
+  background-color: inherit;
   padding: 0 5%;
-  border-color: #a9a9a9;
-  border-style: ridge;
-  border-width: 0 0 4px 0;
+  padding-top: 10px;
 }
 #header ul {
   list-style-type: none;
@@ -97,7 +90,7 @@ h1, h2, h3, h4, h5 {
   margin-top: 0.2em;
 }
 #header li a {
-  color: #1BCC00;
+  color: #484232;
   font-weight: bold;
   text-decoration: none;
   background-color: inherit;
@@ -108,12 +101,22 @@ h1, h2, h3, h4, h5 {
 
 /*POST STYLE*/
 #content a {
-  color: #0C2C0E;
+  color: #19b029;
+  text-decoration: none;
 }
 
 #content li {
   line-height: 1.5;
   margin-bottom: 10px;
+}
+
+.content-row {
+  display: flex;
+  gap: 20px;
+}
+
+.image {
+  width: 50%;
 }
 
 /*POST LIST STYLE*/
@@ -139,11 +142,6 @@ h1, h2, h3, h4, h5 {
   margin-top: 1.2em;
 }
 
-/*DISQUS STYLE*/
-#disqus_thread {
-  margin-top: 1.6em;
-}
-
 /*FOOTER STYLE*/
 #footer {
   font-size: 0.8em;
@@ -151,5 +149,5 @@ h1, h2, h3, h4, h5 {
 }
 
 #footer a {
-  color: #236E16;
+  color: #484232;
 }

@@ -67,7 +67,8 @@ if ( url.includes("posts/") ) {
 //Write the Header HTML, a series of list items containing links.
 let headerHTML = '<ul> <li><a href="' + relativePath + '/index.html">blog index</a></li>' + 
 '<li><a href="' + relativePath + '/archive.html">archive</a></li>' + 
-'<li><a href="https://illuminesce.neocities.org">home</a></li></ul>';
+'<li><a href="https://illuminesce.neocities.org">home</a></li></ul>' +
+'<hr>';
 
 //Write the Footer HTML, which has information about the blog.
 let footerHTML = "<hr><p><em>this blog is built with <a href='https://zonelets.net/'>zonelets</a>, and hosted by <a href='https://neocities.org/'>neocities.</a></em></p>";
