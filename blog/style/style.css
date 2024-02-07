@@ -112,7 +112,11 @@ h1, h2, h3, h4, h5 {
 
 .content-row {
   display: flex;
-  gap: 20px;
+  gap: 25px;
+}
+
+.content-cell {
+  width: 350px;
 }
 
 .image {
