@@ -5,9 +5,20 @@
   <description>This is my personal home on the web. I write about games, design, technology and being human.</description>
   <link>https://www.chostett.com</link>
   <lastBuildDate>
-    Sun, 21 Jan 2024 20:04:50 -0900
+    Wed, 07 Feb 2024 10:48:58 +0000
   </lastBuildDate>
   <ttl>20000</ttl>
+
+    <item>
+        <title>Global Game Jam 2024 After Report</title>
+        <description>
+              This year was our fifth year running Global Game Jam, and this year we had not only a great turnout, but some incredible teams and games we showcased on Sunday. 
+        </description>
+        <link>https://chostett.com/blog/posts/2024-02-07-Global-Game-Jam-2024-After-Report.html</link>
+        <pubDate>
+            Wed, 07 Feb 2024 10:48:58 +0000
+        </pubDate>
+    </item>
 
     <item>
         <title>Interface Drama Master List Update: Seven New Games!</title>
