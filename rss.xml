@@ -5,9 +5,20 @@
   <description>This is my personal home on the web. I write about games, design, technology and being human.</description>
   <link>https://www.chostett.com</link>
   <lastBuildDate>
-    Wed, 07 Feb 2024 10:48:58 +0000
+    Sat, 02 Mar 2024 12:10:04 +0000 
   </lastBuildDate>
   <ttl>20000</ttl>
+
+    <item>
+        <title>Weekly Link Roundup, March 3rd</title>
+        <description>
+              perroquadrado and I have been sharing links for various RSS readers we've been using. He mentioned liking blog posts where authors post links of interesting articles they've read that week or month, so I thought I'd share a list of my own.
+        </description>
+        <link>https://chostett.com/blog/posts/2024-03-03-Weekly-Link-Roundup.html</link>
+        <pubDate>
+            Sat, 02 Mar 2024 12:10:04 +0000 
+        </pubDate>
+    </item>
 
     <item>
         <title>Global Game Jam 2024 After Report</title>
