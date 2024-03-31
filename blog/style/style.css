@@ -39,12 +39,6 @@ img {
   margin-left: auto;
   text-align: center;
 }
-@media only screen and (min-width: 600px) {
-  .small {
-    max-width: 60%;
-    height: auto;
-  }
-}
 .caption {
   margin-top: 0;
   font-size: 0.9em;
@@ -61,18 +55,19 @@ h1, h2, h3, h4, h5 {
 /*#CONTAINER is the rectangle that contains everything but the background!*/
 #container {
   margin: 3em auto;
-  width: 80%;
+  width: 100%;
 	background-color: #ffffff;
   color: #484232; 
 }
 
 #sidebar {
-  padding: 25px;
+  display: none;
+  padding: 5%;
   width: 400px;
 }
 
 #content {
-  padding: 10px 0 20px 25px;
+  padding: 10px 5% 20px 5%;
 }
 
 /*HEADER STYLE*/
@@ -165,4 +160,21 @@ h1, h2, h3, h4, h5 {
 
 #footer a {
   color: #484232;
+}
+
+/*MEDIA QUERIES*/
+@media only screen and (min-width: 600px) {
+  .small {
+    max-width: 60%;
+    height: auto;
+  }
+  #container {
+    width: 80%;
+  }
+  #sidebar {
+    display: block;
+  }
+  #content {
+    padding: 10px 0 20px 5%;
+  }
 }

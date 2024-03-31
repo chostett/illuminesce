@@ -71,6 +71,9 @@ let relativePath = ".";
 if ( url.includes("posts/") ) {
   relativePath = "..";
 }
+if (url.includes("tags/") ) {
+  relativePath = "..";
+}
 
 //Write the Header HTML, a series of list items containing links.
 let headerHTML = '<ul> <li><a href="' + relativePath + '/index.html">blog index</a></li>' + 
@@ -239,7 +242,7 @@ function getTagList () {
 function formatTagList (tagArray) {
 	let tagListHTML = '<h3>Tags</h3><hr><ul>';
 	for (i=0;i<tagArray.length;i++) {
-  		tagListHTML += '<li><a href="/tags/' + tagArray[i] + '">' + tagArray[i] + '</a></li>';
+  		tagListHTML += '<li><a href="'+ relativePath +'/tags/' + tagArray[i] + '.html">' + tagArray[i] + '</a></li>';
 	}
 	tagListHTML += "</ul>";
 	return tagListHTML;
