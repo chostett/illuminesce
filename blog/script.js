@@ -117,6 +117,7 @@ function formatPostTitle(i) {
 //Get the current post title and date (if we are on a post page)
 let currentPostTitle = "";
 let niceDate = "";
+let postTagsHTML = "<em><strong>Tagged as </em></strong>";
 if ( currentIndex > -1 ) {
   currentPostTitle = formatPostTitle( currentIndex );
   //Generate the "nice to read" version of date
@@ -137,6 +138,15 @@ if ( currentIndex > -1 ) {
     else if ( monthSlice === "12") { month = "Dec";}
 	niceDate = postsArray[currentIndex][0].slice( 14,16 ) + " " + month + ", " + postsArray[currentIndex][0].slice( 6,10 );
   }
+
+  //create html list of post tags
+	console.log("About to create tag list");
+	for (i=2;i<postsArray[currentIndex].length;i++) {
+	  console.log(postsArray[currentIndex][i]);
+		postTagsHTML += '<a href="/tags/' + postsArray[currentIndex][i] + '"><em><strong>' + postsArray[currentIndex][i] + '</em></strong></a>, ';
+	}
+	//cut final comma off list
+	postTagsHTML = postTagsHTML.slice(0,-2);
 }
 
 //Generate the Post List HTML, which will be shown on the "Archive" page.
