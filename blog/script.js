@@ -143,7 +143,7 @@ if ( currentIndex > -1 ) {
 	console.log("About to create tag list");
 	for (i=2;i<postsArray[currentIndex].length;i++) {
 	  console.log(postsArray[currentIndex][i]);
-		postTagsHTML += '<a href="/tags/' + postsArray[currentIndex][i] + '"><em><strong>' + postsArray[currentIndex][i] + '</em></strong></a>, ';
+		postTagsHTML += '<a href="' + relativePath + '/tags/' + postsArray[currentIndex][i] + '.html"><em><strong>' + postsArray[currentIndex][i] + '</em></strong></a>, ';
 	}
 	//cut final comma off list
 	postTagsHTML = postTagsHTML.slice(0,-2);
