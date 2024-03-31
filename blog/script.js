@@ -30,28 +30,32 @@ let authorLink = "https://illuminesce.neocities.org"; // Enter your website, soc
 /*UPDATE: as of version 1.3, you may omit the date if you would like. But if you
   use a date it must still follow that format.*/
 
+/*3LEGGED'S TAGGING SYSTEM:
+To make use of tags in your blog posts, add them to the end of the post array - ensuring that you leave a "", between tags and the post link for special character encoding (see examples below). After this point, tags can be in any order, are case-sensitive, and shouldn't contain spaces or special characters.
+*/
+
 let postsArray = [
 //[ "posts/2020-11-10-Special-Characters-Example.html", encodeURI( 'Spéci@l "Character\'s" Examp|e' ) ]
-["posts/2024-03-03-Weekly-Link-Roundup.html"],
-["posts/2024-02-11-404-Community-Days-and-Global-Game-Jam.html"],
-["posts/2024-02-07-Global-Game-Jam-2024-After-Report.html"],
-["posts/2024-02-07-GGJ24-Report-JP.html"],
-["posts/2024-01-21-Interface-Drama-Master-List-Update.html"],
-["posts/2024-01-15-The-end-of-IWAKAN-Magazine.html"],
-["posts/2023-10-27-I-have-to-talk-to-you-about-normalfantasies.html"],
-["posts/2023-10-26-New-Interface-Drama-Tachygram.html"],
-["posts/2023-09-30-Visiting-the-First-Boys-Love-Exhibition-in-Japan.html"],
-["posts/2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan.html"],
-["posts/2023-08-15-Interface-Drama-Master-List.html"],
-["posts/2023-08-02-unexpectedly-hopeful.html"],
-["posts/2023-07-01-Finding-a-Home-on-the-Internet.html"],
-["posts/2023-06-10-the-new-normal.html"],
-["posts/2023-01-23-I-left-work-to-take-a-sabbatical.html"],
-["posts/2022-09-14-A-Birthday-Letter-2022.html"],
-["posts/2021-09-14-A-Birthday-Letter-2021.html"],
-["posts/2020-09-14-A-Birthday-Letter-2020.html"],
-["posts/2018-06-25-Inclusion-Is-A-Verb.html"],
-["posts/2014-04-02-An-Open-World-is-Not-A-Feature.html"]];
+["posts/2024-03-03-Weekly-Link-Roundup.html", encodeURI( 'Weekly Link Roundup: March 3rd, 2024' ), "weeklies"],
+["posts/2024-02-11-404-Community-Days-and-Global-Game-Jam.html", encodeURI( '404 Community Days & Global Game Jam' ), "video-games"],
+["posts/2024-02-07-Global-Game-Jam-2024-After-Report.html", encodeURI( 'Global Game Jam 2024: After Report (EN)' ), "video-games", "popular"],
+["posts/2024-02-07-GGJ24-Report-JP.html", encodeURI( 'グローバルゲームジャム2024 アフターレポート' ), "video-games"],
+["posts/2024-01-21-Interface-Drama-Master-List-Update.html", encodeURI( '[Update] Interface Drama Master List' ), "video-games"],
+["posts/2024-01-15-The-end-of-IWAKAN-Magazine.html", encodeURI( 'The end of IWAKAN Magazine' ), "lgbtq"],
+["posts/2023-10-27-I-have-to-talk-to-you-about-normalfantasies.html", encodeURI( 'I HAVE to talk to you about normal_fantasies.exe' ), "video-games", "lgbtq"],
+["posts/2023-10-26-New-Interface-Drama-Tachygram.html", encodeURI( 'New Interface Drama: Tachygram' ), "video-games"],
+["posts/2023-09-30-Visiting-the-First-Boys-Love-Exhibition-in-Japan.html", encodeURI( 'Visiting the first boy\'s love exhibition in Japan: Part One' ), "lgbtq"],
+["posts/2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan.html", encodeURI( 'Visiting the first boy\'s love exhibition in Japan: Part Two' ), "lgbtq"],
+["posts/2023-08-15-Interface-Drama-Master-List.html", encodeURI( 'The Interface Drama Master List: What is it?' ), "video-games", "popular"],
+["posts/2023-08-02-unexpectedly-hopeful.html", encodeURI( 'Unexpectedly hopeful' ), "personal"],
+["posts/2023-07-01-Finding-a-Home-on-the-Internet.html", encodeURI( 'Finding a Home on the Internet' ), "design", "popular"],
+["posts/2023-06-10-the-new-normal.html", encodeURI( 'The new normal' ), "personal"],
+["posts/2023-01-23-I-left-work-to-take-a-sabbatical.html", encodeURI( 'I left work to take a sabbatical.' ), "personal"],
+["posts/2022-09-14-A-Birthday-Letter-2022.html", encodeURI( 'A Birthday Letter, 2022' ), "personal"],
+["posts/2021-09-14-A-Birthday-Letter-2021.html", encodeURI( 'A Birthday Letter, 2021' ), "personal"],
+["posts/2020-09-14-A-Birthday-Letter-2020.html", encodeURI( 'A Birthday Letter, 2020' ), "personal"],
+["posts/2018-06-25-Inclusion-Is-A-Verb.html", encodeURI( 'Inclusion is a Verb' ), "design", "popular"],
+["posts/2014-04-02-An-Open-World-is-Not-A-Feature.html", encodeURI( 'An Open World is Not a Feature.' ), "design"]];
 
 //-----------------------------
 
@@ -70,8 +74,7 @@ if ( url.includes("posts/") ) {
 
 //Write the Header HTML, a series of list items containing links.
 let headerHTML = '<ul> <li><a href="' + relativePath + '/index.html">blog index</a></li>' + 
-'<li><a href="' + relativePath + '/archive.html">archive</a></li>' + 
-'<li><a href="https://illuminesce.neocities.org">home</a></li></ul>' +
+'<li><a href="' + relativePath + '/archive.html">archive</a></li>' + '<li><a href="https://illuminesce.neocities.org">home</a></li></ul>' +
 '<hr>';
 
 //Write the Footer HTML, which has information about the blog.
@@ -160,8 +163,8 @@ for ( let i = 0; i < postsArray.length; i++ ) {
 postListHTML += "</ul>";
 
 //Generate the Recent Post List HTML, which can be shown on the home page (or wherever you want!)
-let recentPostsCutoff = 3; //Hey YOU! Change this number to set how many recent posts to show before cutting it off with a "more posts" link.
-let recentPostListHTML = "<h2>Recent Posts:</h2><ul>";
+let recentPostsCutoff = 5; //Hey YOU! Change this number to set how many recent posts to show before cutting it off with a "more posts" link.
+let recentPostListHTML = "<h3>Recent Posts</h3><ul>";
 let numberOfRecentPosts = Math.min( recentPostsCutoff, postsArray.length );
 for ( let i = 0; i < numberOfRecentPosts; i++ ) {
   recentPostListHTML += formatPostLink(i);
@@ -196,6 +199,51 @@ if ( postsArray.length < 2 ) {
   prevlink = postsArray[currentIndex + 1][0];
   nextprevHTML = '<a href="' + relativePath + '/'+ nextlink +'">\u00AB next post</a> | <a href="' + relativePath + '/index.html">home</a> | <a href="' + relativePath + '/'+ prevlink +'">previous post \u00BB</a>';
 }
+//new function to generate a list of posts with a specific tag
+let taggedPostArray = [];
+let tag = "";
+function getTaggedPosts (pageTitle) {
+  tag = pageTitle.toLowerCase();
+	for (i=0; i < postsArray.length; i++) {
+		for (x=2; x < postsArray[i].length; x++) {
+			if (postsArray[i][x] == tag) {
+				taggedPostArray.push(postsArray[i]);
+			}
+		}
+	}
+	let taggedPostListHTML = '<ul class="no-bullets">';
+	for ( let i = 0; i < taggedPostArray.length; i++ ) {
+  		taggedPostListHTML += formatPostLink(i,taggedPostArray);
+	}
+	taggedPostListHTML += '</ul>';
+	return taggedPostListHTML;
+}
+
+//new function to get list of all used tags
+function getTagList () {
+	let tagArray = [];
+	for (i=0; i < postsArray.length; i++) {
+		for (x=2; x < postsArray[i].length; x++) {
+		  	if (tagArray.length == 0) {
+		    	tagArray.push(postsArray[i][x]);
+		  	}
+			else if (tagArray.includes(postsArray[i][x]) == false) {
+				tagArray.push(postsArray[i][x]);
+			}
+		}
+	}
+	return tagArray;
+}
+
+//new function to turn tag array into list of links
+function formatTagList (tagArray) {
+	let tagListHTML = '<h3>Tags</h3><hr><ul>';
+	for (i=0;i<tagArray.length;i++) {
+  		tagListHTML += '<li><a href="/tags/' + tagArray[i] + '">' + tagArray[i] + '</a></li>';
+	}
+	tagListHTML += "</ul>";
+	return tagListHTML;
+}
 
 //-----------------------------
 
@@ -229,6 +277,24 @@ if (document.getElementById("postDate")) {
 }
 if (document.getElementById("footer")) {
   document.getElementById("footer").innerHTML = footerHTML;
+}
+
+//the below three items are additional for the tagging system:
+//generates a list of all posts tagged with the page title - ideal for use on individual tag pages like https://3legged.neocities.org/journal/tags/coding
+//HTML to put on your page: <div id="taggedPosts"></div>
+if (document.getElementById("taggedPosts")) {
+  document.getElementById("taggedPosts").innerHTML = getTaggedPosts(document.title);
+}
+//generates a linked list of all tags used across your blogposts, useful for sidebars or archive pages.
+//YOU WILL NEED TO manually create a page for each tag in order for these links to work!
+//HTML to put on your page: <div id="tagList"></div>
+if (document.getElementById("tagList")) {
+  document.getElementById("tagList").innerHTML = formatTagList(getTagList());
+}
+//generates a list of all tags attached to a particular post - this only works on post pages, but works great at the top or bottom of a post.
+//HTML to put on your page: <div id="postTags"></div>
+if (document.getElementById("postTags")) {
+  document.getElementById("postTags").innerHTML = postTagsHTML;
 }
 
 //Dynamically set the HTML <title> tag from the postTitle variable we created earlier

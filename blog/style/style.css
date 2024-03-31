@@ -5,7 +5,7 @@
 body {
   background-image: url('../images/vhs-background.png');
 	background-position: top;
-  font-size: 18px;
+  font-size: 1em;
   font-family: 'Libre Baskerville', serif;
   margin: 0;
 }
@@ -66,10 +66,14 @@ h1, h2, h3, h4, h5 {
   color: #484232; 
 }
 
-#content {
-  padding: 10px 5% 20px 5%;
+#sidebar {
+  padding: 25px;
+  width: 400px;
 }
 
+#content {
+  padding: 10px 0 20px 25px;
+}
 
 /*HEADER STYLE*/
 #header {
@@ -112,7 +116,7 @@ h1, h2, h3, h4, h5 {
 
 .content-row {
   display: flex;
-  gap: 25px;
+  flex: 1 0 auto
 }
 
 .content-cell {
@@ -124,15 +128,22 @@ h1, h2, h3, h4, h5 {
 }
 
 /*POST LIST STYLE*/
+#recentpostlistdiv h3,
+#tagList h3,
+#popularList h3 {
+  margin-bottom: 5px;
+}
+
 #postlistdiv ul {
-  font-size: 1.0em;
-  padding: 0;
+  padding-left: 0;
   list-style-type: none;
 }
-#recentpostlistdiv ul {
-  font-size: 1.0em;
-  padding: 0;
+#recentpostlistdiv ul, #tagList ul, #popularList ul {
+  padding-left: 0;
   list-style-type: none;
+}
+#recentpostlistdiv ul li, #popularList ul li {
+  padding-bottom: 5px;
 }
 .moreposts {
   font-size: 0.8em;
