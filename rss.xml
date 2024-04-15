@@ -5,9 +5,22 @@
   <description>This is my personal home on the web. I write about games, design, technology and being human.</description>
   <link>https://www.chostett.com</link>
   <lastBuildDate>
-    Sat, 02 Mar 2024 12:10:04 +0000 
+    Mon, 15 Apr 2024 06:30:15 +0000
   </lastBuildDate>
   <ttl>20000</ttl>
+
+    <item>
+        <title>My first glass show at SARAU TOKYO</title>
+        <description>
+              On March 16th, I had my first glass art show at the queer art event SARAU TOKYO in Roppongi. Photos and more in the link.
+        </description>
+        <link>https://chostett.com/blog/posts/2024-03-16-Sarau-Tokyo-and-Glass-Art.html</link>
+        <enclosure url="https://chostett.com/blog/posts/images/sarau_01.png"
+    length="78645" type="image/png" />
+        <pubDate>
+            Mon, 15 Apr 2024 06:30:15 +0000
+        </pubDate>
+    </item>
 
     <item>
         <title>Weekly Link Roundup, March 3rd</title>
