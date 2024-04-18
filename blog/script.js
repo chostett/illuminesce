@@ -36,6 +36,7 @@ To make use of tags in your blog posts, add them to the end of the post array - 
 
 let postsArray = [
 //[ "posts/2020-11-10-Special-Characters-Example.html", encodeURI( 'Spéci@l "Character\'s" Examp|e' ) ]
+["posts/2024-04-18-Interface-Drama-Streaming-Vol1.html", encodeURI( 'Exploring Intrigue with Interface Dramas' ), "video-games"],
 ["posts/2024-03-16-Sarau-Tokyo-and-Glass-Art.html", encodeURI( 'My first glass art show at SARAU TOKYO (EN/JP)' ), "glassblowing"],
 ["posts/2024-03-03-Weekly-Link-Roundup.html", encodeURI( 'Weekly Link Roundup: March 3rd, 2024' ), "weeklies"],
 ["posts/2024-02-11-404-Community-Days-and-Global-Game-Jam.html", encodeURI( '404 Community Days & Global Game Jam' ), "video-games"],
