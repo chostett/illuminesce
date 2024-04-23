@@ -5,6 +5,15 @@
   <link rel='stylesheet' href='style.css'>
   <link rel="icon" href="/assets/images/favicon.ico" type="image/gif" />
   <meta charset="utf-8">
+  <meta property="og:title" content="The Interface Drama Master List">
+  <meta property="og:type" content="website" />
+  <meta property="og:description"
+    content="Interface dramas are an emergent genre of games that use software to tell interactive stories. This is a master list of all playable interface dramas on itch.io, Steam, and more.">
+  <meta property="og:image" content="https://chostett.com/images/interface-drama/00_interfacedrama-ml.png">
+  <meta property="og:url" content="https://chostett.com/interface-drama.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <link href='https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet'>
+  <link href="../style/style.css" rel="stylesheet" type="text/css" media="all">
   <title>The Interface Drama Master List</title>
   <script src="scripts/main.js"></script>
   <link href="https://www.chostett.com/rss.xml" rel="alternate" type="application/rss+xml" title="chostett.com" />
@@ -30,7 +39,7 @@
           </span>
           <span id="tags">
             <button class="community">community-driven</button>
-            <button class="fmv">full motion video</button>
+            <button class="fmv">full-motion-video</button>
             <button class="hacker">hacker</button>
             <button class="horror">horror</button>
             <button class="inbrowser">in-browser</button>
@@ -45,6 +54,39 @@
         </div>
       </div>
       <div class="cat-block">
+      <!-- Template for interface drama entries. Notes for filling out template below.
+
+        - (TAG1, TAG2): replace with tags (community, fmv, hacker, horror, inbrowser, lgbtqia+, mystery, nostalgia, puzzle, relationship, roguelike, sf). 
+        Make sure these are exact case or they will break the filter system.
+
+        - GAME-LINKS can be an itch.io page, a Steam Page, website, etc.
+
+        - (FULL-TAG1, FULL-TAG2): replace with tag full names (community-driven, full-motion-video, hacker, horror, in-browser, lgbtqia+, mystery, nostalgia, puzzle, relationship-driven, roguelike, speculative-fiction)
+
+      -->
+
+      <!-- Copy and paste this template to add an entry and delete comment tags. -->
+        <!--
+          <div class="TAG1 TAG2">
+            <div class="content-row">
+              <div class="description">
+                <h3>TITLE</h3>
+                <p>SHORT DESCRIPTION</p>
+                <p>(<a href="GAME-LINK1" target="_blank">Website</a> | <a
+                  href="GAME-LINK2" target="_blank">Steam</a>)</p>
+                <div class="cat-tags">
+                  <ul>
+                    <li>FULL-TAG1</li>
+                    <li>FULL-TAG2</li>
+                  </ul>
+                </div>
+              </div>
+              <div class="image">
+                <img src="IMAGE-LINK" alt="ALT-TEXT">
+              </div>
+            </div>
+          </div>
+        -->
 
         <div class="inbrowser mystery sf">
           <div class="content-row">
@@ -83,28 +125,6 @@
             </div>
             <div class="image">
               <img src="https://illuminesce.neocities.org/images/interface-drama/adatewithdeath.jpg" alt="A Date with Death">
-            </div>
-          </div>
-        </div>
-
-        <div class="mystery nostalgia puzzle">
-          <div class="content-row">
-            <div class="description">
-              <h3>Desktop Explorer</h3>
-              <p>You've inherited an old PC from your uncle, to your surprise it still turns on! It tasks you with looking into a mysterious application named Desktop Explorer.
-              </p>
-              <p>(<a href="https://recurringdream.itch.io/desktop-explorer" target="_blank">itch.io</a> | <a
-                  href="https://store.steampowered.com/app/2527160/Desktop_Explorer/" target="_blank">Steam</a>)</p>
-              <div class="cat-tags">
-                <ul>
-                  <li>mystery</li>
-                  <li>nostalgia</li>
-                  <li>puzzle</li>
-                </ul>
-              </div>
-            </div>
-            <div class="image">
-              <img src="https://illuminesce.neocities.org/images/interface-drama/desktop-explorer.jpg" alt="Desktop Explorer">
             </div>
           </div>
         </div>
@@ -204,6 +224,50 @@
             </div>
             <div class="image">
               <img src="https://illuminesce.neocities.org/images/interface-drama/cibele.jpg" alt="Cibele">
+            </div>
+          </div>
+        </div>
+
+        <div class="nostalgia relationship">
+          <div class="content-row">
+            <div class="description">
+              <h3>Dear Sophie</h3>
+              <p>Dear Sophie is the mid-2000s version of leafing through a stack of dusty love letters between you and your high
+                school
+                sweetheart.</p>
+              <p>(<a href="https://zerogue.itch.io/dear-sophie" target="_blank">itch.io</a>)</p>
+              <div class="cat-tags">
+                <ul>
+                  <li>nostalgia</li>
+                  <li>relationship-driven</li>
+                </ul>
+              </div>
+            </div>
+            <div class="image">
+              <img src="https://illuminesce.neocities.org/images/interface-drama/dearsophie.png" alt="Dear Sophie">
+            </div>
+          </div>
+        </div>
+
+        <div class="mystery nostalgia puzzle">
+          <div class="content-row">
+            <div class="description">
+              <h3>Desktop Explorer</h3>
+              <p>You've inherited an old PC from your uncle, to your surprise it still turns on! It tasks you with looking into
+                a mysterious application named Desktop Explorer.
+              </p>
+              <p>(<a href="https://recurringdream.itch.io/desktop-explorer" target="_blank">itch.io</a> | <a
+                  href="https://store.steampowered.com/app/2527160/Desktop_Explorer/" target="_blank">Steam</a>)</p>
+              <div class="cat-tags">
+                <ul>
+                  <li>mystery</li>
+                  <li>nostalgia</li>
+                  <li>puzzle</li>
+                </ul>
+              </div>
+            </div>
+            <div class="image">
+              <img src="https://illuminesce.neocities.org/images/interface-drama/desktop-explorer.jpg" alt="Desktop Explorer">
             </div>
           </div>
         </div>
@@ -497,6 +561,25 @@
             </div>
             <div class="image">
               <img src="https://illuminesce.neocities.org/images/interface-drama/midnight.jpg" alt="Midnight Protocol">
+            </div>
+          </div>
+        </div>
+
+        <div class="lgbtqia+ relationship">
+          <div class="content-row">
+            <div class="description">
+              <h3>Mythic Meetup</h3>
+              <p>An unsuspecting human in search of a little more spice to their life, you have just followed a mysterious email link to ... a server of real life mythical creatures??</p>
+              <p>(<a href="https://heartmoorstudios.itch.io/mythic-meetup" target="_blank">itch.io</a>)</p>
+              <div class="cat-tags">
+                <ul>
+                  <li>lgbtqia+</li>
+                  <li>relationship-driven</li>
+                </ul>
+              </div>
+            </div>
+            <div class="image">
+              <img src="https://illuminesce.neocities.org/images/interface-drama/mythic-meetup.png" alt="Mythic Meetup">
             </div>
           </div>
         </div>
