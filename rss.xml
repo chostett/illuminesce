@@ -5,9 +5,22 @@
   <description>This is my personal home on the web. I write about games, design, technology and being human.</description>
   <link>https://www.chostett.com</link>
   <lastBuildDate>
-    Thu, 18 Apr 2024 13:34:19 +0000
+    Thu, 22 Apr 2024 13:34:19 +0000
   </lastBuildDate>
   <ttl>20000</ttl>
+
+    <item>
+        <title>Interface as Longing</title>
+        <description>
+              Welcome to Volume 02 of the Interface Drama Streaming Series, where we explore interface dramas by theme. Volume 02's theme was 'longing.' Read more for games...
+        </description>
+        <link>https://chostett.com/blog/posts/2024-04-12-Interface-Drama-Streaming-Vol2.html</link>
+        <enclosure url="https://chostett.com/blog/posts/images/interfacedrama-vol2-thumb.png"
+    length="78645" type="image/png" />
+        <pubDate>
+            Thu, 22 Apr 2024 13:34:19 +0000
+        </pubDate>
+    </item>
 
     <item>
         <title>Exploring Intrigue with Interface Dramas</title>
@@ -175,6 +188,8 @@
              Our generation grew up online. So it's only natural that stories told by our generation are, by their nature, defined by the online spaces they inhabit. In this talk, CJ and mabbees talk about a new genre of games; interface dramas, and why they redefine the way our generation and younger will tell stories.
         </description>
         <link>https://chostett.com/talks/202212-interface-drama</link>
+        <enclosure url="https://chostett.com/talks/images/202212-interface-drama/interface-drama-11.png"
+    length="78645" type="image/png" />
         <pubDate>
             Tue, 15 Aug 2023 05:46:52 +0000
         </pubDate>
