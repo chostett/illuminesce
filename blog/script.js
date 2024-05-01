@@ -14,8 +14,8 @@
 
 //==[ 1. BASIC INFO ]==
 
-let blogName = "illuminesce's Blog";
-let authorName = "illuminesce";
+let blogName = "CJ's Blog";
+let authorName = "CJ";
 let authorLink = "https://illuminesce.neocities.org"; // Enter your website, social media, etc. Some way for people to tell you they like your blog! (Leaving it empty is okay too)
 
 //-----------------------------
@@ -226,7 +226,7 @@ function getTaggedPosts (pageTitle) {
 				taggedPostArray.push(postsArray[i]);
 			}
 		}
-	}
+  }
 	let taggedPostListHTML = '<ul class="no-bullets">';
 	for ( let i = 0; i < taggedPostArray.length; i++ ) {
   		taggedPostListHTML += formatPostLink(i,taggedPostArray);
