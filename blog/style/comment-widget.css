@@ -58,33 +58,40 @@
     height: 100%;
     padding: 15px;
     overflow: auto;
-    background-image: url('bow-bg.gif'); /* F2U background provided by https://sadgrl.online/webmastery/downloads/tiledbgs */
-    background-attachment: fixed;
-    font-family: 'Trebuchet MS';
+    font-family: 'Georgia';
     font-size: 14px;
     color: #211F24;
 }
 
-#c_widget button, #c_widget input[type=submit] {
+#c_widget button,
+#c_widget input[type=submit] {
     padding: 4px;
     text-decoration: none;
-	text-transform: lowercase;
-	text-align: center;
-    background-color: white;
-    color: #CE98FB;
-    border: 1px solid #CE98FB;
+    text-transform: lowercase;
+    text-align: center;
+    background-color: #33cc33;
+    color: #051405;
+    border: 1px solid #051405;
     border-radius: 5px;
 }
-#c_widget button:hover, #c_widget input[type=submit]:hover {
-    background-color: #FB96D8;
-    color: white;
-    border: 1px solid #FB96D8;
+
+#c_widget button:hover,
+#c_widget input[type=submit]:hover {
+    background-color: #adebad;
+    color: #051405;
+    border: 1px solid #051405;
 }
-#c_widget button:disabled, #c_widget input[type=submit]:disabled {opacity: 60%;}
-#c_widget button:disabled:hover, #c_widget input[type=submit]:disabled:hover {
-    background-color: white;
-    color: #CE98FB;
-    border: 1px solid #CE98FB;
+
+#c_widget button:disabled,
+#c_widget input[type=submit]:disabled {
+    opacity: 60%;
+}
+
+#c_widget button:disabled:hover,
+#c_widget input[type=submit]:disabled:hover {
+    background-color: #adebad;
+    color: #051405;
+    border: 1px solid #051405;
 }
 
 /* Input section */
@@ -92,10 +99,13 @@
     padding: 10px;
     text-transform: lowercase;
     background-color: rgba(255, 255, 255, .8);
-    border: 1px dashed #CE98FB;
+    border: 1px dashed #c7b591;
     border-radius: 5px;
 }
-#c_container {margin-top: 10px;}
+
+#c_container {
+    margin-top: 10px;
+}
 
 #c_widgetTitle {
     margin: 0;
@@ -109,22 +119,32 @@
     margin-top: 5px;
     margin-bottom: 5px;
 }
+
 .c-input {
     padding: 4px;
-    color: #5E2C49;
+    color: #211F24;
     border-radius: 4px;
-    border: 1px solid #CE98FB;
-	outline: none;
+    border: 1px solid #c7b591;
+    outline: none;
 }
-.c-input:focus {border: 1px solid #FB96D8;}
+
+.c-input:focus {
+    border: 1px solid #33cc33;
+}
 
 .c-textInput {
     width: calc(100% - 10px);
     max-width: 900px;
     resize: none;
 }
-#c_submitButton {display: block;}
-#c_replyingText {color: #5E2C49;}
+
+#c_submitButton {
+    display: block;
+}
+
+#c_replyingText {
+    color: #211F24;
+}
 
 /* Comment section */
 .c-comment {
@@ -132,18 +152,22 @@
     margin-bottom: 10px;
     padding: 10px;
     background-color: rgba(255, 255, 255, .75);
-    border: 1px dashed #CE98FB;
+    border: 1px dashed #c7b591;
     border-radius: 4px;
 }
+
 .c-reply {
     margin-top: 10px;
     margin-bottom: 10px;
     padding: 10px;
     background-color: rgba(255, 255, 255, 1);
-    border: 1px dashed #CE98FB;
+    border: 1px dashed #c7b591;
     border-radius: 4px;
 }
-.c-reply:last-child {margin-bottom: 0;}
+
+.c-reply:last-child {
+    margin-bottom: 0;
+}
 
 .c-name {
     display: inline-block;
@@ -152,30 +176,43 @@
     padding: 0;
     text-decoration: underline;
 }
+
 .c-site {
     text-transform: lowercase;
-    color: #CE98FB;
+    color: #33cc33;
 }
-.c-site:hover {color: #211F24;}
+
+.c-site:hover {
+    color: #211F24;
+}
+
 .c-timestamp {
     float: right;
     opacity: 60%;
 }
+
 .c-text {
     margin: 0;
     margin-top: 10px;
     padding: 0;
     text-align: justify;
-    color: #5E2C49;
+    color: #211F24;
 }
 
 /* Pagination */
-#c_pagination {text-align: center;}
-.c-replyButton {margin-top: 10px;}
+#c_pagination {
+    text-align: center;
+}
+
+.c-replyButton {
+    margin-top: 10px;
+}
+
 .c-expandButton {
     float: right;
     margin-top: 10px;
 }
+
 .c-paginationButton {
     margin-right: 4px;
     margin-left: 4px;
