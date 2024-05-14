@@ -35,7 +35,7 @@ To make use of tags in your blog posts, add them to the end of the post array - 
 */
 
 let postsArray = [
-//[ "posts/2020-11-10-Special-Characters-Example.html", encodeURI( 'Spéci@l "Character\'s" Examp|e' ) ]
+//[ "posts/2020-11-10-Special-Characters-Example.html", encodeURI( 'Spéci@l "Character\'s" Examp|e' ), "tags"]
 ["posts/2024-04-22-Interface-Drama-Streaming-Vol2.html", encodeURI( 'Interface as Longing' ), "video-games"],
 ["posts/2024-04-18-Interface-Drama-Streaming-Vol1.html", encodeURI( 'Exploring Intrigue with Interface Dramas' ), "video-games"],
 ["posts/2024-03-16-Sarau-Tokyo-and-Glass-Art.html", encodeURI( 'My first glass art show at SARAU TOKYO (EN/JP)' ), "glassblowing"],
@@ -154,27 +154,27 @@ if ( currentIndex > -1 ) {
 
 //Generate the Post List HTML, which will be shown on the "Archive" page.
 
-function formatPostLink(i) {
+function formatPostLink(post) {
   let postTitle_i = "";
-  if ( postsArray[i].length > 1 ) {
-    postTitle_i = decodeURI(postsArray[i][1]);
+  if ( post.length > 1 ) {
+    postTitle_i = decodeURI(post[1]);
   } else {
-	if (  postDateFormat.test ( postsArray[i][0].slice( 6,17 ) ) ) {
-	  postTitle_i = postsArray[i][0].slice(17,-5).replace(/-/g," ");
+	if (  postDateFormat.test ( post[0].slice( 6,17 ) ) ) {
+	  postTitle_i = post[0].slice(17,-5).replace(/-/g," ");
     } else {
-      postTitle_i = postsArray[i][0].slice(6,-5).replace(/-/g," ");
+      postTitle_i = post[0].slice(6,-5).replace(/-/g," ");
     }
   }
-  if (  postDateFormat.test ( postsArray[i][0].slice( 6,17 ) ) ) {
-    return '<li><a href="' + relativePath + '/'+ postsArray[i][0] +'">' + postsArray[i][0].slice(6,16) + " \u00BB " + postTitle_i + '</a></li>';
+  if (  postDateFormat.test ( post[0].slice( 6,17 ) ) ) {
+    return '<li><a href="' + relativePath + '/'+ post[0] +'">' + post[0].slice(6,16) + " \u00BB " + postTitle_i + '</a></li>';
   } else {
-    return '<li><a href="' + relativePath + '/'+ postsArray[i][0] +'">' + postTitle_i + '</a></li>';
+    return '<li><a href="' + relativePath + '/'+ post[0] +'">' + postTitle_i + '</a></li>';
   }
 }
 
 let postListHTML = "<ul>";
 for ( let i = 0; i < postsArray.length; i++ ) {
-  postListHTML += formatPostLink(i);
+  postListHTML += formatPostLink(postsArray[i]);
 }
 postListHTML += "</ul>";
 
@@ -183,7 +183,7 @@ let recentPostsCutoff = 5; //Hey YOU! Change this number to set how many recent 
 let recentPostListHTML = "<h3>Recent Posts</h3><ul>";
 let numberOfRecentPosts = Math.min( recentPostsCutoff, postsArray.length );
 for ( let i = 0; i < numberOfRecentPosts; i++ ) {
-  recentPostListHTML += formatPostLink(i);
+  recentPostListHTML += formatPostLink(postsArray[i]);
 }
 /*If you've written more posts than can fit in the Recent Posts List,
   then we'll add a link to the archive so readers can find the rest of
@@ -215,13 +215,14 @@ if ( postsArray.length < 2 ) {
   prevlink = postsArray[currentIndex + 1][0];
   nextprevHTML = '<a href="' + relativePath + '/'+ nextlink +'">\u00AB next post</a> | <a href="' + relativePath + '/index.html">home</a> | <a href="' + relativePath + '/'+ prevlink +'">previous post \u00BB</a>';
 }
-//new function to generate a list of posts with a specific tag
+
+//new function to generate a list of posts with a specific tag (visible on a "tagged" page, for instance, "glassblowing")
 let taggedPostArray = [];
 let tag = "";
 function getTaggedPosts (pageTitle) {
   tag = pageTitle.toLowerCase();
-	for (i=0; i < postsArray.length; i++) {
-		for (x=2; x < postsArray[i].length; x++) {
+	for (let i = 0; i < postsArray.length; i++) {
+		for (let x = 2; x < postsArray[i].length; x++) {
 			if (postsArray[i][x] == tag) {
 				taggedPostArray.push(postsArray[i]);
 			}
@@ -229,7 +230,7 @@ function getTaggedPosts (pageTitle) {
   }
 	let taggedPostListHTML = '<ul class="no-bullets">';
 	for ( let i = 0; i < taggedPostArray.length; i++ ) {
-  		taggedPostListHTML += formatPostLink(i,taggedPostArray);
+  		taggedPostListHTML += formatPostLink(taggedPostArray[i]);
 	}
 	taggedPostListHTML += '</ul>';
 	return taggedPostListHTML;
