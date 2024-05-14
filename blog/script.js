@@ -152,7 +152,8 @@ if ( currentIndex > -1 ) {
 	postTagsHTML = postTagsHTML.slice(0,-2);
 }
 
-//Generate the Post List HTML, which will be shown on the "Archive" page.
+//formatPostLink generates the Post List HTML, which will be shown on the "Archive" page.
+//It is also used on the index page, "Recents," and pulled from taggedPostArray.
 
 function formatPostLink(post) {
   let postTitle_i = "";
@@ -172,10 +173,11 @@ function formatPostLink(post) {
   }
 }
 
+// for each of the new posts in the postsArray make a new link and add it to the HTML.
 let postListHTML = "<ul>";
-for ( let i = 0; i < postsArray.length; i++ ) {
-  postListHTML += formatPostLink(postsArray[i]);
-}
+postsArray.forEach(function(post){
+  postListHTML += formatPostLink(post);
+});
 postListHTML += "</ul>";
 
 //Generate the Recent Post List HTML, which can be shown on the home page (or wherever you want!)
@@ -236,7 +238,7 @@ function getTaggedPosts (pageTitle) {
 	return taggedPostListHTML;
 }
 
-//new function to get list of all used tags
+//new function to get list of all used tags. We sort the tags in alphabetical order with the toSorted function.
 function getTagList () {
 	let tagArray = [];
 	for (i=0; i < postsArray.length; i++) {
@@ -249,7 +251,7 @@ function getTagList () {
 			}
 		}
 	}
-	return tagArray;
+	return tagArray.toSorted();
 }
 
 //new function to turn tag array into list of links
