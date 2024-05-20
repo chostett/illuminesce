@@ -71,10 +71,6 @@ a {
 
 /* Icons */
 
-#icons {
-  text-align: center;
-}
-
 .social-icon {
   height: 50px;
   width: 50px;
@@ -140,7 +136,39 @@ button {
 
 /*Home*/
 .welcome-message {
-  padding: 20px 0 60px 0;
+  width: 80%;
+  padding-right: 60px;
+}
+.current {
+  padding-bottom: 60px;
+}
+.current-styled {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    padding-left: 1rem;
+    text-indent: -1rem;
+
+    &::before {
+      content: "💪 ";
+    }
+
+    &:nth-child(2)::before {
+      content: "🎮 ";
+    }
+
+    &:nth-child(3)::before {
+      content: "💚 ";
+    }
+    &:nth-child(4)::before {
+      content: "🦕 ";
+    }
+    &:nth-child(5)::before {
+      content: "👀  ";
+    }
+  }
 }
 .callout {
   background-color: #091B0A;
@@ -148,6 +176,7 @@ button {
   border-radius: 10px;
   padding: 5px 20px;
   max-width: 100%;
+  margin-bottom: 60px;
 }
 
 /*Content Section*/
@@ -199,8 +228,8 @@ button {
   width: 300px;
 }
 .content {
-  max-width: 75%;
-  margin-left: 50px;
+  max-width: 60%;
+  margin: auto;
 }
 .content h2 {
   font-size: 40px;
