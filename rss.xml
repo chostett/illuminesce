@@ -5,9 +5,22 @@
   <description>This is my personal home on the web. I write about games, design, technology and being human.</description>
   <link>https://www.chostett.com</link>
   <lastBuildDate>
-    Tue, 21 May 2024 09:23:28 +0000
+    Mon, 10 Jun 2024 22:42:52 +0000
   </lastBuildDate>
   <ttl>20000</ttl>
+
+    <item>
+        <title>The Trans Tourist's Guide to Japan</title>
+        <description>
+              The tourist's guide to Japan as a trans person; about hot springs, toilets and medication for trans travelers. Written by a trans, nonbinary person living in Tokyo.
+        </description>
+        <link>https://chostett.com/blog/posts/2024-05-19-Trans-Tourist-Guide-to-Japan.html</link>
+        <enclosure url="https://www.chostett.com/blog/posts/images/trans_tourist_title.png"
+    length="78645" type="image/png" />
+        <pubDate>
+            Mon, 10 Jun 2024 22:42:52 +0000
+        </pubDate>
+    </item>
 
     <item>
         <title>Abstracting away horror with UNCANNY interface dramas</title>
