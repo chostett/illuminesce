@@ -214,6 +214,11 @@ button {
   padding: 5px;
   text-align: center;
 }
+.image .caption {
+  color: #82B095;
+  padding: 0px;
+  text-align: left;
+}
 .transcript {
   font-size: 16px;
   font-weight: bold;
