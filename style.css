@@ -79,6 +79,10 @@ a {
 }
 
 /* Tags */
+.alpha {
+  display: block;
+}
+
 button {
     font-size: 16px;
     font-weight: bold;

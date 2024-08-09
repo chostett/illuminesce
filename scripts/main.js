@@ -2,6 +2,7 @@
 window.onload = () => {
   const tags = document.querySelectorAll('#tags > button');
   const posts = document.querySelectorAll('.cat-block > div');
+  const alpha = document.querySelectorAll('.alpha');
   const displayAll = document.getElementById('all');
 
   if (displayAll) {
@@ -9,6 +10,9 @@ window.onload = () => {
       for (let i = 0; i < posts.length; i++) {
         posts[i].style.display = "block";
       }
+      alpha.forEach(letter => {
+        letter.style.display = "block";
+      })
     })
   }
 
@@ -24,7 +28,6 @@ window.onload = () => {
         if (posts[i].classList.contains(buttonTag)) {
           // display posts
           posts[i].style.display = "block"
-
         }
         // if the post tag does not match the button tag...
         else {
@@ -33,6 +36,10 @@ window.onload = () => {
         }
       }
 
+      // hide alphabetical categories
+      alpha.forEach(letter => {
+        letter.style.display = "none";
+      })
     })
   }
 }
