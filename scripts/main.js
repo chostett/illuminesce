@@ -36,9 +36,28 @@ window.onload = () => {
         }
       }
 
-      // hide alphabetical categories
+      // show/hide alphabetical categories
+      // for each H2 tag with a letter [A,B,C,...]
       alpha.forEach(letter => {
-        letter.style.display = "none";
+        // Check the posts that follow this heading
+        // to see if any are still visible
+        let hasPosts = false;
+        let post = letter.nextElementSibling;
+        while (post != null && post.tagName != "H2") {
+          // if we find a visible post, stop
+          if(post.style.display == "block") {
+            hasPosts = true;
+            break;
+          }
+          // try the next post in the list
+          post = post.nextElementSibling;
+        }
+        if (hasPosts) {
+          letter.style.display = "block";
+        }
+        else {
+          letter.style.display = "none";
+        }
       })
     })
   }
