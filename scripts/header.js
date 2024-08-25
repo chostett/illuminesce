@@ -3,7 +3,8 @@ let headerHTML = `<div class='container'>
       <h1><a href='index.html'>illuminesce.</a></h1>
       <ul>
         <li><a href='blog/index.html'>blog</a></li>
-        <li><a href='https://illuminesce.notion.site/Portfolio-CJ-Hostetter-57b382dd79894960ac6beb5d92318d35'>design</a></li>
+        <li><a href='resources.html'>resources</a></li>
+        <li><a href='talks.html'>talks</a></li>
         <li><a href='https://illuminesce.itch.io'>games</a></li>
         <li><a href='https://glassart.neocities.org'>glass</a></li>
         <li><a href='contact.html'>contact</a></li>
