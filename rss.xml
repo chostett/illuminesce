@@ -5,10 +5,23 @@
   <description>This is my personal home on the web. I write about games, design, technology and being human.</description>
   <link>https://www.chostett.com</link>
   <lastBuildDate>
-    Fri, 09 Aug 2024 10:08:52 +0000
+    Wed, 28 Aug 2024 12:53:09 +0000
   </lastBuildDate>
   <ttl>20000</ttl>
 
+    <item>
+        <title>New Blog: Design Matters 2024: Sketchnotes Edition</title>
+        <description>
+              In June, I attended Design Matters Tokyo. It was my first design conference in a while. Many thanks to Leecy Li, Yumiko Tanaka, and James Reichelt for letting me sketch you. Read on...
+        </description>
+        <link>https://chostett.com/blog/posts/2024-08-27-Design-Matters.html</link>
+        <enclosure url="https://chostett.com/blog/posts/images/00_designmatters2024.png"
+    length="78645" type="image/png" />
+        <pubDate>
+            Wed, 28 Aug 2024 12:53:09 +0000
+        </pubDate>
+    </item>
+    
     <item>
         <title>Interface Drama Master List Updated</title>
         <description>
