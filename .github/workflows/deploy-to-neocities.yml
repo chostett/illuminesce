@@ -1,14 +1,10 @@
 name: Deploy to neocities
 
-# only run on changes to master
+# only run on changes to main. Use main or master depending on whatever your default branch is called.
 on:
   push:
     branches:
-      - master
-      
-env:
-  FORCE_COLOR: 1
-  node_version: lts/*
+      - main
 
 concurrency: # prevent concurrent deploys doing strange things
   group: deploy-to-neocities
@@ -19,19 +15,22 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+    - uses: actions/checkout@v3
     # Set up any tools and build steps here
     # This example uses a Node.js toolchain to build a site
     - name: Use Node.js
-      uses: actions/setup-node@v4
+      uses: actions/setup-node@v3
       with:
-        node-version: ${{ env.node_version }}
-    - run: npm i
-    - run: npm run build
+        node-version: lts/*
+    - name: Install deps and build
+      run: |
+        npm i
+        npm run build
     # When the dist_dir is ready, deploy it to neocities
     - name: Deploy to neocities
-      uses: bcomnes/deploy-to-neocities@master # dont use master in production
+      uses: bcomnes/deploy-to-neocities@v2
       with:
         api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
-        cleanup: true
+        cleanup: false
         dist_dir: public
+        protected_files: 'twitter/*'
