@@ -160,14 +160,14 @@ button {
     }
 
     &:nth-child(2)::before {
-      content: "🎮 ";
+      content: "📩 ";
     }
 
     &:nth-child(3)::before {
-      content: "💚 ";
+      content: "🎮 ";
     }
     &:nth-child(4)::before {
-      content: "🦕 ";
+      content: "💚 ";
     }
     &:nth-child(5)::before {
       content: "👀  ";
