@@ -5,9 +5,22 @@
   <description>This is my personal home on the web. I write about games, design, technology and being human.</description>
   <link>https://www.chostett.com</link>
   <lastBuildDate>
-    Wed, 28 Aug 2024 12:53:09 +0000
+    Sat, 21 Sep 2024 09:52:54 +0000
   </lastBuildDate>
   <ttl>20000</ttl>
+
+    <item>
+        <title>New Blog: goodbye, cohost.</title>
+        <description>
+              I've really loved my time on cohost. Now it's time to say goodbye.
+        </description>
+        <link>https://chostett.com/blog/posts/2024-09-19-Goodbye-Cohost.html</link>
+        <enclosure url="https://chostett.com/blog/posts/images/eggbug_main.png"
+    length="78645" type="image/png" />
+        <pubDate>
+            Sat, 21 Sep 2024 09:52:54 +0000
+        </pubDate>
+    </item>
 
     <item>
         <title>New Blog: Design Matters 2024: Sketchnotes Edition</title>
