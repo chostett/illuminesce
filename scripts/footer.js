@@ -10,7 +10,6 @@ let footerHTML = `<div class='col'>
       <h3>see my work.</h3>
       <p><a href="https://illuminesce.notion.site/Portfolio-CJ-Hostetter-57b382dd79894960ac6beb5d92318d35" target="_blank">portfolio</a></p>
       <p><a href="https://www.linkedin.com/in/chostett" target="_blank">linkedin</a></p>
-      <p><a href="talks.html">talks</a></p>
       <p><a href="https://glassart.neocities.org" target="_blank">glassblowing</a></p>
       <p><a href="interface-drama.html">interface drama master list</a></p>
     </div>
