@@ -83,8 +83,8 @@ if (url.includes("tags/") ) {
 }
 
 //Write the Header HTML, a series of list items containing links.
-let headerHTML = '<ul> <li><a href="' + relativePath + '/index.html">blog index</a></li>' + 
-'<li><a href="' + relativePath + '/archive.html">archive</a></li>' + '<li><a href="https://illuminesce.neocities.org">home</a></li></ul>' +
+let headerHTML = '<ul> <li><a href="' + relativePath + '/index.html">index</a></li>' + '<li><a href="' + relativePath + '/tags/design.html">design</a></li>' + '<li><a href="' + relativePath + '/tags/video-games.html">video games</a></li>' + '<li><a href="' + relativePath + '/tags/lgbtq.html">lgbtqia+</a></li>' +
+'<li><a href="' + relativePath + '/archive.html">archive</a></li>' + '<li><a href="https://chostett.com/rss.xml">rss</a></li></ul>' + 
 '<hr>';
 
 //Write the Footer HTML, which has information about the blog.
@@ -186,7 +186,7 @@ postListHTML += "</ul>";
 
 //Generate the Recent Post List HTML, which can be shown on the home page (or wherever you want!)
 let recentPostsCutoff = 5; //Hey YOU! Change this number to set how many recent posts to show before cutting it off with a "more posts" link.
-let recentPostListHTML = "<h3>Recent Posts</h3><ul>";
+let recentPostListHTML = "<h3>Recent Posts</h3><hr><ul>";
 let numberOfRecentPosts = Math.min( recentPostsCutoff, postsArray.length );
 for ( let i = 0; i < numberOfRecentPosts; i++ ) {
   recentPostListHTML += formatPostLink(postsArray[i]);

@@ -140,12 +140,28 @@ h1, h2, h3, h4, h5 {
   padding-left: 0;
   list-style-type: none;
 }
-#recentpostlistdiv ul li, #popularList ul li {
-  padding-bottom: 5px;
+#recentpostlistdiv li, #popularList li, #tagList li {
+  padding-bottom: 0.7em;
 }
+
 .moreposts {
   font-size: 0.8em;
   margin-top: 0.2em;
+}
+
+#popularList a{
+  color: #19b029;
+  text-decoration: none;
+}
+
+#tagList a {
+  color: #484232;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+#tagList a:hover {
+  text-decoration: underline;
 }
 
 /*NEXT AND PREVIOUS LINKS STYLE*/
