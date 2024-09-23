@@ -15,7 +15,7 @@ let footerHTML = `<div class='col'>
     </div>
     <div class='col'>
       <h3>link to me.</h3>
-      <p><img src="https://illuminesce.neocities.org/images/illuminesce_88x31.gif" alt="A 88x31 banner to link to my site. Text says, illuminesce. Includes a jumping dinosaur.">&nbsp;&nbsp;<img src="https://illuminesce.neocities.org/images/illuminesce_88x31.png" alt="A 88x31 banner to link to my site. Text says, illuminesce."></p>
+      <p><img src="https://illuminesce.neocities.org/images/links/illuminesce_88x31.gif" alt="A 88x31 banner to link to my site. Text says, illuminesce. Includes a jumping dinosaur."></p>
     <div class='col'>
       <h3>like my work?</h3>
       <p><a href='https://ko-fi.com/N4N81K65A' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></p>
