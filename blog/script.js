@@ -84,7 +84,7 @@ if (url.includes("tags/") ) {
 
 //Write the Header HTML, a series of list items containing links.
 let headerHTML = '<ul> <li><a href="' + relativePath + '/index.html">index</a></li>' + '<li><a href="' + relativePath + '/tags/design.html">design</a></li>' + '<li><a href="' + relativePath + '/tags/video-games.html">video games</a></li>' + '<li><a href="' + relativePath + '/tags/lgbtq.html">lgbtqia+</a></li>' +
-'<li><a href="' + relativePath + '/archive.html">archive</a></li>' + '<li><a href="https://chostett.com/rss.xml">rss</a></li></ul>' + 
+'<li><a href="' + relativePath + '/archive.html">archive</a></li>' + '<li><a href="https://illuminesce.net/rss.xml">rss</a></li></ul>' + 
 '<hr>';
 
 //Write the Footer HTML, which has information about the blog.

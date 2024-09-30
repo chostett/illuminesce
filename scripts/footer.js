@@ -3,7 +3,7 @@ let footerHTML = `<div class='col'>
       <h3>socials.</h3>
       <p><a href="https://gamedev.lgbt/@illuminesce" target="_blank">mastodon</a></p>
       <p><a href="https://buttondown.com/studioterranova" target="_blank">newsletter</p>
-      <p><a href="https://chostett.com/rss.xml">rss feed</a></p>
+      <p><a href="https://illuminesce.net/rss.xml">rss feed</a></p>
       <p><a href="https://illuminesce.itch.io/" target="_blank">itch.io</a></p>
     </div>
     <div class='col'>
