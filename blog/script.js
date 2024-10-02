@@ -55,7 +55,7 @@ let postsArray = [
 ["posts/2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan.html", encodeURI( 'Visiting the first boy\'s love exhibition in Japan: Part Two' ), "lgbtq"],
 ["posts/2023-08-15-Interface-Drama-Master-List.html", encodeURI( 'The Interface Drama Master List: What is it?' ), "video-games", "popular"],
 ["posts/2023-08-02-unexpectedly-hopeful.html", encodeURI( 'Unexpectedly hopeful' ), "personal"],
-["posts/2023-07-03-Lets-talk-about-Shadow-Hearts.html" encodeURI( 'Let\'s talk about Shadow Hearts' ), "video-games"], 
+["posts/2023-07-03-Lets-talk-about-Shadow-Hearts.html", encodeURI( 'Let\'s talk about Shadow Hearts' ), "video-games"], 
 ["posts/2023-07-01-Finding-a-Home-on-the-Internet.html", encodeURI( 'Finding a Home on the Internet' ), "design", "popular"],
 ["posts/2023-06-10-the-new-normal.html", encodeURI( 'The new normal' ), "personal"],
 ["posts/2023-01-23-I-left-work-to-take-a-sabbatical.html", encodeURI( 'I left work to take a sabbatical.' ), "personal"],
