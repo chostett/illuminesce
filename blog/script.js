@@ -39,25 +39,26 @@ let postsArray = [
 ["posts/2024-09-19-Goodbye-Cohost.html", encodeURI( 'goodbye, cohost.' ), "personal"],
 ["posts/2024-08-27-Design-Matters.html", encodeURI( 'Design Matters Tokyo 2024: Sketchnote Edition' ), "design"],
 ["posts/2024-05-19-Trans-Tourist-Guide-to-Japan.html", encodeURI( 'The Trans Tourist\'s Guide to Japan' ), "lgbtq"],
-["posts/2024-05-11-Interface-Drama-Streaming-Vol3.html", encodeURI( 'Abstracting away horror with UNCANNY interface dramas' ), "video-games"],
-["posts/2024-04-22-Interface-Drama-Streaming-Vol2.html", encodeURI( 'Interface as Longing' ), "video-games"],
-["posts/2024-04-18-Interface-Drama-Streaming-Vol1.html", encodeURI( 'Exploring Intrigue with Interface Dramas' ), "video-games"],
+["posts/2024-05-11-Interface-Drama-Streaming-Vol3.html", encodeURI( 'Abstracting away horror with UNCANNY interface dramas' ), "interface-drama"],
+["posts/2024-04-22-Interface-Drama-Streaming-Vol2.html", encodeURI( 'Interface as Longing' ), "interface-drama"],
+["posts/2024-04-18-Interface-Drama-Streaming-Vol1.html", encodeURI( 'Exploring Intrigue with Interface Dramas' ), "interface-drama"],
 ["posts/2024-03-16-Sarau-Tokyo-and-Glass-Art.html", encodeURI( 'My first glass art show at SARAU TOKYO (EN/JP)' ), "glassblowing"],
-["posts/2024-03-03-Weekly-Link-Roundup.html", encodeURI( 'Weekly Link Roundup: March 3rd, 2024' ), "weeklies"],
-["posts/2024-02-11-404-Community-Days-and-Global-Game-Jam.html", encodeURI( '404 Community Days & Global Game Jam' ), "video-games"],
-["posts/2024-02-07-Global-Game-Jam-2024-After-Report.html", encodeURI( 'Global Game Jam 2024: After Report (EN)' ), "video-games", "popular"],
-["posts/2024-02-07-GGJ24-Report-JP.html", encodeURI( 'グローバルゲームジャム2024 アフターレポート' ), "video-games"],
-["posts/2024-01-21-Interface-Drama-Master-List-Update.html", encodeURI( '[Update] Interface Drama Master List' ), "video-games"],
+["posts/2024-03-03-Weekly-Link-Roundup.html", encodeURI( 'Weekly Link Roundup: March 3rd, 2024' ), "links"],
+["posts/2024-02-11-404-Community-Days-and-Global-Game-Jam.html", encodeURI( '404 Community Days & Global Game Jam' ), "global-game-jam"],
+["posts/2024-02-07-Global-Game-Jam-2024-After-Report.html", encodeURI( 'Global Game Jam 2024: After Report (EN)' ), "global-game-jam", "popular"],
+["posts/2024-02-07-GGJ24-Report-JP.html", encodeURI( 'グローバルゲームジャム2024 アフターレポート' ), "global-game-jam"],
+["posts/2024-01-21-Interface-Drama-Master-List-Update.html", encodeURI( '[Update] Interface Drama Master List' ), "interface-drama"],
 ["posts/2024-01-15-The-end-of-IWAKAN-Magazine.html", encodeURI( 'The end of IWAKAN Magazine' ), "lgbtq"],
-["posts/2023-10-27-I-have-to-talk-to-you-about-normalfantasies.html", encodeURI( 'I HAVE to talk to you about normal_fantasies.exe' ), "video-games", "lgbtq"],
-["posts/2023-10-26-New-Interface-Drama-Tachygram.html", encodeURI( 'New Interface Drama: Tachygram' ), "video-games"],
-["posts/2023-09-30-Visiting-the-First-Boys-Love-Exhibition-in-Japan.html", encodeURI( 'Visiting the first boy\'s love exhibition in Japan: Part One' ), "lgbtq"],
-["posts/2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan.html", encodeURI( 'Visiting the first boy\'s love exhibition in Japan: Part Two' ), "lgbtq"],
-["posts/2023-08-15-Interface-Drama-Master-List.html", encodeURI( 'The Interface Drama Master List: What is it?' ), "video-games", "popular"],
+["posts/2023-10-27-I-have-to-talk-to-you-about-normalfantasies.html", encodeURI( 'I HAVE to talk to you about normal_fantasies.exe' ), "interface-drama", "lgbtq"],
+["posts/2023-10-26-New-Interface-Drama-Tachygram.html", encodeURI( 'New Interface Drama: Tachygram' ), "interface-drama"],
+["posts/2023-09-30-Visiting-the-First-Boys-Love-Exhibition-in-Japan.html", encodeURI( 'Visiting the first boy\'s love exhibition in Japan: Part One' ), "fandom", "lgbtq"],
+["posts/2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan.html", encodeURI( 'Visiting the first boy\'s love exhibition in Japan: Part Two' ), "fandom", "lgbtq"],
+["posts/2023-08-15-Interface-Drama-Master-List.html", encodeURI( 'The Interface Drama Master List: What is it?' ), "interface-drama", "popular"],
 ["posts/2023-08-02-unexpectedly-hopeful.html", encodeURI( 'Unexpectedly hopeful' ), "personal"],
-["posts/2023-07-03-Lets-talk-about-Shadow-Hearts.html", encodeURI( 'Let\'s talk about Shadow Hearts' ), "video-games"], 
-["posts/2023-07-01-Finding-a-Home-on-the-Internet.html", encodeURI( 'Finding a Home on the Internet' ), "design", "popular"],
+["posts/2023-07-03-Lets-talk-about-Shadow-Hearts.html", encodeURI( 'Let\'s talk about Shadow Hearts' ), "fandom"], 
+["posts/2023-07-01-Finding-a-Home-on-the-Internet.html", encodeURI( 'Finding a Home on the Internet' ), "tech-and-web", "popular"],
 ["posts/2023-06-10-the-new-normal.html", encodeURI( 'The new normal' ), "personal"],
+["posts/2023-03-10-The-internet-is-flat.html", encodeURI( 'The Internet is flat' ), "tech-and-web"],
 ["posts/2023-01-23-I-left-work-to-take-a-sabbatical.html", encodeURI( 'I left work to take a sabbatical.' ), "personal"],
 ["posts/2022-09-14-A-Birthday-Letter-2022.html", encodeURI( 'A Birthday Letter, 2022' ), "personal"],
 ["posts/2021-09-14-A-Birthday-Letter-2021.html", encodeURI( 'A Birthday Letter, 2021' ), "personal"],
@@ -84,7 +85,7 @@ if (url.includes("tags/") ) {
 }
 
 //Write the Header HTML, a series of list items containing links.
-let headerHTML = '<ul> <li><a href="' + relativePath + '/index.html">index</a></li>' + '<li><a href="' + relativePath + '/tags/design.html">design</a></li>' + '<li><a href="' + relativePath + '/tags/video-games.html">video games</a></li>' + '<li><a href="' + relativePath + '/tags/lgbtq.html">lgbtqia+</a></li>' +
+let headerHTML = '<ul> <li><a href="' + relativePath + '/index.html">index</a></li>' + '<li><a href="' + relativePath + '/tags/design.html">design</a></li>' + '<li><a href="' + relativePath + '/tags/interface-drama.html">interface drama</a></li>' + '<li><a href="' + relativePath + '/tags/lgbtq.html">lgbtqia+</a></li>' +
 '<li><a href="' + relativePath + '/archive.html">archive</a></li>' + '<li><a href="https://illuminesce.net/rss.xml">rss</a></li></ul>' + 
 '<hr>';
 
