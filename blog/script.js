@@ -60,6 +60,7 @@ let postsArray = [
 ["posts/2023-06-10-the-new-normal.html", encodeURI( 'The new normal' ), "personal"],
 ["posts/2023-03-10-The-internet-is-flat.html", encodeURI( 'The Internet is flat' ), "tech-and-web"],
 ["posts/2023-01-23-I-left-work-to-take-a-sabbatical.html", encodeURI( 'I left work to take a sabbatical.' ), "personal"],
+["posts/2022-11-24-I-Am-Kimura.html", encodeURI( 'I am Kimura' ), "personal"],
 ["posts/2022-09-14-A-Birthday-Letter-2022.html", encodeURI( 'A Birthday Letter, 2022' ), "personal"],
 ["posts/2021-09-14-A-Birthday-Letter-2021.html", encodeURI( 'A Birthday Letter, 2021' ), "personal"],
 ["posts/2020-09-14-A-Birthday-Letter-2020.html", encodeURI( 'A Birthday Letter, 2020' ), "personal"],
