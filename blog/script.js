@@ -40,6 +40,7 @@ let postsArray = [
 ["posts/2024-10-31-Two-Halloween-Games.html", encodeURI( 'Trick or Treat: Two free Halloween games!' ), "games"],
 ["posts/2024-09-19-Goodbye-Cohost.html", encodeURI( 'goodbye, cohost.' ), "personal"],
 ["posts/2024-08-27-Design-Matters.html", encodeURI( 'Design Matters Tokyo 2024: Sketchnote Edition' ), "design"],
+["posts/2024-08-26-Yesterweb-Retrospective.html", encodeURI( 'A long-due retrospective of my time in the Yesterweb' ), "tech-and-web"],
 ["posts/2024-05-19-Trans-Tourist-Guide-to-Japan.html", encodeURI( 'The Trans Tourist\'s Guide to Japan' ), "lgbtq"],
 ["posts/2024-05-11-Interface-Drama-Streaming-Vol3.html", encodeURI( 'Abstracting away horror with UNCANNY interface dramas' ), "interface-drama"],
 ["posts/2024-04-22-Interface-Drama-Streaming-Vol2.html", encodeURI( 'Interface as Longing' ), "interface-drama"],
