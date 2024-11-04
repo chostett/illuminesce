@@ -5,9 +5,22 @@
   <description>Queer indie dev. Kinda feral. I co-own Studio Terranova, a design and games cooperative.</description>
   <link>https://www.illuminesce.net</link>
   <lastBuildDate>
-    Sat, 21 Sep 2024 09:52:54 +0000
+    Mon, 04 Nov 2024 09:04:51 +0000
   </lastBuildDate>
   <ttl>20000</ttl>
+
+    <item>
+        <title>New Blog: The cohost summer mixtape of 2023</title>
+        <description>
+              Recommendations for sweet summer tunes shared on cohost during summer 2023. Now archived for your listening pleasure. Put your headphones on and enjoy.
+        </description>
+        <link>https://illuminesce.neocities.org/blog/posts/2024-11-04-Cohost-Summer-Mixtape.html</link>
+        <enclosure url="https://illuminesce.neocities.org/blog/posts/images/mixtape/mixtapethree.png"
+    length="78645" type="image/png" />
+        <pubDate>
+            Mon, 04 Nov 2024 09:04:51 +0000
+        </pubDate>
+    </item>
 
     <item>
         <title>New Blog: goodbye, cohost.</title>
