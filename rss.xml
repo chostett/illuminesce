@@ -5,9 +5,22 @@
   <description>Queer indie dev. Kinda feral. I co-own Studio Terranova, a design and games cooperative.</description>
   <link>https://www.illuminesce.net</link>
   <lastBuildDate>
-    Mon, 04 Nov 2024 09:04:51 +0000
+    Sat, 09 Nov 2024 07:13:50 +0000
   </lastBuildDate>
   <ttl>20000</ttl>
+
+    <item>
+        <title>New Blog: What part does tech play in a hopeful future?</title>
+        <description>
+              I work in tech. I've invested so much of my time and energy into the industry, but now I'm left wondering...has my investment been worth it?
+        </description>
+        <link>https://illuminesce.neocities.org/blog/posts/2024-11-09-A-Hopeful-Future.html</link>
+        <enclosure url="https://illuminesce.neocities.org/blog/posts/images/thumbs/20241109-hopeful-future.png"
+    length="78645" type="image/png" />
+        <pubDate>
+            Sat, 09 Nov 2024 07:13:50 +0000
+        </pubDate>
+    </item>
 
     <item>
         <title>New Blog: The cohost summer mixtape of 2023</title>

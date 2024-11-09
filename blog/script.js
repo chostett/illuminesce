@@ -36,6 +36,7 @@ To make use of tags in your blog posts, add them to the end of the post array - 
 
 let postsArray = [
 //[ "posts/2020-11-10-Special-Characters-Example.html", encodeURI( 'Spéci@l "Character\'s" Examp|e' ), "tags"]
+["posts/2024-11-09-A-Hopeful-Future.html", encodeURI( 'What part does tech play in a hopeful future?' ), "tech-and-web"],
 ["posts/2024-11-04-Cohost-Summer-Mixtape.html", encodeURI( 'The cohost summer mixtape of 2023' ), "personal"],
 ["posts/2024-10-31-Two-Halloween-Games.html", encodeURI( 'Trick or Treat: Two free Halloween games!' ), "games"],
 ["posts/2024-09-19-Goodbye-Cohost.html", encodeURI( 'goodbye, cohost.' ), "personal"],
@@ -54,8 +55,8 @@ let postsArray = [
 ["posts/2024-01-15-The-end-of-IWAKAN-Magazine.html", encodeURI( 'The end of IWAKAN Magazine' ), "lgbtq"],
 ["posts/2023-10-27-I-have-to-talk-to-you-about-normalfantasies.html", encodeURI( 'I HAVE to talk to you about normal_fantasies.exe' ), "interface-drama", "lgbtq"],
 ["posts/2023-10-26-New-Interface-Drama-Tachygram.html", encodeURI( 'New Interface Drama: Tachygram' ), "interface-drama"],
-["posts/2023-09-30-Visiting-the-First-Boys-Love-Exhibition-in-Japan.html", encodeURI( 'Visiting the first boy\'s love exhibition in Japan: Part One' ), "fandom", "lgbtq"],
-["posts/2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan.html", encodeURI( 'Visiting the first boy\'s love exhibition in Japan: Part Two' ), "fandom", "lgbtq"],
+["posts/2023-09-30-Visiting-the-First-Boys-Love-Exhibition-in-Japan.html", encodeURI( 'Visiting the first boy\'s love exhibition in Japan: Part Two' ), "fandom", "lgbtq"],
+["posts/2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan.html", encodeURI( 'Visiting the first boy\'s love exhibition in Japan: Part One' ), "fandom", "lgbtq"],
 ["posts/2023-08-15-Interface-Drama-Master-List.html", encodeURI( 'The Interface Drama Master List: What is it?' ), "interface-drama", "popular"],
 ["posts/2023-08-02-unexpectedly-hopeful.html", encodeURI( 'Unexpectedly hopeful' ), "personal"],
 ["posts/2023-07-03-Lets-talk-about-Shadow-Hearts.html", encodeURI( 'Let\'s talk about Shadow Hearts' ), "fandom"], 
