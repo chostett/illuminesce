@@ -5,10 +5,23 @@
   <description>Queer indie dev. Kinda feral. I co-own Studio Terranova, a design and games cooperative.</description>
   <link>https://www.illuminesce.net</link>
   <lastBuildDate>
-    Sat, 09 Nov 2024 07:13:50 +0000
+    Sat, 09 Nov 2024 07:13:50 +0000 <!--change this-->
   </lastBuildDate>
   <ttl>20000</ttl>
 
+    <item>
+        <title>New Blog: Surely, you have thought about this?</title>
+        <description>
+              Let's take a moment to appreciate the cold satire of a corporate interface drama called Alethicorp.
+        </description>
+        <link>https://illuminesce.neocities.org/blog/posts/2024-11-15-Alethicorp.html</link>
+        <enclosure url="https://illuminesce.neocities.org/blog/posts/images/thumbs/2024-11-15-Alethicorp.png"
+    length="78645" type="image/png" />
+        <pubDate>
+            Mon, 04 Nov 2024 09:04:51 +0000 <!--change this-->
+        </pubDate>
+    </item>
+    
     <item>
         <title>New Blog: What part does tech play in a hopeful future?</title>
         <description>
@@ -28,7 +41,7 @@
               Recommendations for sweet summer tunes shared on cohost during summer 2023. Now archived for your listening pleasure. Put your headphones on and enjoy.
         </description>
         <link>https://illuminesce.neocities.org/blog/posts/2024-11-04-Cohost-Summer-Mixtape.html</link>
-        <enclosure url="https://illuminesce.neocities.org/blog/posts/images/mixtape/mixtapethree.png"
+        <enclosure url="https://illuminesce.neocities.org/blog/posts/images/thumbs/2024-11-04-Cohost-Summer-Mixtape.png"
     length="78645" type="image/png" />
         <pubDate>
             Mon, 04 Nov 2024 09:04:51 +0000
@@ -41,7 +54,7 @@
               I talk a lot about Terranova, but I make other games, too—especially spooky ones. Here's two Halloween interactive fiction games that are free to play! Read on...
         </description>
         <link>https://illuminesce.neocities.org/blog/posts/2024-10-31-Two-Halloween-Games.html</link>
-        <enclosure url="https://illuminesce.neocities.org/blog/posts/images/Costume_Panic.png"
+        <enclosure url="https://illuminesce.neocities.org/blog/posts/images/thumbs/2024-10-31-Two-Halloween-Games.png"
     length="78645" type="image/png" />
         <pubDate>
             Thu, 31 Oct 2024 20:01:37 +0000
@@ -54,7 +67,7 @@
               I've really loved my time on cohost. Now it's time to say goodbye.
         </description>
         <link>https://illuminesce.net/blog/posts/2024-09-19-Goodbye-Cohost.html</link>
-        <enclosure url="https://illuminesce.net/blog/posts/images/eggbug_main.png"
+        <enclosure url="https://illuminesce.net/blog/posts/images/thumbs/2024-09-19-Goodbye-Cohost.png"
     length="78645" type="image/png" />
         <pubDate>
             Sat, 21 Sep 2024 09:52:54 +0000
