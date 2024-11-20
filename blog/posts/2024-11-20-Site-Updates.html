@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Site updates: Feels good to be valid</title> <!-- If you leave title as "Blog Post", it will automatically be updated to the post title -->
+    <link rel="icon" href="../images/favicon.ico" type="image/x-icon"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <link href='https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet'>
+    <link href="../style/style.css" rel="stylesheet" type="text/css" media="all">
+    <!-- These meta properties are what are in control of your link previews. -->
+    <meta property="og:title" content="Site updates: Feels good to be valid">
+    <meta property="og:type" content="article" />
+    <meta property="og:description" content="Some site updates that no one is going to see but will probably make my life easier.">
+    <meta property="og:image" content="https://illuminesce.neocities.org/blog/posts/images/thumbs/20241120-siteupdates.png">
+    <meta property="og:url" content="https://illuminesce.neocities.org/blog/posts/2024-11-20-Site-Updates.html">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="fediverse:creator" content="@illuminesce@gamedev.lgbt">
+    <!-- End meta properties -->
+  </head>
+  <body>
+    <div id="container">
+    <div id="header">...</div>
+    <div id="content">
+      <h1 id="postTitleH1"></h1>
+      <h4><span id="postDate"></span> | <span id="postTags"></span></h4>
+      <p>
+        When I first started this blog in 2021, I was getting back into coding and was a DIY fan. Do everything yourself! Hack it together!
+      </p>
+      <p>
+        Which is great in theory.
+      </p>
+      <p>
+        The first website I made on neocities I coded by hand; it was fun and quirky and gave my friends headaches <a href="https://web.archive.org/web/20211116040748/https://illuminesce.neocities.org/" target="_blank">because it had a flickering background</a>. As someone who cares a lot about accessibility, it was more important to me to not cause my friends pain than it was for me to have a retro-looking site.
+      </p>
+      <p>
+        So I overhauled it.
+      </p>
+      <p>
+        Hooked it up to GitHub and gave it fancy versioning.
+      </p>
+      <p>
+        I grabbed <a href="https://zonelets.net/" target="_blank">Zonelets</a> for my blog and first, Disqus, then, <a href="https://virtualobserver.moe/ayano/comment-widget" target="_blank">Ayano's neocities comment widget</a>, and finally settled on <a href="https://cusdis.com/" target="_blank">Cusdis</a>, an open-source comment widget that has a moderator dashboard and a bot that messages me when someone comments on a page. (Go ahead, leave a comment!)
+      </p>
+      <p>
+        Zonelets doesn't have tagging, so I implemented <a href="https://3legged.neocities.org/journal/posts/2023-03-12-Creating-A-Zonelets-Tagging-System" target="_blank">3legged's tagging system for zonelets</a> so people could browse by topic.
+      </p>
+      <p>
+        I didn't know how to make an RSS, so I looked at best practices and did it by hand. All my blog articles had no thumbnails, so I learned about meta tags and did them by hand.
+      </p>
+      <p>
+        All of this "by hand" coding means my blog isn't that optimized. My code is messy. There were some posts that had the old comments widget on it; some with Cusdis. My RSS feed wasn't "up to standard."
+      </p>
+      <p style="margin:auto;">
+        <img src="https://illuminesce.neocities.org/blog/posts/images/thumbs/20241120-siteupdates.png" alt="An RSS icon that says, 'Valid RSS.'">
+        <div class="caption">Thanks, RSS validator. I feel validated.</div>
+      </p>
+      <p>
+        I'm pretty impressed with how far I've gotten with this version of the site. I don't consider myself a "developer" of sorts, and yet, I've been able to do a lot of things I didn't think I was capabale of. It's nice to feel a small sense of satisfaction in knowing you've come a long way even from a few years back. 
+      </p>
+      <p>
+        I fixed the inconsistencies in commenting, started adding images to my RSS as well as my link previews, and made some comments in the code that will make it easier for me to find things next time.
+      </p>
+      <p>
+        If you find something that doesn't work quite right, email me at <strong>cj@studioterranova.net</strong>. Keep in mind, it's mostly hand-coded.
+      </p>
+      <p>
+        I hope I can <a href="https://renkotsuban.neocities.org/posts/2023-11-15-Migrating-to-Eleventy" target="_blank">migrate this blog to Eleventy</a> in the future—it should make uploading blogs and putting them on the main page easier.
+      </p>
+      <p>
+        Here's to small victories.
+      </p>
+    <div id="nextprev"></div>
+    <hr>
+    <h2>Comments</h2>
+    <!--comments-->
+    <div id="cusdis_thread" data-host="https://cusdis.com" data-app-id="a501ca0b-7cb3-481f-89ab-a73c7d69afa1"
+      data-page-id="2024-11-20-Site-Updates" data-page-url="https://illuminesce.net/blog/posts/2024-11-20-Site-Updates"
+      data-page-title="Site updates: Feels good to be verified">
+    </div>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+    <!--end of comments-->
+    </div> <!-- end of div id="content" -->
+    <div id="footer"></div>
+    </div> <!-- end of div id="container" -->
+  <!-- Here's the link to our JavaScript! -->
+  <script src="../script.js"></script>
+  </body>
+</html>

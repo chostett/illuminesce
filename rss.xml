@@ -6,9 +6,22 @@
   <link>https://www.illuminesce.net</link>
   <!--When you update RSS, change this date-->
   <lastBuildDate>
-    Fri, 15 Nov 2024 14:28:41 +0000
+    Wed, 20 Nov 2024 14:53:13 +0000
   </lastBuildDate>
   <ttl>20000</ttl>
+
+    <item>
+        <title>Site updates: Feels good to be valid</title>
+        <description>
+             When I first started this blog in 2021, I was getting back into coding and was a DIY fan. Do everything yourself! Hack it together! Which is great in theory. &lt;a href="https://illuminesce.neocities.org/blog/posts/2024-11-20-Site-Updates.html"&gt;Read more...&lt;/a&gt;
+        </description>
+        <guid>https://illuminesce.neocities.org/blog/posts/2024-11-20-Site-Updates.html</guid>
+        <enclosure url="https://illuminesce.neocities.org/blog/posts/images/thumbs/20241120-siteupdates.png"
+    length="78645" type="image/png" />
+        <pubDate>
+            Wed, 20 Nov 2024 14:53:13 +0000
+        </pubDate>
+    </item>
 
     <item>
         <title>New Blog: Surely, you have thought about this?</title>
@@ -26,7 +39,7 @@
     <item>
         <title>New Blog: What part does tech play in a hopeful future?</title>
         <description>
-              I work in tech. I've invested so much of my time and energy into the industry, but now I'm left wondering...has my investment been worth it?
+              I work in tech. I've invested so much of my time and energy into the industry, but now I'm left wondering...has my investment been worth it? &lt;a href="https://illuminesce.neocities.org/blog/posts/2024-11-09-A-Hopeful-Future.html"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.neocities.org/blog/posts/2024-11-09-A-Hopeful-Future.html</guid>
         <enclosure url="https://illuminesce.neocities.org/blog/posts/images/thumbs/20241109-hopeful-future.png"
@@ -39,7 +52,7 @@
     <item>
         <title>New Blog: The cohost summer mixtape of 2023</title>
         <description>
-              Recommendations for sweet summer tunes shared on cohost during summer 2023. Now archived for your listening pleasure. Put your headphones on and enjoy.
+              Recommendations for sweet summer tunes shared on cohost during summer 2023. Now archived for your listening pleasure. Put your headphones on and enjoy. &lt;a href="https://illuminesce.neocities.org/blog/posts/2024-11-04-Cohost-Summer-Mixtape.html"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.neocities.org/blog/posts/2024-11-04-Cohost-Summer-Mixtape.html</guid>
         <enclosure url="https://illuminesce.neocities.org/blog/posts/images/thumbs/2024-11-04-Cohost-Summer-Mixtape.png"
@@ -52,7 +65,7 @@
     <item>
         <title>New Blog: Trick or Treat: Two free Halloween games!</title>
         <description>
-              I talk a lot about Terranova, but I make other games, too—especially spooky ones. Here's two Halloween interactive fiction games that are free to play! Read on...
+              I talk a lot about Terranova, but I make other games, too—especially spooky ones. Here's two Halloween interactive fiction games that are free to play! &lt;a href="https://illuminesce.neocities.org/blog/posts/2024-10-31-Two-Halloween-Games.html"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.neocities.org/blog/posts/2024-10-31-Two-Halloween-Games.html</guid>
         <enclosure url="https://illuminesce.neocities.org/blog/posts/images/thumbs/2024-10-31-Two-Halloween-Games.png"
@@ -65,7 +78,7 @@
     <item>
         <title>New Blog: goodbye, cohost.</title>
         <description>
-              I've really loved my time on cohost. Now it's time to say goodbye.
+              I've really loved my time on cohost. Now it's time to say goodbye. &lt;a href="https://illuminesce.net/blog/posts/2024-09-19-Goodbye-Cohost.html"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/blog/posts/2024-09-19-Goodbye-Cohost.html</guid>
         <enclosure url="https://illuminesce.net/blog/posts/images/thumbs/2024-09-19-Goodbye-Cohost.png"
@@ -78,7 +91,7 @@
     <item>
         <title>New Blog: Design Matters 2024: Sketchnotes Edition</title>
         <description>
-              In June, I attended Design Matters Tokyo. It was my first design conference in a while. Many thanks to Leecy Li, Yumiko Tanaka, and James Reichelt for letting me sketch you. Read on...
+              In June, I attended Design Matters Tokyo. It was my first design conference in a while. Many thanks to Leecy Li, Yumiko Tanaka, and James Reichelt for letting me sketch you. &lt;a href="https://illuminesce.net/blog/posts/2024-08-27-Design-Matters.html"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/blog/posts/2024-08-27-Design-Matters.html</guid>
         <enclosure url="https://illuminesce.net/blog/posts/images/00_designmatters2024.png"
@@ -91,7 +104,7 @@
     <item>
         <title>The Trans Tourist's Guide to Japan</title>
         <description>
-              The tourist's guide to Japan as a trans person; about hot springs, toilets and medication for trans travelers. Written by a trans, nonbinary person living in Tokyo.
+              The tourist's guide to Japan as a trans person; about hot springs, toilets and medication for trans travelers. Written by a trans, nonbinary person living in Tokyo. &lt;a href="https://illuminesce.net/blog/posts/2024-05-19-Trans-Tourist-Guide-to-Japan.html"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/blog/posts/2024-05-19-Trans-Tourist-Guide-to-Japan.html</guid>
         <enclosure url="https://www.illuminesce.net/blog/posts/images/trans_tourist_title.png"
@@ -104,7 +117,7 @@
     <item>
         <title>Abstracting away horror with UNCANNY interface dramas</title>
         <description>
-              The freaky, the obscure, the uncanny...in April, we played a series of uncanny interface drama games that use interface to obscure, confuse, and horrify. Read more...
+              The freaky, the obscure, the uncanny...in April, we played a series of uncanny interface drama games that use interface to obscure, confuse, and horrify. &lt;a href="https://illuminesce.net/blog/posts/2024-05-11-Interface-Drama-Streaming-Vol3.html"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/blog/posts/2024-05-11-Interface-Drama-Streaming-Vol3.html</guid>
         <enclosure url="https://illuminesce.net/blog/posts/images/interfacedrama-vol3-thumb.png"
@@ -117,7 +130,7 @@
     <item>
         <title>Interface as Longing</title>
         <description>
-              Welcome to Volume 02 of the Interface Drama Streaming Series, where we explore interface dramas by theme. Volume 02's theme was 'longing.' Read more for games...
+              Welcome to Volume 02 of the Interface Drama Streaming Series, where we explore interface dramas by theme. Volume 02's theme was 'longing.' &lt;a href="https://illuminesce.net/blog/posts/2024-04-12-Interface-Drama-Streaming-Vol2.html"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/blog/posts/2024-04-12-Interface-Drama-Streaming-Vol2.html</guid>
         <enclosure url="https://illuminesce.net/blog/posts/images/interfacedrama-vol2-thumb.png"
@@ -130,7 +143,7 @@
     <item>
         <title>Exploring Intrigue with Interface Dramas</title>
         <description>
-              Interface dramas are games that use software to tell interactive stories. Last week we did a stream on these unique games, and this blog post is a summary of the stream. Read on to be introduced to new and unique indie games.
+              Interface dramas are games that use software to tell interactive stories. Last week we did a stream on these unique games, and this blog post is a summary of the stream. Read on to be introduced to new and unique indie games. &lt;a href="https://illuminesce.net/blog/posts/2024-04-18-Interface-Drama-Streaming-Vol1.html"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/blog/posts/2024-04-18-Interface-Drama-Streaming-Vol1.html</guid>
         <enclosure url="https://illuminesce.net/blog/posts/images/interfacedrama-vol1-thumb.png"
@@ -143,7 +156,7 @@
     <item>
         <title>My first glass show at SARAU TOKYO</title>
         <description>
-              On March 16th, I had my first glass art show at the queer art event SARAU TOKYO in Roppongi. Photos and more in the link.
+              On March 16th, I had my first glass art show at the queer art event SARAU TOKYO in Roppongi. &lt;a href="https://illuminesce.net/blog/posts/2024-03-16-Sarau-Tokyo-and-Glass-Art.html"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/blog/posts/2024-03-16-Sarau-Tokyo-and-Glass-Art.html</guid>
         <enclosure url="https://illuminesce.net/blog/posts/images/sarau_01.png"
@@ -156,7 +169,7 @@
     <item>
         <title>Weekly Link Roundup, March 3rd</title>
         <description>
-              perroquadrado and I have been sharing links for various RSS readers we've been using. He mentioned liking blog posts where authors post links of interesting articles they've read that week or month, so I thought I'd share a list of my own.
+              perroquadrado and I have been sharing links for various RSS readers we've been using. He mentioned liking blog posts where authors post links of interesting articles they've read that week or month, so I thought I'd share a list of my own. &lt;a href="https://illuminesce.net/blog/posts/2024-03-03-Weekly-Link-Roundup.html"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/blog/posts/2024-03-03-Weekly-Link-Roundup.html</guid>
         <pubDate>
@@ -167,7 +180,7 @@
     <item>
         <title>Global Game Jam 2024 After Report</title>
         <description>
-              This year was our fifth year running Global Game Jam, and this year we had not only a great turnout, but some incredible teams and games we showcased on Sunday. 
+              This year was our fifth year running Global Game Jam, and this year we had not only a great turnout, but some incredible teams and games we showcased on Sunday. &lt;a href="https://illuminesce.net/blog/posts/2024-02-07-Global-Game-Jam-2024-After-Report.html"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/blog/posts/2024-02-07-Global-Game-Jam-2024-After-Report.html</guid>
         <pubDate>
@@ -178,7 +191,7 @@
     <item>
         <title>Interface Drama Master List Update: Seven New Games!</title>
         <description>
-              We added seven new games to the Interface Master List! We hope you enjoy these new additions. I know I did.
+              We added seven new games to the Interface Master List! We hope you enjoy these new additions. I know I did. &lt;a href="https://illuminesce.net/blog/posts/2024-01-21-Interface-Drama-Master-List-Update.html"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/blog/posts/2024-01-21-Interface-Drama-Master-List-Update.html</guid>
         <pubDate>
@@ -189,7 +202,7 @@
     <item>
         <title>The end of IWAKAN Magazine</title>
         <description>
-              As of this month, the queer alternative magazine of Japan, IWAKAN, is shutting its doors. It ran from 2020-2023 and its history deserves to be preserved.
+              As of this month, the queer alternative magazine of Japan, IWAKAN, is shutting its doors. It ran from 2020-2023 and its history deserves to be preserved. &lt;a href="https://illuminesce.net/blog/posts/2024-01-15-The-end-of-IWAKAN-Magazine.html"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/blog/posts/2024-01-15-The-end-of-IWAKAN-Magazine.html</guid>
         <pubDate>
@@ -200,7 +213,7 @@
     <item>
         <title>I have to talk to you about normal_fantasies.exe</title>
         <description>
-              normal_fantasies.exe is about a college girl, Lynette, who is using a mix of the nostalgic old-school Facebook circa 2010 + a speculative fiction add on AI girlfriend to explore her unresolved fantasies as a queer woman.
+              normal_fantasies.exe is about a college girl, Lynette, who is using a mix of the nostalgic old-school Facebook circa 2010 + a speculative fiction add on AI girlfriend to explore her unresolved fantasies as a queer woman. &lt;a href="https://illuminesce.net/blog/posts/2023-10-27-I-have-to-talk-to-you-about-normalfantasies.html"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/blog/posts/2023-10-27-I-have-to-talk-to-you-about-normalfantasies.html</guid>
         <pubDate>
@@ -211,7 +224,7 @@
     <item>
         <title>New Interface Drama: Tachygram</title>
         <description>
-              Introducing Tachygram by @belbeeno, a new interface drama about teens posting. Inspired by Hypnospace Outlaw.
+              Introducing Tachygram by @belbeeno, a new interface drama about teens posting. Inspired by Hypnospace Outlaw. &lt;a href="https://illuminesce.net/blog/posts/2023-10-26-New-Interface-Drama-Tachygram.html"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/blog/posts/2023-10-26-New-Interface-Drama-Tachygram.html</guid>
         <pubDate>
@@ -222,7 +235,7 @@
     <item>
         <title>Visiting the First Boy's Love Exhibition in Japan, Part 2</title>
         <description>
-              For a limited time from May 20th ~ July 16th, the Kadokawa Culture Museum ran a "First Boy's Love Exhibit" covering the roots and history of the Boy's Love (BL) genre in Japan and abroad. Because this was such a unique experience and was only around for two months, I wanted to document my experience at the exhibition for fans in Japan and abroad.
+              For a limited time from May 20th ~ July 16th, the Kadokawa Culture Museum ran a "First Boy's Love Exhibit" covering the roots and history of the Boy's Love (BL) genre in Japan and abroad. Because this was such a unique experience and was only around for two months, I wanted to document my experience at the exhibition for fans in Japan and abroad. &lt;a href="https://illuminesce.net/blog/posts/2023-09-30-Visiting-the-First-Boys-Love-Exhibition-in-Japan.html"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/blog/posts/2023-09-30-Visiting-the-First-Boys-Love-Exhibition-in-Japan.html</guid>
         <pubDate>
@@ -233,7 +246,7 @@
     <item>
         <title>Visiting the First Boy's Love Exhibition in Japan, Part 1</title>
         <description>
-              For a limited time from May 20th ~ July 16th, the Kadokawa Culture Museum ran a "First Boy's Love Exhibit" covering the roots and history of the Boy's Love (BL) genre in Japan and abroad. Because this was such a unique experience and was only around for two months, I wanted to document my experience at the exhibition for fans in Japan and abroad.
+              For a limited time from May 20th ~ July 16th, the Kadokawa Culture Museum ran a "First Boy's Love Exhibit" covering the roots and history of the Boy's Love (BL) genre in Japan and abroad. Because this was such a unique experience and was only around for two months, I wanted to document my experience at the exhibition for fans in Japan and abroad. &lt;a href="https://illuminesce.net/blog/posts/2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan.html"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/blog/posts/2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan.html</guid>
         <pubDate>
@@ -244,7 +257,7 @@
     <item>
         <title>The Interface Drama Master List FAQ</title>
         <description>
-             Interface dramas, also known as interface fictions or interactive narratives, are a small but growing form of game where a user interface is used to tell an immersive story. Check out definitions at the FAQ here!
+             Interface dramas, also known as interface fictions or interactive narratives, are a small but growing form of game where a user interface is used to tell an immersive story. &lt;a href="https://illuminesce.net/blog/posts/2023-08-15-Interface-Drama-Master-List"&gt;Check out definitions at the FAQ here!&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/blog/posts/2023-08-15-Interface-Drama-Master-List</guid>
         <pubDate>
@@ -255,7 +268,7 @@
     <item>
         <title>The Interface Drama Master List</title>
         <description>
-             Interface dramas are games that tell an immersive story through software and app interfaces. They are commonly called "desktop simulators" or "UI games" but I've found these labels to be either too prescriptive or too general to describe this emergent genre. And so, I'm making a master list of interface dramas here for people to play and hopefully build support for this unique type of game. 
+             Interface dramas are games that tell an immersive story through software and app interfaces. They are commonly called "desktop simulators" or "UI games" but I've found these labels to be either too prescriptive or too general to describe this emergent genre. And so, I'm making a master list of interface dramas here for people to play and hopefully build support for this unique type of game. &lt;a href="https://illuminesce.net/interface-drama"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/interface-drama</guid>
         <enclosure url="https://illuminesce.net/images/interface-drama/00_interfacedrama-ml.png"
@@ -268,7 +281,7 @@
     <item>
         <title>Interface Dramas: A New Way of Telling Stories Through Software</title>
         <description>
-             Our generation grew up online. So it's only natural that stories told by our generation are, by their nature, defined by the online spaces they inhabit. In this talk, CJ and mabbees talk about a new genre of games; interface dramas, and why they redefine the way our generation and younger will tell stories.
+             Our generation grew up online. So it's only natural that stories told by our generation are, by their nature, defined by the online spaces they inhabit. In this talk, CJ and mabbees talk about a new genre of games; interface dramas, and why they redefine the way our generation and younger will tell stories. &lt;a href="https://illuminesce.net/talks/202212-interface-drama"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/talks/202212-interface-drama</guid>
         <enclosure url="https://illuminesce.net/talks/images/202212-interface-drama/interface-drama-11.png"
@@ -281,7 +294,7 @@
     <item>
         <title>unexpectedly hopeful</title>
         <description>
-             In my last update, I spoke about how frustrating it was to do constant trial and error when it came to my health. After two months, I have an unexpectedly hopeful update.
+             In my last update, I spoke about how frustrating it was to do constant trial and error when it came to my health. After two months, I have an unexpectedly hopeful update. &lt;a href="https://illuminesce.net/blog/posts/2023-08-02-unexpectedly-hopeful"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/blog/posts/2023-08-02-unexpectedly-hopeful</guid>
         <pubDate>
@@ -292,7 +305,7 @@
     <item>
         <title>Finding a Home on the Internet</title>
         <description>
-             I was eleven when I made my first Angelfire site. The site has the feel of a kid's room; nothing matches and the only theme binding them together is, "CJ likes this."
+             I was eleven when I made my first Angelfire site. The site has the feel of a kid's room; nothing matches and the only theme binding them together is, "CJ likes this." &lt;a href="https://illuminesce.net/blog/posts/2023-07-01-Finding-a-Home-on-the-Internet"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/blog/posts/2023-07-01-Finding-a-Home-on-the-Internet</guid>
         <pubDate>
@@ -303,7 +316,7 @@
     <item>
         <title>How Technology Spreads Bias: And How You Can Stop It</title>
         <description>
-             An interactive workshop centered around small-group discussions tailored to digging in deep about racism, homophobia, transphobia, and other kinds of biases prevalent in tech.
+             An interactive workshop centered around small-group discussions tailored to digging in deep about racism, homophobia, transphobia, and other kinds of biases prevalent in tech. &lt;a href="https://illuminesce.net/talks/202306-bias-in-tech"&gt;Read more...&lt;/a&gt;
         </description>
         <guid>https://illuminesce.net/talks/202306-bias-in-tech</guid>
         <pubDate>
