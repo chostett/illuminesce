@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="US-ASCII" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>illuminesce.net</title>
   <description>CJ Hostetter. Queer indie dev. Kinda feral. I co-own Studio Terranova, a design and games cooperative.</description>
