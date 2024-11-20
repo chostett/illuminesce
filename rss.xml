@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>CJ | design and games</title>
@@ -13,9 +13,7 @@
 
     <item>
         <title>New Blog: Surely, you have thought about this?</title>
-        <description>
-              Let's take a moment to appreciate the cold satire of a corporate interface drama called <a href="https://illuminesce.neocities.org/blog/posts/2024-11-15-Alethicorp.html">Alethicorp</a>.
-        </description>
+        <content:encoded></content>
         <link>https://illuminesce.neocities.org/blog/posts/2024-11-15-Alethicorp.html</link>
         <guid>https://illuminesce.neocities.org/blog/posts/2024-11-15-Alethicorp.html</guid>
         <enclosure url="https://illuminesce.neocities.org/blog/posts/images/thumbs/2024-11-15-Alethicorp.png"
