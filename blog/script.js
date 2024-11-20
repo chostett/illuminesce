@@ -91,12 +91,10 @@ if (url.includes("tags/") ) {
 }
 
 //Write the Header HTML, a series of list items containing links.
-let headerHTML = '<ul> <li><a href="' + relativePath + '/index.html">index</a></li>' + '<li><a href="' + relativePath + '/tags/design.html">design</a></li>' + '<li><a href="' + relativePath + '/tags/interface-drama.html">interface drama</a></li>' + '<li><a href="' + relativePath + '/tags/lgbtq.html">lgbtqia+</a></li>' +
-'<li><a href="' + relativePath + '/archive.html">archive</a></li>' + '<li><a href="https://illuminesce.net/rss.xml">rss</a></li></ul>' + 
-'<hr>';
+let headerHTML = '<ul> <li><a href="' + relativePath + '/index.html">blog home</a></li>' + '<li><a href="' + relativePath + '/tags/popular.html">popular</a></li>' + '<li><a href="https://illuminesce.net/rss.xml">rss</a></li>' + '<li><a href="' + relativePath + '/archive.html">archive</a></li>' + '<li><a href="https://illuminesce.net/contact.html">contact</a></li>' + '<li>|</li>' + '<li><a href="https://illuminesce.net">illuminesce.net</a></li></ul>' + '<hr>';
 
 //Write the Footer HTML, which has information about the blog.
-let footerHTML = "<hr><p><em>This blog is built with <a href='https://zonelets.net/'>zonelets</a>, and hosted by <a href='https://neocities.org/'>neocities.</a></em></p>";
+let footerHTML = "<p><em>This blog is built with <a href='https://zonelets.net/'>zonelets</a>, and hosted by <a href='https://neocities.org/'>neocities.</a></em></p>";
 
 //To do the following stuff, we want to know where we are in the posts array (if we're currently on a post page).
 let currentIndex = -1;
