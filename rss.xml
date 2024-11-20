@@ -12,7 +12,7 @@
 
     <item>
         <title>New Blog: Surely, you have thought about this?</title>
-        <content:encoded></content:encoded>
+        <rss xmlns:content="encoded">
         <link>https://illuminesce.neocities.org/blog/posts/2024-11-15-Alethicorp.html</link>
         <guid>https://illuminesce.neocities.org/blog/posts/2024-11-15-Alethicorp.html</guid>
         <enclosure url="https://illuminesce.neocities.org/blog/posts/images/thumbs/2024-11-15-Alethicorp.png"
