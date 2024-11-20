@@ -4,7 +4,6 @@
   <title>CJ | design and games</title>
   <description>CJ Hostetter. Queer indie dev. Kinda feral. I co-own Studio Terranova, a design and games cooperative.</description>
   <link>https://www.illuminesce.net</link>
-  <atom:link href="https://www.illuminesce.net/rss.xml" rel="self" type="application/rss+xml" />
   <!--When you update RSS, change this date-->
   <lastBuildDate>
     Fri, 15 Nov 2024 14:28:41 +0000
@@ -13,7 +12,7 @@
 
     <item>
         <title>New Blog: Surely, you have thought about this?</title>
-        <content:encoded></content>
+        <content:encoded></content:encoded>
         <link>https://illuminesce.neocities.org/blog/posts/2024-11-15-Alethicorp.html</link>
         <guid>https://illuminesce.neocities.org/blog/posts/2024-11-15-Alethicorp.html</guid>
         <enclosure url="https://illuminesce.neocities.org/blog/posts/images/thumbs/2024-11-15-Alethicorp.png"
