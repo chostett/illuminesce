@@ -1,14 +1,27 @@
 ---js
 const eleventyNavigation = {
-	key: "Home",
+	key: "home",
 	order: 1
 };
 
-const numberOfLatestPostsToShow = 3;
+const numberOfLatestPostsToShow = 5;
 ---
+
+<h1>Hi, I'm CJ.</h1>
+<p>
+  I'm a designer and indie game developer living in Tokyo. I write about games, technology, and fandom from a queer lens.
+</p>
+<p>
+  I'm the co-founder of a design &amp; games agency called Studio Terranova. We try to do good and make things that feel real. I use this blog as a resource for documenting ephemerata, and collecting my thoughts.
+  <br>
+  <br>
+  <a href="https://illuminesce.net/contact">I love it when people say hi</a>. My email is always open.
+</p>
+
+
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
+<h1>Recent Posts</h1>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
@@ -18,12 +31,3 @@ const numberOfLatestPostsToShow = 3;
 {% if morePosts > 0 %}
 <p>{{ morePosts }} more post{% if morePosts != 1 %}s{% endif %} can be found in <a href="blog.njk">the archive</a>.</p>
 {% endif %}
-
-{# List every content page in the project #}
-{#
-<ul>
-	{%- for entry in collections.all %}
-	<li><a href="{{ entry.url }}"><code>{{ entry.url }}</code></a></li>
-	{%- endfor %}
-</ul>
-#}

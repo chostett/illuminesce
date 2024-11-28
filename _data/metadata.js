@@ -1,11 +1,16 @@
 export default {
-	title: "Eleventy Base Blog v9",
+	title: "illuminesce.net",
 	url: "https://example.com/",
 	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: `
+I'm a creative, inquisitive person who likes talking with people.
+
+That means you.
+
+I live in Tokyo and co-run Studio Terranova, a co-operative video game and software consulting company. If you're in Tokyo, let me know. I love a good coffee.`,
 	author: {
-		name: "Your Name Here",
-		email: "youremailaddress@example.com",
+		name: "CJ",
+		email: "cj@studioterranova.net",
 		url: "https://example.com/about-me/"
 	}
 }
