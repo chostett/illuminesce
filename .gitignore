@@ -4,3 +4,7 @@ archive/
 hallozine/
 iwakan/
 ywzine0/
+_site/
+node_modules/
+package-lock.json
+.cache
