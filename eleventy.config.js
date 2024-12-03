@@ -62,12 +62,17 @@ export default async function(eleventyConfig) {
 			limit: 10,
 		},
 		metadata: {
+			title: "illuminesce.net",
+			base: "https://illuminesce.net/",
 			language: "en",
-			title: "Blog Title",
-			subtitle: "This is a longer description about your blog.",
-			base: "https://example.com/",
+			subtitle: `
+				I'm a creative, inquisitive person who likes talking with people.
+				
+				That means you.
+				
+				I live in Tokyo and co-run Studio Terranova, a co-operative video game and software consulting company. If you're in Tokyo, let me know. I love a good coffee.`,
 			author: {
-				name: "Your Name"
+				name: "CJ",
 			}
 		}
 	});

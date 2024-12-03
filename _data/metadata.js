@@ -1,6 +1,6 @@
 export default {
 	title: "illuminesce.net",
-	url: "https://example.com/",
+	url: "https://illuminesce.net/",
 	language: "en",
 	description: `
 I'm a creative, inquisitive person who likes talking with people.
@@ -11,6 +11,6 @@ I live in Tokyo and co-run Studio Terranova, a co-operative video game and softw
 	author: {
 		name: "CJ",
 		email: "cj@studioterranova.net",
-		url: "https://example.com/about-me/"
+		url: "https://illuminesce.net/"
 	}
 }
