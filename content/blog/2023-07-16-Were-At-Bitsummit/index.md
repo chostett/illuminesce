@@ -26,6 +26,6 @@ Reader, I was, but only thanks to friends.
 
 Will write up a longer, more thoughtful post on BitSummit once I regain cognitive function beyond “yes !!!!!!!!! gaMES!!!!!”
 
-![A man wearing a hat, next to a dark-haired man, a blonde haired man and an auburn haired girl. Everyone is smiling and posing at the camera. It's out friends!](./bs_day3.png)
+![A man wearing a hat, next to a dark-haired man, a blonde haired man and an auburn haired girl. Everyone is smiling and posing at the camera. It's out friends!](./bs_day3.jpeg)
 
 _CJ is a designer, indie dev and artist. You could [say hello in an email](https://illuminesce.net/contact) or [check out their games on itch.io.](https://illuminesce.itch.io/)
