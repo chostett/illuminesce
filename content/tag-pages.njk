@@ -13,7 +13,7 @@ const eleventyExcludeFromCollections = true;
 const eleventyComputed = {
 	title: "Tagged '{{ tag }}'",
 	permalink: function(data) {
-		return `/tags/${this.slugify(data.tag)}/`;
+		return `/blog/tags/${this.slugify(data.tag)}/`;
 	}
 };
 ---
