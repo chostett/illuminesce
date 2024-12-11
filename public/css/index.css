@@ -10,11 +10,12 @@
 	--color-gray-50: #C0C0C0;
 	--color-gray-90: #333;
 
-	--background-color: #fff;
+	--background-image: url(vhs-background.png) repeat;
+	--post-background-color: #fff;
 
 	--text-color: var(--color-gray-90);
-	--text-color-link: #082840;
-	--text-color-link-active: #5f2b48;
+	--text-color-link: #0a7657;
+	--text-color-link-active: #0a7657;
 	--text-color-link-visited: #17050F;
 
 	--syntax-tab-size: 2;
@@ -31,7 +32,7 @@
 		--text-color-link-active: #6969f7;
 		--text-color-link-visited: #a6a6f8;
 
-		--background-color: #15202b;
+		--background-image: #15202b;
 	}
 }
 
@@ -45,13 +46,15 @@
 	navigation: auto;
 }
 
-html,
+html {
+	background-color: var(--background-image);
+}
 body {
 	padding: 0;
 	margin: 0 auto;
 	font-family: var(--font-family);
 	color: var(--text-color);
-	background-color: var(--background-color);
+	background-color: var(--post-background-color);
 }
 html {
 	overflow-y: scroll;
@@ -97,6 +100,7 @@ li {
 
 a[href] {
 	color: var(--text-color-link);
+	text-decoration-style: dashed;
 }
 a[href]:visited {
 	color: var(--text-color-link-visited);
