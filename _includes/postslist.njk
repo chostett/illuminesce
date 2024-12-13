@@ -2,7 +2,21 @@
 {%- for post in postslist | reverse %}
 	<li class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
 		<a href="{{ post.url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
-		<time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL yyyy") }}</time>
+		<time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL dd, yyyy") }}</time>
 	</li>
 {%- endfor %}
 </ul>
+
+<!-- Come back to this later!
+{% for year, posts in collections.posts | groupby("data.year") | dictsort | reverse %}
+<h4>{{ year }}</h4>
+<ul>
+  {% for post in posts | reverse %}
+  {% set tags = post.data.tags %}
+  <li>
+    <a href="{{ post.url }}">{{ post.data.title }}</a><br />
+    <small class="post-meta"><time>{{ post.data.date | readableDate }}</time>{% if tags | length %} - {% endif %}</small>
+  </li>
+  {% endfor %}
+</ul>
+{% endfor %}-->
