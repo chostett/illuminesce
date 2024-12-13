@@ -10,7 +10,7 @@
 	--color-gray-50: #C0C0C0;
 	--color-gray-90: #333;
 
-	--background-image: url(vhs-background.png) repeat;
+	--background-image: url("/css/vhs-background.png") repeat;
 	--post-background-color: #fff;
 
 	--text-color: var(--color-gray-90);
@@ -45,12 +45,11 @@
 @view-transition {
 	navigation: auto;
 }
-
 html {
-	background-color: var(--background-image);
+	background: var(--background-image);
 }
 body {
-	padding: 0;
+	padding: 2em;
 	margin: 0 auto;
 	font-family: var(--font-family);
 	color: var(--text-color);
@@ -60,7 +59,7 @@ html {
 	overflow-y: scroll;
 }
 body {
-	max-width: 40em;
+	max-width: 55em;
 }
 
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
