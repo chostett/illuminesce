@@ -3,7 +3,8 @@ layout: layouts/base.njk
 ---
 {# Only include the syntax highlighter CSS on blog posts, included with the CSS per-page bundle #}
 {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
-{%- css %}{% include "public/css/prism-diff.css" %}{%- endcss %}
+{%- css %}{% include "public/css/index.css" %}{%- endcss %}
+{%- css %}{% include "public/css/comments.css" %}{%- endcss %}
 <h1>{{ title }}</h1>
 
 <ul class="post-metadata">
@@ -26,3 +27,19 @@ layout: layouts/base.njk
 </ul>
 {%- endif %}
 {%- endif %}
+
+<!-- Cusdis Comments -->
+{%- if slug -%}
+<!--Every article has a id, but special pages don't unless you set them manually.
+This prevents Cusdis from appearing everywhere-->
+<hr>
+<h2>Comments</h2>
+<div id="cusdis_thread"
+  data-host="https://cusdis.com"
+  data-app-id="a501ca0b-7cb3-481f-89ab-a73c7d69afa1"
+  data-page-id="{{ slug }}"
+  data-page-url="https://illuminesce.net/blog/posts/{{ slug }}"
+  data-page-title="{{ title }}"
+></div>
+<script defer src="https://cusdis.com/js/cusdis.es.js"></script>
+{%- endif -%}
