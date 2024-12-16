@@ -3,7 +3,7 @@ title: 'Trick or Treat: Two free Halloween games!'
 slug: 2024-10-31-Two-Halloween-Games
 date: '2024-10-31'
 tags:
-  - games
+  - video-games
 ---
 
 ![A rabbit jumping out of a costume: text is Costume Panic!](./Costume_Panic.png)

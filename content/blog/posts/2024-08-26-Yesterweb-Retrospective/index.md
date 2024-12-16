@@ -57,17 +57,19 @@ But this comment in particular stung:
 
 <div class="quote">"There are too many opportunists, too many people that used the YW for financial or even just social gain. We thought maybe the issue was the discord server-it wasn't. It was a systemic issue."</div>
 
-Why would you say members of your community were opportunists?
+(2024-12 edits:) After reading this, Auzzie kindly reached out to clarify—this quote in particular wasn't directed at Yesterweb *members* but rather another *mod* that was trying to subvert the space for their personal gain. I didn't realize this. 
 
-I thought back to the discussion about removing mention of our indie game. In my case, I contributed two zine articles and built an entirely free game solely to promote the Yesterweb ([Costume Panic!](https://illuminesce.itch.io/costume-panic)) before promoting a paid game.
+I'm revising my statements here in light of that.
 
-I'm still a little miffed about the blanket implication I exploited or was trying to exploit the server for financial gain. Terranova doesn't make us millions, We did it on nights and weekends with [**@mabbees**](https://mabbees.neocities.org/) and we used our personal savings to pay each artist that worked on our game.
+Rather than focus on [Costume Panic!](https://illuminesce.itch.io/costume-panic) or Terranova, I'll share what I shared to Auzzie: that my takeaway after reflecting on this post is this: 
 
-In my opinon, more indie devs _should_ charge money for their games.
+I still feel wary about trying out new indie web groups due to our conversations in the Discord with sadgrl and some other members of the Yesterweb around their banning talk around sexual content, adult content and kinks.
 
-It's taken a while for me to write this because I was unsure what my learnings were from being a part of the Yesterweb. I'm glad to have been a part of the community before it transferred over to the forums, and I don't regret making zine articles or games for them. It was fun.
+The way mabbees and I first thought to make our own sites was through the queer adult artist community, so suddenly hearing we couldn’t talk or congregate around the things we made was both surprising and a little sad. We thought maybe we could talk openly about it, but the more we tried, the more we got comments that we were either sexual predators or didn't care about CSA victims, sans evidence or any instigating event.
 
-I met some really rad people in the server too, particularly HEX BOMB who I contributed to their zine [OUR SPACES WERE NOT MEANT FOR US](https://hex-bomb.itch.io/ourspaces) about adult artists and the web. Prior to the ban on adult content, we met on the Yesterweb Discord. They're cool people.
+sadgrl replied in the same thread echoing a softer version of that—that we had to consider abuse survivors, but not asking other members to stop accusing us of being predators. It made me realize we'd made a mistake - thinking we were seen as friends and supporters of a indie web community. But actually, we were seen by some as predators or people with nefarious intent, with no particular reason as to why.
+
+But, I met some really rad people in the server too, particularly HEX BOMB who I contributed to their zine [OUR SPACES WERE NOT MEANT FOR US](https://hex-bomb.itch.io/ourspaces) about adult artists and the web. Prior to the ban on adult content, we met on the Yesterweb Discord. They're cool people.
 
 I discovered another grassroots organization called FujoCoded that has been talking openly about collective activism in the fujoshi/BL space. They talked about organizing folks to revive the smallweb again after a talk at CitrusCon this weekend and I compiled a resource list of all the topics they spoke on, namely:
 
@@ -76,3 +78,9 @@ I discovered another grassroots organization called FujoCoded that has been talk
 -   collective action and founding coops
 
 [Here's the list if you'd like to take a look.](https://illuminesce.net/fujoweb2024)
+
+I'm glad to have been a part of the community before it transferred over to the forums, and I don't regret making zine articles or games for the Yesterweb. It was fun.
+
+I'm also aware that as someone who associates themselves with queer adult artists, it means people might have some kind of idea of who I am before they know me. They might think they know who I am, but honestly...they don't.
+
+I can’t change what people think about me; only how I behave in the world.
