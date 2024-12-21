@@ -7,9 +7,9 @@ tags:
   - learnings
 ---
 
-I have a theory about forgiveness I learned from our rabbits--we'll call it "Rabbit Logic."
+In literature, rabbits are commonly portrayed as victims; weak prey to the larger dark forces surrounding them. They are often killed, maimed and eaten to prove a point: *only the strongest survive. The weak will be sacrificed.*
 
-We have two rabbits at home—Ada and Hershel. They're both very opinionated rabbits (as most rabbits are), and this year, since I've been working a lot from home, I've had the opportunity to observe them on my breaks. They often squabble over food, loafing places, and other things, but they always—*always* make up.
+We have two rabbits at home—Ada and Hershel. They are bonded; meaning—they are close with each other, but I've watched their kept pets since I was a child, and rabbits are some of the most challenging and interesting creatures I've shared a home with. They're both very opinionated rabbits (as most rabbits are), and this year, since I've been working a lot from home, I've had the opportunity to observe them on my breaks. They often squabble over food, loafing places, and other things, but they always—*always* make up.
 
 How?
 
@@ -17,7 +17,7 @@ Here's the theory:
 
 Forgiveness can occur between two rabbits provided:
 -   there is no *active harm* being done
--   there are opportunities for the rabbits to have repeat neutral or positive interactions
+-   there are Ωopportunities for the rabbits to have repeat neutral or positive interactions
 
 Let me explain what this means.
 
