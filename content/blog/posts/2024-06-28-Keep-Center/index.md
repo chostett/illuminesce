@@ -1,5 +1,5 @@
 ---
-title: Submission for Neo Twiny Jam - Keep Center
+title: Keep Center - Submission for Neo Twiny Jam
 slug: 2024-06-28-Keep-Center
 date: '2024-06-28'
 tags:
@@ -8,7 +8,7 @@ tags:
 
 ![Text: Keep Center. An illustration of a glassblower turning a blowpipe.](center-title.gif)
 
-_"Glassblowing killed my fear of failure."_
+### "Glassblowing killed my fear of failure."
 
 Try to keep center, fail. Blow glass, fail again. Find your way.
 
