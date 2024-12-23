@@ -12,11 +12,11 @@ I did the exercise, put it away for a while, then came back to finish it. Introd
 
 This is **Mochi.**
 
-![](mochi_goodmorning_en.png)
+![An illustrated white rabbit with green ears saying, Good Morning! behind a sunshine.](mochi_goodmorning_en.png)
 
 This is **Mugi.**
 
-![](mugi_huh.png)
+![An illustrated, brown rabbit looking comfused.](mugi_huh.png)
 
 I made a LINE version for 120 yen, and a Telegram/Signal sticker pack for free. You can find the downloads below:
 
@@ -26,7 +26,7 @@ I made a LINE version for 120 yen, and a Telegram/Signal sticker pack for free. 
 
 ### Telegram (free)
 
-[Mochi the Eggbun](https://t.me/addstickers/MochiTheEggbun) | [Mugi the Eggbun](https://t.me/addstickers/MugiTheEggbun) 
+[Mochi the Eggbun](https://t.me/addstickers/MochiTheEggbun) | [Mugi the Eggbun](https://t.me/addstickers/MugiTheEggbun)
 
 ### Signal (free)
 

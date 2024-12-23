@@ -11,7 +11,7 @@ tags:
 
 As a designer, I like looking through rebrand documents. Part of it is that I find visual design appealing, but it's also a safari hunt through a jungle of marketing-speak to tease out exactly why a rebrand decided to happen. [I just saw Patreon is getting a rebrand](https://news.patreon.com/articles/patreon-redesigned), so I jotted down some loose (and glib) thoughts while leafing through Patreon's documentation.
 
-## Why do rebrands happen?
+### Why do rebrands happen?
 
 Usually a rebrand happens when:
 
@@ -24,7 +24,7 @@ A **One Stop Shop** is marketing speak for, "making sure customers have everythi
 
 This is likely what Patreon is doing, according to [The Verge](https://www.theverge.com/2023/10/4/23899694/patreon-app-redesign-creator-pages-community-chats) and Patreon's own ["Patreon Reimagined"](https://news.patreon.com/articles/patreon-reimagined) post. It is noticing that its creators are going off Patreon (Discord, YouTube, TikTok) to upload content rather than doing it directly through Patreon.
 
-## The Gooey P
+### The Gooey P
 
 Let's talk about Patreon's new logo. Not about the visuals, but what the "Gooey P" concept likely means.
 
@@ -40,7 +40,7 @@ I wrote about ["Finding a Home on the Internet"](https://chostett.com/blog/posts
 
 Discord and Patreon seem to have sensed this disillusionment and are speaking through their rebranding to this—they want spaces that are hyper-customizable, that feel like home. This is the essence of the Gooey P, is that you can customize it, that it is malleable to your needs.
 
-## But is Patreon really home?
+### But is Patreon really home?
 
 Quoting The Verge in their interview with Patreon CEO Jack Conte:
 
@@ -52,7 +52,7 @@ I admit, with the insistent messaging towards creators that "A brand that is co-
 
 ![Text: Our vision for the future is centered around the idea of giving creators ownership over their work, their businesses, and how they reach their communities. A key reason for our new, dynamic brand is to reflect that commitment, and to allow creators of all kinds to easily make the brand their own.](gooey-p-vars.png)
 
-## So, why did Patreon rebrand?
+### So, why did Patreon rebrand?
 
 From a look at their branding documentation + some outside sources, my guess is that Patreon's rebranding comes from a mix of wanting to edge out other content/community providers like Discord, YouTube, Vimeo, and TikTok and have a one-stop shop, and perhaps wanting to associate themselves more as a benevolent business and disassociate themselves from the image of a business that can cancel subscriptions and stop income flow to creators.
 
@@ -68,9 +68,9 @@ So that's cool.
 
 ![An image of a logotype letter P, with some gold netting on it and some pink goo.](gold-gooey.png)
 
-_(This post was subsequently updated on October 8th, 2023.)_
+## Design is a tell
 
-# Design is a tell
+(This post was subsequently updated on October 8th, 2023.)
 
 I've noticed this post has attracted a lot of attention from folks who are talking about how shitty Patreon is as a service or how dumb their rebrand looks.
 

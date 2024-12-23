@@ -36,10 +36,10 @@ It seemed like a little feature, but it turned out to be the most difficult part
 
 Overall, I learned a lot from this project, namely—
 
-  - how to use the dataset: and folded: features in Harlowe to save variables
-  - using cycle links and timed choices to force the player to make quick choices
-  - how to animate in Procreate and do the "line boil" style
-  - how to be loose and to make more missteaks
+* how to use the dataset: and folded: features in Harlowe to save variables
+* using cycle links and timed choices to force the player to make quick choices
+* how to animate in Procreate and do the "line boil" style
+* how to be loose and to make more missteaks
 
 This project was reversed to me; the things I thought would be difficult to do (animating line boil) were easier than expected. I benefited from my prior knowledge of sketching designs for glass in Procreate to make the animations. The things I thought would be easy, like counting how many designs a player makes, were much harder...
 
