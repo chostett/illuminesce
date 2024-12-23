@@ -32,4 +32,4 @@ It’s not without its flaws, and the story hinges on a familial, yet somewhat r
 
 But, this manga has really captured my heart for not only its story but its directness in dealing with subjects often not spoken about to young teens. I kept thinking, “man, I wish I had read this manga when I was a teen. It would have given me so many messages I desperately needed to hear.”
 
-![Two characters talking. One says, "I don't want to see photos of myself because I look like a woman." The other says, "Beauty isn't limited by gender."](cipher_beauty.png)
+![Two characters talking. One says, I don't want to see photos of myself because I look like a woman. The other says, Beauty isn't limited by gender.](cipher_beauty.jpg)
