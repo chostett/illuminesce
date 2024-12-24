@@ -16,4 +16,4 @@ Try to keep center, fail. Blow glass, fail again. Find your way.
 
 [**Play it here.**](https://illuminesce.itch.io/keep-center)
 
-[Check out the postmortem on Keep Center](/posts/2024-06-28-Terranova-USB.html), and read about my development process.
+[Check out the postmortem on Keep Center](/posts/2024-07-01-Keep-Center-Postmortem.html), and read about my development process.
