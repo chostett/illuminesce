@@ -4,6 +4,7 @@ slug: 2024-02-07-GGJ24-Report-JP
 date: '2024-02-07'
 tags:
   - global-game-jam
+  - popular
 ---
 
 <div class="caption">写真家： <a href="https://www.instagram.com/xenoliving/" target="_blank">Shane Brown</a></div>

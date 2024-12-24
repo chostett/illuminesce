@@ -3,6 +3,7 @@ title: What part does tech play in a hopeful future?
 slug: 2024-11-09-A-Hopeful-Future
 date: '2024-11-09'
 tags:
+  - popular
   - tech-and-web
 ---
 

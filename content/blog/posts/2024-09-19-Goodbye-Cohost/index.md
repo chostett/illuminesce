@@ -4,6 +4,7 @@ slug: 2024-09-19-Goodbye-Cohost
 date: '2024-09-19'
 tags:
   - personal
+  - popular
 ---
 
 ![A drawing of eggbug, cohost's mascot. Drawn by me.](./eggbug-main.png)
