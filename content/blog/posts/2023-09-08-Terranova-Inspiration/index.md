@@ -9,11 +9,15 @@ tags:
 
 When I was actively posting on cohost, I answered an ask about the inspiration for the characters in [Terranova](https://store.steampowered.com/app/1728700/Terranova/). I'm reposting it on my personal blog for folks to read.
 
+---
+
 *Finally finished watching Trigun (1998) yesterday, and couldn't stop thinking about Wolfwood - Eytan parallels. T^T*
 
 *Would love it if you could share any particular anime inspirations for the world, the characters, and the story of Terranova, if that's okay! 🙏*
 
 > yaffle, via cohost
+
+---
 
 Yes. Absolutely yes. Thank you for the question. This is gonna be a long post...
 
