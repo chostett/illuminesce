@@ -3,8 +3,9 @@ title: Did another reprint of USB keys this week
 slug: 2024-06-20-Terranova-USB
 date: '2024-06-20'
 tags:
-  - video-games
+  - cohost
   - terranova
+  - video-games
 ---
 
 We’re getting prepped for [Tokyo Sandbox](https://www.tokyosandbox.com/terranova), so it was time to make another round of these little guys.

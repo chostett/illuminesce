@@ -8,11 +8,13 @@ tags:
 ---
 
 ### Day One: Business Day
+
 Business Day is done! Lots of meetings, lots of players trying out Terranova. When we first set up, it was hard for me to believe we were here.
 
 ![Photo of a dark-haired man and a blonde man standing next to each other behind a booth. The booth has a Windows XP style game and USB sticks in a bustling event.](./bs_day1.jpeg)
 
 ### Day Two: Public Day
+
 Man, it’s been a lot. I’ve been learning a lot. Yesterday, I explained the concept of BL to four very serious Japanese men who didn’t seem that interested in our game.
 
 Today, two men started screaming at the top of our lungs when they saw the login screen. A mom showed her son, “see, this is what it was like when I was a teenager.”
@@ -20,6 +22,7 @@ Today, two men started screaming at the top of our lungs when they saw the login
 ![Screenshot of a twitter post by former account playterranova. New account is at Blusky at illuminese. Text reads, in Japanese, 'thank you to everyone who bought a USB stick! We're at DEV-67 for anyone who wants to come by.'](./bs_day2.png)
 
 ### Day Three
+
 It was so incredible to meet up with so many devs, yell at people about Shadow Hearts, and in general, feel very grateful for friends who asked me several times a day, “are you hydrated?”
 
 Reader, I was, but only thanks to friends.

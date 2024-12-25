@@ -3,6 +3,7 @@ title: A long-due retrospective of my time in the Yesterweb
 slug: 2024-08-26-Yesterweb-Retrospective
 date: '2024-08-26'
 tags:
+  - cohost
   - tech-and-web
 ---
 
@@ -57,7 +58,7 @@ But this comment in particular stung:
 
 <div class="quote">"There are too many opportunists, too many people that used the YW for financial or even just social gain. We thought maybe the issue was the discord server-it wasn't. It was a systemic issue."</div>
 
-(2024-12 edits:) After reading this, Auzzie kindly reached out to clarify—this quote in particular wasn't directed at Yesterweb *members* but rather another *mod* that was trying to subvert the space for their personal gain. I didn't realize this. 
+(2024-12 edits:) After reading this, Auzzie kindly reached out to clarify—this quote in particular wasn't directed at Yesterweb *members* but rather another _mod_ that was trying to subvert the space for their personal gain. I didn't realize this. 
 
 I'm revising my statements here in light of that.
 
@@ -73,9 +74,9 @@ But, I met some really rad people in the server too, particularly HEX BOMB who I
 
 I discovered another grassroots organization called FujoCoded that has been talking openly about collective activism in the fujoshi/BL space. They talked about organizing folks to revive the smallweb again after a talk at CitrusCon this weekend and I compiled a resource list of all the topics they spoke on, namely:
 
--   resources for beginner coders
--   resources for adult artists
--   collective action and founding coops
+* resources for beginner coders
+* resources for adult artists
+* collective action and founding coops
 
 [Here's the list if you'd like to take a look.](https://illuminesce.net/fujoweb2024)
 

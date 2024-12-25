@@ -3,6 +3,7 @@ title: Remembering the radical roots of interface
 slug: 2024-05-07-Radical-Roots-of-UI
 date: '2024-05-07'
 tags:
+  - cohost
   - design
   - interface-drama
 ---

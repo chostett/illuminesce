@@ -3,6 +3,7 @@ title: I've been getting into a shoujo manga called Cipher
 slug: 2023-12-11-Cipher
 date: '2023-12-11'
 tags:
+  - cohost
   - fandom
 ---
 

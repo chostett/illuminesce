@@ -3,6 +3,7 @@ title: The Ajisai Report, 2023-2024
 slug: 2024-06-03-Ajisai-Report
 date: '2024-06-03'
 tags:
+  - cohost
   - personal
 ---
 

@@ -4,6 +4,7 @@ slug: 2024-03-16-Sarau-Tokyo-and-Glass-Art
 date: '2024-03-16'
 tags:
   - glassblowing
+  - 日本語
 ---
 
 \[English follows below.\]

@@ -3,8 +3,9 @@ title: On Vibes-based Moderation
 slug: 2024-06-04-On-Vibes-Based-Moderation
 date: '2024-06-04'
 tags:
-  - tech-and-web
+  - cohost
   - community
+  - tech-and-web
 ---
 
 While going through my cohost archive, I found this reply post that delved into some of community moderation. I ported it here for posterity, quoting the original poster [sasuraiger](https://bsky.app/profile/sasuraiger.bsky.social) here.

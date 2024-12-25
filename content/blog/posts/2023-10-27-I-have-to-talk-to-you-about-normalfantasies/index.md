@@ -3,6 +3,7 @@ title: I HAVE to talk to you about normal_fantasies.exe
 slug: 2023-10-27-I-have-to-talk-to-you-about-normalfantasies
 date: '2023-10-27'
 tags:
+  - cohost
   - interface-drama
   - lgbtq
 ---

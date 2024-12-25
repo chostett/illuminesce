@@ -3,6 +3,7 @@ title: Last weekend's vacation
 slug: 2024-05-30-Our-Trip
 date: '2024-05-30'
 tags:
+  - cohost
   - personal
 ---
 

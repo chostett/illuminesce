@@ -4,7 +4,7 @@ slug: 2024-12-16-Rabbit-Logic
 date: '2024-12-16'
 tags:
   - personal
-  - learnings
+  - community
 ---
 
 In literature, rabbits are commonly portrayed as victims; weak prey to the large, dark forces surrounding them. They are often killed, maimed and eaten to prove a point: *only the strongest survive. The weak will be sacrificed.*

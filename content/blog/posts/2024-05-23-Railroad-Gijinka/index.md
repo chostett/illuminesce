@@ -3,6 +3,7 @@ title: I love 鉄道擬人化 (Railroad Gijinka)
 slug: 2024-05-23-Railroad-Gijinka
 date: '2024-05-23'
 tags:
+  - cohost
   - fandom
   - personal
 ---

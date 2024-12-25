@@ -5,6 +5,7 @@ date: '2024-02-07'
 tags:
   - global-game-jam
   - popular
+  - 日本語
 ---
 
 <div class="caption">写真家： <a href="https://www.instagram.com/xenoliving/" target="_blank">Shane Brown</a></div>
@@ -19,9 +20,9 @@ tags:
 
 Let's Games! Tokyo が約束していることは：  
 
--   どんな技術やノウハウでもゲームを作れるし、新しい友人を作ることができる対面式イベントを開催すること。
--   バイリンガルのゲーム開発を支援するために、日本語話者と英語話者を繋げること。
--   男性でも女性でも、そしてノンバイナリー・Xジェンダーの方、トランスジェンダーの方、ジェンダーフルイドなど、多様なアイデンティティを持つインディー開発者コミュニティを育成すること。
+* どんな技術やノウハウでもゲームを作れるし、新しい友人を作ることができる対面式イベントを開催すること。
+* バイリンガルのゲーム開発を支援するために、日本語話者と英語話者を繋げること。
+* 男性でも女性でも、そしてノンバイナリー・Xジェンダーの方、トランスジェンダーの方、ジェンダーフルイドなど、多様なアイデンティティを持つインディー開発者コミュニティを育成すること。
 
 今年のテーマは **_「笑せて！」_**です。
 
@@ -31,7 +32,7 @@ Let's Games! Tokyo が約束していることは：
 
 使用されたゲームエンジンは、PICO-8（ピコハチ）が中心でした。Unityのゲームが3本、Godotのゲームが3本、bitsyのゲームが1本、カスタム言語で作られたゲームが1本、**そしてPICO-8のゲームがなんと5本もありました！。**
 
-<div class="caption">写真家： <a href="https://www.instagram.com/xenoliving/" target="_blank">Shane Brown</a></div>
+写真家: [Shane Brown](https://www.instagram.com/xenoliving/)
 
 Let’s Games! Tokyo で誕生したゲームをこれから紹介したいと思います。
 
@@ -51,7 +52,7 @@ Let’s Games! Tokyo で誕生したゲームをこれから紹介したいと�
 
 ゲームをストリーミングしたいのなら、ジャマーにメッセージを送ってください！きっと喜んでくれると思います。
 
-<div class="caption">写真家： <a href="https://www.instagram.com/xenoliving/" target="_blank">Shane Brown</a></div>
+写真家: [Shane Brown](https://www.instagram.com/xenoliving/)
 
 Let's Games! Tokyo は、皆さんのおかげで大成功になりました。まずは、メンターをして下さった、エリックさん、フィリップさん、ジェレンさん、マットさん、ジョサイアさん、CJさん、そしてヤヒヤさん、ご協力ありがとうございました。写真の撮影とお菓子の準備を手伝ってくれたボランティアの、シェンさん、コリーさん、そしてニックさん、に感謝を捧げます。
 
@@ -67,6 +68,6 @@ Let's Games! Tokyo は、皆さんのおかげで大成功になりました。�
 
 よろしくお願いいたします。
 
-_\- Let's Games! TokyoのオーガナイザーのCJ、マット、ジョサイアから_
+> Let's Games! TokyoのオーガナイザーのCJ、マット、ジョサイアから
 
-<div class="caption">写真家： <a href="https://www.instagram.com/xenoliving/" target="_blank">Shane Brown</a></div>
+写真家: [Shane Brown](https://www.instagram.com/xenoliving/)

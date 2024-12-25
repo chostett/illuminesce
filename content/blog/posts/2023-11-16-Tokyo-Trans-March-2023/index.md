@@ -3,6 +3,7 @@ title: 2023's Tokyo Trans March is Cancelled
 slug: 2023-11-16-Tokyo-Trans-March-2023
 date: '2023-11-16'
 tags:
+  - cohost
   - lgbtq
 ---
 

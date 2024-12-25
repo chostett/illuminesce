@@ -3,6 +3,7 @@ title: 4 months on testosterone, an ongoing retrospective
 slug: 2024-07-09-Hormones-Retro
 date: '2024-07-09'
 tags:
+  - cohost
   - personal
 ---
 

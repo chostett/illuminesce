@@ -4,6 +4,7 @@ slug: 2023-12-13-Game-Dev-Comics
 date: '2023-12-13'
 tags:
   - art
+  - cohost
   - video-games
 ---
 

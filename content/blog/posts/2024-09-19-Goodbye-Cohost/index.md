@@ -3,6 +3,7 @@ title: goodbye, cohost.
 slug: 2024-09-19-Goodbye-Cohost
 date: '2024-09-19'
 tags:
+  - cohost
   - personal
   - popular
 ---

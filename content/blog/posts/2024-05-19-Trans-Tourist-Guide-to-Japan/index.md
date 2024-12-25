@@ -3,6 +3,7 @@ title: The Trans Tourist's Guide to Japan
 slug: 2024-05-19-Trans-Tourist-Guide-to-Japan
 date: '2024-05-19'
 tags:
+  - cohost
   - lgbtq
 ---
 
@@ -58,26 +59,26 @@ Here's the English page for the [Ministry of Health, Labour and Welfare's websit
 
 A: _Ni-chome_ in Shinjuku is Tokyo's LGBTQIA+ district. There's also a variety of cool parties and events:
 
--   If you can catch the [WAIFU Party](https://www.instagram.com/waifu_party/) while you're here, it is _the_ gender-free party to be at. They usually do events once a month. Check their Instagram for event dates.
--   [2's CABIN](https://www.instagram.com/masaki_ftmbar_2scabin/) is an FTM bar, open to all trans folks. The bars are small and permit smoking inside. Though the staff doesn't speak English, they are friendly. Buying the bartender a drink is a good way to start.
--   [Aiiro Cafe](https://www.instagram.com/aiirocafe/) and [Arty Farty](https://www.instagram.com/artyfarty_annex/) are where I've seen English-speaking queer folks hang out.
--   [GOLDFINGER](https://www.instagram.com/goldfinger_staff/), a lesbian bar in Tokyo, is all-gender most days and women (trans women inclusive) only on Saturdays. Mondays is "boi's night" and FTM staff are working.
+* If you can catch the [WAIFU Party](https://www.instagram.com/waifu_party/) while you're here, it is _the_ gender-free party to be at. They usually do events once a month. Check their Instagram for event dates.
+* [2's CABIN](https://www.instagram.com/masaki_ftmbar_2scabin/) is an FTM bar, open to all trans folks. The bars are small and permit smoking inside. Though the staff doesn't speak English, they are friendly. Buying the bartender a drink is a good way to start.
+* [Aiiro Cafe](https://www.instagram.com/aiirocafe/) and [Arty Farty](https://www.instagram.com/artyfarty_annex/) are where I've seen English-speaking queer folks hang out.
+* [GOLDFINGER](https://www.instagram.com/goldfinger_staff/), a lesbian bar in Tokyo, is all-gender most days and women (trans women inclusive) only on Saturdays. Mondays is "boi's night" and FTM staff are working.
 
 In the past GOLDFINGER wasn't accepting of trans women. In fact, WAIFU was made as an alternative queer femme space to GOLDFINGER.
 
 For those of you who like drag, if you want to see local drag queens, check out [Haus of Gaishoku's Beauty Blenda](https://hausofgaishoku.com/), [Haus von Schwarz](https://www.instagram.com/hausvonschwarz/), or [Kings of Tokyo](https://www.facebook.com/kingsoftokyojp/), the local drag king community.
 
-## I want to support LGBTQIA+ organizations in Japan!
+## I want to support LGBTQIA+ organizations in Japan
 
 LGBTQIA+ rights here are still hotly debated; while some municipalities have legalized a same-sex partnership system, same-sex marriage is not legal nationwide. Even though it has been judged unconstitutional, trans folks still face discrimination at work and especially in changing their gender marker on official documentation.
 
 If you want to support local LGBTQIA+ organizations, below are a few:
 
--   [Pride House Tokyo](https://pridehouse.jp/en/) is a café like space with free internet and provides support to the LGBTQIA+ community as well as employment. It is funded by Coca-Cola but wants to raise funds from the local community to continue running.
--   [WAIFU Party](https://waifu-party.tokyo/donate) provides a gender-free space for the queer community here.
--   [Marriage for all Japan](https://www.marriageforall.jp/en/) is an organization fighting for legalization of same-sex marriage in Japan.
+* [Pride House Tokyo](https://pridehouse.jp/en/) is a café like space with free internet and provides support to the LGBTQIA+ community as well as employment. It is funded by Coca-Cola but wants to raise funds from the local community to continue running.
+* [WAIFU Party](https://waifu-party.tokyo/donate) provides a gender-free space for the queer community here.
+* [Marriage for all Japan](https://www.marriageforall.jp/en/) is an organization fighting for legalization of same-sex marriage in Japan.
 
-## In conclusion...
+## In conclusion
 
 Japan's a safe place to vacation for trans visitors, in my opinion. Most people are welcoming and friendly. Public approval has been on the rise. I'm hopeful that laws in Japan will be changed so that the LGBTQIA+ folks that live here can live openly, freely, have access to the medical care they need and love who they love.
 

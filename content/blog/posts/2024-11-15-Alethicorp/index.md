@@ -3,6 +3,7 @@ title: Surely, you have thought about this?
 slug: 2024-11-15-Alethicorp
 date: '2024-11-15'
 tags:
+  - cohost
   - interface-drama
 ---
 
