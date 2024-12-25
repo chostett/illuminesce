@@ -3,8 +3,8 @@ title: We're at BitSummit!
 slug: 2023-07-16-Were-At-Bitsummit
 date: '2023-07-16'
 tags:
-  - video-games
   - terranova
+  - video-games
 ---
 
 ### Day One: Business Day

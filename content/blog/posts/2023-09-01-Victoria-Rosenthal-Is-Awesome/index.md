@@ -3,6 +3,7 @@ title: 'Victoria Rosenthal is Awesome'
 slug: 2023-09-01-Victoria-Rosenthal-is-Awesome
 date: '2023-09-01'
 tags:
+  - cohost
   - personal
 ---
 

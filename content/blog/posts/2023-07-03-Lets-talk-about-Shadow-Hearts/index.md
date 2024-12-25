@@ -3,6 +3,7 @@ title: Let's talk about Shadow Hearts
 slug: 2023-07-03-Lets-talk-about-Shadow-Hearts
 date: '2023-07-03'
 tags:
+  - cohost
   - fandom
 ---
 
@@ -24,10 +25,10 @@ Shadow Hearts is the name of a game series that came out for the Playstation 1 a
 
 There are four games in the series:
 
--   [_Koudelka:_](https://en.wikipedia.org/wiki/Koudelka) 1999~2000
--   [_Shadow Hearts I:_](https://en.wikipedia.org/wiki/Shadow_Hearts_\(video_game\)) 2001-2002
--   [_Shadow Hearts: Covenant/Shadow Hearts II:_](https://en.wikipedia.org/wiki/Shadow_Hearts:_Covenant) 2004-2005
--   [_Shadow Hearts_](https://en.wikipedia.org/wiki/Shadow_Hearts:_From_the_New_World)
+* [_Koudelka:_](https://en.wikipedia.org/wiki/Koudelka) 1999~2000
+* [_Shadow Hearts I:_](https://en.wikipedia.org/wiki/Shadow_Hearts_\(video_game\)) 2001-2002
+* [_Shadow Hearts: Covenant/Shadow Hearts II:_](https://en.wikipedia.org/wiki/Shadow_Hearts:_Covenant) 2004-2005
+* [_Shadow Hearts_](https://en.wikipedia.org/wiki/Shadow_Hearts:_From_the_New_World)
 
 ![All four games in the Shadow Hearts series and their box art.](./shadowhearts-02.png)
 
@@ -115,10 +116,10 @@ The lessons I took out of these games was how important music was to a "gamefeel
 
 I highly recommend checking out the full soundtracks for each of the games if you liked either of these examples. If you like grunge in particular, I'd probably listen to _Shadow Hearts I, II, III_ and then _Koudelka_. Thanks to Shadow Hearts Wikia for uploading all of these on YouTube.
 
--   [Koudelka's Soundtrack](https://youtu.be/ecQiaMUtw6E)
--   [Shadow Hearts' Soundtrack](https://youtu.be/Xt2tz9u-4po)
--   [Shadow Hearts: Covenant's Soundtrack](https://youtu.be/EiWYksq4e6I)
--   [Shadow Hearts: From the New World's Soundtrack](https://youtu.be/d9hpXGgzu-c)
+* [Koudelka's Soundtrack](https://youtu.be/ecQiaMUtw6E)
+* [Shadow Hearts' Soundtrack](https://youtu.be/Xt2tz9u-4po)
+* [Shadow Hearts: Covenant's Soundtrack](https://youtu.be/EiWYksq4e6I)
+* [Shadow Hearts: From the New World's Soundtrack](https://youtu.be/d9hpXGgzu-c)
 
 ## The Gameplay of Shadow Hearts
 

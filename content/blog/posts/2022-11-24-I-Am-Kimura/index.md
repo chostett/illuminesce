@@ -3,6 +3,7 @@ title: I am Kimura
 slug: 2022-11-24-I-Am-Kimura
 date: '2022-11-24'
 tags:
+  - cohost
   - personal
 ---
 

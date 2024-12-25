@@ -3,8 +3,9 @@ title: First time screenprinting on USB keys
 slug: 2023-06-26-Terranova-USB
 date: '2023-06-26'
 tags:
-  - video-games
+  - cohost
   - terranova
+  - video-games
 ---
 
 ![Rainbow USB keys with the word 'Terranova' printed on it.](./terranova-usb.png)

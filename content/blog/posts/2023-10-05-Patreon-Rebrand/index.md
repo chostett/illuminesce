@@ -3,8 +3,9 @@ title: 'Thoughts on the Patreon Rebrand'
 slug: 2023-10-05-Patreon-Rebrand
 date: '2023-10-05'
 tags:
-  - tech-and-web
+  - cohost
   - design
+  - tech-and-web
 ---
 
 ![Patreon's Home Feed, where fans can get all the latest updates on their creators.](patreon-rebrand.png)

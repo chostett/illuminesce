@@ -4,6 +4,7 @@ slug: 2023-05-21-Mochi-the-Eggbun
 date: '2023-05-21'
 tags:
   - art
+  - cohost
 ---
 
 Last Winterseve, [**mabbees**](https://mabbees.neocities.org/) gave me a book on How to Use Procreate. It uses project-based learning to teach the reader about basic to advanced Procreate techniques, and I started on a mini-project aimed at teaching how to build your own color palette and shortcuts for large-batch doodles. The project was for custom chat stickers.

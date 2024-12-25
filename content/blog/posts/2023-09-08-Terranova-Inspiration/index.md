@@ -3,8 +3,9 @@ title: 'Answering Asks: What was the Inspiration for your characters in Terranov
 slug: 2023-09-08-Terranova-Inspiration
 date: '2023-09-08'
 tags:
-  - terranova
+  - cohost
   - fandom
+  - terranova
 ---
 
 When I was actively posting on cohost, I answered an ask about the inspiration for the characters in [Terranova](https://store.steampowered.com/app/1728700/Terranova/). I'm reposting it on my personal blog for folks to read.

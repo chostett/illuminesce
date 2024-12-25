@@ -3,6 +3,7 @@ title: The Internet is flat
 slug: 2023-03-10-The-internet-is-flat
 date: '2023-03-10'
 tags:
+  - cohost
   - tech-and-web
 ---
 

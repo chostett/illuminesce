@@ -3,6 +3,7 @@ title: 'New Interface Drama: Tachygram'
 slug: 2023-10-26-New-Interface-Drama-Tachygram
 date: '2023-10-26'
 tags:
+  - cohost
   - interface-drama
 ---
 

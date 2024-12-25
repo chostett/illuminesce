@@ -3,6 +3,7 @@ title: A look back at 2022
 slug: 2023-01-01-2022-Lookback
 date: '2023-01-01'
 tags:
+  - cohost
   - personal
 ---
 
