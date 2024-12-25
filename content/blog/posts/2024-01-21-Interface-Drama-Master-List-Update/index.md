@@ -65,11 +65,11 @@ As a former MMO player, I very much resonated with this story. It's sweet, sad, 
 
 In addition, I've added the following to the [review queue:](https://trello.com/b/FsmPZht8/interface-drama-master-list-submission-queue)
 
--   a phone found in tall grass
--   Orwell: Ignorance is Strength
--   MapFriend
--   Do Not Feed the Monkeys
--   Mythic Meetup
+* a phone found in tall grass
+* Orwell: Ignorance is Strength
+* MapFriend
+* Do Not Feed the Monkeys
+* Mythic Meetup
 
 Thanks again for all your submissions, and once I play another batch of these games, I'll update.
 
