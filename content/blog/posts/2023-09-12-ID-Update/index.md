@@ -22,3 +22,5 @@ Interface dramas are games that tell an immersive story through software and app
 [More information on interface dramas here.](/posts/2023-08-15-Interface-Drama-Master-List.html)
 
 ![A screenshot of the interface drama, Blooming Panic.](blooming.png)
+
+[Check out the next updates here.](/posts/2024-01-21-Interface-Drama-Master-List-Update.html)
