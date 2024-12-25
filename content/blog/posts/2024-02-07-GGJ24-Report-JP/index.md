@@ -5,7 +5,7 @@ date: '2024-02-07'
 tags:
   - global-game-jam
   - popular
-  - 日本語
+  - japanese
 ---
 
 <div class="caption">写真家： <a href="https://www.instagram.com/xenoliving/" target="_blank">Shane Brown</a></div>
