@@ -14,7 +14,7 @@ _The genre was, and still is, not well-defined and it attracted some excellent c
 
 ## Original Post by @illuminesce August 22nd, 2023
 
-A week ago, I [made a post about interface dramas and what they are.](/posts/2023-08-15-Interface-Drama-Master-List.html) They're (usually software) interfaces that tell a story. Previously called UI games or desktop simulators, @mabbees and I are proposing a new name: interface dramas.
+A week ago, I [made a post about interface dramas and what they are.](/blog/posts/2023-08-15-Interface-Drama-Master-List/) They're (usually software) interfaces that tell a story. Previously called UI games or desktop simulators, @mabbees and I are proposing a new name: interface dramas.
 
 I made an [**Interface Drama Master List**](https://illuminesce.net/interface-drama) here. I hope to help boost visibility for this niche genre.
 
@@ -33,7 +33,7 @@ I'm still in the process of contacting devs to make sure the tagging/entries loo
 
 ### Don't see a game that you think should be on the list?
 
-[Submit a new interface drama here.](https://forms.gle/NKXv94fuBjSoZ9pv6) I love new submissions! [Please take a look at the FAQ before submitting.](https://chostett.com/blog/posts/2023-08-15-Interface-Drama-Master-List) Info here will be regularly updated.
+[Submit a new interface drama here.](https://forms.gle/NKXv94fuBjSoZ9pv6) I love new submissions! [Please take a look at the FAQ before submitting.](/blog/posts/2023-08-15-Interface-Drama-Master-List/) Info here will be regularly updated.
 
 **Thank you to the person who submitted [Zachtronics' TIS-100](https://zachtronics.com/tis-100/).**
 
@@ -209,11 +209,11 @@ Since that initial conversation, there's been many requests to update the Interf
 
 In 2024, I did some live streaming of games along different themes: intrigue, longing, and uncanny. Check them out here:
 
-* [Exploring Intrigue with Interface Dramas](/posts/2024-04-18-Interface-Drama-Streaming-Vol1.html)
-* [Interface as Longing](/posts/2024-04-22-Interface-Drama-Streaming-Vol2.html)
-* [Abstracting away horror with UNCANNY interface dramas](/posts/2024-05-11-Interface-Drama-Streaming-Vol3.html)
+* [Exploring Intrigue with Interface Dramas](/blog/posts/2024-04-18-Interface-Drama-Streaming-Vol1)
+* [Interface as Longing](/blog/posts/2024-04-22-Interface-Drama-Streaming-Vol2/)
+* [Abstracting away horror with UNCANNY interface dramas](/blog/posts/2024-05-11-Interface-Drama-Streaming-Vol3/)
 
-One of the things I _haven't_ done but have been meaning to do is map out all of these different genres and sub-genres. I started researching the history of interface and did a writeup on its radical roots here: ["Remembering the Radical Roots of Interface"](/posts/2024-05-07-Radical-Roots-of-UI/)
+One of the things I _haven't_ done but have been meaning to do is map out all of these different genres and sub-genres. I started researching the history of interface and did a writeup on its radical roots here: ["Remembering the Radical Roots of Interface"](/blog/posts/2024-05-07-Radical-Roots-of-UI/)
 
 When I started out thinking about interface dramas, I had an artistic image in mind; and they do justify their own category, I think—but the more I read about other fields describing interfaces, the more I realize there's a big difference in:
 

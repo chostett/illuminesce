@@ -118,3 +118,11 @@ I like to remind myself of this sometimes, that I am capable of both good and ev
 I do, however, appreciate her putting together a timeline for us, because this is what has persisted over the years.
 
 Thanks for everyone who read all the way to the end. I apologize for any typos on my end; this started off as my short impressions and turned into a novel. I don't think I can write about fandom and not have it be a novel.
+
+---
+
+### Related posts
+
+* [Let's talk about Shadow Hearts](/blog/posts/2023-07-03-Lets-talk-about-Shadow-Hearts/)
+* [As a longtime dollfie fan](/blog/posts/2023-08-30-As-a-longtime-dollfie-fan/)
+* [Visiting the first boy's love exhibit in Japan](/blog/posts/2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan/)

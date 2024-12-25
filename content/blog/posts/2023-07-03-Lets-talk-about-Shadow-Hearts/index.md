@@ -8,7 +8,7 @@ tags:
   - video-games
 ---
 
-![Portrait illustrations of a brown-haired man, Yuri, and a blonde girl, Alice.](./shadowhearts-01.png)
+![Portrait illustrations of a brown-haired man, Yuri, and a blonde girl, Alice.](shadowhearts-01.png)
 
 _Originally posted on cohost.org on July 3rd, 2023. This article mentions "chosts" which are posts on cohost. Cohost closed down in 2024, and so the original is archived here._
 
@@ -31,7 +31,7 @@ There are four games in the series:
 * [_Shadow Hearts: Covenant/Shadow Hearts II:_](https://en.wikipedia.org/wiki/Shadow_Hearts:_Covenant) 2004-2005
 * [_Shadow Hearts_](https://en.wikipedia.org/wiki/Shadow_Hearts:_From_the_New_World)
 
-![All four games in the Shadow Hearts series and their box art.](./shadowhearts-02.png)
+![All four games in the Shadow Hearts series and their box art.](shadowhearts-02.png)
 
 And a manga series, _Koudelka II_, following the events after the Koudelka game. There are also pachinko machines (WTF?) which I will get to later.
 
@@ -63,7 +63,7 @@ _Koudelka_ explores this kind of horror by making the central plot of the game t
 
 For a RPG, this isn't as easy as killing the bad guys and saving the day; the forces at play here are larger than the characters. The Émigré Manuscript, a central document to the lore of Shadow Hearts, has the power to bring the dead back to life. It exchanges hands throughout the story, and in the wrong hands with the wrong motivation it can be downright terrifying. The monsters, sometimes who once were human, too, have their own horrible lore that adds to the overall unease of the series.
 
-![A 3D model of a half-man, half-corpse monster.](./shadowhearts-03.png)
+![A 3D model of a half-man, half-corpse monster.](shadowhearts-03.png)
 
 _"Ghost of a bell ringer who took his own life. His body was pierced by a pole when he jumped off a bell tower. The story goes that the birds ate his flesh."_ (via [Shadow Hearts wiki](https://shadowhearts.fandom.com/wiki/Bird_Man))
 
@@ -73,7 +73,7 @@ Another thematic element is how each of the characters are flawed in their own w
 
 His own fusions are in the same vein as enemy monsters in Shadow Hearts—it's interesting to have a main character's own demons be so close to the ones that your party is killing. (Side note: did I mention I love the Shin Megami Tensei series for the same reason?)
 
-![A 3D model of a humanoid lava monster covered in rocks.](./shadowhearts-04.png)
+![A 3D model of a humanoid lava monster covered in rocks.](shadowhearts-04.png)
 
 _Pictured: one of Yuri's flame fusions._
 
@@ -81,7 +81,7 @@ I love Yuri in particular because at the beginning of _Shadow Hearts I_ he seems
 
 _Shadow Hearts II_ picks up with Yuri in an even worse state than before—he's lost someone very important to him, and he's dying. And yet, we as the players get to see a gentler Yuri—someone who is still rough around the edges but who takes in moments of kindness and friendship because he doesn't know how long they'll last.
 
-![Yuri and his old enemy, sitting on a bench under a clear sky.](./shadowhearts-05.png)
+![Yuri and his old enemy, sitting on a bench under a clear sky.](shadowhearts-05.png)
 
 _Pictured: Yuri and his old enemy, sitting on a bench together under a blue sky._
 
@@ -91,7 +91,7 @@ Unfortunately, due to criticism that the game was too dark, the horror tones of 
 
 _Shadow Hearts III_ was the silliest of the series; the character designs seemed to be pulled from a hat of stereotypes and little thought was given into how each of the characters would interact with one another on a deep level.
 
-![An older man in red, white and blue garb grinning at the camera.](./shadowhearts-06.png)
+![An older man in red, white and blue garb grinning at the camera.](shadowhearts-06.png)
 
 _Pictured: Frank, the American ninja from Shadow Hearts III._
 
@@ -99,7 +99,7 @@ Overall, I loved the blending of real with cosmic and demonic, the relatable cha
 
 It's the kind of story where time it spent developing each of the characters' arcs and focusing not only on their personal journey, but how they are affected by others in their life.
 
-![A soft, pastel-like illustration fo Yuri and Alice traveling together - Alice is pointing out something in the distance. They are both smiling.](./shadowhearts-07.png)
+![A soft, pastel-like illustration fo Yuri and Alice traveling together - Alice is pointing out something in the distance. They are both smiling.](shadowhearts-07.png)
 
 ## The Soundtrack of Shadow Hearts
 
@@ -113,7 +113,7 @@ I'm not sure if this music _hits_ the same way to someone seeing this for the fi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ewzof2aF3Fk?si=teWoSEt_2aKAVPP2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
-The lessons I took out of these games was how important music was to a "gamefeel" experience: part of the reason why our game _Terranova_ doesn't have music at the moment is because [mabbees](https://mabbees.neocities.org) and I knew that we'd be really picky on the sound and it would delay the game by at least a year or two, if not more, if we chose to do sounds outside of SFX. Now that we've released our content update for the game, we can dive into music.
+The lessons I took out of these games was how important music was to a "gamefeel" experience: part of the reason why our game _Terranova_ doesn't have music at the moment is because [**mabbees**](https://mabbees.neocities.org) and I knew that we'd be really picky on the sound and it would delay the game by at least a year or two, if not more, if we chose to do sounds outside of SFX. Now that we've released our content update for the game, we can dive into music.
 
 I highly recommend checking out the full soundtracks for each of the games if you liked either of these examples. If you like grunge in particular, I'd probably listen to _Shadow Hearts I, II, III_ and then _Koudelka_. Thanks to Shadow Hearts Wikia for uploading all of these on YouTube.
 
@@ -132,11 +132,11 @@ The battle system revolves around the mechanic of the Judgement Ring. It's a rin
 
 Basic attacks and items have a relatively easy rhythm to hit; attacks have three sections and as such, three opportunities to hit. If the player hits only one or two, they will still do damage. Each character has their own Judgment Ring rhythm and, much like music games, with practice, it becomes more and more intuitive. (via [Judgment-Ring.com](http://judgement-ring.com/))
 
-![A UI ring with different sections as targets for the player to hit. Once these targets are hit, the player character will successfully attack.](./shadowhearts-08.jpg)
+![A UI ring with different sections as targets for the player to hit. Once these targets are hit, the player character will successfully attack.](shadowhearts-08.jpg)
 
 Because each of the characters' rings are unique and as they level up they access new skills that have completely different rhythms, the Ring mechanic starts off simple and gets more and more complex as the game progresses. The progression never feels steep; and eventually players will be hitting more difficult to hit sections.
 
-![A UI screen of an item that can change the size and shape of the Judgment Ring.](./shadowhearts-09.jpg)
+![A UI screen of an item that can change the size and shape of the Judgment Ring.](shadowhearts-09.jpg)
 
 For people who are used to rhythm games and want to make the game even more difficult, there are special accessories in the game that will allow your characters to become more powerful—but with harder to hit Rings. It feels like a fun accomplishment every time you find yourself accessing harder and harder to hit Rings.
 
@@ -150,13 +150,11 @@ Yuri, from _Shadow Hearts I and II_ and Shania from _Shadow Hearts III_ both hav
 
 The concept of sanity is inspired from HP Lovecraft's books, and in Shadow Hearts it's applied as a timer for any action the player takes. Each turn, each party member loses Sanity Points battling against demons. When their Sanity Points hit 0, they go Berserk, which means they become uncontrollable. They can attack party members, use healing items on enemies, or hurt themselves. Harmonixers have and use the most Sanity Points. It ensures that battles don't go on forever and puts a balance on especially powerful demon fusions so they can't be in play for long.
 
-![Screenshot of all characters in battle. PS1-era graphics.](./shadowhearts-10.png)
+![Screenshot of all characters in battle. PS1-era graphics.](shadowhearts-10.png)
 
 The cherry on top is that story-wise, the more powerful inner demons the player unlocks, the more Yuri and Shania deteriorate. The power to commune with demons is one a human should never have, and these consequences come to bear for both of the protagonists.
 
 The final "demon" that Yuri must unlock is someone very close to him; and if players can achieve all of the fusions they will unlock a special part of the story, too.
-
-![A 3D model of a mysterious man in a fox mask.](./shadowhearts-11.png)
 
 ### Criticisms of Shadow Hearts
 
@@ -164,13 +162,13 @@ When I love something, I want it to be better. Shadow Hearts is no different. It
 
 I'm especially critical of Karin; she's supposed to be in the military, and she was written as chronically indecisive and defers to Yuri, the male protagonist. Koudelka is supposed to be a psychic who is on a visit to a monastery, though she looks like she'd be more at home in a kink party. The way women look and are written in this series are so incongruous to their characters as capable, intelligent people who are fighting dangerous cosmic horrors.
 
-![A sexy image of a blonde woman in lingerie posing over skeletons.](./shadowhearts-12.jpg)
+![A sexy image of a blonde woman in lingerie posing over skeletons.](shadowhearts-11.jpg)
 
 _"Koudelka—it's not just men that fall at her feet."_
 
 There's also some really weird mother complex between two characters, and an unsettling character named [Cornelia](https://shadowhearts.fandom.com/wiki/Cornelia) from _Shadow Hearts II_ who is a doll, but also has the form of a prepubescent girl. Her power changes through the outfits she wears; but some of them are pretty revealing and in the Director's Cut, she has a nude outfit. Given her "puppeteer" is an old man and him dressing her is a necessary part of leveling up, it crosses the line into ick territory for me.
 
-I ended up streaming Koudelka and while the criticisms here still stand, I deeply enjoyed the game's evocative nature. [**Read my post about Koudelka here.**](/posts/2023-08-01-Koudelka.html)
+I ended up streaming Koudelka and while the criticisms here still stand, I deeply enjoyed the game's evocative nature. [**Read my post about Koudelka here.**](/blog/posts/2023-08-01-Koudelka/)
 
 Another critique I have of Shadow Hearts is its pacing when it comes to random encounters. The battle system is snappy,but sometimes there are so many encounters the player can find themselves grinding a fair bit. I will probably play all of them again, but in the era of modern RPG's, I've lost a lot of patience for grinding for the sake of grinding that many RPG's of that era had.
 
@@ -196,13 +194,13 @@ While I was checking my sources for this post, I happened upon a stray comment o
 
 _Penny Blood_ is said to be the spiritual successor of Shadow Hearts. It's a collaboration with Matsuzo Machida, the original creator of _Shadow Hearts I, II and III_ and Yoshitaka Hirota, the composer for the Shadow Hearts series. It looks like it will be the spiritual successor of Shadow Hearts and is in keeping with the series' dark roots.
 
-![A screenshot of Penny Blood. It shows a blonde haired man looking darkly into the sky.](./shadowhearts-12.jpg)
+![A screenshot of Penny Blood. It shows a blonde haired man looking darkly into the sky.](shadowhearts-12.jpg)
 
 _This is a screencap from the demo reel. Love the cell shading. It gives the game a retro feel without defaulting to PS2 graphics._
 
 _Penny Blood_ takes place three years after Shadow Hearts: From the New World following Matthew Farrell, a New York cop who visits a seemingly abandoned asylum and discovers his own horrible powers. The demo of the game shows him entering the asylum under a blood red moon (it's cringey, but they really lean into over-the-top gothic elements), encountering a multi-eyed and multi-mouthed abomination and...
 
-![A screenshot of Penny Blood. It shows the new non-Judgment Ring, the Psycho Sigil, which looks like a tarot card with points.](./shadowhearts-13.jpg)
+![A screenshot of Penny Blood. It shows the new non-Judgment Ring, the Psycho Sigil, which looks like a tarot card with points.](shadowhearts-13.jpg)
 
 THE JUDGMENT RING—ahem, the **Psycho Sigil** battle system seems to also be timing and rhythm-based attack and magic-casting mechanics. Reader, when I saw this I was shouting for joy. I initially came to this post thinking that the Shadow Hearts story would end with pachinko slots, but in digging deeper into the franchise, I discovered _Penny Blood_. I really hope the designers improve upon lessons learned from the early 00's, and also that the non-male characters characters get the treatment and love they deserve; there's already two women protagonists, [Emilia and Suseri](https://www.pennyblood.jp/?page_id=972&lang=en#characters), who have interesting histories (robotic arms? yes please) and have some great potential.
 
@@ -218,7 +216,7 @@ If you've read this long, thank you for indulging in my fixation on this unique 
 
 Thanks for reading.
 
-![A promo image of Penny Blood. Text reads, Amass Allies, Confront Trauma, in a World Twisted by Cosmic Horror](./shadowhearts-14.png)
+![A promo image of Penny Blood. Text reads, Amass Allies, Confront Trauma, in a World Twisted by Cosmic Horror](shadowhearts-14.png)
 
 _**Author's edit, 2024/03/23:** Initially, I wrote that Penny Blood was a collaboration between Machida, the original producer of Shadow Hearts, and Kikuta, the creator of Koudelka, but this was in error. Machida is collaborating with Yoshitaka Hirota, the original composer for Shadow Hearts._
 

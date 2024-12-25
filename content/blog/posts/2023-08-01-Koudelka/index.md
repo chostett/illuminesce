@@ -8,6 +8,8 @@ tags:
   - video-games
 ---
 
+This is a followup from [Let's talk about Shadow Hearts.](/blog/posts/2023-07-03-Lets-talk-about-Shadow-Hearts/)
+
 Just finished [another stream of Koudelka](https://www.twitch.tv/videos/1887218028). It's wild to me that these graphics are low poly and yet so evocative.
 
 There was a part I played through tonight where Koudelka is bent forward in pain because she's channeling the spirits of the dead and is obviously in pain. Edward leans forward to try to touch her. She immediately yells, "don't touch me! Fuck off!" and he steps back, appalled.

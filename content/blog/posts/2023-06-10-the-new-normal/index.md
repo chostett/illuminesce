@@ -66,6 +66,4 @@ _**Edit to Add:** Since this blog post, I was able to seek help from a gastroint
 
 _I'm in the process of doing some diet modifications that may turn more permanent in the future. It's frustrating to know that after all this trial and error, there is still more trial and error yet to come, but at least it feels like I'm getting closer to an answer._
 
-The update to this post is [unexpectedly hopeful.](https://illuminesce.net/blog/posts/2023-08-02-unexpectedly-hopeful.html)
-
-_CJ is a designer and indie dev. They write as a hobby. If you like this article, why not [say hello in an email](https://illuminesce.net/contact) or [buy them a coffee](https://ko-fi.com/studioterranova) to support their work?_
+The update to this post is [unexpectedly hopeful.](/blog/posts/2023-08-02-unexpectedly-hopeful/)

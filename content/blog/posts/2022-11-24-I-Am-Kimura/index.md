@@ -62,3 +62,9 @@ I lean closer to the phone. "Do you need me to spell it?"
 "Oh no, I'm good," he says. We both breathe out a collective sigh of relief.
 
 "Got you for 2 at 6PM. See you soon, Mr. Himura."
+
+---
+
+### Related posts
+
+* *[Ripley](/blog/posts/2023-05-04-Ripley/)_

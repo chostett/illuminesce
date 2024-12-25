@@ -7,7 +7,7 @@ tags:
   - lgbtq
 ---
 
-_This is Part Two of a two-part series. [Part One can be found here.](2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan.html)_
+_This is Part Two of a two-part series. [Part One can be found here.](/blog/posts/2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan/)_
 
 For a limited time from May 20th ~ July 16th, the [Kadokawa Culture Museum ran a "First Boy's Love Exhibit"](https://kadcul.com/event/121) covering the roots and history of the Boy's Love (BL) genre in Japan and abroad. I attended during that time.
 
@@ -104,4 +104,4 @@ Until next time, y'all!
 4.  [Eventbrite, Citrus Con 2024.](https://www.eventbrite.com/e/citrus-con-2024-tickets-707002211647)
 5.  [激レア資料の大宝庫!「はじめてのBL展」展示会徹底レポ.](https://blnews.chil-chil.net/newsDetail/34332/) via blnews.chil-chil.net
 
-_CJ is a designer and indie dev. They write as a hobby. If you like this article, why not [say hello in an email](https://illuminesce.net/contact) or [buy them a coffee](https://ko-fi.com/studioterranova) to support their work?_
+_CJ is a designer and indie dev. They write as a hobby. If you like this article, why not [say hello in an email](https://illuminesce.net/contact) or [buy them a coffee](https://ko-fi.com/illuminesce) to support their work?_

@@ -66,15 +66,13 @@ Come next year, I'll have a pretty cool birthday present to show you.
 
 Happy birthday.
 
-* * *
+---
 
-[2020's Birthday Letter is here.](/posts/2020-09-14-A-Birthday-Letter-2020.html)
+[2020's Birthday Letter is here.](/blog/posts/2020-09-14-A-Birthday-Letter-2020/)
 
-[2022's Birthday Letter is here.](/posts/2022-09-14-A-Birthday-Letter-2022.html)
+[2022's Birthday Letter is here.](/blog/posts/2022-09-14-A-Birthday-Letter-2022/)
 
-* * *
-
-_
+---
 
 [The National Suicide Prevention Hotline](https://suicidepreventionlifeline.org/) in the U.S. is 1–800–273–8255.
 

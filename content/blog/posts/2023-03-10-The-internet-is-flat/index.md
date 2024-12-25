@@ -17,7 +17,7 @@ As an ethnographer, I run into this in field research, too. The best way to get 
 
 Web 1.0 is a research visit, over time, to someone's house. The closets remain closed and there's nothing "spontaneous" happening that was unplanned by a participant, but at least these snapshots are _in order._ Maybe you'll see the closets one time, but just a peek. Web 2.0 is snapshots with no context, out of order. You visit the participant's house, but only on last Saturday (because last Saturday they had a party and it was the most "happening" day to visit). You don't even pass by the closets this time; everything is cleaned and curated. The next wave, it seems, is snapshots mixed in with robot-generated snapshots. Imagine, if you will, a researcher visiting a person's house...over and over again at the same party with the knowledge that only one of the participants they visited was real. The rest were AI-generated.
 
-Right now, it is extremely difficult to get a clear snapshot of what a person looks like online. They are fragmented across social platforms, and each of these social platforms is designed to show you only the most _engaging_\> snapshot of this person, whether that be something people hate or people like.
+Right now, it is extremely difficult to get a clear snapshot of what a person looks like online. They are fragmented across social platforms, and each of these social platforms is designed to show you only the most _engaging_ snapshot of this person, whether that be something people hate or people like.
 
 At the Tokyo Trans March last year there was a conflict involving some members and the management. Onsite, people were friendly. They made mistakes; most of the time people were gracious about it. But in the shared LINE chat, where people could only see one another's usernames and avatars, some people were angry; the rest wanted to distance themselves. The LINE chat was summarily shut down; people with no place to vent went to Twitter.
 
@@ -28,3 +28,10 @@ I bring up this example because I've noticed this a lot in small, tight knit com
 When I think about this, I realize how little data I have to make judgments of others and how it's on me to scrape through content and jumbled snapshots to make my own sense of a person. I usually lose faith that I could capture anything meaningful before I even write the post, all because the amount of time and research it would take for me to educate myself on a particular person is far more hours, quite frankly than I have in the day. Me personally, I'd rather be boots on the ground protesting than writing an article saying we should protest, so I lose patience and give up.
 
 I'm thinking a lot about how jumbled and out of context this digital world is and how it fucks with our human perception. And because we can't trust what we see in front of our eyes, we have less reason to trust one another.
+
+---
+
+### Related posts
+
+* [Finding a Home on the Internet](/blog/posts/2023-07-01-Finding-a-Home-on-the-Internet/)
+* [Thoughts on the Patreon Rebrand](/blog/posts/2023-10-05-Patreon-Rebrand/)

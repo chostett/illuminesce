@@ -7,7 +7,7 @@ tags:
   - lgbtq
 ---
 
-_This is Part One of a two-part series. [You can find Part Two here.](2023-09-30-Visiting-the-First-Boys-Love-Exhibition-in-Japan.html)_
+_This is Part One of a two-part series. [You can find Part Two here.](/blog/posts/2023-09-30-Visiting-the-First-Boys-Love-Exhibition-in-Japan/)_
 
 For a limited time from May 20th ~ July 16th, the [Kadokawa Culture Museum ran a "First Boy's Love Exhibit"](https://kadcul.com/event/121) covering the roots and history of the Boy's Love (BL) genre in Japan and abroad. I had the good fortune to visit with my friend Ceren ([@cerengunes](https://twitter.com/CerenGunes)).
 
@@ -89,7 +89,7 @@ As we moved into the modern-day BL section, I wondered what Satō would think ab
 
 This concludes Part One of _Visiting the "First Boy's Love Exhibition" in Japan!_
 
-[Continued in Part Two on tropes, parodies and modern BL.](2023-09-30-Visiting-the-First-Boys-Love-Exhibition-in-Japan.html)
+[Continued in Part Two on tropes, parodies and modern BL.](/blog/posts/2023-09-30-Visiting-the-First-Boys-Love-Exhibition-in-Japan/)
 
 <div class="caption">From the comic <a href="https://www.webtoons.com/en/canvas/dorito-faced-bad-touch-sempai-san-and-shota-boy-/list?title_no=315" target="_blank">Dorito Face Bad Touch Sempai-san and Shota Boy</a> on Webtoons.</div>
 
@@ -101,4 +101,4 @@ This concludes Part One of _Visiting the "First Boy's Love Exhibition" in Japan!
 
 ### About the Author
 
-_CJ is a designer and indie dev. They write as a hobby. If you like this article, why not [say hello in an email](https://illuminesce.net/contact) or [buy them a coffee](https://ko-fi.com/studioterranova) to support their work?_
+_CJ is a designer and indie dev. They write as a hobby. If you like this article, why not [say hello in an email](https://illuminesce.net/contact) or [buy them a coffee](https://ko-fi.com/illuminesce) to support their work?_

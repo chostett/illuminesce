@@ -51,7 +51,7 @@ It's been strange having the code editor up instead of the post editor. And true
 
 And I don't feel pressured to post as much. It's nice to not have that anxiety in the back of my head; that I _need_ to capture the moment to show it. If I do snap a photo, I share it on Discord, or Slack, or LINE, or one of the many direct messaging channels I have now.
 
-I still keep a presence on [Twitter for Terranova](https://twitter.com/playterranova/), and check my personal/professional Twitter from time to time, but mostly for direct messages.
+I still keep a presence on [Twitter for Terranova](https://twitter.com/playterranova/), and check my personal/professional Twitter from time to time, but mostly for direct messages. _(Update: I deleted both of these accounts.)_
 
 This space may not be 100% mine—it still is hosted on neocities' and GitHub's servers, but it feels more like my home on the internet many years ago—moreso than it ever has.
 

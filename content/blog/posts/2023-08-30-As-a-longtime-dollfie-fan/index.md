@@ -7,7 +7,7 @@ tags:
   - fandom
 ---
 
-In response to あれく's blog post, ["if you love it enough, it will live."](content/blog/posts/2023-08-22-Interface-Drama)
+In response to あれく's blog post, ["if you love it enough, it will live."](https://denden.garden/2023/08/29/volks-dollfie/)
 
 ---
 

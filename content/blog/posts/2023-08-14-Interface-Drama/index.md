@@ -25,4 +25,4 @@ _Games featured in the cover image are:_
 
 From this post, I created the [**Interface Drama Master List**](https://illuminesce.net/interface-drama).
 
-You can see [more discussion on the genre of interface drama here.](/posts/2023-08-22-Interface-Drama.html)
+You can see [more discussion on the genre of interface drama here.](/blog/posts/2023-08-22-Interface-Drama/)

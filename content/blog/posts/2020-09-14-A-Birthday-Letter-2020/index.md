@@ -72,15 +72,13 @@ So now I can say, “visit anytime.” I would love that. Come by sometime. I’
 
 Happy birthday.
 
-* * *
+---
 
-[2022's Birthday Letter is here.](/posts/2022-09-14-A-Birthday-Letter-2022.html)
+[2022's Birthday Letter is here.](/blog/posts/2022-09-14-A-Birthday-Letter-2022/)
 
-[2021's Birthday Letter is here.](/posts/2021-09-14-A-Birthday-Letter-2021.html)
+[2021's Birthday Letter is here.](/blog/posts/2021-09-14-A-Birthday-Letter-2021/)
 
-* * *
-
-_
+---
 
 [The National Suicide Prevention Hotline](https://suicidepreventionlifeline.org/) in the U.S. is 1–800–273–8255.
 

@@ -48,3 +48,9 @@ I have since openly admitted to my partner that I was wrong and he is the Most K
 I admit, I still believe Ripley exists, around 20%. It's a feeling I can't shake. Maybe not in Metroid, but in some separate universe, there's a pterodactyl alien chasing the Famous Seamus Arran and she'll point her bean guns at it and say,
 
 # "I'm coming for you, Ripley!!!!"
+
+---
+
+### Related posts
+
+* [I am Kimura](/blog/posts/2022-11-24-I-Am-Kimura/)

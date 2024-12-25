@@ -8,7 +8,7 @@ tags:
 
 _Content Warning: This entry contains medical talk of vomiting and talk of food._
 
-[In my last update,](2023-06-10-the-new-normal.html) I spoke about how frustrating it was to do constant trial and error when it came to my health.
+[In my last update,](/blog/posts/2023-06-10-the-new-normal.html/) I spoke about how frustrating it was to do constant trial and error when it came to my health.
 
 After two months, I have an unexpectedly hopeful update.
 
