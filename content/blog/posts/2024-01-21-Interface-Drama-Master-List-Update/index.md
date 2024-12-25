@@ -1,5 +1,5 @@
 ---
-title: '[Update] Interface Drama Master List'
+title: 'Interface Drama Master List Update: A Date with Death and More'
 slug: 2024-01-21-Interface-Drama-Master-List-Update
 date: '2024-01-21'
 tags:

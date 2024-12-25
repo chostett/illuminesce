@@ -1,5 +1,5 @@
 ---
-title: 'Black Artists I've Worked With and Recommend'
+title: 'Repping Black Artists'
 slug: 2024-06-19-Black-Artists-Reccs
 date: '2024-06-19'
 tags:

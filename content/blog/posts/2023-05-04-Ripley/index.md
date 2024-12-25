@@ -33,7 +33,7 @@ Instead of admitting my mistake, I responded in hubris.
 
 He squinted at me. "No, it's Ridley...like Ridley Scott, the director of _Alien_."
 
-"No, Ripley is like...Sigourney Weaver's character in )_Alien_, right?"
+"No, Ripley is like...Sigourney Weaver's character in _Alien_, right?"
 
 He stopped playing Metroid to open up a wiki. To which, I realized the following three things:
 

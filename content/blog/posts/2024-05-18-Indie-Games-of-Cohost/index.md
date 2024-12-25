@@ -1,5 +1,5 @@
 ---
-title: INDIE INTERVIEWS - CJ from Studio Terranova (Terranova, Tomodachi 8in1, Open Your Heart, Little Red, and more)
+title: 'Indie Games of Cohost: CJ from Studio Terranova'
 slug: 2024-05-18-Indie-Games-of-Cohost
 date: '2024-05-18'
 tags:

@@ -5,6 +5,7 @@ date: '2023-07-03'
 tags:
   - cohost
   - fandom
+  - video-games
 ---
 
 ![Portrait illustrations of a brown-haired man, Yuri, and a blonde girl, Alice.](./shadowhearts-01.png)
@@ -168,6 +169,8 @@ I'm especially critical of Karin; she's supposed to be in the military, and she 
 _"Koudelka—it's not just men that fall at her feet."_
 
 There's also some really weird mother complex between two characters, and an unsettling character named [Cornelia](https://shadowhearts.fandom.com/wiki/Cornelia) from _Shadow Hearts II_ who is a doll, but also has the form of a prepubescent girl. Her power changes through the outfits she wears; but some of them are pretty revealing and in the Director's Cut, she has a nude outfit. Given her "puppeteer" is an old man and him dressing her is a necessary part of leveling up, it crosses the line into ick territory for me.
+
+I ended up streaming Koudelka and while the criticisms here still stand, I deeply enjoyed the game's evocative nature. [**Read my post about Koudelka here.**](/posts/2023-08-01-Koudelka.html)
 
 Another critique I have of Shadow Hearts is its pacing when it comes to random encounters. The battle system is snappy,but sometimes there are so many encounters the player can find themselves grinding a fair bit. I will probably play all of them again, but in the era of modern RPG's, I've lost a lot of patience for grinding for the sake of grinding that many RPG's of that era had.
 

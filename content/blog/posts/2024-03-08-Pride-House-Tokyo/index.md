@@ -26,13 +26,13 @@ It opened in 2020 in preparation for the Tokyo Olympics/Paralympics, and unfortu
 
 ### They are open for walk-ins/coworking during these times...
 
-**Sunday:** 13:00~19:00
-**Monday:** 13:00~19:00
-**Tuesday:** 13:00~19:00
-**Wednesday:** closed
-**Thursday:** closed
-**Friday:** 13:00~19:00
-**Saturday:** 13:00~19:00
+* **Sunday:** 13:00~19:00
+* **Monday:** 13:00~19:00
+* **Tuesday:** 13:00~19:00
+* **Wednesday:** closed
+* **Thursday:** closed
+* **Friday:** 13:00~19:00
+* **Saturday:** 13:00~19:00
 
 ### For people who live near Tokyo
 
@@ -46,4 +46,4 @@ They have events in the evening for those who can't make it out in the daytime; 
 
 Share this information! And if you find yourself in Tokyo, stop by and make a donation.
 
-* _I have good friends who work at Pride House, so I am repping them as a fan and as someone who wants to see their friends continued to be employed by an LGBTQ-friendly org in Japan!_
+_I have good friends who work at Pride House, so I am repping them as a fan and as someone who wants to see their friends continued to be employed by an LGBTQ-friendly org in Japan!_
