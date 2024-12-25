@@ -11,6 +11,8 @@ Thanks to [@morayati](https://katherinemorayati.com/), [@ianmichael](https://ian
 
 [**Check out the queue here.**](https://trello.com/b/FsmPZht8/interface-drama-master-list-submission-queue)
 
+![The Interface Drama Submission Queue.](queue.png)
+
 ## Updates to the FAQ
 
 I started [codifying the criteria for interface dramas](/posts/2023-08-15-Interface-Drama-Master-List.html) and some of their overlapping categories like [epistolary games](/posts/2023-08-22-Interface-Drama.html); the submissions and questions from folks help challenge my own assumptions and state biases more explicitly rather than assuming implicitly. Let's keep conversations and discussions going.
