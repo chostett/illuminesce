@@ -26,3 +26,9 @@ Thank you again for your continued support.
 [**ダウンロードはこちら** | Download the game here](https://illuminesce.itch.io/terranovajp)
 
 [**Ko-fiで応援** | Support us on Ko-fi](https://t.co/6VxSyq31fK)
+
+## Update: Featured in Denfamico Gamer and Famitsu
+
+Terranova was featured in [Denfamico Gamer](https://news.denfaminicogamer.jp/news/231018y) and [Famitsu](https://www.famitsu.com/news/amp/202310/18321023.php) in October.
+
+We're in the process of raising funds for the rest of the Japanese translation. Localization for the full game comes in around 200万円 (about $13,400 USD) so we’re hoping we can get those funds to pay our translator fairly.
