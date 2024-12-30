@@ -162,7 +162,7 @@ When I love something, I want it to be better. Shadow Hearts is no different. It
 
 I'm especially critical of Karin; she's supposed to be in the military, and she was written as chronically indecisive and defers to Yuri, the male protagonist. Koudelka is supposed to be a psychic who is on a visit to a monastery, though she looks like she'd be more at home in a kink party. The way women look and are written in this series are so incongruous to their characters as capable, intelligent people who are fighting dangerous cosmic horrors.
 
-![A sexy image of a blonde woman in lingerie posing over skeletons.](shadowhearts-11.jpg)
+![A sexy image of a blonde woman in lingerie posing over skeletons.](shadowhearts-11.png)
 
 _"Koudelka—it's not just men that fall at her feet."_
 
