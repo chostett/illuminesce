@@ -51,4 +51,4 @@ If you're interested, why not share with me what you'll be reading about this ye
 
 I'd love to hear it.
 
-Many thanks to Nicky Flowers for the inspiration.
+Many thanks to Nicky Flowers for the inspiration and to Emily, Sam, Crystal and mabbees for the great conversation today that kicked off this post.
