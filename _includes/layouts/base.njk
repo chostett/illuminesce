@@ -7,8 +7,19 @@
 		<meta name="description" content="{{ description or metadata.description }}">
 		<link rel="alternate" href="feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 
-		{#- Uncomment this if you’d like folks to know that you used Eleventy to build your site!  #}
-		{#- <meta name="generator" content="{{ eleventy.generator }}"> #}
+		{# - For pretty links when sharing your site elsewhere -#}
+		{# - Open Graph / Facebook -#}
+		<meta property="og:title" content="{{title}}" />
+  		<meta property="og:description" content="{{description or metadata.description}}" />
+  		<meta property="og:url" content="{{canonicalURL}}" />
+  		<meta property="og:image" content="{{socialImageURL}}" />
+
+  		{# - Twitter -#}
+  		<meta property="twitter:card" content="summary_large_image" />
+  		<meta property="twitter:title" content="{{title}}" />
+  		<meta property="twitter:description" content="{{description or metadata.description}}" />
+  		<meta property="twitter:url" content="{{canonicalURL}}" />
+  		<meta property="twitter:image" content="{{socialImageURL}}" />
 
 		{#-
 		Plain-text bundles are provided via the `eleventy-plugin-bundle` plugin:
