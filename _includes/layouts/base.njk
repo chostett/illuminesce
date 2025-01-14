@@ -6,20 +6,23 @@
 		<title>{{ title or metadata.title }}</title>
 		<meta name="description" content="{{ description or metadata.description }}">
 		<link rel="alternate" href="feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
+		{% if canonical %}
+  			<link rel="canonical" href="{{ canonical }}" />
+		{% endif %}
 
 		{# - For pretty links when sharing your site elsewhere -#}
 		{# - Open Graph / Facebook -#}
-		<meta property="og:title" content="{{title}}" />
-  		<meta property="og:description" content="{{description or metadata.description}}" />
-  		<meta property="og:url" content="{{canonicalURL}}" />
-  		<meta property="og:image" content="{{socialImageURL}}" />
+		<meta property="og:title" content="{{ title }}" />
+  		<meta property="og:description" content="{{ description or metadata.description }}" />
+  		<meta property="og:url" content="{{ canonical }}" />
+  		<meta property="og:image" content="{{ image }}" />
 
   		{# - Twitter -#}
   		<meta property="twitter:card" content="summary_large_image" />
-  		<meta property="twitter:title" content="{{title}}" />
-  		<meta property="twitter:description" content="{{description or metadata.description}}" />
-  		<meta property="twitter:url" content="{{canonicalURL}}" />
-  		<meta property="twitter:image" content="{{socialImageURL}}" />
+  		<meta property="twitter:title" content="{{ title }}" />
+  		<meta property="twitter:description" content="{{ description or metadata.description }}" />
+  		<meta property="twitter:url" content="{{ canonicalURL }}" />
+  		<meta property="twitter:image" content="{{ image }}" />
 
 		{#-
 		Plain-text bundles are provided via the `eleventy-plugin-bundle` plugin:
