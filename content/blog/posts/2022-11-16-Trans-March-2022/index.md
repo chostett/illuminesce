@@ -4,7 +4,7 @@ slug: 2022-11-16-Trans-March-2022
 date: '2022-11-16'
 canonical: 'https://illuminesce.net/blog/posts/2022-11-16-Trans-March-2022/'
 description: 'A small hello from the Trans Tokyo March in 2022.'
-image: 'https://illuminesce.net/blog/posts/2022-11-16-Trans-March-2022/v2NSRr66B5-1368.avif'
+image: ''
 tags:
   - cohost
   - lgbtq

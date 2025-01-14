@@ -2,6 +2,9 @@
 title: I left work to take a sabbatical.
 slug: 2023-01-23-I-left-work-to-take-a-sabbatical
 date: '2023-01-23'
+canonical: 'https://illuminesce.net/blog/posts/2023-01-23-I-left-work-to-take-a-sabbatical/'
+description: 'Starting at the end of this month, I'll be leaving my job. I have a hard time saying out loud I'm taking a break.'
+image: ''
 tags:
   - personal
 ---

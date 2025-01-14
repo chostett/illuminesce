@@ -3,7 +3,7 @@ title: A Birthday Letter, 2020
 slug: 2020-09-14-A-Birthday-Letter-2020
 date: '2020-09-14'
 canonical: 'https://illuminesce.net/blog/posts/2020-09-14-A-Birthday-Letter-2020/'
-description: 'Happy birthday. You won't believe what a year it's been.'
+description: 'Happy birthday. It has been...a year.'
 image: ''
 tags:
   - personal
