@@ -1,7 +1,7 @@
 ---
 title: 'As a longtime dollfie fan'
-slug: 2023-08-22-Interface-Drama
-date: '2023-08-22'
+slug: 2023-08-30-As-a-longtime-dollfie-fan
+date: '2023-08-30'
 tags:
   - cohost
   - fandom
@@ -73,6 +73,6 @@ My comments are open if folks have specific questions.
 
 * [Let's talk about Shadow Hearts](/blog/posts/2023-07-03-Lets-talk-about-Shadow-Hearts/)
 * [Visiting the first boy''s love exhibition in Japan: Part One](/blog/posts/2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan)
-* [Visiting the first boy''s love exhibition in Japan: Part Two](/blog/posts/2023-09-30-Visiting-the-First-Boys-Love-Exhibition-in-Japan)
+* [Visiting the first boy''s love exhibition in Japan: Part Two](2023-09-30-Visiting-the-First-Boys-Love-Exhibition-in-Japan)
 
 See all posts tagged [Fandom](/tags/fandom/).
