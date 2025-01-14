@@ -2,6 +2,9 @@
 title: A Birthday Letter, 2022
 slug: 2022-09-14-A-Birthday-Letter-2022
 date: '2022-09-14'
+canonical: 'https://illuminesce.net/blog/posts/2022-09-14-A-Birthday-Letter-2022/'
+description: 'Happy birthday. Remember last year when I said I’d have a cool birthday present for you?'
+image: ''
 tags:
   - personal
 ---
