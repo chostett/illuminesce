@@ -33,6 +33,6 @@ A fun little compilation of different people's song recommendations for the summ
 
 There's a lot more than just that, though. You can check out all of [the Cohost tagged posts here.](/tags/cohost/)
 
-This archiving project was a labor of love and a more long-term commitment to posting regularly on my blog. I've come to enjoy blogging here and following folks on RSS. 
+This archiving project was a labor of love and a more long-term commitment to posting regularly on my blog. I've come to enjoy blogging here and following folks on RSS.
 
 You can [follow me here](https://illuminesce.net/rss.xml)—all I ask is that you drop some of your own recommendations (your blog included) in the comments below. Thanks!
