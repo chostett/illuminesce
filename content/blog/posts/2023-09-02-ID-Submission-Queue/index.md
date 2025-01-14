@@ -39,3 +39,13 @@ Magical Maiden Madison is an interface drama, but due to a JQuery error the game
 'Til next time—I'll be triaging this list with **@mabbees** and giving these games a play.
 
 [Check out the updates here.](/blog/posts/2023-09-12-ID-Update/)
+
+---
+
+### Related posts
+
+* [The Interface Drama Master List: What is it?](/blog/posts/2023-08-15-Interface-Drama-Master-List/)
+* [Submit an interface drama here](https://forms.gle/NKXv94fuBjSoZ9pv6)
+* [The Genre of Interface Dramas, Fiction, Visual Novels and Epistolary Games](/blog/posts/2023-08-22-Interface-Drama/)
+
+See all posts tagged [Interface Drama](/tags/interface-drama/).

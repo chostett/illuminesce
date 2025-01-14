@@ -19,8 +19,14 @@ The [Interface Drama Master List](https://illuminesce.net/interface-drama) has b
 
 Interface dramas are games that tell an immersive story through software and app interfaces. They are commonly called desktop simulators/UI games/inbox games/interface fiction.
 
-[More information on interface dramas here.](/posts/2023-08-15-Interface-Drama-Master-List.html)
-
 ![A screenshot of the interface drama, Blooming Panic.](blooming.png)
 
-[Check out the next updates here.](/posts/2024-01-21-Interface-Drama-Master-List-Update.html)
+---
+
+### Related Posts
+
+* [Interface Drama Master List: What is it?](/blog/posts/2023-08-15-Interface-Drama-Master-List/)
+* [Submit an interface drama here](https://forms.gle/NKXv94fuBjSoZ9pv6)
+* [Interface Drama Master List Update: A Date with Death and More](/blog/posts/2024-01-21-Interface-Drama-Master-List-Update.html)
+
+See all posts tagged [Interface Drama](/tags/interface-drama/).

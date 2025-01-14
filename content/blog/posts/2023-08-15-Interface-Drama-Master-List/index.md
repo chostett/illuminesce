@@ -49,6 +49,8 @@ Interface dramas, also known as inbox games, desktop simulators, ui games, or in
 
 [Please see this page for more examples of UI elements.](https://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html) The game can be inspired by pre-existing user interfaces (IRC, Windows XP, iOS) or can be an entirely new speculative interface.
 
+![An image of the LCARS interface from Star Trek. It features red, yellow and blue lines and shapes.](lcars.jpg)
+
 The LCARS system from Star Trek is a speculative UI; see [GMUNK or Ash Thorp's work](https://www.schoolofmotion.com/blog/12-incredible-futuristic-ui-reels) for more speculative UI examples in movies.
 
 **The UI must be used as a gameplay mechanic in a majority of the game.** For example, the classic adventure game Myst features points where the character must interact with an interface for a puzzle, but the main navigation of the game is done by walking around the island, so Myst is not an interface drama.
@@ -73,7 +75,7 @@ Please submit [using the form here.](https://forms.gle/NKXv94fuBjSoZ9pv6) You ne
 
 I reserve the right to reject games whose sites/files have degraded to the point they are unplayable. These can be logged as historical artifacts, but the point of the list is to serve as a _playable list of interface dramas._
 
-Once I get your submission, I'll put it in [the submission queue.](https://trello.com/b/FsmPZht8/interface-drama-master-list-submission-queue) In full transparency, you can see updates to the games, what has been added to the list, what has not been added to the list, and why. If you have questions or wish to have a discussion about the decision, please get in touch at **illuminesce @ pm.me.**
+Once I get your submission, I'll put it in [the submission queue.](https://trello.com/b/FsmPZht8/interface-drama-master-list-submission-queue) In full transparency, you can see updates to the games, what has been added to the list, what has not been added to the list, and why. If you have questions or wish to have a discussion about the decision, please get in touch at **illuminesce (@) pm.me.**
 
 ### Who can submit to the interface drama list?
 
@@ -101,6 +103,16 @@ As I've been exposed to other interesting perspectives on the genre, I've unders
 
 ### I don't like interface dramas. They're not even games.
 
+![A comic of someone yelling into the air, I don't like thing! An angel descends, bringing a gift of a scroll. They unroll it. It says, "ok"](idontlikething.jpg)
+
 (Thanks to [@joscribbles](https://joscribbles.tumblr.com/) for summing up my feelings.)
 
-_CJ is a designer and indie dev. They write as a hobby. If you like this article, why not [say hello in an email](https://illuminesce.net/contact) or [buy them a coffee](https://ko-fi.com/illuminesce) to support their work?_
+---
+
+### Related posts
+
+- [The Genre of Interface Dramas, Fiction, Visual Novels and Epistolary Games](/blog/posts/2023-08-22-Interface-Drama/)
+- [The Interface Drama Submission Queue](/blog/posts/2023-09-02-ID-Submission-Queue/)
+- [I have to talk to you about normal_fantasies.exe](/blog/posts/2023-10-27-I-have-to-talk-to-you-about-normalfantasies/)
+
+See all posts tagged [Interface Drama](/tags/interface-drama/).

@@ -16,10 +16,3 @@ This year at [Tokyo Trans March](https://tktransmarch.wp.xdomain.jp/) there was 
 Walking through Shinjuku with hundreds of people, chanting, "trans rights are human rights" to waving passerbys—some with welcoming expressions, some with confused "why do we need to hear this?" expressions, and others ignoring us completely—felt powerful and needed in Japan, where I've seen time after time again conversations about trans rights be shut down or sidelined by people saying, _"making special exceptions for a small group of people seems unnecessary..."_
 
 I want our voices to be heard. I want to see my friends be able to live their lives; peacefully and happily and as they are.
-
----
-
-### Related posts
-
-* [2023's Tokyo Trans March is Cancelled](/blog/posts/2023-11-16-Tokyo-Trans-March-2023/)
-* [Rabbit Logic](/blog/posts/2024-12-16-Rabbit-Logic/)

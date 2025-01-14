@@ -126,3 +126,5 @@ Thanks for everyone who read all the way to the end. I apologize for any typos o
 * [Let's talk about Shadow Hearts](/blog/posts/2023-07-03-Lets-talk-about-Shadow-Hearts/)
 * [As a longtime dollfie fan](/blog/posts/2023-08-30-As-a-longtime-dollfie-fan/)
 * [Visiting the first boy's love exhibit in Japan](/blog/posts/2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan/)
+
+See all posts tagged [Fandom](/tags/fandom/).

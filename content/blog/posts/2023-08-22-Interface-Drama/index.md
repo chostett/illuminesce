@@ -221,3 +221,13 @@ When I started out thinking about interface dramas, I had an artistic image in m
 * games that use interface as a narrative medium
 
 In interface dramas, both of these are present—though the boundary sometimes isn't as clear; games can do either or, or both. That'll be a later blog post, but for now, enjoy these perspectives on the genre—or add your own below.
+
+---
+
+### Related posts
+
+* [Interface Dramas: A New Way fo Telling Stories Through Software](/blog/posts/2023-08-14-Interface-Drama/)
+* [The Interface Drama Master List: What is it?](/blog/posts/2023-08-15-Interface-Drama-Master-List/)
+* [I have to talk to you about normal_fantasies.exe](/blog/posts/2023-10-27-I-have-to-talk-to-you-about-normalfantasies/)
+
+See all posts tagged [Interface Drama](/tags/interface-drama/).

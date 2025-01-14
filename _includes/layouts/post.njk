@@ -34,12 +34,17 @@ layout: layouts/base.njk
 This prevents Cusdis from appearing everywhere-->
 <hr>
 <h2>Comments</h2>
+<p>
+	Enjoyed this post? Want to ask a question? Leave a comment below. 
+	<br>
+	All comments are reviewed before publishing.
+</p>
 <div id="cusdis_thread"
   data-host="https://cusdis.com"
   data-app-id="a501ca0b-7cb3-481f-89ab-a73c7d69afa1"
   data-page-id="{{ slug }}"
   data-page-url="https://illuminesce.net/blog/posts/{{ slug }}"
-  data-page-title="{{ title }}"
-></div>
+  data-page-title="{{ title }}">
+</div>
 <script defer src="https://cusdis.com/js/cusdis.es.js"></script>
 {%- endif -%}

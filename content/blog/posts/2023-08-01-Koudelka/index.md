@@ -27,3 +27,13 @@ Koudelka, and by its extension, Shadow Hearts, were all about delivering the lor
 That's awful. And what's more awful is knowing how the guards mocked and disrespected this woman before her spirit attacked us. Perhaps the initial intent of the game devs was to make the whole game eerier, but after playing both moon RPG Remix and Undertale I wonder if they'll ever make a Shadow Hearts where one possible play through is to commune with the spirits and calm them, rather than treating them like enemies.
 
 [**Recording of Part One's playthrough here.**](https://www.twitch.tv/videos/1887200700)
+
+---
+
+### Related posts
+
+* [Let's talk about Shadow Hearts](/blog/posts/2023-07-03-Lets-talk-about-Shadow-Hearts/)
+* [As a longtime dollfie fan](/blog/posts/2023-08-30-As-a-longtime-dollfie-fan/)
+* [An Unauthorized Fan Treatise and MsScribe Drama Meta-Meta Analysis](2023-06-18-An-Unauthorized-Fan-Treatise)
+
+See all posts tagged [Fandom](/tags/fandom/).

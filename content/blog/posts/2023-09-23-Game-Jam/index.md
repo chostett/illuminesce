@@ -17,4 +17,14 @@ If you haven't played A Normal Lost Phone, you can find it [on the list](https:/
 
 Also, if you haven't done a game jam yet, I highly recommend it.
 
-(I'm biased, since I've run the Let's Games! Tokyo site for Global Game Jam since 2020. [Check out our 2024 After-Report here.](/posts/2024-02-07-Global-Game-Jam-2024-After-Report.html))
+(I'm biased, since I've run the Let's Games! Tokyo site for Global Game Jam since 2020. [Check out our 2024 After-Report here.](/blog/posts/2024-02-07-Global-Game-Jam-2024-After-Report.html))
+
+---
+
+### Related Posts
+
+* [Interface Drama Master List: What is it?](/blog/posts/2023-08-15-Interface-Drama-Master-List/)
+* [Submit an interface drama here](https://forms.gle/NKXv94fuBjSoZ9pv6)
+* [Interface Drama Master List Update: A Date with Death and More](/blog/posts/2024-01-21-Interface-Drama-Master-List-Update.html)
+
+See all posts tagged [Interface Drama](/tags/interface-drama/).

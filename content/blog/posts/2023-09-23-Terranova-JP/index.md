@@ -32,3 +32,7 @@ Thank you again for your continued support.
 Terranova was featured in [Denfamico Gamer](https://news.denfaminicogamer.jp/news/231018y) and [Famitsu](https://www.famitsu.com/news/amp/202310/18321023.php) in October.
 
 We're in the process of raising funds for the rest of the Japanese translation. Localization for the full game comes in around 200万円 (about $13,400 USD) so we’re hoping we can get those funds to pay our translator fairly.
+
+---
+
+Terranova is a nostalgic, text-based [interface drama](/blog/posts/2023-08-22-Interface-Drama/) about fangirls in the early 2000's on _LimeJournal_. Available on PC, Mac and Linux [here](https://playterranova.com/). Japanese coming in 2025.

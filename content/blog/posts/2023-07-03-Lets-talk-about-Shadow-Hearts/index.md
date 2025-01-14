@@ -220,4 +220,10 @@ Thanks for reading.
 
 _**Author's edit, 2024/03/23:** Initially, I wrote that Penny Blood was a collaboration between Machida, the original producer of Shadow Hearts, and Kikuta, the creator of Koudelka, but this was in error. Machida is collaborating with Yoshitaka Hirota, the original composer for Shadow Hearts._
 
-If you liked this post and want to talk about Shadow Hearts, leave a comment below! I co-founded Studio Terranova and have a [newsletter](https://buttondown.com/studioterranova) about video games and design.
+### Related posts
+
+* [Just played through Koudelka](/blog/posts/2023-08-01-Koudelka/)
+* [As a longtime dollfie fan](/blog/posts/2023-08-30-As-a-longtime-dollfie-fan/)
+* [Visiting the first boy's love exhibit in Japan](/blog/posts/2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan/)
+
+See all posts tagged [Fandom](/tags/fandom/).

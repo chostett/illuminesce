@@ -16,4 +16,6 @@ I hand-screenprinted these USB sticks that will have the game + a steam key incl
 
 _Psst...[I did a reprint of these keys.](/blog/posts/2024-06-20-Terranova-USB/) You can purchase them on our [Ko-Fi shop](https://ko-fi.com/illuminesce) (limited supplies only)._
 
-_CJ is a designer, indie dev and artist. You could [say hello in an email](https://illuminesce.net/contact) or [check out their games on itch.io.](https://illuminesce.itch.io/)
+---
+
+Terranova is a nostalgic, text-based [interface drama](/blog/posts/2023-08-22-Interface-Drama/) about fangirls in the early 2000's on _LimeJournal_. Available on PC, Mac and Linux [here](https://playterranova.com/).

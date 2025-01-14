@@ -7,6 +7,8 @@ tags:
   - lgbtq
 ---
 
+![A beautiful illustration of two feminine looking boys in schoolboy outfits staring dreamily at each other.](BL-ten.jpg)
+
 _This is Part One of a two-part series. [You can find Part Two here.](/blog/posts/2023-09-30-Visiting-the-First-Boys-Love-Exhibition-in-Japan/)_
 
 For a limited time from May 20th ~ July 16th, the [Kadokawa Culture Museum ran a "First Boy's Love Exhibit"](https://kadcul.com/event/121) covering the roots and history of the Boy's Love (BL) genre in Japan and abroad. I had the good fortune to visit with my friend Ceren ([@cerengunes](https://twitter.com/CerenGunes)).
@@ -25,11 +27,17 @@ Male/male romances have become more popularized in mainstream media, though BL a
 
 When I arrived, the sun was starting to set, which made the Kadokawa Culture Museum and the surrounding modern architecture shine brilliantly. The buildings mix both modern and traditional aesthetic, and visitors can pray at a nearby shrine whose _torii_ gate are lit up with LEDs.
 
-<div class="caption">The shrine next to the Kadokawa Culture Museum, featuring a modern, LED torii gate.</div>
+![A black, modern torii gate towering in a gray sky.](BL-shrine.png)
 
-<div class="caption">The Kadokawa Culture Museum.</div>
+_The shrine next to the Kadokawa Culture Museum, featuring a modern, LED torii gate._
+
+![A large, slate gray structure that looks like a Rubik's cube in real life. It is stately, next to an infinity pool.](BL-building.png)
+
+_The Kadokawa Culture Museum._
 
 Kadokawa is a large Japanese publisher and the culture museum is full of books published by them. Within Kadokawa is [Kadokawa Ruby Bunko](https://ruby.kadokawa.co.jp/), a collection dedicated to BL works and authors, founded in 1992. In addition to the BL exhibit, the entrance fee gives visitors the opportunity to hang out in a quiet space with comfortable chairs and read books.
+
+![A very comfortable reading space. Hammocks, beanbag chairs and plush, green carpet dot the floor.](BL-Kadokawa-Space.png)
 
 The BL exhibition sign is in full display in the lobby, and after snapping a few photos, we head upstairs. It's a small but very history-rich exhibit; visitors walk in a clockwise fashion following a timeline of BL from the 1960's to today.
 
@@ -37,7 +45,7 @@ The BL exhibition sign is in full display in the lobby, and after snapping a few
 
 The first works we encounter are not illustrations; they are novels. Before the term BL had been coined, the author Mari Mori pioneered "aesthetic" male/male romances in her 1961 novel, _The Lovers' Forest._ According to an in-depth article by Tokyo Weekender:
 
-_"Mori's novels became popular among young women, many of whom were becoming disillusioned at the time with society's promises of marriage and heteronormative adulthood...she projected women's fantasies onto men's bodies. The Lovers' Forest offered a refuge from misogyny, a place for female readers to experiment with being agents of desire rather than its objects."[\[1\]](#resources)_
+_"Mori's novels became popular among young women, many of whom were becoming disillusioned at the time with society's promises of marriage and heteronormative adulthood...she projected women's fantasies onto men's bodies. The Lovers' Forest offered a refuge from misogyny, a place for female readers to experiment with being agents of desire rather than its objects."[\[1\]](#additional-resources)_
 
 According the the article, at the time women had been experiencing a growing dissatisfaction with the heterosexual norm of marriage and kids, and BL offered an escape for them. _The Lovers' Forest_'s protagonist is Paulo, a Western boy with Oscar Wilde sensibilities; he exists to be beautiful and to feel pleasure, given to him by an older Guido.
 
@@ -47,19 +55,27 @@ Prior to this exhibit, I had read Japanese contemporary authors like Yukio Mishi
 
 Walking past Mori's novels were rows of magazines depicting fair-haired and ethereal pretty boys in an early and classic _shojo_ style. JUNE magazine was published in 1987 and was the first serialized publication to cater entirely to BL. JUNE was monumental in cultivating the first BL manga artists who would later go on to lead the BL movement. The exhibition's leading image _『風と木の詩』 午睡のKISS」, or The Forest of the Wind and Trees: Kiss in Repose_ is by Keiko Takemiya who was a manga artist who was deeply involved in JUNE's production.
 
-<div class="caption">Some of the first issues of JUNE, from 1979.</div>
+![Photographs of magazines featuring illustrations of beautiful men who are elves and satyrs on the cover.](BL-June-1.png)
 
-<div class="caption">A comparison of JUNE magazines from the 80's to 90's; the style on the characters becomes more bold and varied.</div>
+_Some of the first issues of JUNE, from 1979._
+
+![Photographs of magazines featuring illustrations of more defined men. The art style is changing over time from the 1970's to the 90's.](BL-June-2.png)
+
+_A comparison of JUNE magazines from the 80's to 90's; the style on the characters becomes more bold and varied._
 
 ## Glam Rock and Japanese Visual Kei
 
 Around the 1970's, David Bowie and his androgynous alter ego Ziggy Stardust were skyrocketing to fame. JUNE's depiction of young men as "ethereal" tended to be more pastoral and fantasy-inspired; but as the trend of glam rock grew, so did alternate forms of androgyny in men. There was a display of various album covers that inspired or drew inspiration from the male androgyny of BL.
 
-In particular, I was glad to see Malice Mizer included here—fans of the visual kei style in Japanese rock will know that they were a rock band that incorporated aspects of French romanticism, similar to that of early BL—as well as a gothic style. Gackt, who was a vocalist for Malice Mizer was a pop culture icon for androgyny and romantic gothic fashion.[\[2\]](#resources) I started by own BL journey through visual kei, and in particular, was drawn to darker BL and _shojo_ manga like Kaori Yuki's _Angel Sanctuary_.
+![A photograph of various albums featuring frontrunners that wear makeup, heels and other feminine couture.](BL-GlamRock.png)
+
+In particular, I was glad to see Malice Mizer included here—fans of the visual kei style in Japanese rock will know that they were a rock band that incorporated aspects of French romanticism, similar to that of early BL—as well as a gothic style. Gackt, who was a vocalist for Malice Mizer was a pop culture icon for androgyny and romantic gothic fashion.[\[2\]](#additional-resources) I started by own BL journey through visual kei, and in particular, was drawn to darker BL and _shojo_ manga like Kaori Yuki's _Angel Sanctuary_.
 
 ## The Birth of the Term "Yaoi"
 
-<div class="caption">Thanks to <a href="https://twitter.com/CerenGunes" target="_blank">@cerengunes</a> for the photo.</div>
+![Typography on the wall states: yaoi. Yama nashi, ochinashi, iminashi. In English - no climax, no conclusion, no meaning.](BL-yaoi.png)
+
+_Thanks to [@cerengunes](https://twitter.com/CerenGunes) for the photo._
 
 As we moved to the far wall, we were greeted with the definition of やおい, or yaoi, a term for more sexually explicit BL:
 
@@ -75,11 +91,13 @@ The term "yaoi" is a reference to this kind of contrived plot.
 
 When we rounded the corner, we saw a variety of books from various publishers who recruited either authors from JUNE magazine or doujinshi authors to publish BL/yaoi exclusive stories, such as Magazine Be x Boy.
 
+![A photograph of comic books from the early 90's. At the time, the boys were very angular.](BL-90s.png)
+
 To this day, the linkage between BL original series and fanworks is very strong—many artists who do original art also got their start as fanwork artists.
 
 This was the beginning of the more interactive part of the exhibit, where viewers could leaf through some magazines and popular series like _Junjou Romantica_ and _Okane ga Nai!_
 
-This wasn't covered in the exhibit, but it is important context. Around the 90's boom was also when the "yaoi debates" began—specifically between LGBT+ activists and fans of yaoi. Masaki Satō, a gay activist and civil servant criticized yaoi in a feminist magazine as detached from the reality of actual gay men in Japan, painting them as objects of eroticism while real gay men suffered in silence. He compared women who enjoyed yaoi to "dirty old men" who enjoyed leering at women's bodies.[\[3\]](#resources)
+This wasn't covered in the exhibit, but it is important context. Around the 90's boom was also when the "yaoi debates" began—specifically between LGBT+ activists and fans of yaoi. Masaki Satō, a gay activist and civil servant criticized yaoi in a feminist magazine as detached from the reality of actual gay men in Japan, painting them as objects of eroticism while real gay men suffered in silence. He compared women who enjoyed yaoi to "dirty old men" who enjoyed leering at women's bodies.[\[3\]](#additional-resources)
 
 Fujoshi responded to this critique in various ways; some agreeing that they were indeed "dirty old men" for objectifying gay men, while others defending yaoi as a healthier alternative to female objectification in heterosexual porn.
 
@@ -91,7 +109,9 @@ This concludes Part One of _Visiting the "First Boy's Love Exhibition" in Japan!
 
 [Continued in Part Two on tropes, parodies and modern BL.](/blog/posts/2023-09-30-Visiting-the-First-Boys-Love-Exhibition-in-Japan/)
 
-<div class="caption">From the comic <a href="https://www.webtoons.com/en/canvas/dorito-faced-bad-touch-sempai-san-and-shota-boy-/list?title_no=315" target="_blank">Dorito Face Bad Touch Sempai-san and Shota Boy</a> on Webtoons.</div>
+![An illustration of a man with a very angular (dorito) face.](BL-doritoface.png)
+
+_From the comic [Dorito Face Bad Touch Sempai-san and Shota Boy](https://www.webtoons.com/en/canvas/dorito-faced-bad-touch-sempai-san-and-shota-boy-/list?title_no=315) on Webtoons._
 
 ### Additional Resources
 
@@ -99,6 +119,12 @@ This concludes Part One of _Visiting the "First Boy's Love Exhibition" in Japan!
 2.  [Malice Mizer: Wikipedia.](https://en.wikipedia.org/wiki/Malice_Mizer)
 3.  [Discussing Depictions of Male Homosexuality in Japanese Girls' Comics, Gay Comics and Gay Pornography.](http://intersections.anu.edu.au/issue12/lunsing.html) Wim Lunsing for _Intersections: Gender, History and Culture in the Asian Context._
 
-### About the Author
+---
 
-_CJ is a designer and indie dev. They write as a hobby. If you like this article, why not [say hello in an email](https://illuminesce.net/contact) or [buy them a coffee](https://ko-fi.com/illuminesce) to support their work?_
+### Related posts
+
+* [Visiting the first boy's love exhibition in Japan: Part Two](/blog/posts/2023-09-30-Visiting-the-First-Boys-Love-Exhibition-in-Japan/)
+* [As a longtime dollfie fan](/blog/posts/2023-08-30-As-a-longtime-dollfie-fan/)
+* [Let's talk about Shadow Hearts](/blog/posts/2023-07-03-Lets-talk-about-Shadow-Hearts/)
+
+See all posts tagged [Fandom](/tags/fandom/).

@@ -72,4 +72,4 @@ Ah, hustle, my old friend. You're whispering in my ear, asking me to close this 
 
 So here I am. Tired of comfort, a little crazy, a little bold, stepping off the cliff, scared of the height, hopeful it will lead to things I can't otherwise imagine.
 
-_CJ is a designer and indie dev. They write as a hobby. If you like this article, why not [say hello in an email](https://illuminesce.net/contact) or [buy them a coffee](https://ko-fi.com/illuminesce) to support their work?_
+**2024 Update:** And indeed, I did go somewhere completely unexpected—[I made a company.](/blog/posts/2024-12-30-2024-Reflections/)

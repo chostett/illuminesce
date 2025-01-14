@@ -73,4 +73,6 @@ Thank you for taking an interest in this little world I'm obsessed about. ;;
 
 I'm always happy to answer your questions. <3
 
-*Have a question here? Feel free to ask in the comments.*
+---
+
+Terranova is a nostalgic, text-based [interface drama](/blog/posts/2023-08-22-Interface-Drama/) about fangirls in the early 2000's on *LimeJournal*. Available on PC, Mac and Linux [here](https://playterranova.com/).

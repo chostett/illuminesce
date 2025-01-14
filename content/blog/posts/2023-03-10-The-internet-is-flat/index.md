@@ -35,3 +35,5 @@ I'm thinking a lot about how jumbled and out of context this digital world is an
 
 * [Finding a Home on the Internet](/blog/posts/2023-07-01-Finding-a-Home-on-the-Internet/)
 * [Thoughts on the Patreon Rebrand](/blog/posts/2023-10-05-Patreon-Rebrand/)
+
+See all posts tagged [Tech & Web](/tags/tech-and-web/).

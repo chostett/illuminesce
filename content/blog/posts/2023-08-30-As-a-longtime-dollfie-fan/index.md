@@ -66,3 +66,13 @@ Volks, with their events and stores, controls almost all of the physical space f
 Over the years, the doll hobby has given me a lot of inspiration and reflection about people and systems, which is probably why I'm still in it. I myself still have my own biases to unpack, especially about a complicated hobby like this.
 
 My comments are open if folks have specific questions.
+
+---
+
+### Related posts
+
+* [Let's talk about Shadow Hearts](/blog/posts/2023-07-03-Lets-talk-about-Shadow-Hearts/)
+* [Visiting the first boy''s love exhibition in Japan: Part One](/blog/posts/2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan)
+* [Visiting the first boy''s love exhibition in Japan: Part Two](/blog/posts/2023-09-30-Visiting-the-First-Boys-Love-Exhibition-in-Japan)
+
+See all posts tagged [Fandom](/tags/fandom/).

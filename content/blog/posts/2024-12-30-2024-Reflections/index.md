@@ -137,3 +137,7 @@ If you don't already follow Studio Terranova's newsletter, we release a once-a-m
 ![A drawing of a photo-realistic snake with gold markings. Text says, 2025: Happy New Year](2025_nengajou_web.png)
 
 *Happy New Year! Drawing by me.*
+
+---
+
+Terranova is a nostalgic, text-based [interface drama](/blog/posts/2023-08-22-Interface-Drama/) about fangirls in the early 2000's on *LimeJournal*. Available on PC, Mac and Linux [here](https://playterranova.com/).

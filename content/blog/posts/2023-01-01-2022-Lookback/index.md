@@ -36,3 +36,5 @@ I'm grateful to my body for stopping me because I'm stubborn as hell and probabl
 Thanks, y'all. I'm proud to have good friends, and proud to have accomplished something neat in 2022.
 
 Looking forward to the new year.
+
+I wrote a reflection for 2024. [Check it out here.](/blog/posts/2024-12-30-2024-Reflections/)

@@ -85,4 +85,11 @@ It's been an interesting journey to venture from my old, mismatched Web 1.0 site
 
 I want a happy ending to this story, but the future is still so uncertain. For now, I've been enjoying myself. I used to think having a sleek, modern website was a goal, but nowadays...what I feel comfortable I can repair is fine with me.
 
-_CJ is a designer and indie dev. They write as a hobby. If you like this article, why not [say hello in an email](https://illuminesce.net/contact) or [buy them a coffee](https://ko-fi.com/studioterranova) to support their work?_
+---
+
+### Related posts
+
+* [The internet is flat](/blog/posts/2023-03-10-The-internet-is-flat/)
+* [Thoughts on the Patreon Rebrand](/blog/posts/2023-10-05-Patreon-Rebrand/)
+
+See all posts tagged [Tech & Web](/tags/tech-and-web/).

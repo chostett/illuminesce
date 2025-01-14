@@ -11,6 +11,8 @@ _Originally published on [Medium.](https://medium.com/hexagon-ux/inclusion-is-a-
 
 _Author's Note: I came out in 2020 as nonbinary and use they/them pronouns. In this writing, use "we" in reference to myself and women. I'm keeping this writing as-is, as it accurately reflected my experience as an AFAB person._
 
+![A basket of oranges next to a lone apple. Illustrated by CJ.](apples_oranges.png)
+
 I quit my jiu-jitsu gym last week. I hadn’t been going for a month and I decided it was time. I wasn’t avoiding my gym because of the typical excuses—no time or lack of motivation. In fact, it was much deeper. I have done martial arts for years as a hobby — aikido, tae kwon do, muy thai, and krav maga among the few. I enjoy the adrenaline rush of sparring and the aerobics of training. I started jiu-jitsu to learn more groundwork, as many of the above weren’t focused on sparring after a sweep or a knockdown.
 
 When my instructor handed me the paperwork to quit, I noticed the question “Tell us why you are quitting” printed below my name. I puzzled over the reason. I liked jiu-jitsu. I liked my team. I wasn’t being bullied or harassed. So why?
