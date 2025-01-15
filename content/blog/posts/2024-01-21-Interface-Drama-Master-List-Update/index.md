@@ -79,7 +79,7 @@ Thanks, y'all!
 
 ---
 
-### Related Posts
+### Related posts
 
 * [Interface Drama Master List: What is it?](/blog/posts/2023-08-15-Interface-Drama-Master-List/)
 * [The Genre of Interface Dramas, Fiction, Visual Novels and Epistolary Games](/blog/posts/2023-08-22-Interface-Drama/)

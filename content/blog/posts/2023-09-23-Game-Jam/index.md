@@ -23,7 +23,7 @@ Also, if you haven't done a game jam yet, I highly recommend it.
 
 ---
 
-### Related Posts
+### Related posts
 
 * [Interface Drama Master List: What is it?](/blog/posts/2023-08-15-Interface-Drama-Master-List/)
 * [Submit an interface drama here](https://forms.gle/NKXv94fuBjSoZ9pv6)

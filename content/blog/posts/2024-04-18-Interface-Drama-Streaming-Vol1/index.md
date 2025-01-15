@@ -72,7 +72,7 @@ Tune in this week at [@itsilluminesce on Twitch](https://www.twitch.tv/itsillumi
 
 ---
 
-### Related Posts
+### Related posts
 
 - [Interface as Longing](/blog/posts/2024-04-22-Interface-Drama-Streaming-Vol2/)
 - [Abstracting away horror with UNCANNY interface dramas](/blog/posts/2024-05-11-Interface-Drama-Streaming-Vol3/)

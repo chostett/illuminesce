@@ -54,7 +54,7 @@ Please be aware Japanese is not my mother tongue, so if I have made errors, plea
 
 ---
 
-### Related Posts
+### Related posts
 
 - [Pride House Tokyo](/blog/posts/2024-03-08-Pride-House-Tokyo/)
 - [The Trans Tourists' Guide to Japan](/blog/posts/2024-05-19-Trans-Tourist-Guide-to-Japan/)

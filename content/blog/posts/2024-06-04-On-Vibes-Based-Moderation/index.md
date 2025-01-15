@@ -2,6 +2,8 @@
 title: On Vibes-based Moderation
 slug: 2024-06-04-On-Vibes-Based-Moderation
 date: '2024-06-04'
+description: 'At least trying to articulate why a person is being disruptive or frustrating to the group can go a long way to having and retaining neurodiverse members.'
+image: ''
 tags:
   - cohost
   - community
@@ -37,3 +39,13 @@ These folks stayed in our little group and we amassed a TON of neurodiverse peop
 Some other members however, would do the same thing and when I took them aside, they were defensive and angry. They would escalate the situation rather than de-escalate. If they gave me any indication they’d do the same behavior again, in 1x1, I’d tell them to leave immediately and ban them.
 
 I’m not a fan of the “vibes based moderation” because it reads to me as using the excuse of bad actors to employ discriminatory practices without having the burden of having to externalize what your community values.
+
+---
+
+### Related posts
+
+* [Finding a Home on the Internet](/blog/posts/2023-07-01-Finding-a-Home-on-the-Internet/)
+* [The Internet is Flat](/blog/posts/2023-03-10-The-internet-is-flat/)
+* [Thoughts on the Patreon Rebrand](/blog/posts/2023-10-05-Patreon-Rebrand/)
+
+See all posts tagged [Tech & Web](/tags/tech-and-web/).

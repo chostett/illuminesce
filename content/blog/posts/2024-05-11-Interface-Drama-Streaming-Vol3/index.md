@@ -103,7 +103,7 @@ Thank you for your time, and we'll see you this Friday!
 
 ---
 
-### Related Posts
+### Related posts
 
 - [Exploring Intrigue with Interface Dramas](/blog/posts/2024-04-22-Interface-Drama-Streaming-Vol1/)
 - [Interface as Longing](/blog/posts/2024-05-11-Interface-Drama-Streaming-Vol2/)

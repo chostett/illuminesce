@@ -132,7 +132,7 @@ Laying on the ground, they come up to sniff me. Hershel is reluctant, but Ada nu
 
 ---
 
-### Related Posts
+### Related posts
 
 * [The end of IWAKAN magazine](/blog/posts/2024-01-15-The-end-of-IWAKAN-Magazine/)
 * [The Trans Tourists' Guide to Japan](/blog/posts/2024-05-19-Trans-Tourist-Guide-to-Japan/)

@@ -2,12 +2,14 @@
 title: 'The Trans Tourist''s Guide to Japan'
 slug: 2024-05-19-Trans-Tourist-Guide-to-Japan
 date: '2024-05-19'
+description: 'A short guide to travelling to Japan as a trans tourist, written by a local. Enjoy your time here!'
+image: ''
 tags:
   - cohost
   - lgbtq
 ---
 
-<div class="caption">Image by <a href="https://unsplash.com/photos/canal-between-cherry-blossom-trees-8sOZJ8JF0S8" target="_blank">Sora Sagano</a> on Unsplash.</div>
+![An illustration of a riverside walk with cherry blossoms, overlaid on a trans flag. Image by Sora Sagano on Unsplash. Modifications by me.](trans-tourist-title.png)
 
 # So you're going to travel to Japan
 
@@ -21,7 +23,7 @@ I am not a certified doctor or lawyer, so any advice here does not constitute pr
 
 A: Yes. I'm going on the assumption here that if you are visiting Japan as a tourist and are reading this guide in English, you don't speak Japanese as well as you speak English. In general, Japan is pretty tourist-friendly. It is not as English friendly as you'd expect. Most tourist-friendly areas in Tokyo will have English signs or menus; this does not necessarily mean the staff speaks English.
 
-In these cases, I'd suggest to use a live translator app like [Say Hi!](https://www.sayhi.com/en/translate/) to communicate.
+In these cases, I'd suggest to use a live translator app to communicate. **Google Translate** is handy for this, as is **UDTalk.**
 
 ## Q: Are there trans-friendly restrooms?
 
@@ -33,6 +35,8 @@ As for trans women: be aware that acceptance of trans women in public restrooms 
 
 What is a _daredemo toilet_ toilet? It's a universal toilet for all genders and abilities. They often have green signage on them and have wheelchair-accessible push button on them.
 
+![A photo of an everyone toilet in a Japanese train station. The everyone toilet typically has Braille signs, green coloring and designed for maximum accessibility.](trans_daredemo.jpg)
+
 If you can't find or are not comfortable with daredemo toilets, chain cafés like Tully's, Starbucks, Komeda, Doutor and Excelsior in Tokyo typically have single-stall restrooms for a more private place to go. With these cafés, it's polite to buy a drink before you use the restroom.
 
 ## Q: What about hot springs?
@@ -40,6 +44,8 @@ If you can't find or are not comfortable with daredemo toilets, chain cafés lik
 Hot springs are also highly-gendered. I recommend you book a _kashikiri onsen_ if you want to visit hot springs, since this allows you and your partner(s) of any gender to exclusively use the hot spring for a certain period of time, without worrying about male/female or social norms.
 
 If you wish to go to gendered hot springs, it will depend on the management and whether you have had gender-affirming surgery or not. Your mileage may vary here.
+
+![A photograph of a steaming outdoor hot spring in the snow. Photo of ganiba hot spring.](trans_ganiba.jpg)
 
 [Please read up on hot spring ettiquete in Japan before you go.](https://thesmartlocal.jp/japanese-onsen-guide/)
 
@@ -68,6 +74,8 @@ In the past GOLDFINGER wasn't accepting of trans women. In fact, WAIFU was made 
 
 For those of you who like drag, if you want to see local drag queens, check out [Haus of Gaishoku's Beauty Blenda](https://hausofgaishoku.com/), [Haus von Schwarz](https://www.instagram.com/hausvonschwarz/), or [Kings of Tokyo](https://www.facebook.com/kingsoftokyojp/), the local drag king community.
 
+![A multi-panel photograph of various Tokyo drag queens and kings in colorful attire.](hausofgaishoku.jpg)
+
 ## I want to support LGBTQIA+ organizations in Japan
 
 LGBTQIA+ rights here are still hotly debated; while some municipalities have legalized a same-sex partnership system, same-sex marriage is not legal nationwide. Even though it has been judged unconstitutional, trans folks still face discrimination at work and especially in changing their gender marker on official documentation.
@@ -82,11 +90,19 @@ If you want to support local LGBTQIA+ organizations, below are a few:
 
 Japan's a safe place to vacation for trans visitors, in my opinion. Most people are welcoming and friendly. Public approval has been on the rise. I'm hopeful that laws in Japan will be changed so that the LGBTQIA+ folks that live here can live openly, freely, have access to the medical care they need and love who they love.
 
-This guide is a labor of love. If you found this guide helpul, consider leaving a comment or supporting me on Ko-Fi. A few dollars goes a long way in yen!
-
-kofiwidget2.init('Support me on Ko-fi', '#5e00f5', 'N4N81K65A'); kofiwidget2.draw();
+This guide is a labor of love. If you found this guide helpul, consider leaving a comment to tell me so.
 
 Have a safe and pleasant journey to Japan!
 
 Yours truly,  
 CJ
+
+---
+
+### Related posts
+
+* [Pride House Tokyo](/blog/posts/2024-03-08-Pride-House-Tokyo/)
+* [The end of IWAKAN magazine](/blog/posts/2024-01-15-The-end-of-IWAKAN-Magazine/)
+* [Rabbit Logic](/blog/posts/2024-12-16-Rabbit-Logic/)
+
+See all posts tagged [LGBTQ+](/tags/lgbtq/).

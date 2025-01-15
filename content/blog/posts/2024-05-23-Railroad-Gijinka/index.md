@@ -1,11 +1,12 @@
 ---
-title: I love 鉄道擬人化 (Railroad Gijinka)
+title: 'I love 鉄道擬人化 (Railroad Gijinka)'
 slug: 2024-05-23-Railroad-Gijinka
 date: '2024-05-23'
+description: 'In this essay, I will convince you railroad anthropomorphizations are the greatest.'
+image: ''
 tags:
   - cohost
   - fandom
-  - personal
 ---
 
 ![Moe, Saki, and Misa, all anthropomorphizations of Kyoto railroads posing for a photo.](01_gijinka.png)
@@ -44,7 +45,7 @@ They even made an anime opening for them.
 
 I actually have a sticker of Saki on my laptop. I'm not a huge fan of random anime stickers; but if it's trains, that's a different story.
 
-## STATION IDOL LATCH!
+## STATION IDOL LATCH
 
 The Yamanote Line is a circular line in Tokyo which usually is used to connect to other lines either going in or out of the city. It's not a line people typically ride "for fun," unless they are drunk.
 
@@ -67,3 +68,13 @@ There's absolutely more railroad anthros out there. Do a search on pixiv (at you
 I love these little anthros. They charm me, and brighten my day, especially when the train is crowded.
 
 And I hope after reading this, they brighten yours, too.
+
+---
+
+### Related posts
+
+- [Visiting the first boy's love exhibition in Japan: Part One](/blog/posts/2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan/)
+- [As a longtime dollfie fan](/blog/posts/2023-08-30-As-a-longtime-dollfie-fan/)
+- [Let's talk about Shadow Hearts](/blog/posts/2023-07-03-Lets-talk-about-Shadow-Hearts/)
+
+See all posts tagged [Fandom](/tags/fandom/).

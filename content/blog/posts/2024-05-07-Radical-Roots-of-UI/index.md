@@ -50,7 +50,7 @@ Is it revolutionary to wear glasses designed by a company whose bottom line is m
 
 ---
 
-### Related Posts
+### Related posts
 
 * [The Genre of Interface Dramas, Fiction, Visual Novels and Epistolary Games](/blog/posts/2023-08-22-Interface-Drama/)
 * [Abstracting away horror with UNCANNY interface dramas](/blog/posts/2024-05-11-Interface-Drama-Streaming-Vol3/)

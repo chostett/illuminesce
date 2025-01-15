@@ -85,7 +85,7 @@ Thank you for your time, and we'll see you again this week!
 
 ---
 
-### Related Posts
+### Related posts
 
 - [Abstracting away horror with UNCANNY interface dramas](/blog/posts/2024-05-11-Interface-Drama-Streaming-Vol3/)
 - [Exploring Intrigue with Interface Dramas](/blog/posts/2024-04-22-Interface-Drama-Streaming-Vol1/)

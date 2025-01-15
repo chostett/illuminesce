@@ -21,7 +21,7 @@ The first, as far as I know, interface drama using entirely cohost posts. [Tachy
 
 ---
 
-### Related Posts
+### Related posts
 
 * [Interface Drama Master List: What is it?](/blog/posts/2023-08-15-Interface-Drama-Master-List/)
 * [Submit an interface drama here](https://forms.gle/NKXv94fuBjSoZ9pv6)

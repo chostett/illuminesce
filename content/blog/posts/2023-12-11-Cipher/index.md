@@ -39,7 +39,7 @@ But, this manga has really captured my heart for not only its story but its dire
 
 ---
 
-### Related Posts
+### Related posts
 
 - [BL from the 70's, 80's, and 90's](/blog/posts/2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan/)
 - [The Expansion of Modern BL](/blog/posts/2023-09-30-Visiting-the-First-Boys-Love-Exhibition-in-Japan/)

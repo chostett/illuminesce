@@ -52,7 +52,7 @@ _I have good friends who work at Pride House, so I am repping them as a fan and 
 
 ---
 
-### Related Posts
+### Related posts
 
 * [The end of IWAKAN magazine](/blog/posts/2024-01-15-The-end-of-IWAKAN-Magazine/)
 * [The Trans Tourists' Guide to Japan](/blog/posts/2024-05-19-Trans-Tourist-Guide-to-Japan/)

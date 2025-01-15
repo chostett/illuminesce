@@ -29,7 +29,7 @@ If you want to submit an interface drama that's not already on the list, please 
 
 ---
 
-### Related Posts
+### Related posts
 
 * [Exploring Intrigue with Interface Dramas](/blog/posts/2024-04-22-Interface-Drama-Streaming-Vol1/)
 * [Abstracting away horror with UNCANNY interface dramas](/blog/posts/2024-05-11-Interface-Drama-Streaming-Vol3/)

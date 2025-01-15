@@ -2,6 +2,8 @@
 title: Keep Center Postmortem
 slug: 2024-07-01-Keep-Center-Postmortem
 date: '2024-07-01'
+description: 'Successes and learnings from making a tiny game about glassblowing.'
+image: ''
 tags:
   - cohost
   - video-games
@@ -61,3 +63,7 @@ As always, thank you for your support!
 CJ
 
 ![A photo of a blonde-haired person sitting on a bench blowing glass.](cj-glassblowing.jpg)
+
+---
+
+See all posts tagged [Video Games](/tags/video-games/).

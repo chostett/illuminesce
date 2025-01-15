@@ -58,7 +58,7 @@ It's impressive that a short game like that made me think so much, so bravo Stor
 
 ---
 
-### Related Posts
+### Related posts
 
 * [Interface Drama Master List: What is it?](/blog/posts/2023-08-15-Interface-Drama-Master-List/)
 * [Submit an interface drama here](https://forms.gle/NKXv94fuBjSoZ9pv6)

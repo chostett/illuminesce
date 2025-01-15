@@ -116,7 +116,7 @@ _Follow [Kyle Labriola's](https://blueberrylemonade.pika.page/) blog on video ga
 
 ---
 
-### Related Posts
+### Related posts
 
 - [The Interface Drama Master List: What is it?](/blog/posts/2023-08-15-Interface-Drama-Master-List/)
 - [New Bitsy Game: Our Home](/blog/posts/2023-07-29-Our-Home/)

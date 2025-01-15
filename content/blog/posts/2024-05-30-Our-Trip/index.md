@@ -1,7 +1,9 @@
 ---
-title: Last weekend's vacation
+title: 'Last weekend''s vacation'
 slug: 2024-05-30-Our-Trip
 date: '2024-05-30'
+description: 'Three friends of mine and I went out for a vacation in Nagano. The sky was beautiful, the weather perfect; we rented a car and drove the windy mountain roads, feeling the breeze in our faces.'
+image: ''
 tags:
   - cohost
   - personal
