@@ -1,5 +1,5 @@
 ---
-title: The Trans Tourist's Guide to Japan
+title: 'The Trans Tourist''s Guide to Japan'
 slug: 2024-05-19-Trans-Tourist-Guide-to-Japan
 date: '2024-05-19'
 tags:

@@ -2,6 +2,8 @@
 title: 'New Interface Drama: Tachygram'
 slug: 2023-10-26-New-Interface-Drama-Tachygram
 date: '2023-10-26'
+description: 'Tachygram is a new interface drama that blends the structure of cohost and the hacker mystery genre.'
+image: ''
 tags:
   - cohost
   - interface-drama
@@ -17,4 +19,12 @@ The first, as far as I know, interface drama using entirely cohost posts. [Tachy
 
 [Check out more interface dramas on the Interface Drama Master List.](https://illuminesce.net/interface-drama)
 
-_CJ is a designer and indie dev. They write as a hobby. If you like this article, why not [say hello in an email](https://illuminesce.net/contact) or [buy them a coffee](https://ko-fi.com/studioterranova) to support their work?_
+---
+
+### Related Posts
+
+* [Interface Drama Master List: What is it?](/blog/posts/2023-08-15-Interface-Drama-Master-List/)
+* [Submit an interface drama here](https://forms.gle/NKXv94fuBjSoZ9pv6)
+* [Interface Drama Master List Update: Videoverse](/blog/posts/2023-09-12-ID-Update/)
+
+See all posts tagged [Interface Drama](/tags/interface-drama/).

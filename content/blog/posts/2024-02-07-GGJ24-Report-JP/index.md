@@ -2,6 +2,8 @@
 title: グローバルゲームジャム2024 アフターレポート
 slug: 2024-02-07-GGJ24-Report-JP
 date: '2024-02-07'
+description: '今年で5年目を迎えたGGJですが、今年は参加者が多かっただけでなく、素晴らしいゲームをお披露目することができました。'
+image: ''
 tags:
   - global-game-jam
   - popular
@@ -54,7 +56,7 @@ PICO-8で制作した二人プレイ専用協力ゲームです。双子のネ�
 
 [**(itch.io)**](https://donutshunter.itch.io/trust-me) | [**(donutshunterのブログ)**](https://www.donutshunter.com/blog/4ujyvns0j)
 
-![Three kittens, two yellow cats and one white one on a pixel background that says, 'Trust Me.'](GGJ-trustme.png)
+![Three kittens, two yellow cats and one white one on a pixel background that says, Trust Me.](GGJ-trustme.png)
 
 ## Tamagoji (タマゴオジ）
 

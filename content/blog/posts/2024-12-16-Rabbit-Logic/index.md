@@ -2,9 +2,12 @@
 title: 'Rabbit Logic'
 slug: 2024-12-16-Rabbit-Logic
 date: '2024-12-16'
+description: 'In literature, rabbits are commonly portrayed as victims; however in the wild they are some of the most resilient species on earth.'
+image: ''
 tags:
-  - personal
   - community
+  - personal
+  - lgbtq
 ---
 
 In literature, rabbits are commonly portrayed as victims; weak prey to the large, dark forces surrounding them. They are often killed, maimed and eaten to prove a point: *only the strongest survive. The weak will be sacrificed.*
@@ -126,3 +129,13 @@ I want to be resilient *and* vulnerable. I want to be a bit more like the rabbit
 Laying on the ground, they come up to sniff me. Hershel is reluctant, but Ada nudges him on to claim their prize—the carrot in my smelly hands.
 
 ![A very excited broken lop, Hershel, eating a carrot. No, I did not give him the entire carrot. Just a bite.](rabbit_carrot.png)
+
+---
+
+### Related Posts
+
+* [The end of IWAKAN magazine](/blog/posts/2024-01-15-The-end-of-IWAKAN-Magazine/)
+* [The Trans Tourists' Guide to Japan](/blog/posts/2024-05-19-Trans-Tourist-Guide-to-Japan/)
+* [Pride House Tokyo](/blog/posts/2024-03-08-Pride-House-Tokyo/)
+
+See all posts tagged [LGBTQ+](/tags/lgbtq/).

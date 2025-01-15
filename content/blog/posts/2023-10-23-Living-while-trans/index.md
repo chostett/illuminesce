@@ -1,7 +1,9 @@
 ---
-title: 'How safe is it to visit Japan as a trans person?'
+title: 'Asks: Being Trans in Japan'
 slug: 2023-10-23-Living-while-trans
 date: '2023-10-23'
+description: 'Some impressions, by a trans person living in Japan on what it''s like to be trans here.'
+image: ''
 tags:
   - cohost
   - lgbtq

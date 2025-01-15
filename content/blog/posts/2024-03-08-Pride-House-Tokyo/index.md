@@ -2,6 +2,8 @@
 title: 'Pride House Tokyo'
 slug: 2024-03-08-Pride-House-Tokyo
 date: '2024-03-08'
+description: 'Support your local queer spaces in Tokyo!'
+image: ''
 tags:
   - cohost
   - lgbtq
@@ -47,3 +49,13 @@ They have events in the evening for those who can't make it out in the daytime; 
 Share this information! And if you find yourself in Tokyo, stop by and make a donation.
 
 _I have good friends who work at Pride House, so I am repping them as a fan and as someone who wants to see their friends continued to be employed by an LGBTQ-friendly org in Japan!_
+
+---
+
+### Related Posts
+
+* [The end of IWAKAN magazine](/blog/posts/2024-01-15-The-end-of-IWAKAN-Magazine/)
+* [The Trans Tourists' Guide to Japan](/blog/posts/2024-05-19-Trans-Tourist-Guide-to-Japan/)
+* [Rabbit Logic](/blog/posts/2024-12-16-Rabbit-Logic/)
+
+See all posts tagged [LGBTQ+](/tags/lgbtq/).

@@ -2,6 +2,8 @@
 title: 'Global Game Jam 2024: After Report (EN)'
 slug: 2024-02-07-Global-Game-Jam-2024-After-Report
 date: '2024-02-07'
+description: 'Hello from Let''s Games! Tokyo, a bilingual Global Game Jam site in Tokyo. This year we had not only a great turnout, but some incredible teams and games we showcased on Sunday.'
+image: ''
 tags:
   - global-game-jam
   - popular
@@ -53,7 +55,7 @@ A game about trust and betrayal—two twin cats vying for the love of one prince
 
 [**(Play on itch.io)**](https://donutshunter.itch.io/trust-me) | [**(donutshunter's blog)**](https://www.donutshunter.com/blog/4ujyvns0j)
 
-![Three kittens, two yellow cats and one white one on a pixel background that says, 'Trust Me.'](GGJ-trustme.png)
+![Three kittens, two yellow cats and one white one on a pixel background that says, Trust Me.](GGJ-trustme.png)
 
 ## Tamagoji
 

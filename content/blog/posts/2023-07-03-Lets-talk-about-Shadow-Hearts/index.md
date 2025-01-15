@@ -226,6 +226,6 @@ _**Author's edit, 2024/03/23:** Initially, I wrote that Penny Blood was a collab
 
 * [Just played through Koudelka](/blog/posts/2023-08-01-Koudelka/)
 * [As a longtime dollfie fan](/blog/posts/2023-08-30-As-a-longtime-dollfie-fan/)
-* [Visiting the first boy's love exhibit in Japan](/blog/posts/2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan/)
+* [BL from the 70's, 80's, and 90's](/blog/posts/2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan/)
 
 See all posts tagged [Fandom](/tags/fandom/).

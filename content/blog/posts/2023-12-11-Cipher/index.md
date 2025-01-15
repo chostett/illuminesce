@@ -1,7 +1,9 @@
 ---
-title: I've been getting into a shoujo manga called Cipher
+title: 'Cipher: a 1980''s shōjo manga'
 slug: 2023-12-11-Cipher
 date: '2023-12-11'
+description: 'A 1980''s shōjo manga that taught me about what it means to write empathetic and real stories.'
+image: ''
 tags:
   - cohost
   - fandom
@@ -34,3 +36,13 @@ It’s not without its flaws, and the story hinges on a familial, yet somewhat r
 But, this manga has really captured my heart for not only its story but its directness in dealing with subjects often not spoken about to young teens. I kept thinking, “man, I wish I had read this manga when I was a teen. It would have given me so many messages I desperately needed to hear.”
 
 ![Two characters talking. One says, I don't want to see photos of myself because I look like a woman. The other says, Beauty isn't limited by gender.](cipher_beauty.jpg)
+
+---
+
+### Related Posts
+
+- [BL from the 70's, 80's, and 90's](/blog/posts/2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan/)
+- [The Expansion of Modern BL](/blog/posts/2023-09-30-Visiting-the-First-Boys-Love-Exhibition-in-Japan/)
+- [Let's talk about Shadow Hearts](/blog/posts/2023-07-03-Lets-talk-about-Shadow-Hearts/)
+
+See all posts tagged [Fandom](/tags/fandom/).

@@ -2,6 +2,8 @@
 title: 'Thoughts on the Patreon Rebrand'
 slug: 2023-10-05-Patreon-Rebrand
 date: '2023-10-05'
+description: 'What Patreon''s redesign predicts about their next actions.'
+image: ''
 tags:
   - cohost
   - design

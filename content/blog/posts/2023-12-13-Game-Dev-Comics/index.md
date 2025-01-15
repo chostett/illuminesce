@@ -2,6 +2,8 @@
 title: Game dev comics
 slug: 2023-12-13-Game-Dev-Comics
 date: '2023-12-13'
+description: 'I made this in 2022 while we were QA testing Terranova and we kept finding unexplainable bugs that would light mabbees on fire'
+image: ''
 tags:
   - art
   - cohost

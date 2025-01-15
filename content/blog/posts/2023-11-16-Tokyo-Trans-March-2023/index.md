@@ -1,13 +1,17 @@
 ---
-title: 2023's Tokyo Trans March is Cancelled
-slug: 2023-11-16-Tokyo-Trans-March-2023
+title: '2023''s Tokyo Trans March is Cancelled'
+slug: '2023-11-16-Tokyo-Trans-March-2023'
 date: '2023-11-16'
+description: 'The Tokyo Trans March was cancelled this year. Some reflections on digging into the mess and reflections on the community in Tokyo.'
+image: ''
 tags:
   - cohost
   - lgbtq
 ---
 
 _This post originally appeared on cohost.org on November 16th, 2023. I'm keeping it here as an archived version of what happened to the Trans March in 2023. Thankfully, this [did not stop the trans community from reorganizing on November 17th 2024.](https://www.instagram.com/tokyotransmarch/)_
+
+Last year, [I was involved in the 2022 Tokyo Trans March](/blog/posts/2022-11-16-Trans-March-2022/) as security. This year, the Tokyo Trans March will not be happening.
 
 The 2023 Tokyo Trans March has been indefinitely postponed and will not be happening this weekend, [announced via their website as of November 9th.](https://transmarch.jp/2023/11/09/report002/)
 
@@ -41,4 +45,4 @@ As a complete third party to the situation, this isn't the first time I've heard
 
 Mostly, I'm hurt, angry, and disappointed in the JP trans community at large, that we attack one another and spread rumors we heard when we should be asking questions and trying to heal.
 
-_It's always a process. It really lifted me up hearing there was another march this year; I heard about it too late this year but next year I'm hoping to be involved in volunteering._
+_It's a process. It really lifted me up hearing [there was another march this yea](https://x.com/tokyotransmarch?lang=en); I heard about it too late this year but next year I'm hoping to be involved in volunteering._

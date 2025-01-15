@@ -2,6 +2,8 @@
 title: 'Book and Link Curation: 2024'
 slug: 2024-03-03-Weekly-Link-Roundup
 date: '2024-03-03'
+description: 'Some articles and experiences I've recently been enjoying.'
+image: ''
 tags:
   - cohost
   - links
@@ -37,5 +39,3 @@ I also practice Japanese regularly by picking up new and old novels and comics t
   * A manga about a married nonbinary person coming out and finding themselves. Written by an out nonbinary person.
 
 Hope you enjoy these links as much as I did.
-
-_CJ is a designer and indie dev. They write as a hobby. If you like this article, why not [say hello in an email](https://illuminesce.net/contact) or [buy them a coffee](https://ko-fi.com/studioterranova) to support their work?_

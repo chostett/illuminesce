@@ -2,6 +2,8 @@
 title: The Remainder is in Your Life
 slug: 2023-11-22-Gaza
 date: '2023-11-22'
+description: 'It is a terrible thing to feel invisible only when you are suffering. Beautiful words by a Palestinian poet.'
+image: ''
 tags:
   - cohost
   - lgbtq

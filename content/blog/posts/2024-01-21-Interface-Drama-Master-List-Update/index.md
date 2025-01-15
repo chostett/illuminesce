@@ -2,6 +2,8 @@
 title: 'Interface Drama Master List Update: A Date with Death and More'
 slug: 2024-01-21-Interface-Drama-Master-List-Update
 date: '2024-01-21'
+description: 'A Date with Death, Another Lost Phone, HRT Simulator 2023, INFINITE RED and more.'
+image: ''
 tags:
   - cohost
   - interface-drama
@@ -75,4 +77,10 @@ Thanks again for all your submissions, and once I play another batch of these ga
 
 Thanks, y'all!
 
-_CJ is a designer and indie dev. They write as a hobby. If you like this article, why not [say hello in an email](https://illuminesce.net/contact) or [buy them a coffee](https://ko-fi.com/studioterranova) to support their work?_
+---
+
+### Related Posts
+
+* [Interface Drama Master List: What is it?](/blog/posts/2023-08-15-Interface-Drama-Master-List/)
+* [The Genre of Interface Dramas, Fiction, Visual Novels and Epistolary Games](/blog/posts/2023-08-22-Interface-Drama/)
+* [Exploring Intrigue with Interface Dramas](/blog/posts/2024-04-18-Interface-Drama-Streaming-Vol1/)

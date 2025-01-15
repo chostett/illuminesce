@@ -29,6 +29,6 @@ Interface dramas are games that tell an immersive story through software and app
 
 * [Interface Drama Master List: What is it?](/blog/posts/2023-08-15-Interface-Drama-Master-List/)
 * [Submit an interface drama here](https://forms.gle/NKXv94fuBjSoZ9pv6)
-* [Interface Drama Master List Update: A Date with Death and More](/blog/posts/2024-01-21-Interface-Drama-Master-List-Update.html)
+* [Interface Drama Master List Update: A Date with Death and More](/blog/posts/2024-01-21-Interface-Drama-Master-List-Update/)
 
 See all posts tagged [Interface Drama](/tags/interface-drama/).

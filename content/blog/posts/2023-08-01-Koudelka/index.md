@@ -36,6 +36,6 @@ That's awful. And what's more awful is knowing how the guards mocked and disresp
 
 * [Let's talk about Shadow Hearts](/blog/posts/2023-07-03-Lets-talk-about-Shadow-Hearts/)
 * [As a longtime dollfie fan](/blog/posts/2023-08-30-As-a-longtime-dollfie-fan/)
-* [An Unauthorized Fan Treatise and MsScribe Drama Meta-Meta Analysis](2023-06-18-An-Unauthorized-Fan-Treatise)
+* [Cipher: A 1980's shōjo manga](/blog/posts/2023-12-11-Cipher/)
 
 See all posts tagged [Fandom](/tags/fandom/).

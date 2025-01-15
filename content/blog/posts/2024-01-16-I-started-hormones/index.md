@@ -2,6 +2,8 @@
 title: I started hormones today.
 slug: 2024-01-16-I-started-hormones
 date: '2024-01-16'
+description: 'It''s both a nadir and anticlimactic.'
+image: ''
 tags:
   - cohost
   - personal

@@ -2,13 +2,17 @@
 title: I HAVE to talk to you about normal_fantasies.exe
 slug: 2023-10-27-I-have-to-talk-to-you-about-normalfantasies
 date: '2023-10-27'
+description: 'normal_fantasies.exe, a short interface drama about reckoning with your own queer identity.'
+image: ''
 tags:
   - cohost
   - interface-drama
   - lgbtq
 ---
 
-<div class="caption">normal_fantasies.exe, a short interface drama about reckoning with your own queer identity. <em>This post originally appeared on <a href="https://cohost.org/illuminesce/post/3315030-i-have-to-talk-to-yo" target="_blank">my cohost</a>.</em></div>
+![normal_fantasies.exe, a short interface drama about reckoning with your own queer identity.](normal_fantasies.png)
+
+_This post originally appeared on [my cohost.](https://cohost.org/illuminesce/post/3315030-i-have-to-talk-to-yo)_
 
 I've been working through all the games folks have submitted to The [Interface Drama Master List](https://illuminesce.net/interface-drama) and every once in a while, I come across a game that really guts me. [normal\_fantasies.exe](https://storysinger-presents.itch.io/normal-fantasies) by **Storysinger Presents** did just that in a very short amount of time, about ~15 minutes.
 
@@ -52,4 +56,12 @@ It's impressive that a short game like that made me think so much, so bravo Stor
 
 [Check out more interface dramas on the Interface Drama Master List.](https://illuminesce.net/interface-drama)
 
-_CJ is a designer and indie dev. They write as a hobby. If you like this article, why not [say hello in an email](https://illuminesce.net/contact) or [buy them a coffee](https://ko-fi.com/studioterranova) to support their work?_
+---
+
+### Related Posts
+
+* [Interface Drama Master List: What is it?](/blog/posts/2023-08-15-Interface-Drama-Master-List/)
+* [Submit an interface drama here](https://forms.gle/NKXv94fuBjSoZ9pv6)
+* [Interface Drama Master List Update: Videoverse](/blog/posts/2023-09-12-ID-Update/)
+
+See all posts tagged [Interface Drama](/tags/interface-drama/).
