@@ -2,6 +2,8 @@
 title: 'Just played through Koudelka'
 slug: 2023-08-01-Koudelka
 date: '2023-08-01'
+description: 'Featuring the PS1 cosmic horror game, Koudelka.'
+image: ''
 tags:
   - cohost
   - fandom

@@ -2,6 +2,8 @@
 title: 'Interface Dramas: A New Way of Telling Stories Through Software'
 slug: 2023-08-14-Interface-Drama
 date: '2023-08-14'
+description: 'A new genre of video games that tells software through stories.'
+image: ''
 tags:
   - interface-drama
 ---

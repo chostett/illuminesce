@@ -2,6 +2,8 @@
 title: 'Victoria Rosenthal is Awesome'
 slug: 2023-09-01-Victoria-Rosenthal-is-Awesome
 date: '2023-09-01'
+description: 'Enjoying delicious recipes from my favorite video games.'
+image: ''
 tags:
   - cohost
   - personal

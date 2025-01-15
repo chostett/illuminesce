@@ -2,6 +2,8 @@
 title: 'As a longtime dollfie fan'
 slug: 2023-08-30-As-a-longtime-dollfie-fan
 date: '2023-08-30'
+description: 'Ball-jointed dolls are both an interesting, and sometimes isolating, hobby.'
+image: ''
 tags:
   - cohost
   - fandom

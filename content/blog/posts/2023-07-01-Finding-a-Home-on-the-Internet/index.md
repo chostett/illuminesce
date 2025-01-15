@@ -2,6 +2,8 @@
 title: Finding a Home on the Internet
 slug: 2023-07-01-Finding-a-Home-on-the-Internet
 date: '2023-07-01'
+description: 'What does it mean to feel ''at home'' here on the Internet?'
+image: ''
 tags:
   - tech-and-web
   - popular
@@ -15,7 +17,9 @@ The site has the feel of a kid's room; nothing matches and the only theme bindin
 
 It also has a "QUOTES ZONE." I, like most teenagers, went through a phase where I found edgy or cool quotes in school reading, online sites, or inside jokes with my friends and thought, "ah, this _defines my essence,_." Into the QUOTES ZONE they went.
 
-<div class="image"><img src="https://illuminesce.net/blog/posts/images/20230701-angelfire-site.png" alt="A pixellated screenshot of an Angelfire site."><div class="caption">Not many people were brave enough to make their entire background chartreuse.</div></div>
+![A pixellated screenshot of an Angelfire site.](angelfire-site.png)
+
+_Not many people were brave enough to make their entire background chartreuse._
 
 Over twenty years later, those quotes may not define me, but they symbolize a freeness to write down what I liked, even if it was weird, and what kind of people I idolized, even if it was a little cringey.
 
@@ -65,7 +69,9 @@ When I was a teenager, I was part of the mall rats that would hang out in the ma
 
 But it _was_ a shopping mall. And Twitter _is_ a platform whose survival depends on monetization. A shopping mall, and Twitter by extension, isn't defined by the amount of new friends and connections made there, it's whether or not businesses survive. And if they don't, the mall dies. This was always true, but for a while we fooled ourselves into thinking we owned the mall.
 
-<div class="image"><img src="https://illuminesce.net/blog/posts/images/20230701-mall.png" alt="An image of a concrete building in front of a parking lot. The signs are faded and there is a signboard that says, " for="" lease.""=""><div class="caption">What my local mall looks like now. (via <a href="https://www.commercialcafe.com/">commercialcafe.com</a>)</div></div>
+![An image of a concrete building in front of a parking lot. The signs are faded and there is a signboard that says, for lease.](mall.png)
+
+_What my local mall looks like now. (via [commercialcafe.com](https://www.commercialcafe.com/))_
 
 ### Public libraries of the internet
 

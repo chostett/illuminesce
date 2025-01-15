@@ -2,6 +2,8 @@
 title: 'Ripley'
 slug: 2023-05-04-Ripley
 date: '2023-05-04'
+description: 'There are times when you make mistakes and apologize. Other times, you make mistakes and dig your heels in, despite you being entirely, blatantly wrong.'
+image: ''
 tags:
   - cohost
   - personal
@@ -47,4 +49,4 @@ I have since openly admitted to my partner that I was wrong and he is the Most K
 
 I admit, I still believe Ripley exists, around 20%. It's a feeling I can't shake. Maybe not in Metroid, but in some separate universe, there's a pterodactyl alien chasing the Famous Seamus Arran and she'll point her bean guns at it and say,
 
-# "I'm coming for you, Ripley!!!!"
+## "I'm coming for you, Ripley!!!!"

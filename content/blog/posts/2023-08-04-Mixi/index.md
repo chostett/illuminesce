@@ -2,6 +2,8 @@
 title: 'After fifteen years away, I logged into mixi'
 slug: 2023-08-04-Mixi
 date: '2023-08-04'
+description: 'I can''t believe it''s still around.'
+image: ''
 tags:
   - cohost
   - personal

@@ -2,6 +2,8 @@
 title: 'The Interface Drama Submission Queue'
 slug: 2023-09-02-ID-Submission-Queue
 date: '2023-09-02'
+description: 'How I keep on top of submissions to the Interface Drama Master List.'
+image: ''
 tags:
   - cohost
   - interface-drama
@@ -23,14 +25,14 @@ In particular, one of my _own_ biases is as an _interface designer_, _storytelle
 
 Added:
 
-* ESC
-* Human Errors
-* Neurocracy
+- ESC
+- Human Errors
+- Neurocracy
 
 Not added:
 
-* OneShot
-* Magical Maiden Madison
+- OneShot
+- Magical Maiden Madison
 
 Thank you for the submissions! Rationale for all of these is written in the [submission queue cards.](https://trello.com/b/FsmPZht8/interface-drama-master-list-submission-queue)
 
@@ -44,8 +46,8 @@ Magical Maiden Madison is an interface drama, but due to a JQuery error the game
 
 ### Related posts
 
-* [The Interface Drama Master List: What is it?](/blog/posts/2023-08-15-Interface-Drama-Master-List/)
-* [Submit an interface drama here](https://forms.gle/NKXv94fuBjSoZ9pv6)
-* [The Genre of Interface Dramas, Fiction, Visual Novels and Epistolary Games](/blog/posts/2023-08-22-Interface-Drama/)
+- [The Interface Drama Master List: What is it?](/blog/posts/2023-08-15-Interface-Drama-Master-List/)
+- [Submit an interface drama here](https://forms.gle/NKXv94fuBjSoZ9pv6)
+- [The Genre of Interface Dramas, Fiction, Visual Novels and Epistolary Games](/blog/posts/2023-08-22-Interface-Drama/)
 
 See all posts tagged [Interface Drama](/tags/interface-drama/).

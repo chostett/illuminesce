@@ -2,7 +2,6 @@
 title: 'An Open World is Not a Feature.'
 slug: '2014-04-02-An-Open-World-is-Not-A-Feature'
 date: '2014-04-02'
-canonical: 'https://illuminesce.net/blog/posts/2014-04-02-An-Open-World-is-Not-A-Feature/'
 description: 'Understanding the difference between an open world as a concept and the modern interpretation of open world in video games.'
 image: ''
 tags:

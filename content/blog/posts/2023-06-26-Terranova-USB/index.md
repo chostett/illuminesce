@@ -2,6 +2,8 @@
 title: First time screenprinting on USB keys
 slug: 2023-06-26-Terranova-USB
 date: '2023-06-26'
+description: 'We handprinted USB keys for Terranova today!'
+image: ''
 tags:
   - cohost
   - terranova

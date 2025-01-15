@@ -2,6 +2,8 @@
 title: An Unauthorized Fan Treatise and MsScribe Drama Meta-Meta Analysis
 slug: 2023-06-18-An-Unauthorized-Fan-Treatise
 date: '2023-06-18'
+description: 'Inspired by Lauren James'' Gottie Writes, a long deep-dive into fandom.'
+image: ''
 tags:
   - cohost
   - fandom

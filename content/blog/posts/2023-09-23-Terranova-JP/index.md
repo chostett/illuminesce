@@ -2,6 +2,8 @@
 title: 'テラノヴァのデモ版を発表いたします'
 slug: 2023-09-23-Terranova-JP
 date: '2023-09-23'
+description: 'テラノヴァのデモ版を発表していただきたいと思います。'
+image: ''
 tags:
   - cohost
   - japanese

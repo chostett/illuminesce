@@ -1,7 +1,9 @@
 ---
-title: 'Answering Asks: What was the Inspiration for your characters in Terranova?'
+title: 'Answering Asks'
 slug: 2023-09-08-Terranova-Inspiration
 date: '2023-09-08'
+description: 'What was the inspiration for your characters in Terranova?'
+image: ''
 tags:
   - cohost
   - fandom

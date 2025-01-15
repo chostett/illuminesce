@@ -2,6 +2,8 @@
 title: Mochi and Mugi the Eggbuns
 slug: 2023-05-21-Mochi-the-Eggbun
 date: '2023-05-21'
+description: 'I made some LINE/Telegram/Signal stickers. Check out these eggbuns!'
+image: ''
 tags:
   - art
   - cohost

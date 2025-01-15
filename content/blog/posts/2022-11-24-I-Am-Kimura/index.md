@@ -2,8 +2,7 @@
 title: I am Kimura
 slug: 2022-11-24-I-Am-Kimura
 date: '2022-11-24'
-canonical: 'https://illuminesce.net/blog/posts/2022-11-24-I-Am-Kimura/'
-description: 'When I was a teenager, I was one of those anime fans. Kids nowadays would call it cringe. I look back on those days with embarrassment. I was a lonely kid who lived in a boring suburb trying to make my boring life something worth bragging about.'
+description: 'When I was a teenager, I was one of those anime fans. Kids nowadays would call it cringe.'
 image: ''
 tags:
   - cohost

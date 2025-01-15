@@ -2,8 +2,7 @@
 title: I left work to take a sabbatical.
 slug: 2023-01-23-I-left-work-to-take-a-sabbatical
 date: '2023-01-23'
-canonical: 'https://illuminesce.net/blog/posts/2023-01-23-I-left-work-to-take-a-sabbatical/'
-description: 'Starting at the end of this month, I'll be leaving my job. I have a hard time saying out loud I'm taking a break.'
+description: 'Starting at the end of this month, I''ll be leaving my job.'
 image: ''
 tags:
   - personal
@@ -27,7 +26,9 @@ Five years ago, I was sitting across from my partner, whom I had married less th
 
 He thought for a long while. And then he said the second most important "yes" in our relationship.
 
-<div class="image"><img src="https://illuminesce.net/blog/posts/images/20230123-sushi.png" alt="Passport with cream cheese and salmon sushi roll."><div class="caption">Our last meal before we left. No cream cheese sushi in Japan.</div></div>
+![Passport with cream cheese and salmon sushi roll.](sushi.png)
+
+_Our last meal before we left. No cream cheese sushi in Japan._
 
 Five years later. We miss our people back home dearly. But we don't miss the day-to-day of living in the States. We have warm dinners and new recipes, international friendships, new communities, and a house we never thought we'd be able to own.
 

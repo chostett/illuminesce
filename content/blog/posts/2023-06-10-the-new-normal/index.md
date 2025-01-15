@@ -2,6 +2,8 @@
 title: The new normal
 slug: 2023-06-10-the-new-normal
 date: '2023-06-10'
+description: 'As long as you''re eating, I''m happy.'
+image: ''
 tags:
   - personal
 ---

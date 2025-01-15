@@ -2,6 +2,8 @@
 title: Let's talk about Shadow Hearts
 slug: 2023-07-03-Lets-talk-about-Shadow-Hearts
 date: '2023-07-03'
+description: 'A deep-dive into the PlayStation series Shadow Hearts, and its predecessor, Koudelka.'
+image: ''
 tags:
   - cohost
   - fandom
@@ -164,7 +166,7 @@ I'm especially critical of Karin; she's supposed to be in the military, and she 
 
 ![A sexy image of a blonde woman in lingerie posing over skeletons.](shadowhearts-11.png)
 
-_"Koudelka—it's not just men that fall at her feet."_
+### "Koudelka—it's not just men that fall at her feet."
 
 There's also some really weird mother complex between two characters, and an unsettling character named [Cornelia](https://shadowhearts.fandom.com/wiki/Cornelia) from _Shadow Hearts II_ who is a doll, but also has the form of a prepubescent girl. Her power changes through the outfits she wears; but some of them are pretty revealing and in the Director's Cut, she has a nude outfit. Given her "puppeteer" is an old man and him dressing her is a necessary part of leveling up, it crosses the line into ick territory for me.
 

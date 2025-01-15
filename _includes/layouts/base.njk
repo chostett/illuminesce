@@ -14,14 +14,13 @@
 		{# - Open Graph / Facebook -#}
 		<meta property="og:title" content="{{ title }}" />
   		<meta property="og:description" content="{{ description or metadata.description }}" />
-  		<meta property="og:url" content="{{ canonical }}" />
   		<meta property="og:image" content="{{ image }}" />
+		<meta name="fediverse:creator" content="@illuminesce@gamedev.lgbt">
 
   		{# - Twitter -#}
   		<meta property="twitter:card" content="summary_large_image" />
   		<meta property="twitter:title" content="{{ title }}" />
   		<meta property="twitter:description" content="{{ description or metadata.description }}" />
-  		<meta property="twitter:url" content="{{ canonicalURL }}" />
   		<meta property="twitter:image" content="{{ image }}" />
 
 		{#-

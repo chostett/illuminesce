@@ -2,6 +2,8 @@
 title: 'New Bitsy Game: Our Home'
 slug: 2023-07-29-Our-Home
 date: '2023-07-29'
+description: 'Because of the global pandemic and rising flight costs, we can''t welcome friends and family as much as we used to. I built a little bitsy game for folks to explore our home and do fun things.'
+image: ''
 tags:
   - video-games
 ---

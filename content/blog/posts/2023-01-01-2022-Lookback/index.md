@@ -2,7 +2,6 @@
 title: A look back at 2022
 slug: 2023-01-01-2022-Lookback
 date: '2023-01-01'
-canonical: 'https://illuminesce.net/blog/posts/2023-01-01-2022-Lookback/'
 description: 'It was hard to feel grateful about my life when I was puking on the hot asphalt of a two-lane highway in the desert.'
 image: ''
 tags:

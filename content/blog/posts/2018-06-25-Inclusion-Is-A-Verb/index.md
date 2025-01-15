@@ -2,7 +2,6 @@
 title: 'Inclusion is a Verb'
 slug: '2018-06-25-Inclusion-Is-A-Verb'
 date: '2018-06-25'
-canonical: 'https://illuminesce.net/blog/posts/2018-06-25-Inclusion-Is-A-Verb/'
 description: 'I quit my jiu-jitsu gym last week. I wasn’t avoiding my gym because of the typical excuses—no time or lack of motivation. In fact, it was much deeper.'
 image: ''
 tags:

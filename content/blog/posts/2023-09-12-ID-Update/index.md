@@ -2,6 +2,8 @@
 title: 'Interface Drama Master List Update: Videoverse'
 slug: 2023-09-12-ID-Update
 date: '2023-09-12'
+description: 'Videoverse, Blooming Panic, and A Normal Lost Phone.'
+image: ''
 tags:
   - cohost
   - interface-drama

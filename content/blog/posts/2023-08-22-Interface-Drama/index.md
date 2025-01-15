@@ -2,6 +2,8 @@
 title: 'The Genre of Interface Dramas, Fiction, Visual Novels and Epistolary Games'
 slug: 2023-08-22-Interface-Drama
 date: '2023-08-22'
+description: 'A collection of posts in response to the interface drama genre.'
+image: ''
 tags:
   - cohost
   - interface-drama

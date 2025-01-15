@@ -2,8 +2,7 @@
 title: 'Hello from Tokyo Indie Games Summit!'
 slug: 2023-03-04-Tokyo-Games-Summit
 date: '2023-03-04'
-canonical: 'https://illuminesce.net/blog/posts/2023-03-04-Tokyo-Games-Summit/'
-description: 'mabbees and I went out to Tokyo Indie Games Summit today, accompanied by my mother, who, despite not playing a video game in her life, nor speaks Japanese, still allowed us to drag her there. Here are some of my (and my mother\'s) rough impressions.'
+description: 'mabbees and I went out to Tokyo Indie Games Summit today.'
 image: ''
 tags:
   - cohost

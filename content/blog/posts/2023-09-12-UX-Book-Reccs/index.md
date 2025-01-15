@@ -2,6 +2,8 @@
 title: 'Book Recommendations for UX Designers'
 slug: 2023-09-12-UX-Book-Reccs
 date: '2023-09-12'
+description: 'What you should be reading as a budding software designer.'
+image: ''
 tags:
   - cohost
   - design

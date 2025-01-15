@@ -2,6 +2,8 @@
 title: Unexpectedly hopeful
 slug: 2023-08-02-unexpectedly-hopeful
 date: '2023-08-02'
+description: 'A hopeful update about my stomach issues.'
+image: ''
 tags:
   - personal
 ---
@@ -22,9 +24,9 @@ With the doctor's help, I've made some new discoveries.
 
 I'm writing down these discoveries so that if there is anyone else out there with similarly confusing symptoms they might gain some insight.
 
--   I have a hiatial hernia, or 食道ヘルニア in Japanese. This means my lower esophagus doesn't close all the way, and this, plus triggers, can cause my stomach acid to wash back up into my esophagus, triggering vomiting episodes.
--   I would only get sick between the months of March and September, around the time heatwaves would occur. It seems to react to heat, and exercise in the heat like biking, hiking, etc.
--   I've discovered some food triggers. I had expected them to be the usual "bad for your stomach" foods like spicy or raw foods, but actually, it's been soy milk and gluten.
+- I have a hiatial hernia, or 食道ヘルニア in Japanese. This means my lower esophagus doesn't close all the way, and this, plus triggers, can cause my stomach acid to wash back up into my esophagus, triggering vomiting episodes.
+- I would only get sick between the months of March and September, around the time heatwaves would occur. It seems to react to heat, and exercise in the heat like biking, hiking, etc.
+- I've discovered some food triggers. I had expected them to be the usual "bad for your stomach" foods like spicy or raw foods, but actually, it's been soy milk and gluten.
 
 These new discoveries have opened up so many possibilities to live a life not afraid of food. Before, my doctor had diagnosed me with "mysterious food poisoning" and told me—to _avoid bad foods try to reduce stress_. I remember asking him how he expected me to reduce stress when I couldn't eat or drink for a week, and he shrugged and repeated his advice.
 
@@ -50,21 +52,21 @@ Before, when I'd get nauseous, I'd only eat bread and drink water; then I'd lie 
 
 Here's the behaviors I've changed:
 
--   reducing gluten intake and switching to almond milk
--   using an app on my phone to check the FODMAP of food
--   eating yogurt/taking probiotics first thing in the morning
--   exercise at home or our local indoor rec center
--   hydrate!! more than I think I need to!
--   stretching and meditating in the morning to relax
--   taking a nightly walk before bed
+- reducing gluten intake and switching to almond milk
+- using an app on my phone to check the FODMAP of food
+- eating yogurt/taking probiotics first thing in the morning
+- exercise at home or our local indoor rec center
+- hydrate!! more than I think I need to!
+- stretching and meditating in the morning to relax
+- taking a nightly walk before bed
 
 Here's the results:
 
--   episodes reduced from one week a month to one/two days a month
--   less paranoid about food, more confident
--   stabilized weight
--   emotionally happier
--   generally less stressed when an episode occurs, because I know what I need to do to take care of myself
+- episodes reduced from one week a month to one/two days a month
+- less paranoid about food, more confident
+- stabilized weight
+- emotionally happier
+- generally less stressed when an episode occurs, because I know what I need to do to take care of myself
 
 I haven't reduced the number to episodes to zero, but I'm not expecting to. I'd _like_ to have zero episodes, but I don't want to overengineer myself to do that.
 

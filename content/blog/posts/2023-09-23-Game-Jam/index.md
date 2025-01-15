@@ -1,7 +1,9 @@
 ---
-title: 'Cute mention of a game jam in A Normal Lost Phone'
+title: 'Game jams in A Normal Lost Phone'
 slug: 2023-09-23-Game-Jam
 date: '2023-09-23'
+description: 'Looks like Global Game Jam got a new mention.'
+image: ''
 tags:
   - global-game-jam
   - interface-drama

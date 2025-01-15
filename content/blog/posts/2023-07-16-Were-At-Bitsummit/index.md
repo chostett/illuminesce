@@ -2,6 +2,8 @@
 title: We're at BitSummit!
 slug: 2023-07-16-Were-At-Bitsummit
 date: '2023-07-16'
+description: 'We showcased our game, Terranova at BitSummit in 2023.'
+image: ''
 tags:
   - terranova
   - video-games

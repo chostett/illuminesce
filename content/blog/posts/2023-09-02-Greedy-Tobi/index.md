@@ -2,6 +2,8 @@
 title: 'Greedy Tobi is Coming'
 slug: 2023-09-02-Greedy-Tobi
 date: '2023-09-02'
+description: 'Watch out.'
+image: ''
 tags:
   - cohost
   - japanese

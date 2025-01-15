@@ -2,6 +2,8 @@
 title: 'The Interface Drama Master List: What is it?'
 slug: 2023-08-15-Interface-Drama-Master-List
 date: '2023-08-15'
+description: 'An introduction into the interface drama genre, the Interface Drama Master List, and how to add new entries.'
+image: ''
 tags:
   - interface-drama
   - popular
@@ -25,9 +27,9 @@ Please take a look at the FAQ before submitting. I'm still smoothing out rough e
 
 Interface dramas, also known as inbox games, desktop simulators, ui games, or interface fictions are a small but growing form of game where a user interface is used to tell an immersive story. Though this list was initially inspired by a [talk mabbees and I gave in December 2022](https://illuminesce.net/talks/202212-interface-drama), we are not the first people to talk about or define this type of genre.
 
--   **Inbox Games: Poetics and Authoring Support** by Chris Martens and Robert J. Simmons in 2021 at the International Conference on Interactive Digital Storytelling (ICIDS) ([talk](https://www.youtube.com/watch?v=X5Hx4HCh_D4) | [paper](https://drive.google.com/file/d/1NZq02JIumJ06tiPXbGJM7gjx8JPava42/view))
--   **Fantasy Filing Systems** by [Lee Tusman](https://leetusman.com/) in July 2022 at Narrascope ([slides](http://tinyurl.com/narrascope) | [list](https://leetusman.com/notes/txt/fantasy-filing-systems/))
--   **Old Interfaces, New Stories** by [Katherine Morayati](https://katherinestasaph.itch.io/) & [Ian Michael Waddell](https://imw.itch.io/) in August 2022 through Interactive Fiction Technology Foundation ([video](https://www.youtube.com/watch?v=u5mMOsQDjJc) | [slides](https://docs.google.com/presentation/d/1VFXjpeXMUPjm3QcL5CiGXEhgOuZE8NLntcl9r6YDipo/edit?usp=sharing))
+- **Inbox Games: Poetics and Authoring Support** by Chris Martens and Robert J. Simmons in 2021 at the International Conference on Interactive Digital Storytelling (ICIDS) ([talk](https://www.youtube.com/watch?v=X5Hx4HCh_D4) | [paper](https://drive.google.com/file/d/1NZq02JIumJ06tiPXbGJM7gjx8JPava42/view))
+- **Fantasy Filing Systems** by [Lee Tusman](https://leetusman.com/) in July 2022 at Narrascope ([slides](http://tinyurl.com/narrascope) | [list](https://leetusman.com/notes/txt/fantasy-filing-systems/))
+- **Old Interfaces, New Stories** by [Katherine Morayati](https://katherinestasaph.itch.io/) & [Ian Michael Waddell](https://imw.itch.io/) in August 2022 through Interactive Fiction Technology Foundation ([video](https://www.youtube.com/watch?v=u5mMOsQDjJc) | [slides](https://docs.google.com/presentation/d/1VFXjpeXMUPjm3QcL5CiGXEhgOuZE8NLntcl9r6YDipo/edit?usp=sharing))
 
 ### What are the criteria for an interface drama?
 
@@ -37,15 +39,15 @@ Interface dramas, also known as inbox games, desktop simulators, ui games, or in
 
 **Game must have recognizeable elements of a user interface (UI).** These include but are not limited to:
 
-* text fields
-* buttons
-* toggles
-* dropdowns
-* scrollbars
-* icons and tooltips
-* progress bars
-* modal windows
-* command lines
+- text fields
+- buttons
+- toggles
+- dropdowns
+- scrollbars
+- icons and tooltips
+- progress bars
+- modal windows
+- command lines
 
 [Please see this page for more examples of UI elements.](https://www.usability.gov/how-to-and-tools/methods/user-interface-elements.html) The game can be inspired by pre-existing user interfaces (IRC, Windows XP, iOS) or can be an entirely new speculative interface.
 
@@ -65,11 +67,11 @@ I personally have yet to see an analogue interface drama, but if it fits the cri
 
 Please submit [using the form here.](https://forms.gle/NKXv94fuBjSoZ9pv6) You need the following:
 
-* Game title
-* Short game description (150 words or less)
-* Link to full game or demo on itch.io, Steam page or website
-* Tags that describe the game
-* _If you are the developer:_ A 460x215 promotional image with your game's logo displayed visibly
+- Game title
+- Short game description (150 words or less)
+- Link to full game or demo on itch.io, Steam page or website
+- Tags that describe the game
+- _If you are the developer:_ A 460x215 promotional image with your game's logo displayed visibly
 
 **I will only accept playable games that are either the full game or have a demo released.**
 
@@ -97,9 +99,9 @@ Since my background is in _interface design_ (specifically digital) and _storyte
 
 As I've been exposed to other interesting perspectives on the genre, I've understood interface dramas to exist amongst other genres. Here's some I've discovered so far. If you have something to suggest here, please get in contact with me.
 
-* [inbox games](https://drive.google.com/file/d/1NZq02JIumJ06tiPXbGJM7gjx8JPava42/view) like Digital a Love Story and A Normal Lost Phone
-* [epistolary games](/blog/posts/2023-08-22-Interface-Drama/) like Neurocracy and Her Story
-* interface puzzlers like Last Call BBS and TIS-100
+- [inbox games](https://drive.google.com/file/d/1NZq02JIumJ06tiPXbGJM7gjx8JPava42/view) like Digital a Love Story and A Normal Lost Phone
+- [epistolary games](/blog/posts/2023-08-22-Interface-Drama/) like Neurocracy and Her Story
+- interface puzzlers like Last Call BBS and TIS-100
 
 ### I don't like interface dramas. They're not even games.
 

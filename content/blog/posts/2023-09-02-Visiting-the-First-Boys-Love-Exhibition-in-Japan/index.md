@@ -1,7 +1,9 @@
 ---
-title: 'Visiting the first boy''s love exhibition in Japan: Part One'
+title: 'BL (Boy''s Love) from the 70''s, 80''s, and 90''s'
 slug: 2023-09-02-Visiting-the-First-Boys-Love-Exhibition-in-Japan
 date: '2023-09-02'
+description: 'Visiting the first boy''s love exhibition in Japan: Part One'
+image: ''
 tags:
   - fandom
   - lgbtq
@@ -115,9 +117,9 @@ _From the comic [Dorito Face Bad Touch Sempai-san and Shota Boy](https://www.web
 
 ### Additional Resources
 
-1.  [Flights of Fancy: Mari Mori and the Origins of the Boys' Love Genre.](https://www.tokyoweekender.com/art_and_culture/books-literature-art_and_culture/mari-mori-boys-love/) Healy, Shane for _Tokyo Weekender._
-2.  [Malice Mizer: Wikipedia.](https://en.wikipedia.org/wiki/Malice_Mizer)
-3.  [Discussing Depictions of Male Homosexuality in Japanese Girls' Comics, Gay Comics and Gay Pornography.](http://intersections.anu.edu.au/issue12/lunsing.html) Wim Lunsing for _Intersections: Gender, History and Culture in the Asian Context._
+1. [Flights of Fancy: Mari Mori and the Origins of the Boys' Love Genre.](https://www.tokyoweekender.com/art_and_culture/books-literature-art_and_culture/mari-mori-boys-love/) Healy, Shane for _Tokyo Weekender._
+2. [Malice Mizer: Wikipedia.](https://en.wikipedia.org/wiki/Malice_Mizer)
+3. [Discussing Depictions of Male Homosexuality in Japanese Girls' Comics, Gay Comics and Gay Pornography.](http://intersections.anu.edu.au/issue12/lunsing.html) Wim Lunsing for _Intersections: Gender, History and Culture in the Asian Context._
 
 ---
 

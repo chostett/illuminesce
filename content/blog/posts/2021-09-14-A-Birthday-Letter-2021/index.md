@@ -2,7 +2,6 @@
 title: A Birthday Letter, 2021
 slug: 2021-09-14-A-Birthday-Letter-2021
 date: '2021-09-14'
-canonical: 'https://illuminesce.net/blog/posts/2021-09-14-A-Birthday-Letter-2021/'
 description: 'Do you remember the letter I sent you last year? Well, the international borders are shut down.'
 image: ''
 tags:

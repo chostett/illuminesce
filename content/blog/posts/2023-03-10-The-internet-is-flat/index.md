@@ -2,6 +2,8 @@
 title: The Internet is flat
 slug: 2023-03-10-The-internet-is-flat
 date: '2023-03-10'
+description: 'Our fragmented, complex lives, in a convenient, flat feed.'
+image: ''
 tags:
   - cohost
   - tech-and-web
