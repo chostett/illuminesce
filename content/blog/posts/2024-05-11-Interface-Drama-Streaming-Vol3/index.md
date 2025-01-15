@@ -2,17 +2,23 @@
 title: Abstracting away horror with UNCANNY interface dramas
 slug: 2024-05-11-Interface-Drama-Streaming-Vol3
 date: '2024-05-11'
+description: 'The worst kind of horror is the one that makes you wait. Today, we dive into uncanny themes in interface dramas.'
+image: ''
 tags:
   - interface-drama
 ---
 
+![Interface Drama, Vol. 3: UNCANNY. Shows screenshots of different interfaces.](interfacedrama-vol3-thumb.png)
+
 Welcome to Volume 03 of the Interface Drama Streaming Series, where we explore interface dramas by theme. Volume 03's theme was "UNCANNY." This is one of my favorite kind of interface drama, and I'm looking forward to telling you more about them. If you want to play more of these unique games, I made a list called [The Interface Drama Master List.](https://illuminesce.net/interface-drama)
 
-Don't know what interface dramas are? [Check out Volume 01: INTRIGUE](2024-04-18-Interface-Drama-Streaming-Vol1.html) for more info.
+Don't know what interface dramas are? [Check out Volume 01: INTRIGUE](/blog/posts/2024-04-18-Interface-Drama-Streaming-Vol1/) for more info.
 
 ## Abstracting away horror
 
 I didn't want to buy an Apple computer for a long time. Though my former roommate in college was a Mac fan, hers would throw errors where the only solutions were "contact the manufacturer" or "take it to an Apple store," none of which could be solved alone.
+
+![Text: The installation failed. An unknown installation occurred. Contact the software manufacturer for assistance.](macerror.png)
 
 I worried if I got an error like that, it would mean instead of fixing it myself like I did with my PC, I would have to take a bus down to the Apple Store on my day off and wait in line for a "genius" to see me. Who would do that if they could fix it themselves?
 
@@ -26,16 +32,16 @@ Something lurking...underneath the surface of these bits and bytes, unseen to yo
 
 And, you, dear reader, are not one of them. Shh, everything will be just
 
-<span class="everything-will-not-be-fine"><a href="https://forms.gle/C9bjzCqChXt2Ao5aA">⌌Ⓕ̙⌏⌌Ⓘ̙⌏⌌Ⓝ̙⌏⌌Ⓔ̙⌏⌌.̙⌏</a></span>\*
+[⌌Ⓕ̙⌏⌌Ⓘ̙⌏⌌Ⓝ̙⌏⌌Ⓔ̙⌏⌌.̙⌏](https://forms.gle/C9bjzCqChXt2Ao5aA)
 
-* * *
+---
 
 In April we played a series of games on the UNCANNY theme. Interface dramas, in my opinion, are well-suited for this.  
 The games we played were:
 
--   [Home Safety Hotline](https://nightsignalentertainment.itch.io/home-safety-hotline) by Night Signal Entertainment
-[last seen online by qwook](https://qwook.itch.io/last-seen-online)-   [](https://qwook.itch.io/last-seen-online)[Human Errors](https://ifdb.org/viewgame?id=14oexa2wyym73glu) by Katherine Morayati
--   [MAPFRIEND](https://papercookies.itch.io/mapfriend) by papercookies
+- [Home Safety Hotline](https://nightsignalentertainment.itch.io/home-safety-hotline) by Night Signal Entertainment
+- [last seen online by qwook](https://qwook.itch.io/last-seen-online)-   [](https://qwook.itch.io/last-seen-online)[Human Errors](https://ifdb.org/viewgame?id=14oexa2wyym73glu) by Katherine Morayati
+- [MAPFRIEND](https://papercookies.itch.io/mapfriend) by papercookies
 
 Let's get started.
 
@@ -47,6 +53,8 @@ After I did a 30 minute playthrough on-stream, I spent the evening finishing it 
 
 **([play the game](https://nightsignalentertainment.itch.io/home-safety-hotline) | [follow Night Signal Entertainment](https://nightsignalentertainment.itch.io/))**
 
+![An old 90's tape on hazards such as metamorphosis.](id03-hsh.jpg)
+
 ## last seen online
 
 last seen online is a psychological horror game based on early Flash games. I too, played early Flash games like [MOTAS](https://flashpointproject.github.io/flashpoint-database/search/#5a02f47c-0f4c-4fb3-bf28-1d26538cdd36) (needs Flashpoint to run) and [赤いの部屋](https://en.wikipedia.org/wiki/Red_Room_Curse); their obtuseness and lack of guides lends themselves to puzzling over them of hours.
@@ -56,6 +64,8 @@ The puzzles were brilliant; I don't often find myself saying, "aha!" when solvin
 I mentioned before about abstraction; some of the puzzles in this game rely on abstraction to solve them. Tip: It's not just a music player; it's a hint. It's about a ~20 minute playthrough, and so enjoyable.
 
 **([play the game](https://qwook.itch.io/last-seen-online) | [follow qwook](https://qwook.itch.io/))**
+
+![Who is in this photo?](id03-lastseenonline.png)
 
 ## Human Errors
 
@@ -77,20 +87,26 @@ _(Sensory Warning for MAPFRIEND: for sound-sensitive people, the game gets sudde
 
 **([play the game](https://papercookies.itch.io/mapfriend) | [follow papercookies](https://papercookies.itch.io))**
 
+![Exploring is fun with Mapfriend!](id03-mapfriend.gif)
+
 There's a lot more of uncanny interface dramas than these, so I'd suggest you check them out on the [list!](https://illuminesce.net/interface-drama) I also love the SIMULACRA series if you haven't checked it out.
 
-Tune in this week at [@itsilluminesce on Twitch](https://www.twitch.tv/itsilluminesce) on Friday, May 24th at 9AM JST for the next installment of interface dramas, volume 4: \[Surveillance\]!
+Tune in this week at [@itsilluminesce on Twitch](https://www.twitch.tv/itsilluminesce) on Friday, May 24th at 9AM JST for the next installment of interface dramas, **volume 4: Surveillance**!
 
-## One last request...
+## One last request
 
-If you like what I do, consider donating to my Ko-Fi. Just $5 goes a long way for me to keep doing this. It's a good motivation that people like the stuff I'm making and are interested in seeing more.
-
-kofiwidget2.init('Support me on Ko-fi', '#5e00f5', 'N4N81K65A'); kofiwidget2.draw();
+If you like what I do, [consider donating to my Ko-Fi](https://ko-fi.com/illuminesce). Just $5 goes a long way for me to keep doing this. It's a good motivation that people like the stuff I'm making and are interested in seeing more.
 
 Thank you for your time, and we'll see you this Friday!
 
-_\* This game, UX Research Reports, was made by me._
+([UX Research Reports](https://forms.gle/C9bjzCqChXt2Ao5aA) was made by me.)
 
-* * *
+---
 
-## Comments
+### Related Posts
+
+- [Exploring Intrigue with Interface Dramas](/blog/posts/2024-04-22-Interface-Drama-Streaming-Vol1/)
+- [Interface as Longing](/blog/posts/2024-05-11-Interface-Drama-Streaming-Vol2/)
+- [The Genre of Interface Dramas, Fiction, Visual Novels and Epistolary Games](/blog/posts/2023-08-22-Interface-Drama/)
+
+See all posts tagged [Interface Drama](/tags/interface-drama/).

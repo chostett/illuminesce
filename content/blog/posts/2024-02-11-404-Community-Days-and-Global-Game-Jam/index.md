@@ -48,7 +48,7 @@ For everyone interested, [IGDA Japan made a list of all GGJ sites in Japan here.
 
 And for anyone from other sites who want to know how Let's Games! Tokyo went this year, I wrote up an after-report for the event.
 
-* **[(Let's Games! Tokyo English After Report)](https://illuminesce.net/blog/posts/2024-02-07-Global-Game-Jam-2024-After-Report)**
-* **[(Let's Games! Tokyoアフターレポート日本語版)](https://illuminesce.net/blog/posts/2024-02-07-GGJ24-Report-JP.html)**
+* **[Let's Games! Tokyo English After Report](https://illuminesce.net/blog/posts/2024-02-07-Global-Game-Jam-2024-After-Report)**
+* **[Let's Games! Tokyoアフターレポート日本語版](https://illuminesce.net/blog/posts/2024-02-07-GGJ24-Report-JP.html)**
 
 Looking forward to how the _404 not found_ space develops!

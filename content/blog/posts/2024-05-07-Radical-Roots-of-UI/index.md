@@ -2,6 +2,8 @@
 title: Remembering the radical roots of interface
 slug: 2024-05-07-Radical-Roots-of-UI
 date: '2024-05-07'
+description: 'You''d be surprised just how little Silicon Valley instigates innovation instead of imitates innovation that was done many years ago by radical inventors.'
+image: ''
 tags:
   - cohost
   - design
@@ -45,3 +47,13 @@ In the 90's he was forcibly thrown out of an art gallery by security guards with
 I wonder if Steve Mann thought it ironic that Google was the one who chose to make Google Glass—it wasn't so revolutionary as it was a natural extension of their surveillance into the day-to-day lives of the wearers.
 
 Is it revolutionary to wear glasses designed by a company whose bottom line is monetizing user data?
+
+---
+
+### Related Posts
+
+* [The Genre of Interface Dramas, Fiction, Visual Novels and Epistolary Games](/blog/posts/2023-08-22-Interface-Drama/)
+* [Abstracting away horror with UNCANNY interface dramas](/blog/posts/2024-05-11-Interface-Drama-Streaming-Vol3/)
+* [Indie Games of Cohost: CJ from Studio Terranova](/blog/posts/2024-05-18-Indie-Games-of-Cohost/)
+
+See all posts tagged [Interface Drama](/tags/interface-drama/).

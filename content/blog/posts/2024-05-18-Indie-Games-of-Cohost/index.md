@@ -2,6 +2,8 @@
 title: 'Indie Games of Cohost: CJ from Studio Terranova'
 slug: 2024-05-18-Indie-Games-of-Cohost
 date: '2024-05-18'
+description: 'An interview with Kyle Labriola for Indie Games of Cohost.'
+image: ''
 tags:
   - cohost
   - video-games
@@ -111,3 +113,13 @@ It’s a romance interface drama where through some wild loophole, you’ve foun
   > Thanks so much for chatting, CJ! I've been enjoying Terranova a lot so far, and have also enjoyed a number of these types of games in the past, so it's cool to see that there's terminology to describe them now. For everyone else...find Terranova on Steam and all of CJ's games on itch.io! And follow them here on Cohost, @illuminesce!
 
 _Follow [Kyle Labriola's](https://blueberrylemonade.pika.page/) blog on video games n' stuff here._
+
+---
+
+### Related Posts
+
+- [The Interface Drama Master List: What is it?](/blog/posts/2023-08-15-Interface-Drama-Master-List/)
+- [New Bitsy Game: Our Home](/blog/posts/2023-07-29-Our-Home/)
+- [Keep Center - Submission for Neo Twiny Jam](/blog/posts/2024-06-28-Keep-Center/)
+
+See all posts tagged [Video Games](/tags/video-games/).
