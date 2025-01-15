@@ -2,7 +2,7 @@
 title: 'Book and Link Curation: 2024'
 slug: 2024-03-03-Weekly-Link-Roundup
 date: '2024-03-03'
-description: 'Some articles and experiences I've recently been enjoying.'
+description: 'Some articles and experiences I''ve recently been enjoying.'
 image: ''
 tags:
   - cohost
