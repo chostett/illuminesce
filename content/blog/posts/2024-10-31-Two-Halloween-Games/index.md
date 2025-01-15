@@ -2,6 +2,8 @@
 title: 'Trick or Treat: Two free Halloween games!'
 slug: 2024-10-31-Two-Halloween-Games
 date: '2024-10-31'
+description: 'Costume Panic and UX Research Reports.'
+image: ''
 tags:
   - cohost
   - video-games

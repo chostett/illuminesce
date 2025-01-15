@@ -2,6 +2,8 @@
 title: 'New! Archived posts from Cohost'
 slug: 2025-01-14-Cohost-Archive
 date: '2025-01-14'
+description: 'A selection of fine, curated posts from cohost.org - now available online!'
+image: ''
 tags:
   - cohost
 ---

@@ -2,6 +2,8 @@
 title: 4 months on testosterone, an ongoing retrospective
 slug: 2024-07-09-Hormones-Retro
 date: '2024-07-09'
+description: 'Some fun, exciting changes to my body and gender.'
+image: ''
 tags:
   - cohost
   - personal

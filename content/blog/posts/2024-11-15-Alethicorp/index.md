@@ -1,7 +1,9 @@
 ---
-title: Surely, you have thought about this?
+title: 'Surely, you have thought about this?'
 slug: 2024-11-15-Alethicorp
 date: '2024-11-15'
+description: 'An interface drama that makes your skin crawl, just a little.'
+image: ''
 tags:
   - cohost
   - interface-drama

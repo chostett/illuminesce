@@ -2,7 +2,7 @@
 title: 'Repping Black Artists'
 slug: 2024-06-19-Black-Artists-Reccs
 date: '2024-06-19'
-description: 'Signal boost: some artists we've worked with and love.'
+description: 'Signal boost: some artists we''ve worked with and love.'
 image: ''
 tags:
   - cohost

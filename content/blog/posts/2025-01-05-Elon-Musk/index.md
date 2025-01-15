@@ -1,10 +1,13 @@
 ---
-title: 'Things I’m Reading About Instead of Elon Musk'
+title: 'Things I''m Reading About Instead of Elon Musk'
 slug: 2025-01-05-Elon-Musk
 date: '2025-01-05'
+description: 'I am not above watching drama, but damn if this drama isn''t taking a piece of my soul.'
+image: ''
 tags:
   - personal
   - community
+  - tech-and-web
 ---
 
 Around the time the Twitter purchase, my friend and I would share daily news about Elon Musk. We both grew up in the Web 1.0. days, so watching the drama was a throwback to the Encyclopedia Dramatica days.

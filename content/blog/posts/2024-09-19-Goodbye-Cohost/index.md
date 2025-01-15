@@ -2,6 +2,8 @@
 title: goodbye, cohost.
 slug: 2024-09-19-Goodbye-Cohost
 date: '2024-09-19'
+description: 'You were the first social media in a long time I got attached to. I''m sad to see you go.'
+image: ''
 tags:
   - cohost
   - personal

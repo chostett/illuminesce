@@ -1,7 +1,9 @@
 ---
-title: 'Site updates: Feels good to be valid'
+title: 'Site updates'
 slug: 2024-11-20-Site-Updates
 date: '2024-11-20'
+description: 'Feels good to be a valid (RSS feed).'
+image: ''
 tags:
   - personal
 ---

@@ -1,7 +1,9 @@
 ---
-title: What part does tech play in a hopeful future?
+title: 'What part does tech play in a hopeful future?'
 slug: 2024-11-09-A-Hopeful-Future
 date: '2024-11-09'
+description: 'Twelve years working in this space. What have we done to change the world?'
+image: ''
 tags:
   - popular
   - tech-and-web

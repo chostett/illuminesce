@@ -2,6 +2,8 @@
 title: The cohost summer mixtape of 2023
 slug: 2024-11-04-Cohost-Summer-Mixtape
 date: '2024-11-04'
+description: 'Three, two, one, let''s jam.'
+image: ''
 tags:
   - cohost
   - personal

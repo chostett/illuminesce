@@ -2,6 +2,8 @@
 title: Birthday Asks 2024
 slug: 2024-07-30-Birthday-Asks
 date: '2024-07-30'
+description: 'Some very kind people sent me questions for my birthday.'
+image: ''
 tags:
   - cohost
   - personal

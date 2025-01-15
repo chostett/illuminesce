@@ -2,6 +2,8 @@
 title: 'Design Matters Tokyo 2024: Sketchnote Edition'
 slug: 2024-08-27-Design-Matters
 date: '2024-08-27'
+description: 'I''ll be showcasing three talks I had the pleasure of sketchnoting during the conference.'
+image: ''
 tags:
   - design
 ---

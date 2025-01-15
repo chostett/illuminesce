@@ -2,6 +2,8 @@
 title: A long-due retrospective of my time in the Yesterweb
 slug: 2024-08-26-Yesterweb-Retrospective
 date: '2024-08-26'
+description: 'I have mixed feelings on how it ended, but I''m glad I participated.'
+image: ''
 tags:
   - cohost
   - tech-and-web

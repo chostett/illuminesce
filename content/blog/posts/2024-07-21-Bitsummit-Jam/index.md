@@ -2,6 +2,8 @@
 title: Bitsummit Game Jam
 slug: 2024-07-21-Bitsummit-Jam
 date: '2024-07-21'
+description: 'Every year, university students from all over Japan do a game jam where the top teams will be invited to booth at BitSummit, one of the largest indie game conferences in Kyoto.'
+image: ''
 tags:
   - cohost
   - video-games
