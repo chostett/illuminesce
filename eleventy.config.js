@@ -101,7 +101,7 @@ export default async function(eleventyConfig) {
       fonts: [
         {
           name: 'Montserrat',
-          data: fs.readFileSync('./_includes/font-file/montserrat/montserrat-latin-700-normal.woff'),
+          data: fs.readFileSync('./_includes/font-file/zen-maru/zen-maru-gothic-japanese-300-normal.woff'),
           weight: 700,
           style: 'normal',
         },
