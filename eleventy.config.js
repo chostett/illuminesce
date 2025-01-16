@@ -101,8 +101,8 @@ export default async function(eleventyConfig) {
       fonts: [
         {
           name: 'Montserrat',
-          data: fs.readFileSync('./_includes/font-file/montserrat/montserrat-latin-500-normal.woff'),
-          weight: 500,
+          data: fs.readFileSync('./_includes/font-file/montserrat/montserrat-latin-700-normal.woff'),
+          weight: 700,
           style: 'normal',
         },
       ],
