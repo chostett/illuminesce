@@ -3,7 +3,7 @@ import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
-import * as fs from 'node:fs';
+import * as fs from 'fs';
 import EleventyPluginOgImage from 'eleventy-plugin-og-image';
 import pluginFilters from "./_config/filters.js";
 
@@ -101,7 +101,7 @@ export default async function(eleventyConfig) {
       fonts: [
         {
           name: 'Montserrat',
-          data: fs.readFileSync('../node_modules/@fontsource-variable/montserrat/files/montserrat-latin-ext-wght-normal.woff2'),
+          data: fs.readFileSync('./_includes/font-file/montserrat/montserrat-latin-500-normal.woff'),
           weight: 500,
           style: 'normal',
         },

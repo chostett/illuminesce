@@ -11,7 +11,7 @@
 		{# - Open Graph / Facebook -#}
 		<meta property="og:title" content="{{ title }}" />
   		<meta property="og:description" content="{{ description or metadata.description }}" />
-  		{% ogImage "./og-image.og.njk", {{ title }} %}
+  		{% ogImage "./og-image.og.njk", { title: "Hello World!" } %}
 		<meta name="fediverse:creator" content="@illuminesce@gamedev.lgbt">
 
   		{# - Twitter -#}
