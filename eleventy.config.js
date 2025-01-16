@@ -3,6 +3,7 @@ import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+import EleventyPluginOgImage from 'eleventy-plugin-og-image';
 
 import pluginFilters from "./_config/filters.js";
 
@@ -93,6 +94,20 @@ export default async function(eleventyConfig) {
 			decoding: "async",
 		}
 	});
+
+	// OG Image Generator via https://www.kilianfinger.com/blog/generating-og-images-in-eleventy/
+	eleventyConfig.addPlugin(EleventyPluginOgImage, {
+    satoriOptions: {
+      fonts: [
+        {
+          name: 'Inter',
+          data: fs.readFileSync('../node_modules/@fontsource-variable/montserrat/files/montserrat-latin-ext-wght-normal.woff2'),
+          weight: 500,
+          style: 'normal',
+        },
+      ],
+    },
+  });
 
 	// Filters
 	eleventyConfig.addPlugin(pluginFilters);

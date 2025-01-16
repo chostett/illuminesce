@@ -3,7 +3,7 @@ title: 'Things I''m Reading About Instead of Elon Musk'
 slug: 2025-01-05-Elon-Musk
 date: '2025-01-05'
 description: 'I am not above watching drama, but damn if this drama isn''t taking a piece of my soul.'
-image: ''
+image: 'leyendecker.jpg'
 tags:
   - personal
   - community
