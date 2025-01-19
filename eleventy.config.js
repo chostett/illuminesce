@@ -105,6 +105,12 @@ export default async function(eleventyConfig) {
           weight: 700,
           style: 'normal',
         },
+		{
+          name: 'Zen Maru',
+          data: fs.readFileSync('./_includes/font-file/zen-maru/zen-maru-gothic-japanese-700-normal.woff'),
+          weight: 700,
+          style: 'normal',
+        },
       ],
     },
   });
