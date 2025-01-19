@@ -100,9 +100,9 @@ export default async function(eleventyConfig) {
     satoriOptions: {
       fonts: [
         {
-          name: 'Zen Maru Gothic',
-          data: fs.readFileSync('./_includes/font-file/zen-maru/zen-maru-gothic-japanese-300-normal.woff'),
-          weight: 300,
+          name: 'Montserrat',
+          data: fs.readFileSync('./_includes/font-file/montserrat/montserrat-latin-700-normal.woff'),
+          weight: 700,
           style: 'normal',
         },
       ],
