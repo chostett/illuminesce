@@ -106,8 +106,8 @@ export default async function(eleventyConfig) {
           style: 'normal',
         },
 		{
-          name: 'Zen Maru',
-          data: fs.readFileSync('./_includes/font-file/zen-maru/zen-maru-gothic-japanese-700-normal.woff'),
+          name: 'IBM Plex Sans',
+          data: fs.readFileSync('./_includes/font-file/ibm-plex-sans/ibm-plex-sans-jp-japanese-700-normal.woff'),
           weight: 700,
           style: 'normal',
         },
