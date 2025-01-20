@@ -105,12 +105,15 @@ export default async function(eleventyConfig) {
           weight: 700,
           style: 'normal',
         },
-		{
-          name: 'IBM Plex Sans',
-          data: fs.readFileSync('./_includes/font-file/ibm-plex-sans/ibm-plex-sans-jp-japanese-700-normal.woff'),
-          weight: 700,
-          style: 'normal',
-        },
+
+		...(process.env.ELEVENTY_RUN_MODE == "build"
+		? [{
+			name: 'IBM Plex Sans',
+			data: fs.readFileSync('./_includes/font-file/ibm-plex-sans/ibm-plex-sans-jp-japanese-700-normal.woff'),
+			weight: 700,
+			style: 'normal',
+			}]
+		: []),
       ],
     },
   });
