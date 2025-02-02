@@ -1,8 +1,8 @@
 ---
-title: 'Global Game Jam 2025: After-Report'
+title: 'GGJ 2025: After-Report'
 slug: 2025-01-29-GGJ25
-date: '2025-01-29'
-description: ''
+date: '2025-02-02'
+description: 'This year was, in my opinion, one of the best jams Let''s Games! Tokyo has hosted.'
 image: ''
 tags:
   - global-game-jam
@@ -16,7 +16,7 @@ tags:
 
 If this is your first time reading my blog—hello, and welcome. I'm CJ; I'm the site organizer of [Let's Games! Tokyo](https://globalgamejam.org/jam-sites/2025/lets-games-tokyo) which started in 2020.
 
-This year was, in my opinion, one of the best jams Let's Games! has hosted. We had an even mix of Japanese speakers and English speakers. Half of our participants were first-timers. To each and every one of you who participated, thank you. You contributed to the joy and energy that we all felt at the end of the jam. I hope to see you in 2026!
+This year was, in my opinion, one of the best jams Let's Games! has hosted. We had a 30/70 split of Japanese speakers and English speakers. Most of our participants were bilingual (or trilingual!). Half of our participants were first-timers. To each and every one of you who participated, thank you. You contributed to the joy and energy that we all felt at the end of the jam. I hope to see you in 2026!
 
 ![A full room of people on computers, prototyping video games of all different nationalities.](ggj25_01.png)
 
@@ -74,7 +74,7 @@ Bubble Boss wakes up and is late to his meeting with Panafoamic! Running out the
 
 **Engine:** Unity
 
-([**Playable on Windows, Mac and Linux**](https://globalgamejam.org/games/2025/bubble-boss-2))
+([**Playable on Windows, Mac and Linux.**](https://globalgamejam.org/games/2025/bubble-boss-2))
 
 ---
 
@@ -86,7 +86,7 @@ A chill platformer where play as Bubble Cat as she jumps and slides along bubble
 
 **Engine:** Unreal Engine
 
-([**Playable on Windows**](https://globalgamejam.org/games/2025/fuiteru-uwa-teiru-6))
+([**Playable on Windows.**](https://globalgamejam.org/games/2025/fuiteru-uwa-teiru-6))
 
 ---
 
@@ -110,7 +110,7 @@ Welcome to MiFF, where the only thing that matters is your social bubble! The ci
 
 **Engine:** Unity
 
-([**Playable on Windows, Mac and Web**](https://globalgamejam.org/games/2025/champion-pan-5))
+([**Playable on Windows, Mac and Web.**](https://globalgamejam.org/games/2025/champion-pan-5))
 
 ---
 
@@ -168,7 +168,7 @@ Huge thanks to Code Chrysalis for letting us use their space. This year, they ha
 
 At the site, I heard Japanese, English, French and Korean being spoken within the teams. About a third of our site were native Japanese speakers—a majority were bilingual speakers and a smaller percentage English-only. It truly was an international environment.
 
-![Two people standing next to each other, presenting a game off a laptop. One person is Japanese; the other is French.](ggj25_05.png)
+![Two people standing next to each other, presenting a game off a laptop. One person is Japanese; the other is French.](ggj25_04.png)
 
 Several folks asked me how I made this environment: although I may have set the intention and we co-organizers may have designed it, the participants who showed up and are willing to have fun are the ones who ultimately make it.
 
