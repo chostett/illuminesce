@@ -172,3 +172,5 @@ We'll see you next year at next Global Game Jam—January 24th-26th 2025.
 ![A photo of people of different nationalities, each waving at the camera and smiling.](GGJAR-04.png)
 
 _Photo by [Shane Brown](https://www.instagram.com/xenoliving/)_
+
+([**Read 2025's Let's Games! Tokyo After Report here.**](/blog/posts/2025-01-29-GGJ25/))

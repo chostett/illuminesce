@@ -181,3 +181,5 @@ _写真家: [Shane Brown](https://www.instagram.com/xenoliving/)_
 ![A group of international people smiling and waving.](GGJAR-04.png)
 
 写真家: [Shane Brown](https://www.instagram.com/xenoliving/)
+
+([**2025年のLet's Games! Tokyoのアフターレポートはこちら。**](/blog/posts/2025-02-02-GGJ25JP/))

@@ -10,11 +10,15 @@ tags:
   - video-games
 ---
 
+([日本語版はこちら。](/blog/posts/2025-02-02-GGJ25JP/))
+
 ![A group of people smiling while they work on computers at a large table.](ggj25_00.png)
 
 *All photo credits to [Shane Brown](https://www.instagram.com/xenoliving/).*
 
 If this is your first time reading my blog—hello, and welcome. I'm CJ; I'm the site organizer of [Let's Games! Tokyo](https://globalgamejam.org/jam-sites/2025/lets-games-tokyo) which started in 2020.
+
+([**Read 2024's Let's Games! Tokyo after-report.**](/blog/posts/2024-02-07-Global-Game-Jam-2024-After-Report/))
 
 This year was, in my opinion, one of the best jams Let's Games! has hosted. We had a 30/70 split of Japanese speakers and English speakers. Most of our participants were bilingual (or trilingual!). Half of our participants were first-timers. To each and every one of you who participated, thank you. You contributed to the joy and energy that we all felt at the end of the jam. I hope to see you in 2026!
 
@@ -199,3 +203,5 @@ To each and every one of you—congratulations. You made a game! Whether it was 
 Pat yourself on the back.
 
 ![CJ, throwing their hands into the air and yelling joyfully.](ggj25_06.png)
+
+([**Read 2024's Let's Games! Tokyo after-report.**](/blog/posts/2024-02-07-Global-Game-Jam-2024-After-Report/))

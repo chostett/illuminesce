@@ -11,6 +11,8 @@ tags:
   - video-games
 ---
 
+([English version is here.](/blog/posts/2025-01-29-GGJ25))
+
 ![大きなテーブルでPC作業をしながら微笑む参加者たちの写真。](ggj25_00.png)
 
 *写真提供： [ブラウン・シェーンさん](https://www.instagram.com/xenoliving/).*
@@ -18,6 +20,8 @@ tags:
 はじめまして、またはお久しぶりです！✨
 
 私は[「Let’s Games! Tokyo」](https://globalgamejam.org/jam-sites/2025/lets-games-tokyo)の運営をしているCJ（シージェ）です。このサイトは2020年に開始しまして、もうあっという間に5年間になりました。
+
+([**2024年のLet's Games! Tokyoのアフターレポートはこちら。**](/blog/posts/2024-02-07-GGJ24-Report-JP))
 
 日本人も、海外の方も、皆さんが楽しくにゲームが開発できるの雰囲気を目指しています。
 
@@ -265,3 +269,5 @@ tags:
 また、会いましょう！
 
 ![CJ, throwing their hands into the air and yelling joyfully.](ggj25_06.png)
+
+([**2024年のLet's Games! Tokyoのアフターレポートはこちら。**](/blog/posts/2024-02-07-GGJ24-Report-JP))

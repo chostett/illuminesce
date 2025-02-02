@@ -6,6 +6,7 @@ let headerHTML = `<div class='container'>
         <li><a href='resources.html'>resources</a></li>
         <li><a href='talks.html'>talks</a></li>
         <li><a href='links.html'>links</a></li>
+        <li><a href='rss.xml'>rss</a></li>
         <li><a href='contact.html'>contact</a></li>
       </ul>
     </div>`;
