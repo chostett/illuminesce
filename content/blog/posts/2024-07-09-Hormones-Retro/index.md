@@ -48,3 +48,14 @@ Or watch me in eight months do a post that says, _"haha just taped my bro to a w
 It's up in the air, really.
 
 _(HMU if you would like to be the platonic bro I tape to the wall)_
+
+![An image of the author, smiling and looking upwards with a green baseball cap and a green watermelon shirt.](cj-07.png)
+
+---
+
+### Related Posts
+
+- [I started hormones](/blog/posts/2024-01-16-I-started-hormones/)
+- [Ten months on testosterone](/blog/posts/2024-02-18--10-Months-on-T)
+
+See all posts tagged [LGBTQ+](/tags/lgbtq/).

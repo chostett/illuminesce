@@ -1,8 +1,8 @@
 ---
 title: 'Check out the Studio Terranova Newsletter!'
-slug: 2025-002-07-Terranova-Update
+slug: 2025-02-07-Terranova-Update
 date: '2025-02-07'
-description: 'A selection of fine, curated posts from cohost.org - now available online!'
+description: 'We made a new newsletter — check it out!'
 image: ''
 tags:
   - terranova
