@@ -48,6 +48,7 @@
 	},
 	"dependencies": {
 		"@fontsource-variable/montserrat": "^5.1.1",
-		"@zachleat/heading-anchors": "^1.0.1"
+		"@zachleat/heading-anchors": "^1.0.1",
+		"eleventy-plugin-reading-time": "^0.0.1"
 	}
 }

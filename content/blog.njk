@@ -7,7 +7,7 @@ const eleventyNavigation = {
 const numberOfLatestPostsToShow = 5;
 ---
 
-<h1>Hi, I'm CJ.</h1>
+<h2>Hi, I'm CJ.</h2>
 <p>
   I'm a designer and indie game developer living in Tokyo. I write about games, technology, and fandom from a queer lens.
 </p>
@@ -21,7 +21,7 @@ const numberOfLatestPostsToShow = 5;
 
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Recent Posts</h1>
+<h2>Recent Posts</h2>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}

@@ -1,17 +1,14 @@
 /* Defaults */
 :root {
-	--font-family: -apple-system, system-ui, sans-serif;
+	--font-family: 'Montserrat', sans-serif;
 	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
 }
 
 /* Theme colors */
 :root {
-	--color-gray-20: #e0e0e0;
+	--color-gray-20: antiquewhite;
 	--color-gray-50: #C0C0C0;
 	--color-gray-90: #333;
-
-	--background-image: url("/css/vhs-background.png") repeat;
-	--post-background-color: #fff;
 
 	--text-color: var(--color-gray-90);
 	--text-color-link: #0a7657;
@@ -86,6 +83,19 @@ img[src$=".svg"] {
   max-width: none;
 }
 
+/* CSS Styling */
+h1 {
+	font-size: 2em;
+}
+h2 {
+	font-size: 2em;
+}
+h3 {
+	font-size: 1.5em;
+}
+hr {
+	color: var(--color-gray-20);
+}
 p:last-child {
 	margin-bottom: 0;
 }
@@ -112,6 +122,9 @@ a[href]:active {
 main,
 footer {
 	padding: 1rem;
+}
+main, #post-content {
+	padding-top: 3em;
 }
 main :first-child {
 	margin-top: 0;
@@ -246,14 +259,15 @@ header {
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
-	text-transform: capitalize;
-	font-style: italic;
 }
 .postlist-item > .post-tag {
 	align-self: center;
 }
 
 /* Tags list */
+ul.post-metadata {
+	font-size: .8em;
+}
 .post-metadata {
 	display: inline-flex;
 	flex-wrap: wrap;

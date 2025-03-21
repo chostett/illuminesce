@@ -6,6 +6,7 @@ import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import * as fs from 'fs';
 import EleventyPluginOgImage from 'eleventy-plugin-og-image';
 import pluginFilters from "./_config/filters.js";
+import readingTime from 'eleventy-plugin-reading-time';
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
@@ -130,6 +131,8 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addShortcode("currentBuildDate", () => {
 		return (new Date()).toISOString();
 	});
+
+	eleventyConfig.addPlugin(readingTime);
 
 	// Features to make your build faster (when you need them)
 

@@ -5,17 +5,20 @@ layout: layouts/base.njk
 {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
 {%- css %}{% include "public/css/index.css" %}{%- endcss %}
 {%- css %}{% include "public/css/comments.css" %}{%- endcss %}
-<h1>{{ title }}</h1>
 
 <ul class="post-metadata">
-	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
+	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }} | {{ content | readingTime }} read</time></li>
+	<li><span class="post-tags">Tagged as
 	{%- for tag in tags | filterTagList %}
 	{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
+	<a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}
 	{%- endfor %}
+	</li></span>
 </ul>
 
-{{ content | safe }}
+<h1>{{ title }}</h1>
+
+<div id="post-content">{{ content | safe }}</span>
 
 {%- if collections.posts %}
 {%- set previousPost = collections.posts | getPreviousCollectionItem %}
