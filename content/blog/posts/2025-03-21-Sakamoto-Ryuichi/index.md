@@ -40,7 +40,7 @@ When I first heard the tinkling of soft, careful piano keys, I imagined myself s
 
 Sakamoto’s music demanded my full attention as each note he played was a brushstroke in my mind. I was enrapt.
 
-The exhibits didn’t just feature Sakamoto but the artists he’d worked with throughout his life. Each of the artwork had its own unique flavor—like Apichatpong ****Weerasethakul’s grainy video footage in [Durmiente / async](https://akeroydcollection.com/works/durmiente-and-async), a collaboration between him and Sakamoto. The sun sets and Tilda Swinton falls asleep, again and again.
+The exhibits didn’t just feature Sakamoto but the artists he’d worked with throughout his life. Each of the artwork had its own unique flavor—like Apichatpong Weerasethakul’s grainy video footage in [Durmiente / async](https://akeroydcollection.com/works/durmiente-and-async), a collaboration between him and Sakamoto. The sun sets and Tilda Swinton falls asleep, again and again.
 
 Water, fog, and movement were strong themes throughout.
 
@@ -74,7 +74,7 @@ I thought back to when I was fifteen and I played *Merry Christmas, Mr. Lawrence
 
 When I was a preteen, my aunt and uncle passed away very suddenly. When I was fourteen, my grandmother and grandfather passed within a week. Four family members, gone in such a short time. It was a huge shock. The joy had been sucked out and replaced with grief.
 
-And I, desperately wished someone to explain to me why kind people died. Back then, I had no way of asking about these sudden deaths that didn’t come off as naïvely cruel. I could only wish for the past to be returned. For my lost family members to be revived. Maybe then, the joy would, too.
+And I desperately wished someone to explain to me why kind people died. Back then, I had no way of asking about these sudden deaths that didn’t come off as naïvely cruel. I could only wish for the past to be returned. For my lost family members to be revived. Maybe then, the joy would, too.
 
 But listening to this song… I knew if I were to turn around from the cold windowpane, the house inside would be empty, but warm. I couldn’t meet my family again. They were gone. But the house was inviting, and soon, it could be filled with laughter again. It helped me picture what that would look like in a time when things felt dark and empty.
 
