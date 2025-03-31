@@ -16,8 +16,11 @@ We didn't plan to put so much work and polish into this game. But in February, w
 ## What's new in Bubble Butt 2.0?
 
 🍑 All sprites have been completely redrawn and new poses added by Ceren
+
 🍑 All-new cutscenes that puts your butt in the center of the action by CJ
+
 🍑 New voice recordings by Kyle and CJ
+
 🍑 New UI updates and overall color, audio and animation improvements
 
 ## Why is it $2.99 now?
