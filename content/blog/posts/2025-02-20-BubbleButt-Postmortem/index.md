@@ -6,7 +6,7 @@ description: 'A postmortem on ''Help! I was Cursed with a Bubble Butt!'' a game 
 image: ''
 tags:
   - video-games
-  - personal
+  - gamedev
 ---
 
 CJ here, the programmer for [Help! I was cursed with a Bubble Butt](https://illuminesce.itch.io/bubble-butt). Thank you for everyone who has played our game!
