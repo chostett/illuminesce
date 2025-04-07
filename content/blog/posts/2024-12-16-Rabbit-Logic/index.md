@@ -5,8 +5,7 @@ date: '2024-12-16'
 description: 'In literature, rabbits are commonly portrayed as victims; however in the wild they are some of the most resilient species on earth.'
 image: ''
 tags:
-  - community
-  - personal
+  - organizing
   - lgbtq
 ---
 

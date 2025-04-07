@@ -5,7 +5,9 @@ date: '2025-02-21'
 description: 'Last week, I saw seeing sound, hearing time, an interactive art and music exhibit dedicated to the late Ryuichi Sakamoto.'
 image: ''
 tags:
-  - art, design, personal
+  - art
+  - design
+  - personal
 ---
 
 Last week, I saw [*seeing sound, hearing time*](https://www.mot-art-museum.jp/en/exhibitions/RS/), an interactive art and music exhibit dedicated to the late Ryuichi Sakamoto, a talented musician, collaborator and artist. This March marks the two-year anniversary of his passing after a long fight against cancer.

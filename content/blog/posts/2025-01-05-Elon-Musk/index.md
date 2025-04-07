@@ -6,7 +6,6 @@ description: 'I am not above watching drama, but damn if this drama isn''t takin
 image: 'leyendecker.jpg'
 tags:
   - personal
-  - community
   - tech-and-web
 ---
 

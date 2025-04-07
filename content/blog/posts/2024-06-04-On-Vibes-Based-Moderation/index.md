@@ -6,7 +6,7 @@ description: 'At least trying to articulate why a person is being disruptive or 
 image: ''
 tags:
   - cohost
-  - community
+  - organizing
   - tech-and-web
 ---
 
