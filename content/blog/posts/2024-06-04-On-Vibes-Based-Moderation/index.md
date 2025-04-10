@@ -40,6 +40,8 @@ Some other members however, would do the same thing and when I took them aside, 
 
 I’m not a fan of the “vibes based moderation” because it reads to me as using the excuse of bad actors to employ discriminatory practices without having the burden of having to externalize what your community values.
 
+A more fleshed out version of this thought and how to apply it to organizing spaces is covered in the post [The Two Strike Rule](/blog/posts/2025-04-06-Two-Strike-Rule/).
+
 ---
 
 ### Related posts
