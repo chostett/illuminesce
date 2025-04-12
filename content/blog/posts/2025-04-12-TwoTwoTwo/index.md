@@ -1,22 +1,30 @@
 ---
-title: 'The Two-Strike Rule'
-slug: 2025-04-06-Two-Strike-Rule
-date: '2025-04-06'
+title: '2-2-2'
+slug: 2025-04-12-TwoTwoTwo
+date: '2025-04-12'
 description: ''
-image: 'A guide on community safety and preventative de-escalation for event organizers .'
+image: 'A framework for community safety and de-escalation for event organizers.'
 tags:
   - community
   - organizing
 
 ---
 
-One of the most challenging parts of an organizer's job is navigating conflict and harassment at our events and in our communities. As an organizer in creative spaces for fifteen years in both the US and Japan, I propose both a toolbox and a rule - **the two-strike rule** to help navigate these challenges. These are lessons I've learned over the course of organizing and I hope that by documenting this, it will prove useful to others who wish to both protect their communities from bad actors and cultivate a positive culture of learning.
+One of the most challenging parts of an organizer's job is navigating conflict and harassment at our events and in our communities. As an organizer in creative spaces for fifteen years in both the US and Japan, I propose both a framework to help navigate these challenges. For lack of a better name, it is called "2-2-2," short for **2 guidelines**, **2 strikes** and **2 consequences**.
 
-This rule and its accompanying mindset is taken from both nonviolent communication and social justice frameworks around "calling in" as opposed to calling out. References will be provided below.
+It is intended to be used as a compassionate, but firm, way of establishing community guidelines in a diverse space and the more specific version of the broader rule of, "don't be a dick" or "be excellent to each other." 2-2-2 is taken from both nonviolent communication and transformative justice frameworks around "calling in" as opposed to calling out. References will be provided below.
 
-While this is primarily very specific knowledge targeted at organizers, I will try to explain to non-organizers as well.
+This article is primarily targeted towards organizers, though I'll use language that non-organizers should be able to pick up as well.
 
-## The context: most organizers are tired
+Why is a framework like 2-2-2 necessary? The issue is twofold:
+
+1. Most organizers are tired and susceptible to mistakes
+
+2. Niche communities can either swing from overly permissive of shitty/abusive behaviors OR rely on unspoken "vibe-based" moderation
+
+I argue that being both overly permissive or vibe-based moderation  leaves a community that doesn't know the boundaries of interaction. Thus, this leads to a community that normalizes being a mono-culture and lacks the ability to support diverse and marginalized voices.
+
+### The problem: most organizers are tired
 
 When I started organizing, I was not particularly skilled at communication or de-escalation. I was a zinester, a game dev, a designer who wanted to find people who shared my similar interests. I simply wanted this space to exist.
 
@@ -24,9 +32,7 @@ However, to *get* that space to exist, I had to learn a few things:
 
 - how to find a venue
 
-- how to plan and organize an event
-
-- how to market so people will come
+- how to promote so people will come
 
 - how to find sponsors for events that cost money
 
@@ -38,13 +44,15 @@ So, nerd that I am, I read books on centering myself in moments of high anxiety 
 
 I should have been more aware how exhausting this would be given my part experiences, but people pleaser habits die hard. I said yes. I took on more than my fair share of the mental load and ultimately burned out.
 
-One night after one particularly harrowing incident, I remember thinking, *I started this group to create, not to organize.* I had run into a former member of our club at a café. I had asked him to leave due to his continuous sexist remarks. He got feedback and chose to tell me to fuck off. He was red-faced and sweating - he walked up to the table where I was having coffee with a friend and, face screwed into rage screamed at me that I was a terrible person and that I'd die alone. Then he left, leaving me shaken the rest of the day.
+One night after one particularly harrowing incident, I remember thinking, *I started this group to create, not to organize.* I had run into a former club member (that I removed from our group) at a café. He walked up to the table where I was having coffee with a friend and, red-faced and mouth screwed up into rage screamed that I was a terrible person and that I'd die alone.
 
-I was so exhausted. All I wanted was a space to hang out with other people. Why did I have to deal with all of this?
+All I wanted was a space to hang out with other people. Why did I have to deal with someone screaming at me in a café?
 
-If you're an organizer, you may be familiar with this question. You are seen as someone capable of doing *anything,* and yet, behind it all, you are so, so tired. You know the space you run is *good* and needs to exist, but some days can be so overwhelming you want to shut everything down.
+If you're an organizer, you may be familiar with this question. We are seen as someone capable of doing *anything,* and yet, behind it all, we are so, so tired. We know the space we run is *good* and needs to exist, but some days can be so overwhelming we want to shut everything down.
 
-When I looked around at other niche groups, I often found similar traits in their organizers—they were the overwhelmed bottlenecks of the organization. In some  organizations there were people known as [missing stairs](https://pervocracy.blogspot.com/2012/06/missing-stair.html)—those who had grown a whisper network around them and who put the community on edge. The organizer was either too overwhelmed or refused to ask for accountability or worse; the missing stair was either embedded in the organizational team or *was* the organizer.
+### The problem: Missing Stairs and Vibe-Based Moderation
+
+When I looked around at other niche groups, I often found similar traits in their organizers—they were the overwhelmed bottlenecks of the organization. In some organizations there were people known as [missing stairs](https://pervocracy.blogspot.com/2012/06/missing-stair.html)—those who had grown a whisper network around them and who put the community on edge. The organizer was either too overwhelmed or refused to ask for accountability or worse; the missing stair was either embedded in the organizational team or *was* the organizer.
 
 These missing stairs ran the danger gamut from "I have a strange feeling about them" to, "don't be alone in a room with this person, for any reason."
 
@@ -62,15 +70,33 @@ The overall result of this is that the community is less friendly and welcoming;
 
 I saw too much of myself in this overworked and tired organizer. I feared that one day, if I continued on that path, I'd cultivate a group with a missing stair, too.
 
-Although the **two-strike rule** started as a way to *avoid* missing stairs, I started using it as a way of trying to cultivate more diverse spaces and provide a model for communicating behavior change.
+The other extreme of this is vibes-based moderation.
+
+[As I covered in this response post on vibes-based moderation](/blog/posts/2024-06-04-On-Vibes-Based-Moderation/), I've noticed a theme of "banning based on vibes" in Discord communities as a catch-all for "you're technically not doing anything wrong but you're being annoying."
+
+While on its surface it seems useful for that one person who is always toeing the line - sometimes maliciously - it runs on the basic premise that any new person is not to be trusted and might be a troll. That kind of general paranoia in communities ends up poisoning the group and can end up, at its best, a shy person hanging around in a community and then leaving when no one welcomes them or more senior members talk over them.
+
+At its worst, it's witch hunts and call outs, which happened a few years ago [causing a trans rights protest in Tokyo to be cancelled.](http://localhost:8080/blog/posts/2023-11-16-Tokyo-Trans-March-2023/)
+
+In both cases, an evaporation effect happens; by not having the rules explicit and some people exempt from the rules, the community becomes one that loses members from different backgrounds and points of view, and becomes an echo chamber.
+
+In different ways, both of these types of communities are dangerous to newcomers and don't facilitate the communities we want - ones that are strong, kind and sustainable.
+
+2-2-2 provides a guideline on behavior change that is intentionally communicated to prevent this kind of evaporation from happening as well as help community members resolve conflict and even harassment when it occurs.
 
 ---
 
-## The two foundational mindsets
+## Introduction to 2-2-2
 
-First, there are two important mindsets that I try to proactively communicate and embody in the groups that I run. These serve as the foundational mindsets for the two-strike rule.
+Initially, this framework was called the "one-strike rule" but the more I wrote about it, the more I realized there needed to be more conscious writing on the underlying mindset and guidelines - calling it "one-strike" made it seem too simple when the decision to ban or remove someone is never an easy choice.
 
-1. **Act like you live here.** It is not only the responsibility of the organizer, but each community member to ensure the space is inclusive long-term. If they see a behavior that's not in line with the space's principles, encourage them to call it in and request change.
+As mentioned above, 2-2-2 is a collection of three parts: mindset, strikes, and consequences. In this case "consequences" means simply "the result of one's actions." Everyone in the group is an adult and while they may have emotional reactions or thoughts that pop up, everyone has agency to control or change their behavior.
+
+First, there are two important guidelines that I try to proactively communicate and follow in the groups that I run. These serve as the foundation for 2-2-2.
+
+### Guideline 1: Act Like You Live Here
+
+It is not only the responsibility of the organizer, but each community member to ensure the space is inclusive long-term. If they see a behavior that's not in line with the space's principles, encourage them to call it in and request change.
 
 For instance, if the space's principles are:
 
@@ -84,7 +110,9 @@ If a community member witnesses someone making over-generalizations about a race
 
 After all, you live in this space. Take care of it and the people in it.
 
-**You are not your mistakes.** I, like many people, have a voice in the back of my head judging me for my mistakes. If I screwed up an interaction, I'd browbeat myself for being a bad person, or stupid, or not enough.
+### Guideline 2: You are not your mistakes
+
+I, like many people, have a voice in the back of my head judging me for my mistakes. If I screwed up an interaction, I'd browbeat myself for being a bad person, or stupid, or not enough.
 
 However, my actions are not my identity. I can still be a good person and make someone uncomfortable. A good example of this is when someone does or says something that is racist and disrespectful (i.e. touching a black person's hair without their permission "just out of curiosity") and, when asked to stop, responds, "But I'm not racist!"
 
@@ -96,51 +124,49 @@ Once I learned to separate myself, the person, who was deserving of love and kin
 
 To organizers - being an example of this in our communities where we both communicate our needs and foster an atmosphere of continual growth and curiosity is one of the strongest ways we can encourage others to do the same.
 
+### On leading by example
+
 I'm not saying leading by example is easy. It's *fucking hard.* It takes a balance of keeping ourselves accountable and trust; both of which aren't things that were readily modeled to me by others.
 
 Both of these mindsets should be communicated and modeled to everyone *before* any conflict happens. Tell everyone you might not see everything, but you trust them as a group to resolve conflict, and if they cannot, to raise an issue.
 
----
+For raising issues, give everyone the name of **at least two organizers** that can help with navigating conflict. This is to avoid one organizer becoming a bottleneck and reducing friction if an organizers turns out to be the person that the feedback is about. [[1]](#footnotes)
 
-## The two-strike rule
+## The two strikes
 
-Everyone in the community has two strikes per any incident. The first strike is an understanding that everyone makes mistakes; the second strike is an observation of happens when a person as asked to change.
+In baseball, three strikes is an "out" — meaning the batter leaves the field if they miss the ball three times. Everyone in the community has two strikes per any incident. The **first strike** is the behavior that necessitates confrontation; the **second strike** is what happens when a person as asked to change.
 
-Why? Normally, the saying goes "three strikes and you're out." I find that if I wait for a third *incident* to occur, it has already affected the health of the community. I use the confrontation between myself and the other person as the second strike to see if they are open to change. If they are disengaged in changing their behavior, or lie to me about changing their behavior, they aren't the right fit for the community I wish to build.
+Why? I find that if I wait for a third *incident* to occur, it has already affected the health of the community. I use the confrontation between myself and the other person as an indicator to see if they are open to change. If they are disengaged in changing their behavior, or lie to me and other organizers about changing their behavior, they aren't the right fit for the community.
 
-The two-strike rule works like this:
+### First strike: the behavior and its victim
 
-1. Give everyone the name of **at least two organizers** that can help with navigating conflict. This is to avoid one organizer becoming a bottleneck and reducing friction if an organizers turns out to be the person that the feedback is about. [[1]](#footnotes)
-
-2. When a claimant raises an issue, thank them. Then, you may want to ask clarification questions. If the situation is unclear, I might ask the following:
+How does this work in practice? When a claimant raises an issue, first thank them. You may want to ask clarification questions to get clear on the situation. For instance, I might ask the following:
 
 - What actions or words were the issue?
 
 - What actions did person take, if any?
 
-- Have they noticed a pattern, or is this the first time?
+- Have they noticed a pattern, or is this the first time? Repeat the issue back to them to make sure you understand it properly.
 
-3. Repeat the issue back to them to make sure you understand it properly.
+By the way, the claimant can be you. It's important to self-assess *what* about the behavior was annoying or harmful before you approach someone about it.
 
-4. Assess the level of the claimant's emotion. You don't need to guess—ask them. Are they scared? Angry? Don't want to make a big deal out of it? Acknowledge their emotions. You don't need to pry into the *why,* just that their emotions are valid.
-
-5. Ask them what accountability look like for them. What would be their desired outcome? What actions would need to be taken? [[2]](#footnotes) Depending on your level of friendliness with the claimant, you could provide suggestions, or they could suggest some on their own. Let this be a dialogue you're actively participating in, not making the person carry the sole responsibility of solutioning. You may also want to involve other organizers here, with consent.
+Next, assess the level of the claimant's emotion. You don't need to guess—ask them. Are they scared? Angry? Don't want to make a big deal out of it? Acknowledge their emotions. You don't need to pry into the *why,* just that their emotions are valid. Ask them what accountability look like for them. What would be their desired outcome? What actions would need to be taken? [[2]](#footnotes) Depending on your level of friendliness with the claimant, you could provide suggestions, or they could suggest some on their own. Let this be a dialogue you're actively participating in, not making the person carry the sole responsibility of solutioning. You may also want to involve other organizers here, with consent.
 
 At this point, the claimant may feel comfortable re-engaging the other person themselves. You may also want, with the claimant's consent, to leverage your organizer powers to make a general announcement and reminder of the rules of the space. [[3]](#footnotes)
 
-For instance, if a group of people is excluding a more inexperienced member, reminding everyone that all members, regardless of skill level, should feel welcomed in the space. Ask veteran members to check in on inexperienced ones to see what they need.
+The important part of this step is to get clear on specifics with the intent of communicating it for behavior change. For instance, if a group of people is excluding a more inexperienced member, reminding everyone that all members, regardless of skill level, should feel welcomed in the space. Ask veteran members to check in on inexperienced ones to see what they need.
 
-If the situation has high negative emotions or associated trauma, or the claimant *really* doesn't feel comfortable giving feedback, or directly asks you to step in, proceed to step 5.
+If the situation has high negative emotions or associated trauma, or the claimant *really* doesn't feel comfortable giving feedback, or directly asks you to step in, proceed to Second Strike.
 
-5. Once the desired outcome is established along with some suggested actions, ask for a 1x1 with the other party. Although it's a bit scarier, I find it helpful to do this step solo as it avoids the feeling of being ganged up on by other organizers.
+## Second Strike: communicating and observing
 
-6. Let them know what actions and words were the issue. Remind them that they are not their mistakes and express the desired outcome and list some behavior changes that could contribute. Give them some space to process and respond and answer questions as needed. Listen carefully.
+Once the desired outcome is established along with some suggested actions, ask for a 1x1 with the other party. Although it's a bit scarier, I find it helpful to do this step solo as it avoids the feeling of being ganged up on by other organizers. Let them know what actions and words were the issue. Remind them that they are not their mistakes and express the desired outcome and list some behavior changes that could contribute. Give them some space to process and respond and answer questions as needed. Listen carefully.
 
-Depending on their maturity and willingness to engage with their own accountability, this will guide whether or not we decide to continue engaging or ask them to leave.
+Depending on their maturity and willingness to engage with their own accountability, this will guide whether or not we decide to continue engaging or ask them to leave. I'm not looking for a person to agree with me. I may have given them suggested actions that, for whatever reason, they cannot take. What I *am* looking for is them genuinely engaging in solutioning with us.
 
-Now, we're not looking for a person to agree with us 100%. We may have given them suggested actions that, for whatever reason, they cannot take. What we *are* looking for is them genuinely engaging in solutioning with us.
+After each of these steps, no matter what the outcome, they will end up in one of two consequences.
 
-### If a person thanks you and commits to changing
+### If a person thanks me and commits to changing
 
 They have shown both maturity and a willingness to engage. Engagement can take the form of:
 
@@ -150,23 +176,21 @@ They have shown both maturity and a willingness to engage. Engagement can take t
 
 - them saying they can't commit to X behavior but they can commit to Y, as long as it both acheives the outcome and is okay for both parties
 
-In all of these cases, make sure to write down the commitment. Remind them that they can enlist other community members to help keep them accountable. Move on to step 7.
+In all of these cases, make sure to write down the commitment. Remind them that they can enlist other community members to help keep them accountable.
 
 ### If the person tells you to go fuck yourself
 
 They have shown neither maturity nor a willingness to engage. Ask them to leave the group immediately. I can accept that someone who is caught off guard can lash out in anger, but I refuse to allow myself or other organizers to be a verbal punching bag.
 
-Should they be able to express their frustration or anger using "I" statements and without outright attacking, then, if you are comfortable, invite them to chat again 1x1 before they join again. If this happens, move on to step 8.
+Should they be able to express their frustration or anger using "I" statements and without outright attacking, then, if you are comfortable, invite them to chat again 1x1 before they join again.
 
----
-
-## In the case of defensiveness
+### In the case of defensiveness
 
 Sometimes the reception isn't that clear-cut and requires a bit more navigating. Oftentimes this happens when feedback triggers a defense response. It's normal to have a defense response to a situation one sees as threatening or tense and shouldn't be considered a mark of immaturity as long as the other person can work through it.
 
 In my experience, there are two types of defensiveness.
 
-### Defensiveness with the person's identity at the center
+#### Defensiveness with the person's identity at the center
 
 As mentioned above, when one is confronted with their mistakes, sometimes the inner voices come out of the woodwork to blame. Listen kindly; sometimes people are trying to wrestle with the inner voices that are connecting their actions to their identity. I'll cover the types of behaviors you may encounter and the corresponding de-escalation strategy.
 
@@ -188,7 +212,7 @@ Then ask again if they'd be willing to commit to changing these behaviors. They 
 
 - If they refuse, ask them to leave. Usually a temporary ban will suffice; but if this is a repeat offense consider a permanent ban (Step 8).
 
-### Defensiveness by blaming others or denying the issue
+#### Defensiveness by blaming others or denying the issue
 
 I have a harder time finding compassion for people who blame others. I harshly judge this type of defensiveness in myself. However, defensiveness comes from the same emotional spring—fear. Handling blame with a logical approach is tricky, since you're being asked to verify facts that you may or may not have access to. You're not an all-seeing eye. Rather, let's respond to defensiveness with de-escalation. Something about the situation feels unsafe to the other person, and it would be wise to figure out what that is.
 
@@ -210,15 +234,17 @@ Remind them that the community is a space built from everyone's effort to make i
 
 The suggestions should be ones that are both mature and allows them to take accountability for resolving the situation. If they insist the issue will be resolved if they have alone time with another person to "work it out 1x1," refuse and prompt them with different suggestions. The issue isn't just about them and the other person; it is about the community as well.
 
-If they suggest alternative actions that are both mature and allows them to take accountability to the community, *with the consent of both parties*, ask them to commit to those actions, then observe them (Step 7). Remind them that they can enlist other community members to help keep them accountable to their commitment.
+If they suggest alternative actions that are both mature and allows them to take accountability to the community, *with the consent of both parties*, ask them to commit to those actions. Remind them that they can enlist other community members to help keep them accountable to their commitment.
 
-If you cannot come to a resolution, you may have to ask them to leave (Step 8).
+If you cannot come to a resolution, you may have to ask them to leave.
 
 ---
 
-## Step 7: If they stay, hold them to their commitment
+## 2 Consequences
 
-## Step 8: If they cannot commit, ask them to leave
+### If they stay, hold them to their words
+
+### If they cannot commit, ask them to leave
 
 Someone telling me they will do something is much different than someone actually doing the action. Should I not see improvement, or a concentrated effort to reach out to community members to ask for help, then I'll ask them to leave temporarily to work it out on their own and then come back.
 
