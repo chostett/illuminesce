@@ -85,7 +85,7 @@ export default async function(eleventyConfig) {
 		extensions: "html",
 
 		// Output formats for each image.
-		formats: ["avif", "webp", "gif", "auto"],
+		formats: ["avif", "webp", "auto"],
 
 		// widths: ["auto"],
 
@@ -132,7 +132,18 @@ export default async function(eleventyConfig) {
 		return (new Date()).toISOString();
 	});
 
+	// Add reading time to blog posts
+	
 	eleventyConfig.addPlugin(readingTime);
+
+	// Add Draft Collection
+
+	eleventyConfig.addCollection("drafts", function (collectionApi) {
+	return collectionApi
+		.getAll()
+		.filter(item => item.data.draft)
+		.sort((a, b) => b.date - a.date);
+});
 
 	// Features to make your build faster (when you need them)
 
