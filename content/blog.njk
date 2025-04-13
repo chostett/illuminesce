@@ -9,19 +9,19 @@ const numberOfLatestPostsToShow = 5;
 
 <h2>Hi, I'm CJ.</h2>
 <p>
-  I'm a designer and indie game developer living in Tokyo. I write about games, technology, and fandom from a queer lens.
+  I'm a designer and indie game developer living in Tokyo. I'm the co-founder of a design &amp; games cooperative called Studio Terranova. I write about games, technology, and fandom from a queer lens.
 </p>
 <p>
-  I'm the co-founder of a design &amp; games agency called Studio Terranova. We try to do good and make things that feel real. I use this blog as a resource for documenting ephemerata, and collecting my thoughts.
-  <br>
-  <br>
-  <a href="https://illuminesce.net/contact">I love it when people say hi</a>. My email is always open.
+  I love it when people say hi. <a href="mailto:cj@studioterranova.net">My email</a> is always open.
+</p>
+<p>
+  <a href="rss.xml" style="vertical-align: middle;""><i class="ph-fill ph-rss-simple" style="font-size: 26px; color: orange;"></i></a>&nbsp;&nbsp;<a href="https://buttondown.com/studioterranova#subscribe-form"><i class="ph ph-envelope-simple-open" style="font-size:26px; color: MediumAquamarine;"></i></a>&nbsp;&nbsp;<a href="gamedev.lgbt/@illuminesce"><i class="ph ph-mastodon-logo" style="font-size:26px; color: Indigo;"></i></a>&nbsp;&nbsp;<a href="https://bsky.app/profile/illuminesce.net"><i class="ph ph-butterfly" style="font-size:26px; color: Blue;"></i></a>
 </p>
 
 
 {% set postsCount = collections.posts | onlyPublished | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h2>Recent Posts</h2>
+<h3>Recent Posts</h3>
 
 {% set postslist = collections.posts | onlyPublished | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
