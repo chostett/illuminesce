@@ -18,7 +18,13 @@ layout: layouts/base.njk
 
 <h1>{{ title }}</h1>
 
+<a href="rss.xml" style="vertical-align: middle;""><i class="ph-fill ph-rss-simple" style="font-size: 26px"></i></a>&nbsp;&nbsp;<a href="https://buttondown.com/studioterranova#subscribe-form"><i class="ph ph-envelope-simple-open" style="font-size:26px"></i></a>
+
 <div id="post-content">{{ content | safe }}</span>
+
+<div class="footer-socials" style="width: 50%; margin: 0 auto;">
+	<a href="rss.xml" style="vertical-align: middle;""><i class="ph-fill ph-rss-simple" style="font-size: 16px"></i> subscribe to rss</a>&nbsp;&nbsp;&nbsp;<a href="https://buttondown.com/studioterranova#subscribe-form"><i class="ph ph-envelope-simple-open" style="font-size:16px"></i> studio terranova newsletter</a>
+</div>
 
 {%- if collections.posts %}
 {%- set previousPost = collections.posts | getPreviousCollectionItem %}
@@ -36,11 +42,9 @@ layout: layouts/base.njk
 <!--Every article has a id, but special pages don't unless you set them manually.
 This prevents Cusdis from appearing everywhere-->
 <hr>
-<h2>Comments</h2>
+<h3>Comments</h3>
 <p>
-	Enjoyed this post? Want to ask a question? Leave a comment below. 
-	<br>
-	All comments are reviewed before publishing.
+	I read and review all comments - feel free to leave one.
 </p>
 <div id="cusdis_thread"
   data-host="https://cusdis.com"

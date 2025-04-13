@@ -7,7 +7,6 @@ const eleventyNavigation = {
 ---
 
 <h1>Tags</h1>
-
 <ul>
 {% for tag in collections | getKeys | filterTagList %}
 	{% set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
