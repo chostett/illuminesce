@@ -133,17 +133,17 @@ export default async function(eleventyConfig) {
 	});
 
 	// Add reading time to blog posts
-	
+
 	eleventyConfig.addPlugin(readingTime);
 
 	// Add Draft Collection
 
 	eleventyConfig.addCollection("drafts", function (collectionApi) {
-	return collectionApi
-		.getAll()
-		.filter(item => item.data.draft)
-		.sort((a, b) => b.date - a.date);
-});
+		return collectionApi
+			.getAll()
+			.filter(item => item.data.draft)
+			.sort((a, b) => b.date - a.date);
+	});
 
 	// Features to make your build faster (when you need them)
 

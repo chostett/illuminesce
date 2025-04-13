@@ -19,11 +19,11 @@ const numberOfLatestPostsToShow = 5;
 </p>
 
 
-{% set postsCount = collections.posts | length %}
+{% set postsCount = collections.posts | onlyPublished | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
 <h2>Recent Posts</h2>
 
-{% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
+{% set postslist = collections.posts | onlyPublished | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
 {% include "postslist.njk" %}
 
