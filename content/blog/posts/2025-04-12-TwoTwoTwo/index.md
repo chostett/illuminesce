@@ -240,61 +240,73 @@ If you cannot come to a resolution, you may have to ask them to leave.
 
 ---
 
-## 2 Consequences
+## The two consequences
+
+Regardless of the situation, there are two outcomes: one is to observe the situation and see if it improves, another is to ask the person to leave the group. What behavior change looks like should have been outlined in the previous steps, and there should have been verbal and written commitments made so you should have a good idea of what to look for when observing. This is done purposely to counteract "organizer brain" where once we've finished de-escalating a conflict we move on to something else and promptly neglect to monitor the situation.
+
+Asking someone to leave isn't easy; in online spaces it manifests in a temporary or permanent ban with a click of a button, but for in-person events it may lead to asking the person not to come back or asking them to leave permanently. As with online and in-person; you can request a person to leave, but you cannot truly "ban" a person - they keep on existing in parallel to your space. This can be a deterrent to organizers who want to "keep the peace" in a small community; knowing that while the members may not have to directly interact with them, you may have to. In both consequences, I have some considerations and guidelines to keep in mind.
+
+A typically unspoken, but important step in this process; *make sure that, as an organizer, you are taking care of yourself.* Being an organizer sometimes means you don't have others to vent or express your feelings to due to the risk of seeming to favor one side or the other. If I've had a bad day and I am in a situation where I have to ask someone to leave, I may not *feel* compassionate in the moment. Make space for these moments, even if it's in a personal diary or with the qualifier, "I need a place to vent..."
+
+Own your actions and if you need something, give it to yourself or ask for it from your organizer team or a trusted friend if you're organizing solo.
 
 ### If they stay, hold them to their words
+
+If we've done everything in the previous steps - communicated the two mindsets and followed the two strikes, then it should be clear to all parties what the desired outcome should be and as an organizer you can keep an eye out. In all honesty, I haven't had to put too much effort into this step except in one notable case; when feedback is spelled out compassionately and outcomes are made clear, I've pleasantly found that most people want to meet and exceed these expectations. I don't find time horizons to be helpful in feedback because it adds extra pressure to someone who may already be struggling to accept that they are a person who makes mistakes. I typically check back in with the claimant on the situation; they can give me feedback on how I handled it, as well.
+
+In the case of a person committing to an action and not following through: I've been through this once before in fifteen years. Someone was contrite and committed to an action that they didn't believe in; they then later told me that since they didn't believe in it they didn't "really" commit and should be exempt. I have no patience for this kind of behavior. I asked them to leave and that they were not welcome back. Ironically, this was the same person from before who yelled I was a bad person and that I'd die alone. After I processed the initial personal shock, I was grateful that I'd asked him to leave.
+
+I've never moderated a 1000+ Discord group before, so I can't speak to scalability - but this consequence seems difficult to scale and requires a personal touch. For this reason, I don't often find myself pursuing endless growth of the communities I organize; if I can get a few, high-quality people having high-quality interactions with each other, I consider this a success. Should others break off and form their own, smaller communities from mine, as long as there is still a friendliness and openness to communicate, this is also a success. I try to never grow past the organizing capability of the team; and if we do want to grow in people, I tell my community that to do that, we need more organizer support [4].
 
 ### If they cannot commit, ask them to leave
 
 Someone telling me they will do something is much different than someone actually doing the action. Should I not see improvement, or a concentrated effort to reach out to community members to ask for help, then I'll ask them to leave temporarily to work it out on their own and then come back.
 
-If this sounds harsh, consider: sometimes healing can be done within the community, and sometimes, healing is best done alone. Sometimes people don't have the presence or the energy to change in that moment. That's okay.
+If this sounds harsh, consider: sometimes healing can be done within the community, and sometimes, healing is best done alone. Sometimes people don't have the presence or the energy to change in that moment. That's okay. But if that then becomes the obligation of the group to hold onto them until they choose to change it creates, again, a missing stair - one of a person who is not able to take accountability and also protect them from the consequences of their lack of accountability. When bans happen, if they are temporary I'll ask people to come back again after a few events; we stay in each others' circle.
 
-But if that then becomes the obligation of the group to hold onto them until they choose to change it creates, again, a missing stair - one of a person who is not able to take accountability and also protect them from the consequences of their lack of accountability.
+I also like to perform some kind of ritual after I ask someone to leave - I never feel good doing causing someone distress, so I take some time to cool off and come down off an interaction. I may ask for a hug from a trusted friend, write in a journal or ask for some kind words. Doing some kind of ritual afterwards helps take the edge off confrontation and helps you caretake yourself as well.
 
-When bans happen, if they are temporary I'll ask people to come back again after a few events; we stay in each others' circle.
-
-I also like to perform some kind of ritual after I ask someone to leave - I never feel good doing causing someone distress, so I take some time to cool off and come down off an interaction. I may ask for a hug from a trusted friend, write in a journal or ask for some kind words.
-
-Doing some kind of ritual afterwards helps take the edge off confrontation and helps you caretake for yourself as well.
+Keeping track of these consequences requires organizer's notes and the information to be shared within the team. I tend to use Notion and other notepad apps to jot down quick notes for myself and a private Discord Chat to keep track of actions taken; sometimes this functions as a channel for discussion.
 
 ---
 
 ## In practice
 
-How does the two-strike rule work in practice? Here's some examples of real situations I've encountered in my communities.
+How does 2-2-2 work in practice? Here an examples of a real situation where this was applied.
 
 ### Case 1: Finding a good space to vent
 
-One of our participants was having a really shit couple of months. Recently she'd been coming to events and using any available opportunity to vent. At first, we were open to listening, but it had gotten so no other participant could speak without her mentioning something terrible.
+One of our participants was having a really shit couple of months. Recently she'd been coming to events and using any available opportunity to vent. At first, we were open to listening, but it had gotten so no other participant could speak without her mentioning something terrible. Prior to this, I had mentioned the 2 guidelines:  *act like you live here* and *you are not your mistakes* to the group.
 
-One of the participants brought this up to me; they said they had come to the group to have fun and unwind and were starting to dread coming if she was going to be there. We both agreed the outcome in this situation was **maintining a positive atmosphere to unwind.**
+One of the participants brought the issue up to me; they said they had come to the group to have fun and unwind and were starting to dread coming if she was going to be there. We both agreed the outcome in this situation was **maintining a positive atmosphere to unwind.** The first request they made was to "get her to stop," but I pushed back on this. Would her stopping actually solve the problem, or cause her to stuff her emotions in? They reconsidered and instead asked, "I'd like her to ask first before she vents."
 
-Some potential behavior changes were:
+Some potential behavior changes we workshopped were:
 
 1. asking her to ask first before she vents
 
 2. have a "venting time" for the first fifteen minutes of the club where everyone vents their frustrations and then keep the rest of the time for light talk
 
-first request they made was to "get her to stop," but I pushed back on this. Would her stopping actually solve the problem, or cause her to stuff her emotions in? They reconsidered and instead asked, "I'd like her to ask first before she vents."
-
-I went to her and asked her to do this; she readily agreed, admitting that she often forgot to check in with others. The next time she asked everyone if it was okay if she could vent for a few minutes, and the group agreed. After she vented and got some confort from other members, the conversation returned to normal.
-
----
+I went to her and asked her to do this; she readily agreed, admitting that she often forgot to check in with others. She committed to checking in with the group. The next time she asked everyone if it was okay if she could vent for a few minutes, and the group agreed. After she vented and got the comfort she needed, the conversation returned to its usual fare.
 
 ### Case 2: "Biological differences"
 
-A participant and I hit it off through our event. I invited him out to coffee and he seemed pretty cool.
+A participant and I hit it off through our event. I invited him out to coffee and he seemed pretty cool. I hadn't had time to mention the guidelines to him at that point.
 
 Later, one of the participants in our event told me he'd been making misogynist and dismissive statements to other members, inserting himself into the conversation and telling them the reason they struggled with planning things was because "men and women are biologically different," implying that this meant women had trouble planning whereas men did not. They told him that he was a misogynist, and he defended himself, saying it wasn't his intent to harm. He never made these statements in front of me.
 
-The participants brought the issue up to me, and I asked them what they wanted him to do; they said for him to stop making misogynist comments. Specifically, I pressed, what comments? They then clarified around making comments that took any physical differences men and women had and attributed them to men or women being better or worse (essentially, biological imperatism).
+The participants brought the issue up to me, and I asked them what they wanted him to do; they clarified they wanted him to stop making gender essentialist comments, in particular reducing the complex gender landscape and nuance to biological differences that ultimately succumbed to old and overused stereotypes.
 
-I told him in a one on one that I'd enjoyed our hangout together, and I had a behavior request for him; that I'd heard he'd made a comment about men and women being biologically different and
+I told him in a one on one that I'd enjoyed our hangout together, and explained the guidelines of the club. I explained that a comment he made wasn't in line with the principles of our club, and he defended himself, asking me why I should insist on denying the truth that men and women were different?
+
+I clarified that this wasn't about denying differences between men and women or other genders; this was about making broad generalizations of skill of a group of people based on stereotypes. I asked him if he could commit to questioning those stereotypes and not make broad generalizations in the future. Instead he explained again to me his rationale - it was not a vulnerable ownership of his own actions and how he came to this stereotype but rather a defense of his right to believe in gender essentialist theory. I listened for a bit, but found myself losing compassion for him as I realized the purpose of this conversation was to convince me of abdicating him from guideline 1: *acting like he lived* in the community.
+
+I told him that it seemed that he wasn't ready to commit to either guideline of the club. I apologized for not informing him sooner, but he wasn't a good fit. He was welcome to come back after he'd taken accountability for his actions and didn't hide behind a belief of fake "logic" and "rationality," but that didn't fly here.
+
+He later sent a harassing message to the participant who brought it up to me; I apologized for the distress caused and asked them to delete it immediately and inform me of any further contact with him/ He never came back to the group. The participant stayed in the group for a long time. I had to go through my own healing to forgive myself for allowing myself to get close to someone who was so shut down emotionally he'd rely on stereotypes to comfort himself. At first, I blamed myself for causing collateral damage to the other member; but then realized that was *him* who sent the message, not me. The best I could do is make sure that the group knew I was looking out for them and that this kind of behavior is unacceptable.
 
 ---
 
-## 
+## In conclusion
 
 After covering the steps and the use cases, I hope you can start see some ways in which you can use the two-strike rule in your organization. The framework itself is ever-evolving; and it relies not only on principles "act like you live here" and "you are not your mistakes," but also on mindset.
 
