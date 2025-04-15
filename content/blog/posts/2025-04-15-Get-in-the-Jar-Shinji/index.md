@@ -12,7 +12,7 @@ tags:
 
 As I'm drafting another heavy blog post about de-escalation, conflict and abuse in niche communities, I thought folks would appreciate some levity.
 
-![](01-evacakes.png)
+![A photo of a vending machine selling Evangelion cakes.](01-evacakes.png)
 
 Recently, I found a vending machine in Kichijoji that sells *Evangelion* cakes in jars. Well, cans, technically. It's a cake sealed in a hermetic chamber, much like Shinji himself.
 
@@ -44,19 +44,19 @@ Upon even *closer* inspection, the advertisement reads, "Get a random cake from 
 
 Poor Misato doesn't even get her own selector.
 
-![](04-evacakes.png)
+![A close up of the vending machine showing the nine types of cakes to choose from.](04-evacakes.png)
 
 To recap, selections 04~06 will get you a random cake from nine designs, and selections 07~11 will get you a *specific* cake design. Selections 01~03 don't exist for some reason, even though all number systems typically start at 00 or 01 and I was expecting to be able to select something in that range.
 
 Being a product designer, I inferred at this point that the reason why selections 01~03 didn't exist was because for some reason, the vending machine company's selections were non-customizeable. If you look behind the advertisement you can clearly see that this vending machine has slots for eleven products, and someone decided to take up six slots with this big advertisement that doesn't even stand out as much as the individual selections.
 
-![](05-evacakes.png)
+![Some lines drawn on top of the vending machine showing that the advertisement covers 6 selling slots.](05-evacakes.png)
 
 At this point, I thought this was very poorly designed, seeing as someone who *isn't* a product designer would perhaps not know that there is a constant negotiation between the visual designer and the hardware/function designer on how to display information on a physical object. Unlike in software where we can write a line of code to make a button, adding a button in hardware requires re-measuring re-tooling, and potentially re-prototyping which costs far more time and money than software.
 
 I already thought the information architecture here was inscrutable, but oh, dear reader, I was not ready for what was next. Let's say I have figured out what cake I want (in my case, Kaoru's Cassis Cake) and wish to purchase that cake. I simply go over to the pin pad and enter my selecti---
 
-![](06-evacakes.png)
+![A pin pad. Selections 1-3 are non visible on the machine, but 2 can still be bought. Selections 4-6 are visible on the machine, but 6 is unable to be selected. 7 is sold out.](06-evacakes.png)
 
 ?!!
 
