@@ -2,8 +2,8 @@
 title: 'The Violence of Chaos'
 slug: 2025-04-06-The-Violence-of-Chaos
 date: '2025-04-06'
-description: ''
-image: 'XX'
+description: 'Growing up in the States is an exercise in trauma from violence.'
+image: ''
 tags:
   - personal
 
