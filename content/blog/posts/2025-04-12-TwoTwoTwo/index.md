@@ -87,7 +87,7 @@ While on its surface it seems useful for that one person who is always toeing th
 
 At its worst, it's witch hunts and call outs, which happened a few years ago [causing a trans rights protest in Tokyo to be cancelled.](http://localhost:8080/blog/posts/2023-11-16-Tokyo-Trans-March-2023/)
 
-In both cases, an evaporation effect happens; by not having the rules and goals explicit and some people exempt from the rules, the community becomes one that loses members from different backgrounds and points of view and becomes an echo chamber.
+In both cases, an evaporation effect happens through [the spiral of silece](https://en.wikipedia.org/wiki/Spiral_of_silence); by the majority or members with clout being more encouraged to speak than other points of view or new members, the community becomes one that loses voices from different backgrounds and points of view and becomes an echo chamber.
 
 In different ways, both of these types of communities are dangerous to newcomers and don't facilitate the communities we want - ones that are strong, compassionate and sustainable over time.
 
