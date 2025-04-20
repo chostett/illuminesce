@@ -89,7 +89,7 @@ At its worst, it's witch hunts and call outs, which happened a few years ago [ca
 
 In both cases, an evaporation effect happens through [the spiral of silece](https://en.wikipedia.org/wiki/Spiral_of_silence); by the majority or members with clout being more encouraged to speak than other points of view or new members, the community becomes one that loses voices from different backgrounds and points of view and becomes an echo chamber.
 
-In different ways, both of these types of communities are dangerous to newcomers and don't facilitate the communities we want - ones that are strong, compassionate and sustainable over time.
+In different ways, both of these types of communities are dangerous to newcomers and don't facilitate the communities we want - ones that are strong, compassionate and account for a plurality of views.
 
 2-2-2 provides a guideline on behavior change that is intentionally communicated to prevent this kind of evaporation from happening as well as help community members resolve conflict and even harassment when it occurs.
 
