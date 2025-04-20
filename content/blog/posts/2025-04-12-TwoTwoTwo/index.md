@@ -161,6 +161,28 @@ Be aware that sometimes asking questions can be perceived as shifting responsibi
 
 Next, assess the level of the claimant's emotion. You don't need to guess—ask them. Are they scared? Angry? Don't want to make a big deal out of it? Acknowledge this. You don't need to pry into the *why,* just that their emotions are valid. Ask them what accountability look like for them. What would be their desired outcome? What actions would need to be taken? [[2]](#footnotes) Depending on your level of friendliness with the claimant, you could provide suggestions, or workshop together. Let this be a dialogue you're actively participating in, not making the person carry the sole responsibility of solutioning. You may also want to involve other organizers here, with consent.
 
+---
+
+*An example of this conversation might be...*
+
+*Isaiah: Sarah just touched my hair without permission...it made me feel really uncomfortable.*
+
+*Organizer: I'm really sorry that she made you uncomfortable. To understand more, how did it go down?*
+
+*Isaiah: So we're standing by the easels and I'm getting paint. And she just sticks her hand into my hair and laughs and is like, 'I'm sorry, I always wanted to know what it felt like... I'm sorry!' I was speechless. I couldn't tell her in the moment, because I was angry and I worried she'd take it the wrong way but...what the fuck, you know? This kind of stuff happens outside the group and I usually just roll with it, but this time it really hurt.*
+
+*Organizer: It sounds like even though she said she was sorry, that's not what her actions showed.*
+
+*Isaiah: Yeah. And I just...want an honest apology. And for it not to happen again. Don't touch my hair. Period.*
+
+*Organizer: Got it. Would I be right in assuming that you want to feel like this is a safe space where you won't be touched without your express permission?*
+
+*Isaiah: Yeah.*
+
+*Organizer: Okay. Would you like me to handle it or do you feel comfortable on your own? Either is ok.*
+
+--
+
 At this point, the claimant may feel comfortable re-engaging the other person themselves. You may also want, with the claimant's consent, to leverage your organizer powers to make a general announcement and reminder of the principles and mindset of the space. [[3]](#footnotes)
 
 The important part of this step is to get clear on specifics with the intent of communicating it for behavior change. For instance, if a group of people is excluding a more inexperienced member, reminding everyone that all members, regardless of skill level, should feel welcomed in the space. Ask veteran members to check in on inexperienced ones to see what they need.
@@ -175,9 +197,9 @@ Depending on their maturity and willingness to engage with accountability, this 
 
 After each of these steps, no matter what the outcome, they will end up in one of two consequences.
 
-### If a person thanks me and starts a dialogue
+### If a person thanks you and starts a dialogue
 
-This means the agree with the proposed outcome and are willing to engage in solutioning, even if the initial behavior is not one they are able to fulfill.
+This means they agree with the proposed outcome and are willing to engage in solutioning, even if the initial behavior change is not one they are able to fulfill.
 
 What engagement can look like:
 
@@ -189,31 +211,77 @@ What engagement can look like:
 
 If we're *very* lucky, our first request will be one that they feel comfortable and able to take. But this is only in the very lucky situations. Dispute on the fairness of the outcome is covered below. If the behavior is one that is different than suggested, make sure to check in with the claimant. If both parties are okay, write down the commitment and commit to check back in. Remind them that they can enlist other community members to help keep them accountable.
 
+---
+
+*An example of this conversation might be...*
+
+*Organizer: Hey, Sarah. I'd like to chat with you about something. Do you have some time?*
+
+*Sarah: Sure, what's up?*
+
+*Organizer: I wanted to chat with you about touching Isaiah's hair. It's not okay to touch someone without their express consent. We want to cultivate a space where folks feel they have bodily agency and that other members respect their boundaries.*
+
+*Sarah: I'm really sorry... it felt wrong in the moment, too. I've been reluctant to talk to Isaiah. I don't know what to say.*
+
+*Organizer: Well, some suggestions might be an honest apology and not to touch his hair again. In fact, I think his hair is off limits - it's a hard boundary.*
+
+*Sarah: Got it...okay. Next time I see him, I will.*
+
+*Organizer: Thanks. And if you're worried about your words, you can always bounce ideas off me or another person you trust.*
+
+*Sarah: Thanks!*
+
+---
+
+Cultivating a space that has room for different opinions and disagreement isn't easy, either. Some very reasonable requests (i.e. folks who are immunocompromised requesting outdoor events or masked events so they can attend safely) *can and will conflict sometimes with other very reasonable requests* (i.e. folks who are deaf requesting non-masked events so they can lipread for people who do not know sign language). There is no "winner" or "loser" here. In this case, diversifying types of events you run to allow the most people to access some meetings, as opposed to trying to get a *perfect score on accessibility* every time might be wise. For instance, in balancing these two requests, having some masked and some un-masked events, or un-masked hybrid events, etc.
+
 ### If the person tells you to go fuck yourself
 
 They either don't agree with the proposed outcome or have shown no willingness to engage in dialogue. Ask them to leave the group immediately. I can accept that someone who is caught off guard can lash out in anger, but I refuse to allow myself or other organizers to be a verbal punching bag.
+
+---
+
+*An example of this conversation might be...*
+
+*Organizer: I wanted to chat with you about touching Isaiah's hair. It's not okay to touch someone without their express consent. We want to cultivate a space where folks feel they have bodily agency and that other members respect their boundaries.*
+
+*Sarah: You can just fuck right off with that.*
+
+*Organizer: Pardon?*
+
+*Sarah: I'm not racist, and fuck you for saying that.*
+
+*Organizer: I'm telling you it's not okay to touch someone without their express consent.*
+
+*Organizer: Thanks. And if you're worried about your words, you can always bounce ideas off me or another person you trust.*
+
+*Sarah: Thanks!*
+
+---
 
 Should they be able to express their frustration or anger using "I" statements and without outright attacking, then, if you are comfortable, invite them to chat again 1x1 before they join again.
 
 ### If the person ignores you, avoids you or leaves you on read
 
-Sometimes confrontation can be a lot to handle. Give them some time to engage and gently remind them again in a week or so. If they continue to ignore, they may not ready for the conversation.
+Sometimes confrontation can be a lot to handle, especially for those with anxiety or RSD (rejection sensitivity disorder). It's fine if you don't hear immediately back but if they refuse to engage with you at all, this can become a problem. First, give them some time to engage and gently remind them again in a week or so. Encourage them to ask for space if they need it, and request to specify how long.
 
-This is a problem for an organizer since being left on read isn't engaging in any meaningful way or taking accountability, it's [stonewalling](https://en.wikipedia.org/wiki/Stonewalling). If there is no communication about needing space and how much, it's hard to ask for behavior change. It is a total lack of willingness to communicate, and in couples, usually signifies the end of the relationship.
+If they continue to ignore and avoid you endlessly, this becomes a problem. Being left on read isn't engaging in any meaningful way or taking accountability, it's [stonewalling](https://en.wikipedia.org/wiki/Stonewalling). If there is no communication, or the communication is "never bring this up again" it's hard to ask for behavior change.
 
-In this case, follow up with a message along the lines of, "I hope you know I don't think you're a bad person, if that's what you're thinking. I don't know." --> expand more here
+In the case of stonewalling, following up with a message along the lines of, "I don't think you're a bad person. I want to take some time to chat on this topic; if you feel more comfortable chatting with someone else, please let me know. However, if you aren't willing or able to engage in discussion about this to anyone, we will have to ask you to leave. The door's open any time to re-engage."
 
-### In the case of defensiveness
+I struggled in particular on this rule — kicking someone out who is avoidant seemed cruel - but ultimately it was pointed out to me that avoiding and leaving someone on read is against mindset #1: acting like they live in the space and taking responsibility. If that kind of attitude grows in the community, there won't be healthy, respectful conflict - just people avoiding or ghosting each other if they've had a slightly bad or off interaction.
 
-Sometimes the reception isn't that clear-cut and requires a bit more navigating. Oftentimes this happens when feedback triggers a defense response. It's normal to have a defense response to a situation one sees as threatening or tense and shouldn't be considered a mark of immaturity as long as the other person can work through it.
+### What if the person gets defensive?
+
+Sometimes the reception isn't that clear-cut and requires a bit more navigating. Oftentimes this happens when feedback triggers a defense response. It's normal to have a defense response to a situation one sees as threatening or tense and shouldn't be considered a mark of immaturity as long as you and the other person can work through it together.
 
 In my experience, there are two types of defensiveness.
 
 #### Defensiveness with the person's identity at the center
 
-As mentioned above, when one is confronted with their mistakes, sometimes the inner voices come out of the woodwork to blame. Listen kindly; sometimes people are trying to wrestle with the inner voices that are connecting their actions to their identity. I'll cover the types of behaviors you may encounter and the corresponding de-escalation strategy.
+When we are confronted with our mistakes, sometimes the inner voices come out of the woodwork to blame us. In this case, listen kindly and remember that sometimes people are trying to wrestle with the inner voices. Try to de-escalate the situation. I'll cover the types of behaviors I've encountered in the past and the corresponding de-escalation strategy.
 
-Behaviors include:
+If the behaviors include...
 
 - Expressing regret that is outsized to the situation and goes into self-blaming (i.e. "I can't believe I did that; I consider myself an ally..." or "I really fucked that up. I'm such a fuckup.")
 
@@ -223,9 +291,9 @@ Behaviors include:
 
 If you encounter these, you may want to de-escalate by helping the person disconnect their sense of self from their actions. Repeat that they aren't their mistakes; perhaps give an example of your own.
 
-Then ask again if they'd be willing to commit to changing these behaviors. They can even provide suggestions of their own, as long as it contributes to the outcome. Be kind but firm.
+Then ask again if they'd be willing to commit to changing these behaviors. They can even provide suggestions of their own, as long as it contributes to the outcome. This should be a dialogue, not an order. Now, if they agree with the outcome, they'll likely be more 
 
-- If they say they will commit, thank them and tell them you look forward to it. Make sure to observe if their actions follow their words (Step 7). Remind them they can ask for help if they need it.
+- If they say they will commit, thank them and tell them you look forward to it. Make sure to observe if their actions follow their words. Remind them they can ask for help if they need it.
 
 - If they say they will *try* but not commit, let them know kindly that commitment is not about succeeding 100%, it's about putting in a strong effort. Ask again for a commitment.
 
