@@ -5,19 +5,27 @@ date: '2025-04-12'
 description: ''
 image: 'A framework for community safety and de-escalation for event organizers.'
 tags:
-  - community
   - organizing
+  - lgbtq
 draft: true
 
 ---
 
-One of the most challenging parts of an organizer's job is navigating conflict and harassment at our events and in our communities. As an organizer in creative spaces for fifteen years in both the US and Japan, I propose both a framework to help navigate these challenges. For lack of a better name, it is called "2-2-2," short for **2 guidelines**, **2 strikes** and **2 consequences**.
+One of the most challenging parts of an organizer's job is navigating conflict and harassment at our events and in our communities. As an organizer in creative spaces for fifteen years in both the US and Japan, I propose both a framework to help navigate these challenges and as a "call in" for community members to take accountability for their own, and the community's growth.
 
-It is intended to be used as a compassionate, but firm, way of establishing community guidelines in a diverse space and the more specific version of the broader rule of, "don't be a dick" or "be excellent to each other." 2-2-2 is taken from both nonviolent communication and transformative justice frameworks around "calling in" as opposed to calling out. References will be provided below.
+It is intended to be used as a compassionate, but firm, way of establishing community guidelines in a diverse space and the more specific version of the broader rule of, "don't be a dick" or "be excellent to each other." It is taken from both nonviolent communication and transformative justice frameworks around "calling in" as opposed to calling out. References will be provided below.
 
-This article is primarily targeted towards organizers, though I'll use language that non-organizers should be able to pick up as well.
+The framework isn't perfect; it is an attempt to combat issues of both conflict and harassment in queer community spaces *and in addition* the chilling of community spaces to newcomers - essentially, those who don't posess the social clout yet to understand a communities rules.
 
-Why is a framework like 2-2-2 necessary? The issue is twofold:
+It is about encouraging the unspoken to be spoken.
+
+For lack of a better name, it is called "2-2-2," short for **2 guidelines**, **2 strikes** and **2 consequences**.
+
+Thank you to orgs like Firecracker, Tokyo Pride House, Tokyo Rainbow Toastmasters, CitrusCon, and Boba Board - I learned a lot volunteering and working in and around you.
+
+Huge thanks to D'Artagnian, GM Gray, Citizen, Madoka, Asuka, Mika, Dorota, Yukino, Niklas, Agnes, Honami, mabbees, Josiah and Ryan - everyone who has co-led with me in some capacity. There's no way I could do this alone. Your ideas, suggestions and gentle shoves are woven throughout.
+
+So why is a framework like 2-2-2 necessary? The issue is twofold:
 
 1. Most organizers are tired and susceptible to mistakes
 
@@ -41,23 +49,23 @@ However, to *get* that space to exist, I had to learn a few things:
 
 None of these prepared me for my first experience with conflict. It was simply not on my radar. At first, I handled it poorly. Over time, I got a bit better. Each time was exhausting and anxiety-inducing.
 
-So, nerd that I am, I read books on centering myself in moments of high anxiety and how to approach conflict compassionately. I learned about non-violent communication. I mapped out my own privileges so I could better understand and serve people who came from different backgrounds than me.  I practiced a *lot* in my communities. Over time, people around me began to remark that I was good at handling interpersonal conflict, so naturally, they asked me to mediate and make decisions.
+So, nerd that I am, I read books. I bounced ideas off my co-organizers and friends and they came back with new frames of reference. I learned about non-violent communication. I mapped out my own privileges so I could better understand and serve people who came from different backgrounds than me. I practiced a *lot* in my communities. Over time, people around me began to remark that I was good at handling interpersonal conflict, so naturally, they asked me to mediate and make decisions.
 
 I should have been more aware how exhausting this would be given my part experiences, but people pleaser habits die hard. I said yes. I took on more than my fair share of the mental load and ultimately burned out.
 
-One night after one particularly harrowing incident, I remember thinking, *I started this group to create, not to organize.* I had run into a former club member (that I removed from our group) at a café. He walked up to the table where I was having coffee with a friend and, red-faced and mouth screwed up into rage screamed that I was a terrible person and that I'd die alone.
+One night after a particularly harrowing incident, I remember thinking, *I started this group to create, not to organize.* I had run into a former club member that I had removed from our group for making denigrating comments about women. He walked up to the café table where I was having coffee with a friend and, red-faced and mouth screwed up into rage, screamed that I was a terrible person and that I'd die alone. Then he stormed out.
 
-All I wanted was a space to hang out with other people. Why did I have to deal with someone screaming at me in a café?
+All I wanted was a space to hang out with other people. Why was this the result?
 
-If you're an organizer, you may be familiar with this question. We are seen as someone capable of doing *anything,* and yet, behind it all, we are so, so tired. We know the space we run is *good* and needs to exist, but some days can be so overwhelming we want to shut everything down.
+If you're an organizer, you may be familiar with this question. We are seen as someone capable of doing *anything,* and yet, behind it all, we are so, so tired. We know the space we run is *good* and needs to exist, but some days can be so overwhelming we want to shut everything out.
 
 ### The problem: Missing Stairs and Vibe-Based Moderation
 
-When I looked around at other niche groups, I often found similar traits in their organizers—they were the overwhelmed bottlenecks of the organization. In some organizations there were people known as [missing stairs](https://pervocracy.blogspot.com/2012/06/missing-stair.html)—those who had grown a whisper network around them and who put the community on edge. The organizer was either too overwhelmed or refused to ask for accountability or worse; the missing stair was either embedded in the organizational team or *was* the organizer.
+When I looked around at other niche groups, I often found similar traits in their organizers—they were the overwhelmed bottlenecks of the organization. In some organizations there were people known as [missing stairs](https://pervocracy.blogspot.com/2012/06/missing-stair.html)—those who had grown a whisper network around them and who put the community on edge. The organizer was either too overwhelmed or refused to ask for accountability or worse; the missing stair *was* the organizer.
 
-These missing stairs ran the danger gamut from "I have a strange feeling about them" to, "don't be alone in a room with this person, for any reason."
+These missing stairs ran the danger gamut from "I have a strange feeling about them and I can't put my finger on it..." to, "don't be alone in a room with this person for **any** reason."
 
-When a dangerous missing stair was on the organizing team, often they were someone who "helpfully" stepped in to help the tired organizer. There were many different reasons why the missing stair would stay in the organization:
+When a particularly dangerous missing stair was on the organizing team, often they were someone who "helpfully" stepped in to help a tired team. There were many reasons why the missing stair would stay in the organization:
 
 - The organizer was afraid of losing this person and becoming overwhelmed again and so wilfully ignored repeated requests for accountability
 
@@ -65,11 +73,11 @@ When a dangerous missing stair was on the organizing team, often they were someo
 
 - The victims were afraid of being seen as a "troublemaker" or afraid of getting into a popularity war with the missing stair, so downplayed their fear or silently left
 
-It's easy to say "take accountability" but commonly it was up to an organizer who may not be as motivated as others to define *what* that accountability looked like *for* the victim and confront the missing stair. So they would ignore the issue, or put the work of reconciliation back on the victim with no clear resolution.
+It's easy to say "take accountability" but commonly it was solely up to the organizer who may not be as motivated as others to define *what* that accountability looked like *for* the victim and confront the missing stair. So they would ignore the issue, hoping for it to go away, downplay it as "not a pressing priority" or put the work of reconciliation back on the victim.
 
 The overall result of this is that the community is less friendly and welcoming; newcomers either become targets or worry about being targets. Anyone who has a history of past trauma is on edge in the group and eventually leaves; *and once the people who warn leave the community, there is no protection for new members.* In general, it becomes a place for sowing mistrust, not healing and creativity.
 
-I saw too much of myself in this overworked and tired organizer. I feared that one day, if I continued on that path, I'd cultivate a group with a missing stair, too.
+I saw too much of myself in this overworked and tired organizer. I feared that one day, if I continued on that path, I'd cultivate a group with missing stairs, too.
 
 The other extreme of this is vibes-based moderation.
 
@@ -79,9 +87,9 @@ While on its surface it seems useful for that one person who is always toeing th
 
 At its worst, it's witch hunts and call outs, which happened a few years ago [causing a trans rights protest in Tokyo to be cancelled.](http://localhost:8080/blog/posts/2023-11-16-Tokyo-Trans-March-2023/)
 
-In both cases, an evaporation effect happens; by not having the rules explicit and some people exempt from the rules, the community becomes one that loses members from different backgrounds and points of view, and becomes an echo chamber.
+In both cases, an evaporation effect happens; by not having the rules and goals explicit and some people exempt from the rules, the community becomes one that loses members from different backgrounds and points of view and becomes an echo chamber.
 
-In different ways, both of these types of communities are dangerous to newcomers and don't facilitate the communities we want - ones that are strong, kind and sustainable.
+In different ways, both of these types of communities are dangerous to newcomers and don't facilitate the communities we want - ones that are strong, compassionate and sustainable over time.
 
 2-2-2 provides a guideline on behavior change that is intentionally communicated to prevent this kind of evaporation from happening as well as help community members resolve conflict and even harassment when it occurs.
 
@@ -91,13 +99,13 @@ In different ways, both of these types of communities are dangerous to newcomers
 
 Initially, this framework was called the "one-strike rule" but the more I wrote about it, the more I realized there needed to be more conscious writing on the underlying mindset and guidelines - calling it "one-strike" made it seem too simple when the decision to ban or remove someone is never an easy choice.
 
-As mentioned above, 2-2-2 is a collection of three parts: mindset, strikes, and consequences. In this case "consequences" means simply "the result of one's actions." Everyone in the group is an adult and while they may have emotional reactions or thoughts that pop up, everyone has agency to control or change their behavior.
+2-2-2 is a collection of three parts: **mindset, strikes, and consequences.** In this case "consequences" means simply "the result of one's actions." Everyone in the group is an adult and while they may have emotional reactions or thoughts that pop up, everyone has agency to control or change their behavior.
 
-First, there are two important guidelines that I try to proactively communicate and follow in the groups that I run. These serve as the foundation for 2-2-2.
+First, there are two important mindset that I try to proactively communicate and follow in the groups that I run. These serve as the foundation for 2-2-2.
 
-### Guideline 1: Act Like You Live Here
+### Mindset 1: Act Like You Live Here
 
-It is not only the responsibility of the organizer, but each community member to ensure the space is inclusive long-term. If they see a behavior that's not in line with the space's principles, encourage them to call it in and request change.
+It is not only the responsibility of the organizer, but each community member to ensure the space is inclusive long-term. If they see a behavior that's not in line with the space's principles, encourage them to call it in and request change. Usually a space has *some* principles, though applying this mindset may also help the community get more clarity.
 
 For instance, if the space's principles are:
 
@@ -107,27 +115,25 @@ For instance, if the space's principles are:
 
 - to make new friends
 
-If a community member witnesses someone making over-generalizations about a race of people, this goes against the space's principle of inclusion. Even if it's not directly involved with them, encourage them to speak up.
+If a community member witnesses someone making over-generalizations about a race of people, this goes against the space's principle of inclusion of different and diverse perspectives. Even if it's not directly involved with them, encourage them to speak up.
 
-After all, you live in this space. Take care of it and the people in it.
+After all, you live in this space. And on a broader scale, this space doesn't exist in a vacuum. Take care of it and the people in it.
 
-### Guideline 2: You are not your mistakes
+### Mindset 2: You are not your mistakes
 
-I, like many people, have a voice in the back of my head judging me for my mistakes. If I screwed up an interaction, I'd browbeat myself for being a bad person, or stupid, or not enough.
+Perhaps you too, have a voice in the back of your head judging you for your mistakes. Whiffing an interaction or not getting the response you expected can cause you to wonder if you're a bad person, or stupid, or "just don't fit" in the space.
 
-However, my actions are not my identity. I can still be a good person and make someone uncomfortable. A good example of this is when someone does or says something that is racist and disrespectful (i.e. touching a black person's hair without their permission "just out of curiosity") and, when asked to stop, responds, "But I'm not racist!"
+[Self-Compassion](https://self-compassion.org/books-by-kristin-neff/) by Kristin Neff personally helped me a lot with this. Our actions, while in our control, are not our identity. We can still be good people and unintentionally make someone uncomfortable. A good example of this is when someone does or says something that is racist and disrespectful (i.e. touching a black person's hair without their permission "just out of curiosity") and, when asked to stop, responds, "But I'm not racist!"
 
-What they actually mean is, "the self I aspire to be is not racist," which, aspirations are good, but when our actions don't meet our aspirational self, it gets in the way of us taking accountability and changing for the better.
+But the actions they did were racist. "I'm not racist" is a rejection of an identity, but not accountability for one's actions. Most of us aspire not to "be a racist" but that doesn't change that we have the potential to hurt others through our ignorance, negligence or defensiveness. Not taking accountability gets in the way of us changing for the better.
 
-There's no growth in denying one needs to grow at all.
-
-Once I learned to separate myself, the person, who was deserving of love and kindness, and my actions, which sometimes were in alignment with the person I wanted to be and sometimes weren't in alignment, I had a much easier time changing my behavior. In fact, I started to see feedback as a gift to help me see things I either couldn't or wouldn't see alone.
+Once I learned to separate myself, the person, who was deserving of love and kindness, and my actions, which sometimes were in alignment with the person I wanted to be and sometimes weren't in alignment, I had a much easier time changing my behavior. Feedback, especially in the form of "that was racist" or "that was classist" wasn't easy to hear, but it was also critical to helping me see things I either couldn't or wouldn't see alone.
 
 To organizers - being an example of this in our communities where we both communicate our needs and foster an atmosphere of continual growth and curiosity is one of the strongest ways we can encourage others to do the same.
 
 ### On leading by example
 
-I'm not saying leading by example is easy. It's *fucking hard.* It takes a balance of keeping ourselves accountable and trust; both of which aren't things that were readily modeled to me by others.
+I'm not saying leading by example is easy. It's *fucking hard.* It takes a balance of keeping ourselves accountable and trust; both of which aren't things that were readily modeled to us by others.
 
 Both of these mindsets should be communicated and modeled to everyone *before* any conflict happens. Tell everyone you might not see everything, but you trust them as a group to resolve conflict, and if they cannot, to raise an issue.
 
@@ -135,55 +141,67 @@ For raising issues, give everyone the name of **at least two organizers** that c
 
 ## The two strikes
 
-In baseball, three strikes is an "out" — meaning the batter leaves the field if they miss the ball three times. Everyone in the community has two strikes per any incident. The **first strike** is the behavior that necessitates confrontation; the **second strike** is what happens when a person as asked to change.
+In baseball, three strikes is an "out" — meaning the batter leaves the field if they miss the ball three times. Everyone in the community has two strikes per any incident. The **first strike** is the behavior that necessitates confrontation; the **second strike** is an observation of what happens when a person is confronted and asked to change.
 
-Why? I find that if I wait for a third *incident* to occur, it has already affected the health of the community. I use the confrontation between myself and the other person as an indicator to see if they are open to change. If they are disengaged in changing their behavior, or lie to me and other organizers about changing their behavior, they aren't the right fit for the community.
+Why not three? I find that if I wait for a third *incident* to occur, it has already affected the health of the community. I use the confrontation between myself and the other person as an indicator to see if they are open to change. If they are disengaged in changing their behavior, or lie to me and other organizers about changing their behavior, they aren't the right fit.
 
-### First strike: the behavior and its victim
+### First Strike: Clarification and envisioning accountability
 
 How does this work in practice? When a claimant raises an issue, first thank them. You may want to ask clarification questions to get clear on the situation. For instance, I might ask the following:
 
 - What actions or words were the issue?
 
-- What actions did person take, if any?
+- What actions did the claimant take, if any?
 
 - Have they noticed a pattern, or is this the first time? Repeat the issue back to them to make sure you understand it properly.
 
 By the way, the claimant can be you. It's important to self-assess *what* about the behavior was annoying or harmful before you approach someone about it.
 
-Next, assess the level of the claimant's emotion. You don't need to guess—ask them. Are they scared? Angry? Don't want to make a big deal out of it? Acknowledge their emotions. You don't need to pry into the *why,* just that their emotions are valid. Ask them what accountability look like for them. What would be their desired outcome? What actions would need to be taken? [[2]](#footnotes) Depending on your level of friendliness with the claimant, you could provide suggestions, or they could suggest some on their own. Let this be a dialogue you're actively participating in, not making the person carry the sole responsibility of solutioning. You may also want to involve other organizers here, with consent.
+Be aware that sometimes asking questions can be perceived as shifting responsibility back onto the claimant - we want to make sure that we are clear that this is to understand and assess the situation, and that if they are no longer comfortable dealing with someone, you are committed to help.
 
-At this point, the claimant may feel comfortable re-engaging the other person themselves. You may also want, with the claimant's consent, to leverage your organizer powers to make a general announcement and reminder of the rules of the space. [[3]](#footnotes)
+Next, assess the level of the claimant's emotion. You don't need to guess—ask them. Are they scared? Angry? Don't want to make a big deal out of it? Acknowledge this. You don't need to pry into the *why,* just that their emotions are valid. Ask them what accountability look like for them. What would be their desired outcome? What actions would need to be taken? [[2]](#footnotes) Depending on your level of friendliness with the claimant, you could provide suggestions, or workshop together. Let this be a dialogue you're actively participating in, not making the person carry the sole responsibility of solutioning. You may also want to involve other organizers here, with consent.
+
+At this point, the claimant may feel comfortable re-engaging the other person themselves. You may also want, with the claimant's consent, to leverage your organizer powers to make a general announcement and reminder of the principles and mindset of the space. [[3]](#footnotes)
 
 The important part of this step is to get clear on specifics with the intent of communicating it for behavior change. For instance, if a group of people is excluding a more inexperienced member, reminding everyone that all members, regardless of skill level, should feel welcomed in the space. Ask veteran members to check in on inexperienced ones to see what they need.
 
-If the situation has high negative emotions or associated trauma, or the claimant *really* doesn't feel comfortable giving feedback, or directly asks you to step in, proceed to Second Strike.
+If the situation has high negative emotions or associated trauma, or the claimant *really* doesn't feel comfortable giving feedback, or directly asks you to step in, proceed to the Second Strike.
 
-## Second Strike: communicating and observing
+## Second Strike: Communicating and Observing
 
-Once the desired outcome is established along with some suggested actions, ask for a 1x1 with the other party. Although it's a bit scarier, I find it helpful to do this step solo as it avoids the feeling of being ganged up on by other organizers. Let them know what actions and words were the issue. Remind them that they are not their mistakes and express the desired outcome and list some behavior changes that could contribute. Give them some space to process and respond and answer questions as needed. Listen carefully.
+Once a desired outcome is established along with some suggested actions, ask for a 1x1 with the other party. Although it's a bit scarier, I find it helpful to do this step solo as it avoids the feeling of being ganged up on by other organizers. Let them know directly what actions and words were the issue. Remind them that they are not their mistakes and express the desired outcome and list some behavior changes that could contribute. Give them some space for them to process and respond. Listen carefully.
 
-Depending on their maturity and willingness to engage with their own accountability, this will guide whether or not we decide to continue engaging or ask them to leave. I'm not looking for a person to agree with me. I may have given them suggested actions that, for whatever reason, they cannot take. What I *am* looking for is them genuinely engaging in solutioning with us.
+Depending on their maturity and willingness to engage with accountability, this will guide whether or not we decide to continue engaging or ask them to leave. We're not looking for a person to agree, capitulate, or pretend like they are sorry when they're not. This is also a dialogue, one that makes a request and asks what capacity the person has to fulfill that request. We may have given them suggested actions that, for whatever reason, they cannot take. What we *are* looking for is them genuinely engaging in dialogue with us.
 
 After each of these steps, no matter what the outcome, they will end up in one of two consequences.
 
-### If a person thanks me and commits to changing
+### If a person thanks me and starts a dialogue
 
-They have shown both maturity and a willingness to engage. Engagement can take the form of:
+This means the agree with the proposed outcome and are willing to engage in solutioning, even if the initial behavior is not one they are able to fulfill.
 
-- them asking for clarity or specifics
+What engagement can look like:
 
-- taking notes
+- openly asking for clarity or specifics
+
+- taking notes, taking some time to think
 
 - them saying they can't commit to X behavior but they can commit to Y, as long as it both acheives the outcome and is okay for both parties
 
-In all of these cases, make sure to write down the commitment. Remind them that they can enlist other community members to help keep them accountable.
+If we're *very* lucky, our first request will be one that they feel comfortable and able to take. But this is only in the very lucky situations. Dispute on the fairness of the outcome is covered below. If the behavior is one that is different than suggested, make sure to check in with the claimant. If both parties are okay, write down the commitment and commit to check back in. Remind them that they can enlist other community members to help keep them accountable.
 
 ### If the person tells you to go fuck yourself
 
-They have shown neither maturity nor a willingness to engage. Ask them to leave the group immediately. I can accept that someone who is caught off guard can lash out in anger, but I refuse to allow myself or other organizers to be a verbal punching bag.
+They either don't agree with the proposed outcome or have shown no willingness to engage in dialogue. Ask them to leave the group immediately. I can accept that someone who is caught off guard can lash out in anger, but I refuse to allow myself or other organizers to be a verbal punching bag.
 
 Should they be able to express their frustration or anger using "I" statements and without outright attacking, then, if you are comfortable, invite them to chat again 1x1 before they join again.
+
+### If the person ignores you, avoids you or leaves you on read
+
+Sometimes confrontation can be a lot to handle. Give them some time to engage and gently remind them again in a week or so. If they continue to ignore, they may not ready for the conversation.
+
+This is a problem for an organizer since being left on read isn't engaging in any meaningful way or taking accountability, it's [stonewalling](https://en.wikipedia.org/wiki/Stonewalling). If there is no communication about needing space and how much, it's hard to ask for behavior change. It is a total lack of willingness to communicate, and in couples, usually signifies the end of the relationship.
+
+In this case, follow up with a message along the lines of, "I hope you know I don't think you're a bad person, if that's what you're thinking. I don't know." --> expand more here
 
 ### In the case of defensiveness
 
