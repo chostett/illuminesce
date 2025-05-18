@@ -11,29 +11,59 @@ draft: true
 
 ---
 
-One of the most challenging parts of an organizer's job is navigating conflict and harassment at our events and in our communities. As an organizer in creative spaces for fifteen years in both the US and Japan, I propose both a framework to help navigate these challenges and as a "call in" for community members to take accountability for their own, and the community's growth.
+This is a very long and dense read on dealing with conflict and abuse as an organizer. I've provided a table of contents to jump to specific parts in the article.
 
-It is intended to be used as a compassionate, but firm, way of establishing community guidelines in a diverse space and the more specific version of the broader rule of, "don't be a dick" or "be excellent to each other." It is taken from both nonviolent communication and transformative justice frameworks around "calling in" as opposed to calling out. References will be provided below.
+### Table of Contents
 
-The framework isn't perfect; it is an attempt to combat issues of both conflict and harassment in queer community spaces *and in addition* the chilling of community spaces to newcomers - essentially, those who don't posess the social clout yet to understand a communities rules.
+- [Introduction to 2-2-2](#introduction-to-2-2-2)
+- [The Problem](#the-problem)
+  - [Most organizers are tired](#most-organizers-are-tired)
+  - [Missing stairs and vibe-based moderation](#missing-stairs-and-vibe-based-moderation)
+- [The Two Mindsets of 2-2-2](#the-two-mindsets-of-2-2-2)
+  - [Act like you live here](#act-like-you-live-here)
+  - [You are not your mistakes](#you-are-not-your-mistakes)
+- [The Two Strikes](#the-two-strikes)
+  - [Clarification and envisioning accountability](#clarification-and-envisioning-accountability)
+  - [Communicating and observing](#communicating-and-observing)
+- Potential Outcomes
 
-It is about encouraging the unspoken to be spoken.
+## Introduction to 2-2-2
 
-For lack of a better name, it is called "2-2-2," short for **2 guidelines**, **2 strikes** and **2 consequences**.
+One of the most challenging parts of an organizer's job is navigating conflict and harassment at our events and in our communities. I personally ascribe to the "nip it in the bud immediately" rule as someone running a space, as told by [@iamragesparkle's encounter with a punk bartender kicking out a person wearing Nazi paraphenalia:](https://www.upworthy.com/bartender-explains-why-he-swiftly-kicks-nazis-out-of-his-punk-bar-even-if-theyre-not-bothering-anyone)
 
-Thank you to orgs like Firecracker, Tokyo Pride House, Tokyo Rainbow Toastmasters, CitrusCon, and Boba Board - I learned a lot volunteering and working in and around you.
+> *"you have to nip it in the bud immediately. These guys come in and it's always a nice, polite one. And you serve them because you don't want to cause a scene. And then they become a regular and after a while they bring a friend. And that dude is cool too."*
 
-Huge thanks to D'Artagnian, GM Gray, Citizen, Madoka, Asuka, Mika, Dorota, Yukino, Niklas, Agnes, Honami, mabbees, Josiah and Ryan - everyone who has co-led with me in some capacity. There's no way I could do this alone. Your ideas, suggestions and gentle shoves are woven throughout.
+> *"And then THEY bring friends and the friends bring friends and they stop being cool and then you realize, oh shit, this is a Nazi bar now."*
+
+In *principle* I ascribe to taking care of a problem immediately...that is, if it were as clear cut as someone wearing clear Nazi symbols walked into our community. 
+
+But often, it's not. 
+
+Sometimes you don't know until the person is a trusted advisor; sometimes the person says things that could be considered *ignorant* but not *genocidal*. At what point do you ask them to leave? The problem here isn't appearing mean—it's trying to suss out what behavior is okay to perpetrate in the community and what is not.
+
+As an organizer in creative spaces for fifteen years in both the US and Japan, I propose both a framework to help navigate these challenges and as a "call in" for community members to take accountability for their own, and the community's growth. It borrows from both nonviolent communication and transformative justice frameworks and is intended to be used as a compassionate, but firm, way of establishing community guidelines in a diverse space and the more specific version of the broader rule of, "don't be a dick" or "be excellent to each other." 
+
+It also tries to combat the chilling of community spaces to newcomers - essentially, those who don't posess the social clout yet to understand community rules and are subsequently either punished or iced out (more on this later).
+
+Ultimately, this framework is about encouraging the unspoken to be spoken aloud.
+
+<!--Thank you to organizations like Koumori Comics, Tokyo Pride House, Tokyo Rainbow Toastmasters, Firecracker, CitrusCon, and Boba Board - I learned a lot volunteering for you.
+
+Huge thanks to D'Artagnian, GM Gray, Citizen, Madoka, Asuka, Mika, Dorota, Yukino, Niklas, Agnes, Honami, mabbees, Josiah and Ryan - everyone who has co-led with me in some capacity. There's no way I could do this alone. Your ideas, suggestions and gentle shoves are woven throughout.-->
+
+I use the word 2-2-2 to describe this framework, short for **2 mindsets**, **2 strikes** and **2 consequences**.
+
+---
+
+## The Problem
 
 So why is a framework like 2-2-2 necessary? The issue is twofold:
 
-1. Most organizers are tired and susceptible to mistakes
+1. We organizers are tired and susceptible to mistakes.
 
-2. Niche communities can either swing from overly permissive of shitty/abusive behaviors OR rely on unspoken "vibe-based" moderation
+2. Niche communities can either swing from overly permissive of shitty and abusive behaviors OR be overly sensitive to culture-fit when moderating—essentially, **"if the vibes are off, kick them."**
 
-I argue that being both overly permissive or vibe-based moderation  leaves a community that doesn't know the boundaries of interaction. Thus, this leads to a community that normalizes being a mono-culture and lacks the ability to support diverse and marginalized voices.
-
-### The problem: most organizers are tired
+### Most organizers are tired
 
 When I started organizing, I was not particularly skilled at communication or de-escalation. I was a zinester, a game dev, a designer who wanted to find people who shared my similar interests. I simply wanted this space to exist.
 
@@ -59,7 +89,7 @@ All I wanted was a space to hang out with other people. Why was this the result?
 
 If you're an organizer, you may be familiar with this question. We are seen as someone capable of doing *anything,* and yet, behind it all, we are so, so tired. We know the space we run is *good* and needs to exist, but some days can be so overwhelming we want to shut everything out.
 
-### The problem: Missing Stairs and Vibe-Based Moderation
+### Missing stairs and vibe-based moderation
 
 When I looked around at other niche groups, I often found similar traits in their organizers—they were the overwhelmed bottlenecks of the organization. In some organizations there were people known as [missing stairs](https://pervocracy.blogspot.com/2012/06/missing-stair.html)—those who had grown a whisper network around them and who put the community on edge. The organizer was either too overwhelmed or refused to ask for accountability or worse; the missing stair *was* the organizer.
 
@@ -85,7 +115,7 @@ The other extreme of this is vibes-based moderation.
 
 While on its surface it seems useful for that one person who is always toeing the line - sometimes maliciously - it runs on the basic premise that any new person is not to be trusted and might be a troll. That kind of general paranoia in communities ends up poisoning the group and can end up, at its best, a shy person hanging around in a community and then leaving when no one welcomes them or more senior members talk over them.
 
-At its worst, it's witch hunts and call outs, which happened a few years ago [causing a trans rights protest in Tokyo to be cancelled.](http://localhost:8080/blog/posts/2023-11-16-Tokyo-Trans-March-2023/)
+At its worst, it's witch hunts and call outs, which happened a few years ago [causing a trans rights parade in Tokyo to be cancelled.](http://localhost:8080/blog/posts/2023-11-16-Tokyo-Trans-March-2023/)
 
 In both cases, an evaporation effect happens through [the spiral of silece](https://en.wikipedia.org/wiki/Spiral_of_silence); by the majority or members with clout being more encouraged to speak than other points of view or new members, the community becomes one that loses voices from different backgrounds and points of view and becomes an echo chamber.
 
@@ -95,7 +125,7 @@ In different ways, both of these types of communities are dangerous to newcomers
 
 ---
 
-## Introduction to 2-2-2
+## The Two Mindsets of 2-2-2
 
 Initially, this framework was called the "one-strike rule" but the more I wrote about it, the more I realized there needed to be more conscious writing on the underlying mindset and guidelines - calling it "one-strike" made it seem too simple when the decision to ban or remove someone is never an easy choice.
 
@@ -103,7 +133,7 @@ Initially, this framework was called the "one-strike rule" but the more I wrote 
 
 First, there are two important mindset that I try to proactively communicate and follow in the groups that I run. These serve as the foundation for 2-2-2.
 
-### Mindset 1: Act Like You Live Here
+### Act like you live here
 
 It is not only the responsibility of the organizer, but each community member to ensure the space is inclusive long-term. If they see a behavior that's not in line with the space's principles, encourage them to call it in and request change. Usually a space has *some* principles, though applying this mindset may also help the community get more clarity.
 
@@ -119,7 +149,7 @@ If a community member witnesses someone making over-generalizations about a race
 
 After all, you live in this space. And on a broader scale, this space doesn't exist in a vacuum. Take care of it and the people in it.
 
-### Mindset 2: You are not your mistakes
+### You are not your mistakes
 
 Perhaps you too, have a voice in the back of your head judging you for your mistakes. Whiffing an interaction or not getting the response you expected can cause you to wonder if you're a bad person, or stupid, or "just don't fit" in the space.
 
@@ -139,13 +169,13 @@ Both of these mindsets should be communicated and modeled to everyone *before* a
 
 For raising issues, give everyone the name of **at least two organizers** that can help with navigating conflict. This is to avoid one organizer becoming a bottleneck and reducing friction if an organizers turns out to be the person that the feedback is about. [[1]](#footnotes)
 
-## The two strikes
+## The Two Strikes
 
 In baseball, three strikes is an "out" — meaning the batter leaves the field if they miss the ball three times. Everyone in the community has two strikes per any incident. The **first strike** is the behavior that necessitates confrontation; the **second strike** is an observation of what happens when a person is confronted and asked to change.
 
 Why not three? I find that if I wait for a third *incident* to occur, it has already affected the health of the community. I use the confrontation between myself and the other person as an indicator to see if they are open to change. If they are disengaged in changing their behavior, or lie to me and other organizers about changing their behavior, they aren't the right fit.
 
-### First Strike: Clarification and envisioning accountability
+### Clarification and envisioning accountability
 
 How does this work in practice? When a claimant raises an issue, first thank them. You may want to ask clarification questions to get clear on the situation. For instance, I might ask the following:
 
@@ -163,25 +193,25 @@ Next, assess the level of the claimant's emotion. You don't need to guess—ask 
 
 ---
 
-*An example of this conversation might be...*
+An example of this conversation might be...
 
-*Isaiah: Sarah just touched my hair without permission...it made me feel really uncomfortable.*
+> **Sarah:** Aman just kissed my cheek without my permission...it made me feel really uncomfortable.
 
-*Organizer: I'm really sorry that she made you uncomfortable. To understand more, how did it go down?*
+> **Organizer:** I'm really sorry he made you uncomfortable. To understand more, how did it go down?
 
-*Isaiah: So we're standing by the easels and I'm getting paint. And she just sticks her hand into my hair and laughs and is like, 'I'm sorry, I always wanted to know what it felt like... I'm sorry!' I was speechless. I couldn't tell her in the moment, because I was angry and I worried she'd take it the wrong way but...what the fuck, you know? This kind of stuff happens outside the group and I usually just roll with it, but this time it really hurt.*
+> **Sarah:** So Liu and Nori and I are hanging out eating some snacks...and Filip arrives. And like, he looks straight at me and goes in for a beeline. I stand up, thinking we're going to high-five or even hug or something and then he just...kisses my cheek. No one else's. I was wondering, okay, maybe it's because he's part Brazilian? But he didn't kiss anyone else's cheek.
 
-*Organizer: It sounds like even though she said she was sorry, that's not what her actions showed.*
+> **Organizer:** It sounds like you felt that even though it could be a cultural misundertanding, the fact he singled out you was discomforting.
 
-*Isaiah: Yeah. And I just...want an honest apology. And for it not to happen again. Don't touch my hair. Period.*
+> **Sarah:** Yeah. And I just...want an honest apology. And for it not to happen again. I didn't like it.
 
-*Organizer: Got it. Would I be right in assuming that you want to feel like this is a safe space where you won't be touched without your express permission?*
+> **Organizer:** Got it. Would I be right in assuming that you want to feel like this is a safe space where you won't be touched without your express permission?
 
-*Isaiah: Yeah.*
+> **Sarah:** Yeah.
 
-*Organizer: Okay. Would you like me to handle it or do you feel comfortable on your own? Either is ok.*
+> **Organizer:** Okay. Would you like me to handle it?
 
---
+---
 
 At this point, the claimant may feel comfortable re-engaging the other person themselves. You may also want, with the claimant's consent, to leverage your organizer powers to make a general announcement and reminder of the principles and mindset of the space. [[3]](#footnotes)
 
@@ -189,13 +219,29 @@ The important part of this step is to get clear on specifics with the intent of 
 
 If the situation has high negative emotions or associated trauma, or the claimant *really* doesn't feel comfortable giving feedback, or directly asks you to step in, proceed to the Second Strike.
 
-## Second Strike: Communicating and Observing
+### Communicating and Observing
 
 Once a desired outcome is established along with some suggested actions, ask for a 1x1 with the other party. Although it's a bit scarier, I find it helpful to do this step solo as it avoids the feeling of being ganged up on by other organizers. Let them know directly what actions and words were the issue. Remind them that they are not their mistakes and express the desired outcome and list some behavior changes that could contribute. Give them some space for them to process and respond. Listen carefully.
+
+---
+
+A continuation of our previous scenario:
+
+> **Organizer:** Hey Filip, can I talk to you 1x1?
+
+> **Filip:** *(warily)* Yeah, sure?
+
+> **Organizer:** I wanted to chat with you about kissing Sarah's cheek. It's not okay to touch someone without their express consent. We want to cultivate a space where folks feel they have bodily agency and that other members respect their boundaries.
+
+> **Filip:** ...
+
+---
 
 Depending on their maturity and willingness to engage with accountability, this will guide whether or not we decide to continue engaging or ask them to leave. We're not looking for a person to agree, capitulate, or pretend like they are sorry when they're not. This is also a dialogue, one that makes a request and asks what capacity the person has to fulfill that request. We may have given them suggested actions that, for whatever reason, they cannot take. What we *are* looking for is them genuinely engaging in dialogue with us.
 
 After each of these steps, no matter what the outcome, they will end up in one of two consequences.
+
+## Potential Outcomes
 
 ### If a person thanks you and starts a dialogue
 
@@ -213,23 +259,21 @@ If we're *very* lucky, our first request will be one that they feel comfortable 
 
 ---
 
-*An example of this conversation might be...*
+An example of this conversation might be...
 
-*Organizer: Hey, Sarah. I'd like to chat with you about something. Do you have some time?*
+> **Filip:** I'm really sorry... it felt wrong in the moment, too. I've been reluctant to talk to Sarah about it. I don't know what to say. She honestly looks a lot like my sister back home in Brazil and so when she came in for a hug, I automatically went for her cheek without thinking.
 
-*Sarah: Sure, what's up?*
+> **Organizer:** Ah yeah...those kinds of things can happen. But you know... it's okay to make mistakes, as long as you own up to them.
 
-*Organizer: I wanted to chat with you about touching Isaiah's hair. It's not okay to touch someone without their express consent. We want to cultivate a space where folks feel they have bodily agency and that other members respect their boundaries.*
+> **Filip:** Yeah...avoiding her isn't really owning up to them, huh...
 
-*Sarah: I'm really sorry... it felt wrong in the moment, too. I've been reluctant to talk to Isaiah. I don't know what to say.*
+> **Organizer:** I did speak with Sarah and she asked for an honest apology and not to kiss her cheek again.
 
-*Organizer: Well, some suggestions might be an honest apology and not to touch his hair again. In fact, I think his hair is off limits - it's a hard boundary.*
+> **Filip:** Got it...okay. I'll go do that right now.
 
-*Sarah: Got it...okay. Next time I see him, I will.*
+> **Organizer:** Thanks. And if you're worried, you can always bounce ideas off me or another person you trust.
 
-*Organizer: Thanks. And if you're worried about your words, you can always bounce ideas off me or another person you trust.*
-
-*Sarah: Thanks!*
+> **Filip:** Thank you.
 
 ---
 
@@ -241,21 +285,19 @@ They either don't agree with the proposed outcome or have shown no willingness t
 
 ---
 
-*An example of this conversation might be...*
+An example of this conversation might be...
 
-*Organizer: I wanted to chat with you about touching Isaiah's hair. It's not okay to touch someone without their express consent. We want to cultivate a space where folks feel they have bodily agency and that other members respect their boundaries.*
+> **Filip:** Oh, fuck this. Sarah's always had it out for me.
 
-*Sarah: You can just fuck right off with that.*
+> **Organizer:** Pardon?
 
-*Organizer: Pardon?*
+> **Filip:** Look, I'm a nice guy. I volunteer in my community.
 
-*Sarah: I'm not racist, and fuck you for saying that.*
+> **Organizer:** I'm telling you it's not okay to touch someone without their express consent.
 
-*Organizer: I'm telling you it's not okay to touch someone without their express consent.*
+> **Filip:** *(angrily)* And *I'm* telling *you* you're not the boss of me so fuck you!
 
-*Organizer: Thanks. And if you're worried about your words, you can always bounce ideas off me or another person you trust.*
-
-*Sarah: Thanks!*
+> **Organizer** I can accept being angry or caught off guard by this request. Are you saying you're not ...
 
 ---
 
