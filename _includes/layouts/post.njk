@@ -18,13 +18,9 @@ layout: layouts/base.njk
 
 <h1>{{ title }}</h1>
 
-<a href="rss.xml" style="vertical-align: middle;""><i class="ph-fill ph-rss-simple" style="font-size: 26px"></i></a>&nbsp;&nbsp;<a href="https://buttondown.com/studioterranova#subscribe-form"><i class="ph ph-envelope-simple-open" style="font-size:26px"></i></a>
+<a href="rss.xml" style="vertical-align: middle;""><i class="ph-fill ph-rss-simple" style="font-size: 26px"></i></a>&nbsp;&nbsp;<a href="https://buttondown.com/studioterranova#subscribe-form"><i class="ph ph-envelope-simple-open" style="font-size:26px"></i></a>&nbsp;&nbsp;<a href="https://ko-fi.com/illuminesce"><i class="ph-fill ph-coffee" style="font-size:26px"></i></a>
 
 <div id="post-content">{{ content | safe }}</span>
-
-<div class="footer-socials" style="width: 50%; margin: 0 auto;">
-	<a href="rss.xml" style="vertical-align: middle;""><i class="ph-fill ph-rss-simple" style="font-size: 16px"></i> subscribe to rss</a>&nbsp;&nbsp;&nbsp;<a href="https://buttondown.com/studioterranova#subscribe-form"><i class="ph ph-envelope-simple-open" style="font-size:16px"></i> newsletter</a>
-</div>
 
 {%- if collections.posts %}
 {%- set previousPost = collections.posts | getPreviousCollectionItem %}
@@ -36,6 +32,12 @@ layout: layouts/base.njk
 </ul>
 {%- endif %}
 {%- endif %}
+
+<div class="footer-socials" style="width: 25%; margin: 0 auto; vertical-align: middle;">
+	<a href="https://buttondown.com/studioterranova#subscribe-form"><i class="ph ph-envelope-simple-open" style="font-size:16px"></i> newsletter</a>&nbsp;|&nbsp;<a href="https://ko-fi.com/illuminesce"><i class="ph-fill ph-coffee" style="font-size:16px"></i> ko-fi</a>
+	<br>
+	<br>
+</div>
 
 <!-- Cusdis Comments -->
 {%- if slug -%}
