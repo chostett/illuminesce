@@ -200,9 +200,11 @@ Well, color me called out.
 
 After I processed my mixed feelings, we went through each post-it decided our roles and their term length. Some of the roles we picked up joyfully; others required more careful consideration into what sociocracy calls our [range of tolerance](https://www.sociocracyforall.org/range-of-tolerance/).
 
-I mentioned this earlier in the article, but our range of tolerance is the area in which we think something is “safe enough to try.” We all have specific individual preferences; finding collaboration solely within our range of preferences will end up in some roles being undone and aims unachieved. No one wants to take out the garbage in the house, but if you do not, your house will be full of garbage, which is the opposite of our aim, a clean house.
+I mentioned this earlier in the article, but our range of tolerance is the area in which we think something is “safe enough to try.” We all have specific individual preferences; finding collaboration solely within our range of preferences will end up in some roles being undone and aims unachieved. No one wants to take out the garbage in the house, but if you do not, your house will be full of garbage, which is the opposite of our aim, a clean(ish) house.
 
-[image]
+![A photo of a raccoon eating some vegetables on the ground underneath a car.](raccoon.png)
+
+> *Or if a clean(ish) house isn't your aim, you might be a raccoon. (photo by [Quentin Bounias](https://unsplash.com/@qbounias))*
 
 Something outside of your range of preference but still within your range of tolerance could be:
 
@@ -212,31 +214,39 @@ Something outside of your range of preference but still within your range of tol
 
 This range can allow us to enter into a healthy dialogue about what parts of the role we object to and how we can shape it. Going back to our previous example, if our aim is to have a clean house with no trash on the floor, and we are worried about forgetting the trash, we can find ways of reminding ourselves, request a reminder if it gets past a certain level of uncleanliness, or try for a short amount of time to see if we would really forget.
 
-This kind of consent shaping was, outside of my romantic partners, the first time I’d had critical, compassionate conversations about where my range of tolerance began and ended as well as fitting roles in a way that both served the organization and us as human beings with needs.
+This kind of consent shaping was, outside of my romantic partners, the first time I’d had critical, compassionate conversations about where my range of tolerance was listened to and taken into account in a way that both served my needs and others around me.
 
-We also determined that there needed to be someone that we hired to fill some roles I was filling solo—in particular, a paid apprentice who can:
+We also determined that we needed to hire someone for an operational role—in particular, a paid apprentice who could:
 
-- help us post on social media regularly about our upcoming games, work and newsletters in English and Japanese
-- can assist CJ in making graphics, GIFs and videos for marketing
+- help us post on social media regularly about our upcoming games in English and Japanese
+- can assist CJ in making graphics, GIFs and videos for marketing games
 - can help us apply for in-person events and keep on top of submission deadlines
-- can help us manage our Steam and [itch.io](http://itch.io) bug reports
-- is interested in learning about making games
+- can help us manage our Steam and itch.io bug reports
+- is interested in making games and marketing games
 
-This, in sociocracy is called an operational role—someone who is hired to do a specific set of roles rather than a member in a bubble. We call it an apprentice position because we’re willing to put in some time and energy to help this person grow—having 5 years of prior experience is not only an unreasonable expectation but one that places the onus on the apprentice to solo-learn, rather than co-learn.
-
-We’re still shaping what our budget would look like for hiring this person and for how many hours a week (likely this will be a part-time position), but through the process of defining our roles we now have a very clear idea of what we need help with and what the domain of this person would be at Studio Terranova.
+We call it an apprentice position because we’re willing to put in time and energy to help this person grow—we'd rather have this person move on with new skills than force them to learn everything solo. We’re still shaping our budget and how many hours a week we would need them for, but through the process of defining our roles we now have a very clear idea of what we need help with and what the domain of this person would be at Studio Terranova.
 
 ## In conclusion
 
-We came established sociocracy at Studio Terranova with the hope that we would get connection and clarity in our work—and that, I can happily say, so far we gotten more than we intended.
+We tried out sociocracy at our studio with the hope that we would get connection and clarity in our work—and that, I can happily say, has worked well. In fact, we got more clarity than I expected.
 
-It is more clear who works on ***what*** part of our workflow, and how we can effectively collaborate; who we need to hire for a new role to grow, and the authority we have to make decisions. I feel at peace that the way we are organized is in alignment with our values; we center both us as people and the work we do. I learned—and still am learning, a lot from my fellow BobaBoard/FujoCoded volunteers. Thank you so much for your dedication to making sociocracy easy to understand and pick up.
+It is more clear who works on ***what*** part of our workflow, and how we can effectively hand over work; who we need to hire to grow, and what the baseline is we need to meet to succeed. I feel confident that the way we are organized as a cooperative is in alignment with our values; we center both us as people and the work we do. I learned—and still am learning, a lot from my fellow [BobaBoard](https://bobaboard.com/) volunteers.
 
-We took the sociocracy toolbox, Many Voices one Song to our retreat to reference from time to time. I highly recommend reading it and taking excerpts from it to give to others. We also utilized the “Silent Start” method for our retreat—reading excerpts from the book right before we would make decisions so that everyone was more well-informed.
+Thank you so much for your dedication to making the web more technically accessible and for all the resources you've shared with me.
 
-Many thanks to AQ who hosted us, and Heather Dobbins who helped facilitate this retreat—without her help, I doubt we would have the clarity of insights we did.
+I mention the book, [Many Voices one Song](https://www.sociocracyforall.org/many-voices-one-song-2/) throughout. I bought a personal copy, read it and took it to our retreat to reference. I highly recommend it. We also utilized the “Silent Start” method for our retreat—we read excerpts from the book right before we would make decisions so that everyone was more well-informed.
 
-[image]
+Many thanks to [AQ who hosted us](https://www.aqworks.com/bluehouse), and [Heather Dobbin](https://www.linkedin.com/in/heather-dobbin/) who helped facilitate this retreat—without her help, I doubt we would have the clarity of insights we did.
+
+![A blonde-haired person and a dark haired man stand in front of a whiteboard, smiling.](retreat_08.png)
+
+## Resources
+
+- [Sociocracy for All](https://www.sociocracyforall.org/): Comprehensive guides on what sociocracy is and how to implement it.
+- [Collective Power: Patterns for a Self-Organized Future](https://www.sociocracyforall.org/books/#collective-power): A deeper dive into the mindset of sociocracy.
+- [Many Voices, One Song](https://www.sociocracyforall.org/many-voices-one-song-2/): A detailed handbook for implementing sociocracy. I recommend reading "Collective Power" first to thoroughly understand the mindset.
+- [Rebuiding Community on the (Fujo)Web, pt. 1](https://www.essentialrandomness.com/posts/rebuilding-community-on-the-web/part-1): About burnout in fandom spaces. From Ms. Boba's Citrus Con 2024 talk.
+- [Rebuiding Community on the (Fujo)Web, pt. 2](https://www.essentialrandomness.com/posts/rebuilding-community-on-the-web/part-2): About how power dynamics need to be challenged to grow. From Ms. Boba's Citrus Con 2024 talk.
 
 ---
 
