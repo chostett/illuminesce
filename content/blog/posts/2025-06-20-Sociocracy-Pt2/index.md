@@ -11,29 +11,43 @@ tags:
 
 ---
 
-To recap, [in part one of **How Do We Share Power Dynamically?**](/blog/posts/2025-06-20-Sociocracy-Pt1/) I spoke about the cognitive dissonance between what the tech world promised versus what we actually built behind the scenes, discovering sociocracy through fandom, and why we wanted to try out this framework.
+[In part one of **How Do We Share Power Dynamically?**](/blog/posts/2025-06-20-Sociocracy-Pt1/) I spoke about the cognitive dissonance between what tech promised the world versus what we actually built, discovering sociocracy through fandom, and why we wanted to try sociocracy for ourselves.
 
-Part two is about how we implemented sociocracy in our organization and my own thoughts and learnings from that process.
+Part two is about how we implemented sociocracy at Studio Terranova and my own thoughts and learnings from that process.
 
 Back to our retreat in Yamanashi.
 
-It's a brisk day for early June, and mabbees and I have picked our facilitator Heather, up at the local train station. After some pre-reading of the sociocracy manual [Many Voices, One Song,](https://www.sociocracyforall.org/many-voices-one-song-2/) we dive into the first part of the day—recapping the mindset of sociocracy and defining our vision, mission and aims with the goal of developing our circles and roles afterwards.
+It's an unseasonably brisk day for early June. I have picked our facilitator Heather up from the local train station. I asked for her help since mabbees and I have known each other a long time, and we can easily fall back into our old patterns. We wanted someone to push us outside of our comfort zones.
+
+After some pre-reading of the sociocracy manual [Many Voices, One Song,](https://www.sociocracyforall.org/many-voices-one-song-2/) we dove into the first part of the day—going over the mindset of sociocracy and defining our vision, mission and aims.
 
 ## The mindset of sociocracy
 
-Sociocracy sees power like water. Power is itself neither good nor bad. What matters is how it’s wielded. When it’s channeled to flow equitably, it can give a voice to all members of an organization. When hoarded, it becomes stagnant. The goal in sociocracy is to share power in a way that’s effective and consensual.
+Sociocracy sees power like water. Power is itself neither good nor bad. What matters is how it’s wielded. When it’s channeled to flow equitably, it can give a voice to all members of an organization. When hoarded, it becomes stagnant. The goal in sociocracy is to share power in a way that’s both effective and collaborative.
 
-It is different than [founder mode](https://en.wikipedia.org/wiki/Founder_mode), which argues that by ceding all power to the founder, decisions will be made quickly. It is also different than [design by committee](https://en.wikipedia.org/wiki/Design_by_committee), which lacks clarity and direction. A key principle is equivalence—decisions may be made by a few, but it is designed to elicit feedback from everyone affected by the decision. Sociocracy aims to find balance between effective decision making and organizational sustainability.
+It is different than [founder mode](https://en.wikipedia.org/wiki/Founder_mode), which argues that by ceding all power to the leadership, decisions will be made quickly. This lacks foresight, as any short-term gains will be outweighed by longterm employee and customer distrust and toxicity. It is also different than [design by committee](https://en.wikipedia.org/wiki/Design_by_committee), which argues that making a solution that fits the preferences of everyone is the best way to build consensus. Design by committee lacks efficiency and can make deliberations that should be less than an hour drag on for weeks.
+
+There are three principles of sociocracy I'd like to highlight that differentiates it from founder mode and design by committee:
+
+1. **Equivalence.** Decisions are empowered to may be made by a few, but the flow of information is designed to elicit feedback from everyone affected by the decision.
+
+2. **Working within the group's "zone of tolerance".** It aims to find the option that is not necessarily preferred, but within everyone's zone of *safe enough to try.*
+
+3. **Encourages objections.** Objections are critical to the group's formed understanding of where their tolerance is, and so are treated as valuable information, not something to be quashed or ignored. In fact, the process of consent is always opt-in. Silence is not assumed as consent and if there is silence, it is considered an objection.
+
+Bein exposed to this mindset made me very curious to learn more as most of the organizations I'd worked for, in principle, operated somewhere along the spectrum of "the leader decides everything" to "the group decides everything." Sociocracy seems to work outside of this spectrum.
+
+Next, I'll go into what the organization of our company looks like under sociocracy.
 
 ## The organizational structure of sociocracy: circles
 
-[Sociocracy](https://www.sociocracyforall.org/sociocracy/) is run in circles, which can also be called groups or bubbles. Membership in circles is consent-based; all members must consent to being part of the circle. How many aims an organization has will usually determine how many circles it has. Circles are dynamic. They can fluctuate over time, and if the aim is no longer necessary, they may dissolve.
+[Sociocracy](https://www.sociocracyforall.org/sociocracy/) is run in circles, which can also be called groups or bubbles. Membership in circles is consent-based; all members must consent to being part of a circle. How many aims an organization has will usually determine how many circles it has. Circles are dynamic. They can fluctuate over time, and if the aim is no longer necessary, they may dissolve.
 
 As our studio does both client work and games, we created five circles to encompass each broad area of responsibility.
 
-Below are our circle names and aims:
+Below are our circle names and their aims:
 
-[image]
+![An photo of a whiteboard with five circles. Community, Ops, Games and Client Work are gathered around one singular circle, the general circle.](retreat_03.png)
 
 - **General Studio Terranova Circle:** Ensuring our strategies align with our vision
 - **Client Work Circle:** Providing high-quality bilingual services (user research, interaction design, UI programming) in Japan on a hybrid/full remote basis
@@ -45,60 +59,62 @@ I’m putting this up here as an example of what our organization looks like on 
 
 ## Vision guides the spirit, aims guide the work
 
-Have you ever been in or facilitated a workshop whose main goal was defining the *product vision?* Also known as the “north star” in design, this is the “to-be” state of the world with your product in it.
+Also known as the “north star", vision is the “to-be” state of the world—and in product design, the world as it exists *with your product in it.*
 
 In sociocracy, it is structured as, *“We are dreaming of a world where it is true that...”*
 
 There’s a lot of dreams we had for the future state of the world, such as…
 
 - technology works in favor of humans, not against them
-- we feel optimistic about the future
 - serving community is valued more than serving capital
+- we feel optimistic about the future
 
-Ultimately, we went with: *“We are dreaming of a world where it is true that serving community is valued more than serving capital,”* as our vision and, *“Our mission at Studio Terranova is to explore new frontiers in technology and games.”* Our reason was that, as a consultancy, we still wanted to do work and make games, but as a whole, if we could change the way we work to value accumulating community more than accumulating capital, we would not only change the way technology we built worked and would also feel more optimistic about the future.
+Ultimately, we went with: *“We are dreaming of a world where it is true that serving community is valued more than serving capital,”* as our vision and, *“Our mission at Studio Terranova is to explore new frontiers in technology and games.”* Our reason was that, as a consultancy, doing work pays our bills and making games pays our souls (and our bills a little).
 
-I found that sociocracy’s method of generating a “to-be” state proved to be much more open ended about “how” that future state was achieved. I liked this because “we make a new product or service and people buy it” isn’t always the solution to a problem. Sometimes, it’s implementing policy or education or starting a community space. While all of these involve design and creation, they aren’t limited to physical or digital products. There are many roads to changing the future, and we need not assume that a product is necessary to change it.
+We value capital the same way we value a place to live and financial independence—we cannot survive without these—but surely, we believe that wealth isn't measured solely in finance. We could have a place to live and financial independence, but if we got it at the cost of friends, family and personal health, we could hardly say we lived a life worth living. If we could value accumulating community more than accumulating capital, we would be putting what we preach back into the world and attract other people who felt the same.
 
-[image]
+I found that sociocracy’s method of generating a “to-be” state proved to be much more open-ended about how these future states were achieved. I liked this because “we make a new product or service and people buy it” isn’t always the solution to the world's problems. Sometimes, it’s implementing policy or education or starting a community space. While all of these involve design and creation, they aren’t limited to physical or digital products and services. There are many roads to changing the future, and we need not assume that selling a product is necessary to change it.
 
-It’s exciting to think big like this. But once we had our vision, only a fraction of our work was done. Now was the time to get our hands dirty of *how* we would go about building that future—the more specific, the better.
+![A blonde haired person looking serious while writing on a whiteboard. Text reads, We are dreaming of a world where it is true that serving community is valued...](retreat_04.png)
 
-According to [Many Voices, One Song](https://www.sociocracyforall.org/many-voices-one-song-2/), aims should be defined as early in an organization’s life as possible and also be as specific as possible. A majority of conflicts arise in organizations due to everyone agreeing on a vision, but not agreeing on what the tactics are the organization should use to achieve that vision.
+It’s exciting to think big like this. But once we had our vision, only a fraction of our work was done. Now was the time to get our hands dirty in *how* we would go about building that future—the more specific, the better.
+
+According to *Many Voices, One Song*, aims should be defined as early in an organization’s life as possible and also be as specific as possible. A majority of conflicts arise in organizations due to everyone agreeing on a vision, but not agreeing on what the tactics are the organization should use to *achieve* that vision.
 
 For instance:
 
-> *If a group is planning to build a cohousing community in Toronto, it is helpful to narrow down where the community might be built. If some of the founding members can only live in the northern part of the city, while others cannot work with that, it is wiser to split up early and each group pursues their aim. How we answer these questions will change who our potential buyers are.*
+> *If a group is planning to build a cohousing community in Toronto, it is helpful to narrow down where the community might be built. If some of the founding members can only live in the northern part of the city, while others cannot work with that, it is wiser to split up early and each group pursues their aim.*
 
-So, how do we explore new frontiers in technology and games with the vision of serving community *being valued more* than serving capital in the world? It follows that we must practice what we preach—in what way do we value community? Who is our community for?
+Writing down aims was difficult, even amongst the two of us. It required negotiation—*”are we sure we want to leave out that group?”*—*”maybe we should be less specific here since we don’t know the landscape yet and will revise”*—but ultimately, it was very useful. I would liken this work to creating a [Business Model Canvas](https://www.strategyzer.com/library/the-business-model-canvas), but more open, since the Business Model Canvas is designed only to be used only within for-profit companies, which assumes a few critical things that don't necessarily have to be true.
 
-We created this aim:
+This opened us up to consider things that were not typically “valued” in common for-profit businesses. Commonly in for-profit businesses "community" is something done to market—we are, in part, community-funded, but our community does not have to pay us to play in our space. Community is a way for us to give back and find like-minded people.
+
+But exactly who *is* our community? In what way do we value them? From this, we created the Community Circle's aim:
 
 - Building a community of people interested in a cooperative, queered future
 
-In particular, we chose the word “queered” as a verb—as in “queering games”—something I first heard in reference to game developer [Robert Yang’s](https://factoryinternational.org/about/press/news/robert-yang-queering-gamer-culture-gardening-game/) work. It is not only in reference to the player character being queer, but having queer experiences be seen as “normal” from the viewpoint of everyone in the world.
+We specifically chose the word “queered” as a verb—as in “queering games”—something I first heard in reference to game developer [Robert Yang’s](https://factoryinternational.org/about/press/news/robert-yang-queering-gamer-culture-gardening-game/) work. It is not only in reference to the player character being queer, but having queer experiences be seen as “normal” from the viewpoint of everyone in the world.
 
-> 'Discussions around activism, politics, the politics of statutes and the politics of the internet don't have to be terrible. They can be pleasurable.’
-
-I don't think about this as an 'either-or' situation; I see this as a 'and, including' situation; both speaking up loudly for our rights *and* imagining queered futures will get us where we need to go. One for rejecting the status quo, the other for steering us towards a bright future. For this, we chose the aim:
+We make games, so naturally, we have a Games Circle. What kinds of games do we make?
 
 - Creating queer narrative games for the joyfully alt
 
-But we don’t *just* make queer games. The main part of our business is partnering with both for-profit, non-profit and government clients who care about how people will use their digital tools. We also work in both English and Japanese, and are based in Japan, so that should factor into our client work aims:
+*Many Voices, One Song* had many example case studies for us to pick more incisive questions around our games; mabbees said that he wanted to build a future together with "joyfully alt" people like us, and I agreed. We're not "alternative" because it's cool - we're alternative because it is the way we are; and being able to live more authentically makes us happy. I believe our fans would agree with us.
+
+What about our client work? We partner with for-profit, non-profit and government clients who care about how people will use their digital tools. We also work in both English and Japanese, and are based in Japan, so that should factor into our client work aims:
 
 - Providing high-quality bilingual services (user research, interaction design, UI programming)  in Japan on a hybrid basis/full remote basis to organizations who care about how people will use their digital tools
 
-This helps us laser focus on prioritizing those that want senior professionals who work with autonomy to help them with user research, design, and programming and who care about how their tools will be used. And finally, in order for our business to function, it must be financially healthy, pay its taxes in Japan and adhere to our vision. Thus the last aims:
+This helps us laser focus on prioritizing and attracting clients that are a good fit to our skills and services.
+
+Finally, in order for our business to function, it must be financially healthy, pay its taxes in Japan and adhere to our vision. Thus the last aims:
 
 - Ensuring overall financial health of Studio Terranova
 - Ensuring our strategies align with our vision
 
-These are the basis of our circles.
+![A photograph of a whiteboard with five circles. This time the circles are much more fleshed out and the Operations Circles has three sub-circles to it; Finance, Marketing and Partnerships.](retreat_05.png)
 
-Writing down aims was difficult, even amongst the two of us. It required negotiation—*”are we sure we want to leave out that group?”*—*”maybe we should be less specific here since we don’t know the landscape yet and will revise”*—but ultimately, it was very useful. I would liken this work a bit to creating a [Business Model Canvas](https://www.strategyzer.com/library/the-business-model-canvas), but more open, since the Business Model Canvas is designed only to be used only within for-profit companies, which assumes a few critical things that don't necessarily have to be true.
-
-This opened us up to consider things that were not typically “valued” in common for-profit businesses. Commonly in for-profit businesses "community" is something done to market—we are, in part, community-funded, but our community does not have to pay us to play in our space. Community is a way for us to give back and find like-minded people.
-
-Our marketing sub-circle rests within the Operations Circle, whose aim is “ensuring overall financial health of Studio Terranova.” We purposefully treat marketing as daily operations; something necessary and important to our financial health, but not one that rests on “monetizing” our community.
+We have three sub-circles within the Operations Circle; Marketing, Finance and Partnerships. The Operations Circle's aim is “ensuring overall financial health of Studio Terranova.” We purposefully are treating marketing as daily operations; something necessary and important to our financial health, but not one that relies primarily on “monetizing” our community. We believe that if we make good things and treat our community well, they will want to support us.
 
 In this way, or organizational structure at its core supports our vision of valuing community over capital.
 
