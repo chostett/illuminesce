@@ -11,7 +11,7 @@ tags:
 
 ---
 
-Though I normally post about games and fandom on my blog, this post is geared towards technologists and managers working in the private sector who are looking to build more cooperative and consent-based models of decision making in their work and personal life.
+Though I normally post about games and fandom on my blog, this post is geared towards technologists and managersworking in the private sector who are looking to build more cooperative and consent-based models of decision making in their work and personal life.
 
 mabbees and I cofounded Studio Terranova last year. We are two freelancers who work on games—we thought forming a studio would be a good way to maintain financial stability and continue to self-publish our games. As per our values, we are a cooperative and are in the process of amending our bylaws and governance to abide by the rules of the [International Cooperative Alliance](https://ica.coop/en).
 

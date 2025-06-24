@@ -17,6 +17,8 @@ Part two is about how we implemented sociocracy at Studio Terranova and my own t
 
 Back to our retreat in Yamanashi.
 
+![A beautiful bright blue sky with clouds stretches out to the mountains.](yamanashi.png)
+
 It's an unseasonably brisk day for early June. I have picked our facilitator Heather up from the local train station. I asked for her help since mabbees and I have known each other a long time, and we can easily fall back into our old patterns. We wanted someone to push us outside of our comfort zones.
 
 After some pre-reading of the sociocracy manual [Many Voices, One Song,](https://www.sociocracyforall.org/many-voices-one-song-2/) we dove into the first part of the day—going over the mindset of sociocracy and defining our vision, mission and aims.
@@ -253,7 +255,7 @@ Many thanks to [AQ who hosted us](https://www.aqworks.com/bluehouse), and [Heath
 ### Related Posts + Links
 
 - [How Do We Share Power Dynamically? Part One](/blog/posts/2025-06-20-Sociocracy-Pt1/)
+- [2024 was the year of […]](/blog/posts/2024-12-30-2024-Reflections/)
 - [What part does tech play in a hopeful future?](/blog/posts/2024-11-09-A-Hopeful-Future/)
-- [The Birth, Death and Rebirth of Slash](https://yesterhost.neocities.org/zine/issue-00/07/)
 
 See all posts tagged [Tech And Web](/tags/tech-and-web/).
