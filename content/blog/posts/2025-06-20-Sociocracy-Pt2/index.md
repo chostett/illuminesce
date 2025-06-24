@@ -31,7 +31,7 @@ There are three principles of sociocracy I'd like to highlight that differentiat
 
 1. **Equivalence.** Decisions are empowered to may be made by a few, but the flow of information is designed to elicit feedback from everyone affected by the decision.
 
-2. **Working within the group's "zone of tolerance".** It aims to find the option that is not necessarily preferred, but within everyone's zone of *safe enough to try.*
+2. **Working within the group's "range of tolerance".** It aims to find the option that is not necessarily preferred, but within everyone's range of *safe enough to try.*
 
 3. **Encourages objections.** Objections are critical to the group's formed understanding of where their tolerance is, and so are treated as valuable information, not something to be quashed or ignored. In fact, the process of consent is always opt-in. Silence is not assumed as consent and if there is silence, it is considered an objection.
 
@@ -120,85 +120,99 @@ In this way, or organizational structure at its core supports our vision of valu
 
 ## Domains—giving us the authority and autonomy to work
 
-Sociocracy values circles having authority and agency to do work to serve their aim. How do we ensure this? By defining areas in which they have responsibility—that is—domains.
+Domains are the areas in which circles have authority and agency to do work.
 
-For example, take a website admin whose aim is “keep the website updated bi-weekly.” If they must ask someone else at the organization for a one-time password every time they need to log in, this stalls their work and makes it difficult for them to achieve their biweekly aim. Giving the web admin authority to manage the full login—one-time password and all—makes sense. The ***only*** reason to restrict this authority would be if another group needed co-authority for other aims. Restriction shouldn’t be done out of the desire to maintain control.
+For example, take a website administrator whose aim is to “keep the website updated bi-weekly.” If they must rely on someone for a one-time password every time they need to log in, this stalls their work and makes it difficult for them to achieve their biweekly aim. Giving the administrator authority to manage both the login and the one-time password allows them to complete their goal seamlessly.
 
-In the companies I’ve worked at before, talk was given about autonomy, or desiring workers who could work autonomously—but the company itself was organized as such to not give full authority to those who needed it. The two that immediately come to mind are limitations in software and limitations from leadership.
+As a general example, many job posts state they are looking for workers who can work autonomously—but whether those companies are organized to enable autonomy is a different story.
 
-Limitations in software happen when software pricing isn’t flexibly structured and the team that purchases it has little operating budget. This can cause a team to share a single company login or for a team to send work to one person who “has the license” even though they could do it themselves if they had the software.
+A common misconception of autonomy is that it relies solely on the **will of the individual to be autonomous**, without taking into account whether or not they have been allowed the freedom to act by their surroundings. This can turn into a frustrating game where the company, who has power over the worker, expects more - but doesn't trust them enough to hand over power. On the other hand, workers who have been burnt out on a cycle of "power under" can see autonomy as a trap; if they've been burned before, why would they take on more responsibility if power isn't equitably shared?
 
-Limitations in leadership happen when the founder or leadership team, for reasons that can range from valid past experiences to paranoia, holds a belief that their fellow teammates don’t care about or want to know the organization deeply like they do—and so, have difficulty delegating or fully trusting people in a flat hierarchy.
+Leadership is burned out on "rescuing" everyone, and everyone else is burned out on consistently having a lack of authority to make a change.
 
-Being a recovering “lone wolf” I understand this fear—putting authority in the hands of someone else requires vulnerability, making my thoughts visible in a way others can understand, and willingness to accept the consequences that occur. The answer I’ve found in sociocracy to allay these fears is objection and consent. All circles have the authority to consent to who they work with. Circles that deal with sensitive information may raise an objection or ask the person to work as a “shadow” to a role with login access before doing the role themselves. On the other side, the person has the ability to consent or object to the terms offered them, and if they object, can make a counter-proposal until an agreement is made.
+Breaking out of this is not easy. But I’d rather build a community with members I can trust and rely on than one where I am the sole authority who wastes away from burnout.
 
-I’m not saying this is easy. But I’d rather build a community with members I can trust and rely on than one where I am the sole authority who wastes away from burnout.
+Let's take our **Community Circle,** whose aim is **to build a community of people interested in a cooperative, queered future** as an example.
 
-For example, let’s take the **Community Circle,** whose aim is **to build a community of people interested in a cooperative, queered future.**
+We have a Discord community for fans of our games, and a Discord that I run as [a volunteer for game jams](https://ggjtokyo.neocities.org/) in Tokyo. I also regularly keep in touch with our clients via coffee. So the Community Circle's domain is:
 
-[image]
-
-We have a Studio Terranova Discord Community, a Let’s Games! Tokyo Discord that I run as a volunteer, and I regularly keep in touch with our clients via coffee. So for the Community Circle, our domain is:
-
-- Studio Terranova Discord
-- Let’s Games! Tokyo Discord
+- Games Discord
+- Game Jam Tokyo Discord
 - Volunteer Management
-- Accepts Bug Reports and Player Feedback for Games (Steam, [itch.io](http://itch.io) and Discord) and sends them to Games Circle
+- Accepts Bug Reports and Player Feedback for Games ([Steam](https://store.steampowered.com/developer/studioterranova/), [itch.io](https://illuminesce.itch.io/) and Discord) and sends them to Games Circle
 - Client Coffees
 
-These are the things we have full authority to act on. I wanted to point out Bug Reports, as the Community Circle is the circle that is player-facing, but they have a handoff with the Games Circle, who have the programming and design expertise to fix the bugs.
+These are the things the Community Circle has full authority to act on. I have admin permissions to these Discords and as long as we're staying true to our vision, mission and aim, we can propose and change things.
 
-An important part about defining domains is clarity and specificity. To take a quote from the Sociocracy Handbook “Many Voices, One Song:”
+An important part about defining domains is clarity and specificity.
 
-> *If there is overlap in the domains of two given circles, the circles might step on each other’s toes. How do we notice if they do? Every time there is an argument following one of the patterns below, then we know there is an overlap between domains or a lack of education on what domains are.*
+![Text reads, If there is overlap in the domains of two given circles, the circles might step on each other’s toes. How do we notice if they do? Every time there is an argument following one of the patterns below, then we know there is an overlap between domains or a lack of education on what domains are... "Why did they do...even when we already did? Why did they change our...? Why aren’t they taking care of...? Why don’t they ever...? Do they not know they should...?" The simple answer might be: “because there was not enough clarity on how the domains were defined. In both cases, there might we feelings stirred up. The most constructive response, however, is curiosity: “I wonder whether our domains are defined well enough.”](sociocracy.png)
 
-> *"Why did they do….even when we already did? Why did they change our…? Why aren’t they taking care of….? Why don’t they ever….? Do they not know they should…?"*
+> *[Many Voices, One Song](https://www.sociocracyforall.org/many-voices-one-song-2/), p. 26*
 
-> *The simple answer might be: “because there was not enough clarity on how the domains were defined. In both cases, there might we feelings stirred up. The most constructive response, however, is curiosity: “I wonder whether our domains are defined well enough.”*
+The Community Circle handles the communication with players if they experience a bug in our games, but they have a point where they must handoff things to the Games Circle, who have the programming and design expertise to fix those bugs.
 
-[image from p 26]
+![A screenshot of our Steam Community page for posting bugs.](retreat_06.png)
 
-Going back to the domain on bug reports—there is possibility that the handover process will be a source of conflict. What if the bug is critical but we lack the resources? What if the Games Circle fixes some bugs and doesn’t report to the Community Circle, so they keep sending them the same report, over and over? Although these are things that *may* occur, we have a *safe enough to try* framework for reporting bugs, and as we understand the space, so too will our domains adjust until we’ve found a perfect groove.
+There is possibility that the handover process will be a source of conflict. What if the bug is critical but we lack the resources? What if the Games Circle fixes some bugs and doesn’t report to the Community Circle, and players get upset at the Community Circle? These are objections the Community Circle can bring up so that their domain can be properly shaped. For instance, an objection might be that they do not want to be the punching bag for angry, impatient players, so a potential new shape of the domain might be:
 
-I enjoy this kind of “organizational shaping”—that is, building in enough structure for people to move autonomously but not so much structure that they are too restricted—because it allows us to shape to the level of flexibility or rigidity our company can safely try. Just like living organisms, organizations can come in all shapes and sizes and level of tolerance.
+- if the bug takes longer than a week to fix, the Games Circle will tell the Community Circle so they can relay that to the player
+
+- asking the Games Circle to asssess the difficulty of the bug so they can decide whether it is worth the effort to fix
+
+- giving Community Circle permission to make guidelines for players to contact them for bugs
+
+I enjoy this kind of “organizational shaping”—that is, building in enough structure for people to move autonomously but not so much structure that they are too restricted—because it allows us to shape to the level of flexibility or rigidity our company can safely try. 
+
+Just like living organisms, organizations can come in all shapes and sizes and level of tolerance.
 
 Once we had our domains defined to the point where we felt comfortable trying them, we moved on to roles.
 
 ## Roles
 
-Defining roles proved to be one of the most eye-opening experiences for me that week. Studio Terranova, at present, is two people. The blessing and the curse of being only two people is that our time and energy is limited and so, we must use it wisely. When we first started the company, we had a shared vision, but this is not enough to prevent burnout—in fact, the more passionate we are about our work, the more likelihood we had to overwork ourselves. One main goal figure out *what* we were doing so that we could *delegate* or *drop* some of the things we were doing.
+Defining roles proved to be one of the most surprising and eye-opening experiences for me that week. Going through defining roles helped us figure out *what* we were doing so that we could *delegate* or *drop* things. The blessing and the curse of being only two people is that our time and energy is very limited and since early 2024, a majority of our time in running the studio was mired in administrative work.
 
 Unlike an LLC in the US, which is essentially a name that one can do business under, LLCs or 合同会社 in Japan require tax reporting and payments several times a year, accounting, and employment of a tax adviser. This is a downside if you’re running a small business in terms of money and time, but it is a benefit if you’re doing client work and selling things in Japan—there is a lot more trust and legal benefits for a properly formed business than 個人授業, an individual proprietorship.
 
-We were both full-time workers who made video games on our nights and weekends, who, in 2024, transitioned to contract workers who did bugfixes and marketing for the video games they had already made on nights and weekends AND went to the tax office on our lunch breaks. No time to explore new projects or to think about breaks. By our retreat, we were *exhausted*.
+We were both full-time workers who made video games on our nights and weekends, who transitioned to contract workers who did bugfixes and marketing for the video games they had already made on nights and weekends AND went to the tax office on our lunch breaks. No time to explore new projects. By our retreat, we were *burned out*.
 
-The first step to understanding how overworked we were was to lay our cards out on the table. First, we assigned ourselves to a particular circle, and brainstormed the pre-existing roles we’d already been doing or, more realistically—had been doing half-assed as we were doing everything.
-
-[image]
+The first step to understanding how overworked we were was to lay our roles out. Once we assigned ourselves to lead a circle, we wrote down the the roles we’d already been doing, one per sticky note.
 
 The results were humbling.
 
-I had been doing 29 out of the 34 roles on this board, a majority of them solo.
+![A gigantic board of sticky notes, some with yellow squares outlining them.](retreat_07.png)
 
-No wonder I had no time to brainstorm new ideas or make games. Some strong feelings came up for me—confusion (how did it get so bad?), resentment (why am I doing this alone?), apprehension (will this time be different?) and relief. I had brought up these feelings in the past, but didn’t have the headspace to clarify what roles were being done and what knowledge was needed to do them.
+Out of the 34 roles on this board, **I had been handling 24 of them solo.**
 
-We discovered there were a few reasons for the imbalance:
+No wonder I had no time to brainstorm new ideas or make games.
 
-- one of us was more technically skilled to do a job (i.e. coding, design or knowledge of Japanese)
-- no skill sharing on around how to do a role (i.e. “CJ knows how to do the role better so I’ll leave it to them”)
-- no clear domain or process of consent around picking roles (i.e. not sure what “marketing” entails or things need to be done, but it is undecided by whom)
+Some strong feelings came up for me, mainly confusion (how did it get so bad?), resentment (why am I doing this alone when I have a co-founder?) and amazement (I didn't know I could handle that much stress). I had brought up vague feelings of being overworked in the past, but didn’t have the downtime to clarify what roles were being done and what knowledge was needed to do them.
 
-We went through each role and went through a process of consent, deciding our roles and the term length. Some of the roles we picked up joyfully; others required more careful consideration into what sociocracy calls our Zone of Tolerance.
+There were a few reasons for this imbalance:
 
-We all have specific individual preferences; finding collaboration solely within our zone of preferences will end up in some gaps roles either being undone, and as a result, our aims not being completely achieved. Sociocracy focuses more on our zone of tolerance; the area in which we think something is “safe enough to try.” This could be:
+- I am more confident in communicating in business-level Japanese and many of the administrative tasks required me to call someone or navigate websites in Japanese
+- no skill sharing on my end on around how to do a role, so it appeared I "had it under control" when I was overwhelmed
+- no clear domain or process of consent around picking up roles, so if a deadline was approaching, I'd start to get nervous and proactively pick up a role.
 
-- Something we’re not good at, but don’t see the harm in failing
-- Something we are okay doing for a short period of time
-- Something that, if the responsibilities were slightly different, we would be okay taking
+If you're familiar with [Karpman's Drama Triangle](https://www.attachmentproject.com/psychology/drama-triangle/), I am much more comfortable as a coach or a creator, but when stressed I can fall back on a *rescuer* role.
 
-All of these are outside of our preferences, but allow us to enter into a dialogue about what parts of the role we object to, and how we can shape it so that it still achieves our ultimate aim. For instance, if our aim is to run a bakery and we don’t like getting up early, we can either opt for a role that doesn’t require us to get up early, be okay with getting up early for a short period of time, or figure out another way of baking that doesn’t require getting up early—perhaps a midnight shift, provided our team consents to this shaping as well.
+Well, color me called out.
 
-This kind of consent shaping was, outside of my partners, the first time I’d had critical, compassionate conversations about where my zone of tolerance began and ended as well as fitting roles in a way that both served the organization and us as human beings with needs.
+After I processed my mixed feelings, we went through each post-it decided our roles and their term length. Some of the roles we picked up joyfully; others required more careful consideration into what sociocracy calls our [range of tolerance](https://www.sociocracyforall.org/range-of-tolerance/).
+
+I mentioned this earlier in the article, but our range of tolerance is the area in which we think something is “safe enough to try.” We all have specific individual preferences; finding collaboration solely within our range of preferences will end up in some roles being undone and aims unachieved. No one wants to take out the garbage in the house, but if you do not, your house will be full of garbage, which is the opposite of our aim, a clean house.
+
+[image]
+
+Something outside of your range of preference but still within your range of tolerance could be:
+
+- Something you're not good at, but don’t see the harm in failing
+- Something you are okay doing for a short period of time
+- Something that, if the role were adjusted and it still achieved its aim, you would be okay taking
+
+This range can allow us to enter into a healthy dialogue about what parts of the role we object to and how we can shape it. Going back to our previous example, if our aim is to have a clean house with no trash on the floor, and we are worried about forgetting the trash, we can find ways of reminding ourselves, request a reminder if it gets past a certain level of uncleanliness, or try for a short amount of time to see if we would really forget.
+
+This kind of consent shaping was, outside of my romantic partners, the first time I’d had critical, compassionate conversations about where my range of tolerance began and ended as well as fitting roles in a way that both served the organization and us as human beings with needs.
 
 We also determined that there needed to be someone that we hired to fill some roles I was filling solo—in particular, a paid apprentice who can:
 
