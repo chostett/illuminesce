@@ -167,6 +167,12 @@ Into sociocracy we dove.
 
 ---
 
+### A small request...
+
+If you found this article inspiring or useful to you, consider supporting my work with a [one-time donation or subscription on Ko-Fi.](https://ko-fi.com/illuminesce) Thanks!
+
+---
+
 ### Related Posts + Links
 
 - [How Do We Share Power Dynamically? Part Two](/blog/posts/2025-06-20-Sociocracy-Pt2/)
