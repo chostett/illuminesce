@@ -27,7 +27,7 @@ While we designed systems to be seamless and engaging, amongst fellow techies th
 
 We wondered—how can we place our hopes on tech to revolutionize the world if it is built on unsustainable accumulation of wealth? Who is our technology giving power to, and who is losing power because of it? Is a society that values accumulation of individual power one we ***personally*** want to live in? One we want our children to live in?
 
-In asking these questions, I stumbled upon sociocracy in a very unexpected place.
+In asking these questions, I stumbled upon sociocracy.
 
 I learned that sociocracy is a type of decision-making process (also known as “governance”) made with the understanding that power, like water, if designed in a way that flows equitably, can give all members of its organization decision-making power.
 
@@ -38,11 +38,11 @@ We wanted to try out sociocracy with the hopes it would change the way we though
 Below, I’ll share:
 
 - why the old ways of doing business don’t work anymore
-- how I came to learn about sociocracy
+- how I came to learn about sociocracy in a very unexpected place
 - some basics to setting up an organization with sociocracy and
 - our learnings from our retreat
 
-I hope you’ll be inspired to read more about this framework and try it out. Note: Sociocracy isn’t paying me to write about this, I just really have been enjoying using it in both volunteering and work so far.
+I hope you’ll be inspired to read more about this framework and try it out.
 
 We’re about to get deep into the weeds of how organizations are structured and how they make decisions, so...
 
@@ -62,7 +62,7 @@ Technology as being made by people and thus, having the same fallibility as peop
 
 So let’s say you believe me—if the way computers make decisions are intertwined with the decision making processes of people, who makes decisions in private tech?
 
-The hot topic around the time I entered the field of design was ***who had the authority to implement and sustain design decisions***. Designers at the time were suffering from being seen as “just workers”—so leadership would make strategy decisions that would affect design—say, splitting the business into five separate properties and then asking for each of those properties to have their own section of the homepage—and then this decision would trickle down to designers.
+The hot topic around the time I entered the field of design was ***who had the authority to implement and sustain design decisions***. Designers at the time were suffering from being seen as “just workers,” so leadership would make strategy decisions that would affect design—say, splitting the business into five separate properties and then asking for each of those properties to have their own section of the homepage—and then this decision would trickle down to designers.
 
 ![A screenshot of an old website from 2012; it has a three column layout and a carousel.](demandmedia.png)
 
@@ -72,9 +72,9 @@ The hot topic around the time I entered the field of design was ***who had the a
 
 Designers lobbied hard to “have a seat at the table” in these strategy meetings—that is, to be in the room where the decisions were being made by leadership so they too could have a voice.
 
-Some senior technologists—myself included—finally *did* get their seat at the table. With our voices, we convinced business owners to simplify and to make their processes more streamlined, seamless and friendlier. This was seen as a net positive at the time; but after a few years of the trend shifting towards increasing simplicity, [companies started using design to streamline users to click on or buy things they didn’t want or need.](https://evilbydesign.info/sloth/path-of-least-resistance/)
+Some senior technologists, myself included, finally *did* get their seat at the table. With our voices, we convinced business owners to simplify and to make their processes more streamlined, seamless and friendlier. This was seen as a net positive at the time; but after a few years of the trend shifting towards increasing simplicity, [companies started using design to streamline users to click on or buy things they didn’t want or need.](https://evilbydesign.info/sloth/path-of-least-resistance/)
 
-It became a joke when we “couldn’t remember what we ordered on Amazon” despite having ordered it ourselves—the process was just so seamless.
+It became a joke when we “couldn’t remember what we ordered on Amazon” despite having ordered it ourselves. The process was just so seamless.
 
 What followed was a slow slip of design’s human-centered vision from “reducing clutter and design friction to do right by our customers” to “how to increase engagement and trigger desired behavior in users.” The more we framed our work as how we would “encourage” people to do things differently for the sake of monetization, the less human-centric we became.
 
@@ -90,15 +90,15 @@ In our focus on “the user” we found ourselves in the position of someone who
 
 > Manoush Zomorodi
 
-Most technologists I personally know are kind people. They got into tech for the same reasons I did; they wanted to build cool things and use their skills to make a difference. But while the tech industry overall talks a big game about saving the world, I rarely saw it intersect with the world of activism, transformative justice, and worker’s rights—things that have historically been at the forefront of culture and societal shifts. I found myself seeking out resources outside traditional tech blogs.
+Most technologists I personally know are kind people. They got into tech for the same reasons I did: they wanted to build cool things and use their skills to make a difference. But while the tech industry overall talks a big game about saving the world, I rarely saw it intersect with the world of activism, transformative justice, and worker’s rights—things that have historically been at the forefront of culture and societal shifts. I found myself seeking out resources outside traditional tech blogs.
 
 That’s essentially the state of the field today. Designers are at a crossroads where we can accept our seat at the table and become complicit in extractive logic, dig in our heels and fight the leadership, or leave. It is not an easy choice. One comes at the cost of our soul, the other, our health, and the last, our financial stability.
 
-It is not an easy choice; and we are privileged to have had the experience and safety net to strike out on our own. mabbees and I decided to take the risk and leave. We started Studio Terranova to take ourselves out of the cycle, to give us time to work on our games, to work more in alignment with our values, and to explore different kinds of governance.
+It is not an easy choice, and we are privileged to have the experience and safety net to strike out on our own. mabbees and I decided to take the risk and leave. We started Studio Terranova to take ourselves out of the cycle, to give us time to work on our games, to work more in alignment with our values, and to explore different kinds of governance.
 
 ## Learning sociocracy through fandom
 
-So, we went and founded a company—what’s next?
+So we founded a company—what’s next?
 
 As I researched different types of organizational governance from social change groups to Fortune 500 companies, I wanted something that balanced clarity and structure with the more human elements of our work. I found inspiration in a very unexpected place.
 
@@ -125,7 +125,7 @@ From our article, [**The Birth, Death, and Rebirth of Slash**](https://zine.yest
 
 ![The logo of the bookmarking company Delicious, with the slash, brackets, exclamation mark, and other symbols edited out.](delicious.png)
 
-There was a mass migration to other sites like [Pinboard.in](https://idlewords.com/talks/fan_is_a_tool_using_animal.htm). 
+There was a mass migration to other sites like [Pinboard.in](https://idlewords.com/talks/fan_is_a_tool_using_animal.htm).
 
 Fan works were written [making fun of del.icio.us.](https://archiveofourown.org/works/258626) The owners were deeply confused.
 
@@ -145,21 +145,21 @@ Again from [Rebuilding Community on the (Fujo)Web](https://www.essentialrandomne
 
 > *“Indie projects are often born as a rebellion against large tech platforms, with the desire to shift the balance of power and put it closer to the users. But **shifting who is in power doesn’t change that a hierarchy exists,** no matter what intentions the power shift is born with.”*
 
-I saw this as a warning to indie projects—the tools that you have used up until now will not liberate you from this cycle of destruction. **Inevitably, if you as an organizer take all the power, you’ll be perpetuating the cycle you wished to destroy.** The solution is not to watch it crumble or fade away, no—
+I saw this as a warning to indie projects: the tools that you have used up until now will not liberate you from this cycle of destruction. **Inevitably, if you as an organizer take all the power, you’ll be perpetuating the cycle you wished to destroy.** The solution is not to watch it crumble or fade away–no!
 
 > *“However, when people saw us come forward with our frustration and pain, and express the overwhelming weight of what we were carrying, it made it harder to continue the narrative of us vs them, platform user vs builder, server members vs moderators, person who can’t and person who can. After that discussion people saw us for who we truly are: **members of their same community that, for all their weaknesses and faults, are trying to build something that makes a difference.”***
 
-—the solution was to be vulnerable and open the process up to others.
+The solution was to be vulnerable and open the process up to others.
 
 I reached out to Ms. Boba after the talk to pepper her with questions which she kindly answered. Soon after I joined BobaBoard as a volunteer to support what I felt was a worthwhile endeavor.
 
-This process of being vulnerable and opening up the process to others as a name. Well, many names. But the one I learned through my volunteer work was sociocracy. The more I read and practiced sociocracy, the more it resonated with me—it is a decentralized governance system that has egalitarianism and human connection at its center. This is what I wanted more of—equality and community at the core of all my connections.
+This process of being vulnerable and opening up the process to others has a name. Well, many names. But the one I learned through my volunteer work was sociocracy. The more I read and practiced sociocracy, the more it resonated with me. It is a decentralized governance system that has egalitarianism and human connection at its center. This is what I wanted more of—equality and community at the core of all my connections.
 
-And I realized, *why* we wanted to run our business like a cooperative. Not to “gain points” with our friends or “gain efficiency” in the business, but because there comes a point where optimization drains color from our lives, not adds to it. We could not continue enjoying our lives if what we had to look forward to was black and white. We wanted to re-color the way we did work—to feel passionate and hopeful again.
+And I realized *why* we wanted to run our business like a cooperative. Not to “win points” with our leftist friends or “gain efficiency” in the business, but because there comes a point where optimization drains color from our lives instead of adding to it. We could not continue enjoying our lives if what we had to look forward to was black and white. We wanted to re-color the way we did work—to feel passionate and hopeful again.
 
 A tall order for a humble framework.
 
-So into sociocracy we dove.
+Into sociocracy we dove.
 
 [Read on for Part Two of **How Do We Share Power Dynamically?**](/blog/posts/2025-06-20-Sociocracy-Pt2/)
 
