@@ -169,7 +169,9 @@ Into sociocracy we dove.
 
 ### A small request...
 
-If you found this article inspiring or useful to you, consider supporting my work with a [one-time donation or subscription on Ko-Fi.](https://ko-fi.com/illuminesce) Thanks!
+Thanks for reading!
+
+If you found this article inspiring or useful to you, [**consider tipping me on Ko-Fi**](https://ko-fi.com/illuminesce). All tips I make go towards writing new articles and making games for the joyfully alt.
 
 ---
 
