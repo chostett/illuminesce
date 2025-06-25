@@ -27,9 +27,7 @@ After some thoughtful pre-reading of [Many Voices, One Song,](https://www.socioc
 
 Sociocracy sees power like water. Power is itself neither good nor bad. What matters is how it’s wielded. When it’s channeled to flow equitably, it can give a voice to all members of an organization. When hoarded, it becomes stagnant. The goal in sociocracy is to share power in a way that’s both effective and collaborative.
 
-It is different than [founder mode](https://en.wikipedia.org/wiki/Founder_mode), which argues that by ceding all power to the leadership, decisions will be made quickly. This lacks foresight, as any short-term gains will be outweighed by longterm employee and customer distrust and toxicity. It is also different than [design by committee](https://en.wikipedia.org/wiki/Design_by_committee), which argues that making a solution that fits the preferences of everyone is the best way to build consensus. Design by committee lacks efficiency and can make deliberations that should be less than an hour drag on for weeks.
-
-There are three main things that makes sociocracy different:
+There are three things that stand out to me as unique:
 
 1. **Equivalence.** Decisions are empowered to may be made by a few, but the flow of information is designed to elicit feedback from everyone affected by the decision.
 
@@ -41,7 +39,7 @@ Next, I'll go into what the organization of our company looks like now.
 
 ## The organizational structure of sociocracy: circles
 
-[Sociocracy](https://www.sociocracyforall.org/sociocracy/) is run in circles, which can also be called groups or bubbles. Membership in circles is consent-based. Typically for each aim a company has, it creates a circle. Circles are dynamic. They can fluctuate over time, and if the aim is no longer necessary, they may dissolve.
+[Sociocracy](https://www.sociocracyforall.org/sociocracy/) is run in circles, which can also be called groups or bubbles. Circles are dynamic. They can fluctuate over time, and if the aim is no longer necessary, they may dissolve.
 
 As our studio does both client work and games, we created five circles to encompass each of our aims:
 
@@ -57,9 +55,9 @@ This is what our organization looks like on the inside. We’ll get more into *h
 
 ## Vision guides the spirit, aims guide the work
 
-Also known as the “north star", vision is the “to-be” state of the world. In sociocracy, it is structured as a broad, *“We are dreaming of a world where it is true that...”* In product design, this vision is a narrower "the world as it exists *with your product in it."*
+In sociocracy, it is structured as a broad, *“We are dreaming of a world where it is true that...”*
 
-I found that sociocracy’s method of generating a “to-be” state proved to be much more open-ended about how these future states were achieved. I liked this because “we make a new product or service and people buy it” isn’t always the solution to the world's problems. Sometimes, it’s implementing policy or education or starting a community space. While all of these involve design and creation, they aren’t limited to physical or digital products and services. There are many roads to changing the future, and we need not assume that selling a product is necessary to change it.
+I found that sociocracy’s method of generating a “to-be” state proved to be much more open-ended than product design. I liked this because “we make a new product or service and people buy it” isn’t always the solution to the world's problems. Sometimes they aren’t limited to physical or digital products and services.
 
 There are a lot of dreams we had for the future, such as…
 
@@ -67,21 +65,13 @@ There are a lot of dreams we had for the future, such as…
 - serving community is valued more than serving capital
 - we feel optimism about the future, not dread
 
-We went with: *“We are dreaming of a world where it is true that serving community is valued more than serving capital,”* as our vision and, *“Our mission at Studio Terranova is to explore new frontiers in technology and games.”* Our reason was that, as a consultancy, doing work pays our bills and making games pays our souls (and our bills a little).
-
-We value capital the same way we value a place to live and financial independence. We cannot survive without these; but surely, wealth isn't measured solely in how much money we can make. Financial independence at the cost of friends, family and personal health could hardly be considered a life worth living in our opinion.
+We went with: *“We are dreaming of a world where it is true that serving community is valued more than serving capital,”* as our vision and, *“Our mission at Studio Terranova is to explore new frontiers in technology and games.”* We value capital the same way we value a place to live and financial independence. However, financial independence at the cost of friends, family and personal health could hardly be considered a life worth living.
 
 ![A blonde haired person looking serious while writing on a whiteboard. Text reads, We are dreaming of a world where it is true that serving community is valued...](retreat_04.png)
 
 It’s exciting to think big like this. But once we had our vision, only a fraction of our work was done. Now was the time to get our hands dirty in *how* we would go about building that future—the more specific, the better.
 
 According to *Many Voices, One Song*, aims should be as specific as possible. A majority of conflicts arise in organizations when everyone agrees to a vision, but does not agree on how the organization *achieve* that vision.
-
-For example:
-
-> *If a group is planning to build a cohousing community in Toronto, it is helpful to narrow down where the community might be built. If some of the founding members can only live in the northern part of the city, while others cannot work with that, it is wiser to split up early and each group pursues their aim.*
-
-Even among the two of us, writing down aims was difficult, but necessary. It drew out all the discussions we'd assumed, but hadn't done. *”Are we sure we want to leave out that group?”*—or—*”maybe we should be less specific here since we don’t know the landscape yet and will revise.”* It was like creating a [Business Model Canvas](https://www.strategyzer.com/library/the-business-model-canvas), but, like the vision above more open and flexible, as the Business Model Canvas was designed to be used only within for-profit companies.
 
 This opened us up to consider things that were not typically “valued” in common for-profit businesses as something that could be part of ours. Our work is, in part, community-funded, but our community's value is not in how much money they pay us. It is a way for us to give back and find like-minded people.
 
@@ -91,26 +81,21 @@ But exactly who *is* our community? In what way do we value them? From this, we 
 
 We specifically chose the word “queered” as a verb—as in “queering games”—something I first heard in reference to game developer [Robert Yang’s](https://factoryinternational.org/about/press/news/robert-yang-queering-gamer-culture-gardening-game/) work. It is not only in reference to the player character being queer, but having queer experiences be seen as “normal” from the viewpoint of everyone in the world.
 
-We make games, so naturally, we have a Games Circle. What kinds of games do we make?
+For our Games Circle, what kinds of games do we make?
 
 - Creating queer narrative games for the joyfully alt
 
-*Many Voices, One Song* had many example case studies for us to pick more incisive questions around our games; mabbees said that he wanted to build a future together with "joyfully alt" people like us, and I agreed. We're not "alternative" because it's cool - we're alternative because it is the way we are; and being able to live more authentically makes us happy. I believe our fans would agree with us.
+mabbees said that he wanted to build a future together with "joyfully alt" people like us, and I agreed. We're not "alternative" because it's cool - we're alternative because it is the way we are; and being able to live more authentically makes us happy. I believe our fans would agree with us.
 
-What about our client work? We partner with for-profit, non-profit and government clients who care about how people will use their digital tools. We also work in both English and Japanese, and are based in Japan, so that should factor into our client work aims:
+What about our client work?
 
 - Providing high-quality bilingual services (user research, interaction design, UI programming)  in Japan on a hybrid basis/full remote basis to organizations who care about how people will use their digital tools
 
 This helps us laser focus on prioritizing and attracting clients that are a good fit to our skills and services.
 
-Finally, in order for our business to function, it must be financially healthy, pay its taxes in Japan and adhere to our vision. Thus the last aims:
-
-- Ensuring overall financial health of Studio Terranova
-- Ensuring our strategies align with our vision
+Finally, in order for our business to function, it must be financially healthy, pay its taxes in Japan and adhere to our vision. Thus the aims of both the Operations Circle and General Circle:
 
 ![A photograph of a whiteboard with five circles. This time the circles are much more fleshed out and the Operations Circles has three sub-circles to it; Finance, Marketing and Partnerships.](retreat_05.png)
-
-We have three sub-circles within the Operations Circle; Marketing, Finance and Partnerships. The Operations Circle's aim is “ensuring overall financial health of Studio Terranova.” We purposefully are treating marketing as daily operations; something necessary and important to our financial health, but not one that relies primarily on “monetizing” our community. We believe that if we make good things and treat our community well, they will want to support us.
 
 In this way, or organizational structure at its core supports our vision of valuing community over capital.
 
@@ -118,47 +103,39 @@ In this way, or organizational structure at its core supports our vision of valu
 
 Domains are the areas in which circles have authority and agency to do work.
 
-For example, take a website administrator whose aim is to “keep the website updated bi-weekly.” If they must rely on someone for a one-time password every time they need to log in, this stalls their work and makes it difficult for them to achieve their biweekly aim. Giving the administrator authority to manage both the login and the one-time password allows them to complete their goal seamlessly.
-
-As a general example, many job posts state they are looking for workers who can work autonomously—but whether those companies are organized to enable autonomy is a different story.
-
-A common misconception of autonomy is that it relies solely on the **will of the individual to be autonomous**, without taking into account whether or not they have been allowed the freedom to act by their surroundings. This can turn into a frustrating game where the company, who has power over the worker, expects more - but doesn't trust them enough to hand over power. On the other hand, workers who have been burnt out on a cycle of "power under" can see autonomy as a trap; if they've been burned before, why would they take on more responsibility if power isn't equitably shared?
-
-Leadership is burned out on "rescuing" everyone, and everyone else is burned out on consistently having a lack of authority to make a change.
+A common misconception of autonomy is that it relies solely on the **will of the individual to be autonomous**, without taking into account whether or not they have been allowed the authority and agency to act. This can result in a frustrating game where the company expects more of the worker but cannot achieve the results they want because they have a stranglehold on authority. Leadership is burned out on "rescuing" everyone, and everyone else is burned out on consistently having a lack of authority to make a change.
 
 Breaking out of this is not easy. But I’d rather build a community with members I can trust and rely on than one where I am the sole authority who wastes away from burnout.
 
-Let's take our **Community Circle,** whose aim is **to build a community of people interested in a cooperative, queered future** as an example.
+Let's dive into our **Community Circle,** whose aim is **to build a community of people interested in a cooperative, queered future.**
 
-We have a Discord community for fans of our games, and a Discord that I run as [a volunteer for game jams](https://ggjtokyo.neocities.org/) in Tokyo. I also regularly keep in touch with our clients via coffee. So the Community Circle's domain is:
+To achieve that aim, we must maintain spaces, whether it be online or in-person, for people. We have a Discord community for fans of our games, and a Discord that I run as [a volunteer for game jams](https://ggjtokyo.neocities.org/) in Tokyo. I also regularly keep in touch with our clients. 
+
+So where the Community Circle can act is in our...
 
 - Games Discord
 - Game Jam Tokyo Discord
 - Volunteer Management
-- Accepts Bug Reports and Player Feedback for Games ([Steam](https://store.steampowered.com/developer/studioterranova/), [itch.io](https://illuminesce.itch.io/) and Discord) and sends them to Games Circle
+- Bug Reports and Player Feedback for Games ([Steam](https://store.steampowered.com/developer/studioterranova/), [itch.io](https://illuminesce.itch.io/) and Discord). They then send them to Games Circle
 - Client Coffees
 
-These are the things the Community Circle has full authority to act on. I have admin permissions to these Discords and as long as we're staying true to our vision, mission and aim, we can propose and change things.
-
-An important part about defining domains is clarity and specificity.
+These are the things the Community Circle has full authority to act on. But what happens if there is an overlap or gap with other circles?
 
 ![Text reads, If there is overlap in the domains of two given circles, the circles might step on each other’s toes. How do we notice if they do? Every time there is an argument following one of the patterns below, then we know there is an overlap between domains or a lack of education on what domains are... "Why did they do...even when we already did? Why did they change our...? Why aren’t they taking care of...? Why don’t they ever...? Do they not know they should...?" The simple answer might be: “because there was not enough clarity on how the domains were defined. In both cases, there might we feelings stirred up. The most constructive response, however, is curiosity: “I wonder whether our domains are defined well enough.”](sociocracy.png)
 
 > *[Many Voices, One Song](https://www.sociocracyforall.org/many-voices-one-song-2/), p. 26*
 
-The Community Circle handles the communication with players if they experience a bug in our games, but they have a point where they must handoff things to the Games Circle, who have the programming and design expertise to fix those bugs.
+For example, the Community Circle handles the communication with players if they experience a bug in our games, but they have a point where they must handoff things to the Games Circle, who have the programming and design expertise to fix those bugs.
 
 ![A screenshot of our Steam Community page for posting bugs.](retreat_06.png)
 
-There is possibility that the handover process will be a source of conflict. What if the bug is critical but we lack the resources? What if the Games Circle fixes some bugs and doesn’t report to the Community Circle, and players get upset at the Community Circle? These are objections the Community Circle can bring up so that their domain can be properly shaped. For instance, an objection might be that they do not want to be the punching bag for angry, impatient players, so a potential new shape of the domain might be:
+There is possibility that this handover will be a source of conflict. What if the bug is critical but we lack the resources? What if the Games Circle fixes some bugs and doesn’t report to the Community Circle, and players get upset at the Community Circle? These are objections the Community Circle can bring up so that their domain can be properly shaped and adjusted, like so:
 
 - if the bug takes longer than a week to fix, the Games Circle will tell the Community Circle so they can relay that to the player
 
 - asking the Games Circle to asssess the difficulty of the bug so they can decide whether it is worth the effort to fix
 
-- giving Community Circle permission to make guidelines for players to contact them for bugs
-
-I enjoy this kind of “organizational shaping”—that is, building in enough structure for people to move autonomously but not so much structure that they are too restricted—because it allows us to shape to the level of flexibility or rigidity our company can safely try. 
+I enjoy this kind of “organizational shaping”—that is, building in enough structure for people to move autonomously but not so much structure that they are too restricted—because it allows us to shape to the level of flexibility or rigidity our company can safely try.
 
 Just like living organisms, organizations can come in all shapes and sizes and level of tolerance.
 
@@ -168,9 +145,7 @@ Once we had our domains defined to the point where we felt comfortable trying th
 
 Defining roles proved to be one of the most surprising and eye-opening experiences for me that week. Going through defining roles helped us figure out *what* we were doing so that we could *delegate* or *drop* things. The blessing and the curse of being only two people is that our time and energy is very limited and since early 2024, a majority of our time in running the studio was mired in administrative work.
 
-Unlike an LLC in the US, which is essentially a name that one can do business under, LLCs or 合同会社 in Japan require tax reporting and payments several times a year, accounting, and employment of a tax adviser. This is a downside if you’re running a small business in terms of money and time, but it is a benefit if you’re doing client work and selling things in Japan—there is a lot more trust and legal benefits for a properly formed business than 個人授業, an individual proprietorship.
-
-We were both full-time workers who made video games on our nights and weekends, who transitioned to contract workers who did bugfixes and marketing for the video games they had already made on nights and weekends AND went to the tax office on our lunch breaks. No time to explore new projects. By our retreat, we were *burned out*.
+Unlike an LLC in the US, LLCs or 合同会社 in Japan require tax reporting and payments several times a year, accounting, and employment of a tax adviser. When we started, transitioned to contract workers who did bugfixes and marketing for the video games they had already made on nights and weekends AND went to the tax office on our lunch breaks. By our retreat, we were *burned out*.
 
 The first step to understanding how overworked we were was to lay our roles out. Once we assigned ourselves to lead a circle, we wrote down the the roles we’d already been doing, one per sticky note.
 
@@ -196,21 +171,13 @@ Well, color me called out.
 
 After I processed my mixed feelings, we went through each post-it decided our roles and their term length. Some of the roles we picked up joyfully; others required more careful consideration into what sociocracy calls our [range of tolerance](https://www.sociocracyforall.org/range-of-tolerance/).
 
-I mentioned this earlier in the article, but our range of tolerance is the area in which we think something is “safe enough to try.” We all have specific individual preferences; finding collaboration solely within our range of preferences will end up in some roles being undone and aims unachieved. No one wants to take out the garbage in the house, but if you do not, your house will be full of garbage, which is the opposite of our aim, a clean(ish) house.
-
-![A photo of a raccoon eating some vegetables on the ground underneath a car.](raccoon.png)
-
-> *Or if a clean(ish) house isn't your aim, you might be a raccoon. (photo by [Quentin Bounias](https://unsplash.com/@qbounias))*
-
 Something outside of your range of preference but still within your range of tolerance could be:
 
 - Something you're not good at, but don’t see the harm in failing
 - Something you are okay doing for a short period of time
 - Something that, if the role were adjusted and it still achieved its aim, you would be okay taking
 
-This range can allow us to enter into a healthy dialogue about what parts of the role we object to and how we can shape it. Going back to our previous example, if our aim is to have a clean house with no trash on the floor, and we are worried about forgetting the trash, we can find ways of reminding ourselves, request a reminder if it gets past a certain level of uncleanliness, or try for a short amount of time to see if we would really forget.
-
-This kind of consent shaping was, outside of my romantic partners, the first time I’d had critical, compassionate conversations about where my range of tolerance was listened to and taken into account in a way that both served my needs and others around me.
+This range can allow us to enter into a healthy dialogue about what parts of the role we object to and how we can shape it. This kind of dialogue was, outside of my romantic partners, the first time I’d had critical, compassionate conversations about where my range of tolerance was listened to and taken into account in a way that both served my needs and others around me.
 
 We also determined that we needed to hire someone for an operational role—in particular, a paid apprentice who could:
 
