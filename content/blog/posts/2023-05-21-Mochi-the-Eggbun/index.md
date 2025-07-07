@@ -35,4 +35,13 @@ I made a LINE version for 120 yen, and a Telegram/Signal sticker pack for free. 
 
 [Mochi the Eggbun](https://signal.art/addstickers/#pack_id=37538c972d358bcef121055c3dce7a19&pack_key=8fc47d2935699af34780c1d6f6c82cd51475327e650b19837e90e8671db60978) | [Mugi the Eggbun](https://signal.art/addstickers/#pack_id=627075ba7361a104dc256c8a69cbf686&pack_key=0a0d558584bfa42176edd3e1b6dbdc8e0b50c18aae4aad6c07cdcc3ab56e1302)
 
-Enjoy these little eggbuns! I liked making them.
+Enjoy these little eggbuns! I liked making them. You can check out my most recent blog post on how I made them below
+
+---
+
+### Related Posts
+
+- [How I made my own chat stickers](/blog/posts/2025-07-02-Stamp-Process/)
+- [Game dev comics](/blog/posts/2023-12-13-Game-Dev-Comics/)
+
+See all posts tagged [Art](/tags/art/).
