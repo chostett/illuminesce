@@ -1,7 +1,7 @@
 ---
 title: 'How I made my own chat stickers'
 slug: 2025-07-02-Stamp-Process
-date: '2025-067-02'
+date: '2025-07-02'
 description: 'Some learnings on making Telegram, Signal, and LINE eggbunny stickers.'
 image: ''
 tags:
@@ -15,7 +15,7 @@ Some time ago, [I made 24 chat stickers for some little eggbunny characters name
 
 I recently found my original files for these stickers and wanted to write up my learnings. This project started as a way to learn how to batch export illustrations in Procreate. I'd planned for only six bunnies as an experiment; but the full stickers ended up being eight times that (24 stickers in 2 color variations).
 
-Since folks seem to like my rabbit drawings (it's slimebunny is one of my most drawn characters in ArtFight), I thought folks would like to see more of the sticker set and some of my reflections on it.
+Since folks seem to like my rabbit drawings ([it's slimebunny](https://artfight.net/character/5332934.its-slimebunny) is one of my most drawn characters in ArtFight), I thought folks would like to see more of the sticker set and some of my reflections on it.
 
 First is the obvious...
 
