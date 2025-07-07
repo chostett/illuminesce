@@ -63,7 +63,7 @@ Here's a playback video of my work on the stickers where you can see them go fro
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2O4c0Qqkibw?si=fB5OCdgyLKX3uPev" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-It was a fun project. All these stickers are available for free or for a nominal fee of 140 yen. And, if you found this article inspiring or useful to you, [**consider tipping me on Ko-Fi**](https://ko-fi.com/illuminesce).
+It was a fun project. All these stickers are available for free or for a nominal fee of 120 yen. And, if you found this article inspiring or useful to you, [**consider tipping me on Ko-Fi**](https://ko-fi.com/illuminesce).
 
 Until next time! Enjoy the stickers.
 
