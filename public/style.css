@@ -206,6 +206,12 @@ button {
   background-color: #82B095;
   line-height: 0;
 }
+.dino {
+  border: none !important;
+  padding: 0 20px 0 0;
+  height: 150px;
+  width: 150px;
+}
 .content-body-sub .content-row {
   display: block;
 }
@@ -279,6 +285,9 @@ button {
   .content-row {
       display: block;
     }
+  .dino {
+    display: none;
+  }
   .content-body-sub .image {
       display: none;
   }
