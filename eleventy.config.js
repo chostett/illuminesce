@@ -29,7 +29,7 @@ export default async function(eleventyConfig) {
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
 
 	// Watch content images for the image pipeline.
-	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpeg,gif}");
+	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpeg}");
 
 	// Per-page bundles, see https://github.com/11ty/eleventy-plugin-bundle
 	// Adds the {% css %} paired shortcode
@@ -59,14 +59,10 @@ export default async function(eleventyConfig) {
 		},
 		metadata: {
 			title: "CJ | Studio Terranova",
-			base: "https://illuminesce.net/",
+			base: "https://illuminesce.net/blog/",
 			language: "en",
 			subtitle: `
-				Welcome to my blog. I'm a creative, inquisitive person who likes talking with people.
-				
-				That means you.
-				
-				I live in Tokyo and co-run Studio Terranova, a co-operative video game and software consulting company.`,
+				Welcome to my blog. I'm a creative, inquisitive person who likes talking with people. I live in Tokyo and co-run Studio Terranova, a video game and design cooperative.`,
 			author: {
 				name: "CJ",
 			}
