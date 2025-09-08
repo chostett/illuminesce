@@ -66,7 +66,7 @@ I think that’s more than enough.
 
 [2020's Birthday Letter is here.](/blog/posts/2020-09-14-A-Birthday-Letter-2020/)
 
-[2022's Birthday Letter is here.](/blog/posts/2022-09-14-A-Birthday-Letter-2022/)
+[2021's Birthday Letter is here.](/blog/posts/2021-09-14-A-Birthday-Letter-2021/)
 
 ---
 
