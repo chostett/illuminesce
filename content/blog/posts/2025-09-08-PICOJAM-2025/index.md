@@ -15,6 +15,8 @@ tags:
 
 *PICOJAM graphic done by [CYANSTAR](https://x.com/CYANSTAR5).*
 
+[日本語版はこちら。](/blog/posts/2025-09-08-PICOJAM-2025-JP/)
+
 Thank you for your patience while I wrote up this after-report—August was busy!
 
 PICOJAM was a PICO-8 only hackathon (also known as a game jam) held at Pico Pico Café in Kichijoji from Aug. 9th-10th this year. Our jam themes were 「溶ける」or MELT, and 「祭り」or MATSURI. We had ten participants and made six games and two free PICO-8 asset packs, one for pixel art and another for music.
@@ -145,3 +147,8 @@ I was really happy with the jam overall. People had fun, made a ton of creative 
 I've been itching to make a series of posts—or a zine even—about running game jams specifically in Tokyo. I've learned a lot about organizing in a place where venue space is at a premium, how to connect people who wouldn't otherwise talk with each other together and how to mix languages without solely relying on English. I wonder if anyone would be interested in something like that?
 
 Thank you again to everyone who participated! It was fun, and I'm excited to do something like that again.
+
+---
+
+See all posts tagged [Organizing](/tags/organizing/).
+
