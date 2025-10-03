@@ -276,15 +276,21 @@ button {
 }
 
 /*CSS Breakpoints*/
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 1300px) {
   /* tablets and desktop */
+  .content-row {
+      display: block;
+    }
+  .image {
+    display: block;
+  }
 }
 
 @media only screen and (max-width: 767px) {
   /* phones */
-  .content-row {
-      display: block;
-    }
+  .content {
+    max-width: 90%;
+  }
   .dino {
     display: none;
   }
