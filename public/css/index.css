@@ -46,6 +46,10 @@ html {
 	background: var(--background-image);
 }
 body {
+	display: grid;
+	grid-template-columns: [left] minmax(1em,1fr) [main] minmax(10em,40em) [right] minmax(10em,1fr);
+    grid-template-rows: repeat(7,min-content) auto repeat(2,min-content);
+    grid-gap: 0 2em;
 	padding: 2em;
 	margin: 0 auto;
 	font-family: var(--font-family);
@@ -119,14 +123,19 @@ a[href]:active {
 	color: var(--text-color-link-active);
 }
 
-main,
+#main {
+	grid-column: main;
+    grid-row: 2 / -3;
+    padding: 3em 0 0;
+  }
+#main,
 footer {
 	padding: 1rem;
 }
-main, #post-content {
+#main, #post-content {
 	padding-top: 3em;
 }
-main :first-child {
+#main :first-child {
 	margin-top: 0;
 }
 
@@ -137,6 +146,9 @@ header:after {
 	content: "";
 	display: table;
 	clear: both;
+}
+footer {
+	grid-row: 2 / -3;
 }
 
 .links-nextprev {
@@ -197,22 +209,46 @@ header {
 .home-link {
 	font-size: 1em; /* 16px /16 */
 	font-weight: 700;
-	margin-right: 2em;
 }
 .home-link:link:not(:hover) {
 	text-decoration: none;
 }
 
 /* Nav */
-.nav {
+#sitemast {
+	grid-column: 1 / -1;
+ 	grid-row: 1;
+	min-height: 16vw;
+	background: url(XXXX) 0 100% / 45% auto no-repeat, url(XXXX) 100% 100% / 45% auto no-repeat, linear-gradient(hsla(34deg,38%,99%,0.5), hsla(34deg,38%,99%,0.8)), url(XXX) -9% calc(100% - 4.2vw) / 29% auto no-repeat;
+	position: relative;
+}
+#sitemast a {
+    top: 0;
+    left: 50%;
+	box-sizing: border-box;
+	position: absolute;
 	display: flex;
-	padding: 0;
-	margin: 0;
-	list-style: none;
+	justify-content: flex-end;
+	align-items: flex-end;
+	font-family: IM Fell English, Eczar, Georgia, serif;
+	font-style: italic;
+	font-size: 2rem;
+	font-weight: 100;
+	text-decoration: none;
+	color: inherit;
+	line-height: 1;
+	opacity: 0.75;
+}
+#navigate {
+	position: sticky;
+    grid-column: right;
+    grid-row: 2;
+    background: radial-gradient(ellipse 100% 100% at 75% 50%, hsla(34deg,38%,98%,1) 25%, hsla(34deg,38%,98%,0) 75%);
 }
 .nav-item {
-	display: inline-block;
-	margin-right: 1em;
+	display: block;
+    padding: 0;
+    margin-bottom: 2.5em;
 }
 .nav-item a[href]:not(:hover) {
 	text-decoration: none;

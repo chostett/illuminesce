@@ -62,25 +62,28 @@
 	</head>
 	<body>
 		<a href="#skip" class="visually-hidden">Skip to main content</a>
-
-		<header>
-			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-			<nav>
-				<h2 class="visually-hidden">Top level navigation menu</h2>
-				<ul class="nav">
-				{%- for entry in collections.all | eleventyNavigation %}
-					<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
-				{%- endfor %}
-				</ul>
-			</nav>
-			<a href="/" class="home-link">{{ metadata.title }}</a>
+		<header id="sitemast" role="banner">
+			<h1 class="home-link">
+				<a href="https://illuminesce.net/">
+					illuminesce.net
+				</a>
+			</h1>
 		</header>
+			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
+		<nav id="navigate">
+			<h2 class="visually-hidden">Top level navigation menu</h2>
+			<ul class="nav">
+			{%- for entry in collections.all | eleventyNavigation %}
+				<li class="nav-item"><a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
+			{%- endfor %}
+			</ul>
+		</nav>
 
-		<main id="skip">
+		<div id="main">
 			<heading-anchors>
 				{{ content | safe }}
 			</heading-anchors>
-		</main>
+		</div>
 
 		<footer>
 			<p><em>Built with <a href="https://www.11ty.dev/">{{ eleventy.generator }}</a></em></p>

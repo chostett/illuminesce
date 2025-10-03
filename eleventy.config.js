@@ -57,7 +57,7 @@ export default async function(eleventyConfig) {
 			limit: 10,
 		},
 		metadata: {
-			title: "CJ | Studio Terranova",
+			title: "CJ | design & games",
 			base: "https://illuminesce.net/blog/",
 			language: "en",
 			subtitle: `
