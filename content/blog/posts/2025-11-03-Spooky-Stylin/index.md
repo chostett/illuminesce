@@ -11,7 +11,7 @@ tags:
 
 This Halloween, I'm thrilled (pun intended) to announce the launch of our super special minigame, [Spooky Stylin’](https://illuminesce.itch.io/spooky-stylin) — available for free as part of [Dollmaker Jam](https://itch.io/jam/dollmaker-jam)!
 
-[An image of a dollmaker with a girl with pink hair and boots.](spooky_stylin_1.gif)
+![An image of a dollmaker with a girl with pink hair and boots.](spooky_stylin_1.gif)
 
 The sixth game in our Tomodachi 8-in-1 collection, this game will take you back to those late 90s, early 00s evenings spent meticulously crafting an avatar to use on LiveJournal, AIM, or MSN Messenger—but extra spooky!
 
@@ -26,4 +26,4 @@ I'm super grateful for our community that’s always stuck around, and for their
 
 [Get the whole bundle of games for $3](https://illuminesce.itch.io/tomodachi-8in1)
 
-[A eight up of all the games in Tomodachi 8-in-1. Six out of eight games are developed; two are currently in development.](t81-games-new-2.png)
+![A eight up of all the games in Tomodachi 8-in-1. Six out of eight games are developed; two are currently in development.](t81-games-new-2.png)
