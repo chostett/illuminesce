@@ -6,6 +6,7 @@ description: 'A new (tiny) story game about glassblowing. 437 words.'
 image: ''
 tags:
   - cohost
+  - glassblowing
   - video-games
 ---
 

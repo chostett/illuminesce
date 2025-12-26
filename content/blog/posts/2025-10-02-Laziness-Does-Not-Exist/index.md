@@ -77,3 +77,12 @@ In addition to doing the thing, we have to do research on our own, trust our int
 And me, I'm past 35. I made it. Sadly, I do not have a cool sword like Auron. And unsurprisingly, I have a stress-related illness from putting myself under pressure for so long. But, in general, good health is something I thankfully have at the moment. 
 
 Which means that now I'm looking in front of me wondering, *if I'm still here, what is the most meaningful and happiest way for me to live?*
+
+---
+
+### Related Posts
+
+- [A solo art walk](/blog/posts/2025-12-26-A-Solo-Art-Walk/)
+- [Game dev comics](/blog/posts/2023-12-13-Game-Dev-Comics/)
+
+See all posts tagged [LGBTQ](/tags/lgbtq/).

@@ -11,19 +11,25 @@ tags:
 
 ---
 
+![A bright blue sky accented by apartment buildings where wild persimmon, or kaki, is growing in bunches.](kaki.png)
+
 My glassblowing teacher introduced me to the [Kurokawa Satoyama Art Project](https://midoritomichi.art/), a group that organizes an art walk in Kawasaki in November. They blend sculptural ceramics, glass, and metal into the natural scenery. I’d been sick most of November, so was pleased to catch it on the last day.
 
-Life in the suburbs of Tokyo is accented by seasons of exchange; someone has too much such-and-such in their backyard—*would you like some?* The time of the year is kaki - feral persimmons sag laden with orange fruit against a blue sky. Women carry paper bags so full of them they defy their square shape.
+Life in the suburbs of Tokyo is accented by seasons of exchange; someone has too much such-and-such in their backyard—*would you like some?* The time of the year is *kaki* - feral persimmons sag laden with orange fruit against a blue sky. Women carry paper bags so full of them they defy their square shape.
 
 Kurokawa is on the edge of the suburbs. The 3.8km art walk is through parks and backwoods that are transformed every year into a sculpture garden. I am given a map explaining where to find each of the sculptures and the hunt begins.
 
 For today, I’ve put aside my rational brain and transported myself into a gauzy fantasy world that combines nature and art seamlessly. Sculptures reflect on the coexistence of the organic and inorganic. I find my teacher’s dangling glass plates that reflect *just right* as to be both barely visible and otherworldly.
+
+![A photograph of multiple glass plates, taken from below. There are autumnal trees behind the glass and it is glinting in the sunlight.](tanaka_glass.png)
 
 This time last year there was a Christmas wreath making workshop in the park. There are no shrieks of children but it is bustling with activity. A kindly older man asks me in English where I'm from. I answer. After a few moments of silence, he says suddenly, "I don't get art. If there's no explanation, how do you understand it?"
 
 "I don't think it needs an explanation," I reply. We both crane our necks to look at a ten-foot tall elliptical tower constructed from tree branches. It was a group project from the local Kurokawa art school; the plaque displays their names. "Sometimes it's enough for them to know for you to love it.”
 
 I imagine the students spending weekends together weaving the tree branches and my heart is full.
+
+![A tattered and torn traingular piece of cloth, meant to represent the tenacity and will of the Palestinian people.](freepalestine.png)
 
 A number of artists’ works pay tribute to Palestinians—grieving the terrible loss alongside their fellow humans and relaying a hope for regrowth, for small moments of happiness amidst atrocity.
 
@@ -34,6 +40,8 @@ I reflect on [an interview from a Palestinian poet](/blog/posts/2023-11-22-Gaza/
 The life force pulses through these works.
 
 In the backwoods, I weave through fields of vegetables, and notably, momiji trees that are being grown to transplant into shrines or backyards. It looks like the green room of a play; the trees are huddled close together, not yet ready for their debut. There's a sense of wonder in the air. It has been a long time since I've felt that.
+
+![A vast swath of rice fields and a winding road with two people walking down it. In the distance are brilliant fall colors.](kurokawa.png)
 
 This year I've adopted a poisonous mindset around wonder; that it is a luxury afforded only to those who live carefree lives. I've been too busy focusing on *the real news*—that is, what is happening in the US.
 
@@ -50,6 +58,8 @@ I hate my own sense of helplessness.
 Japan is no "golden" country—it has very little, if not underground support for transgender folks and does not have same-sex marriage.
 
 Since transitioning on paper, I have spent a majority of my year meeting the dreaded Japanese bureaucracy system head-on, numbing the pain and pulling myself into an objective frame of mind to articulate "what is currently wrong" and "how can this be fixed" so that I can gain allies with logic. This has had the long-term effect of numbing my ability to feel joy. I am functional, yes, but I have lost my ability to live.
+
+![A glass sculpture perched above a wooden post, sparkling in the sunlight. The scene is clear and brisk.](coexistance.png)
 
 A nearby tree is adorned with glass sculptures; crystals jutting from the bark as if they naturally grew. I take a picture; then put my phone away and linger by the tree, trying to recreate the memory in my mind for later.
 
@@ -83,3 +93,15 @@ I read [Devon Price's "Laziness Does Not Exist" in October](/blog/posts/2025-10-
 But going through a hard time and savoring the good moments are not mutually exclusive. No one makes it out of this life alive. Why not spend our time savoring the good?
 
 Escaping explanation, I feel, for the first time in a long time, rested.
+
+![Bright magenta potatoes on a baking pan. They look vibrant and delicious.](potatoes.png)
+
+---
+
+### Related Posts
+
+- [Reading: Laziness Does Not Exist by Devon Price](/blog/posts/2025-10-02-Laziness-Does-Not-Exist/)
+- [seeing sound, hearing time](/blog/posts/2025-03-21-Sakamoto-Ryuichi/)
+- [My first glass art show at SARAU TOKYO (EN/JP)](/blog/posts/2024-03-16-Sarau-Tokyo-and-Glass-Art/)
+
+See all posts tagged [Art](/tags/art/).

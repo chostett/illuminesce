@@ -58,3 +58,12 @@ I'm not sure when I'll be exhibiting next, but I am looking for new spaces. If y
 Until next time!
 
 ![笑顔している金髪色の人。(CJ)](sarau_04.png)
+
+---
+
+### Related Posts
+
+- [Keep Center - Submission for Neo Twiny Jam](/blog/posts/2024-06-28-Keep-Center/)
+- [A solo art walk](/blog/posts/2025-12-26-A-Solo-Art-Walk/)
+
+See all posts tagged [Glassblowing](/tags/glassblowing/).

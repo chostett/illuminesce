@@ -6,6 +6,7 @@ description: 'Successes and learnings from making a tiny game about glassblowing
 image: ''
 tags:
   - cohost
+  - glassblowing
   - video-games
 ---
 
