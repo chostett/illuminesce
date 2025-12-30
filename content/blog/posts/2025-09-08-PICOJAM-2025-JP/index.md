@@ -11,7 +11,7 @@ tags:
 
 ---
 
-<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/picojam_header.png" alt="PICOJAM in Kichijouji.">
+<img src="  https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/v-td8uoMFr-1024.avif" alt="PICOJAM in Kichijouji.">
 
 *[CYANSTAR](https://x.com/CYANSTAR5) がPICOJAMの宣伝画像を制作してくれました。*
 
@@ -25,7 +25,7 @@ tags:
 
 [Jam のエントリーは itch.io でこちらからご覧いただけます。](https://itch.io/jam/picojam-2025/entries)
 
-<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/picojam_03.jpg" alt="昼間に長テーブルに座ってゲーム制作に取り組む人々の様子。明るく活気ある雰囲気です。">
+<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/bDP4QFoCcn-5712.jpeg" alt="昼間に長テーブルに座ってゲーム制作に取り組む人々の様子。明るく活気ある雰囲気です。">
 
 ## PICO‑8 とは？
 
@@ -41,7 +41,7 @@ PICO‑8 が楽しい理由は、**制約が多いほど創造性が刺激され
 
 私が企画・運営を担当し、結果は大成功！ 楽しかったです。
 
-<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/picojam_13.jpg" alt="投影されたピクセルゲームを見ている男性の写真。">
+<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/CS0MUj02KZ-5712.jpeg" alt="投影されたピクセルゲームを見ている男性の写真。">
 
 ## さあ、ゲームをご紹介いたしまーす！
 
@@ -51,7 +51,7 @@ PICO‑8 が楽しい理由は、**制約が多いほど創造性が刺激され
 
 お祭りの花火をデザインします。重さ・寿命・色を調整して、オリジナルの花火を作りましょう。
 
-<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/picojam_08.jpg" alt="花火が空に打ち上がり、華やかに爆発する様子。">
+<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/TemFS62gXc-5712.jpeg" alt="花火が空に打ち上がり、華やかに爆発する様子。">
 
 **テーマ**：「祭り」
 
@@ -65,7 +65,7 @@ PICO‑8 が楽しい理由は、**制約が多いほど創造性が刺激され
 
 太鼓の上を這うバグになり、ヒットサークルに長く留まって得点を稼ぎます。ただし、叩き潰されないように注意！
 
-<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/picojam_16.jpg" alt="太鼓の棒で追い回されるバグが必死に走る様子。">
+<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/niJBaxUPya-5712.jpeg" alt="太鼓の棒で追い回されるバグが必死に走る様子。">
 
 **テーマ**：「祭り」
 
@@ -79,7 +79,7 @@ PICO‑8 が楽しい理由は、**制約が多いほど創造性が刺激され
 
 祭りで動物たちにかき氷を提供します。（エンディングはなく、ずっとかき氷を作り続けます）
 
-<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/picojam_17.jpg" alt="小さな動物がかき氷ボウルを頭に乗せ、シロップを受け取ろうとする様子。">
+<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/Xxrt3H1a-1-5712.jpeg" alt="小さな動物がかき氷ボウルを頭に乗せ、シロップを受け取ろうとする様子。">
 
 **テーマ**：「祭り」
 
@@ -93,7 +93,7 @@ PICO‑8 が楽しい理由は、**制約が多いほど創造性が刺激され
 
 祭りの屋台を守るタワーディフェンスです。香りの範囲は店ごとに異なり、年齢（子ども／大人）や性別（男性／女性）でも好みが変わります。
 
-<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/picojam_12.jpg" alt="動物たちが屋台の食べ物を次々と食べていく様子。">
+<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/mXqRkKV4MB-5712.jpeg" alt="動物たちが屋台の食べ物を次々と食べていく様子。">
 
 **テーマ**：「祭り」
 
@@ -107,7 +107,7 @@ PICO‑8 が楽しい理由は、**制約が多いほど創造性が刺激され
 
 友達に誘われて祭りに行くものの、人混みが苦手…？ 見知らぬ人を避けて仲間を探し、静かな場所でゆっくり過ごすことが目的です。
 
-<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/picojam_11.jpg" alt="群衆の中で怯える動物が走り回り、叫び声で体力が減少していく様子。">
+<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/VFF1k1vxTo-5712.jpeg" alt="群衆の中で怯える動物が走り回り、叫び声で体力が減少していく様子。">
 
 **テーマ**：「祭り」
 
@@ -121,7 +121,7 @@ PICO‑8 が楽しい理由は、**制約が多いほど創造性が刺激され
 
 若い炎の玉「Bernie Cinders」は、マシュマロを焼いたり、乾いた葉で遊んだり、蝋像館を訪れたりします。
 
-<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/bernie.gif" alt="炎の玉がナポレオンの蝋像を溶かす様子。">
+<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/ypcqt7ZWwd-637.gif" alt="炎の玉がナポレオンの蝋像を溶かす様子。">
 
 **テーマ**：「溶ける」
 
@@ -135,11 +135,11 @@ PICO‑8 が楽しい理由は、**制約が多いほど創造性が刺激され
 
 [**Matsuri Music** をダウンロード](https://mabbees.itch.io/matsuri-music)
 
-<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/matsurimusic.png" alt="白いウサギが餅をたたいているピクセルイラスト。">
+<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/BpDSzr-zbL-384.png" alt="白いウサギが餅をたたいているピクセルイラスト。">
 
 私は運営に時間が取られ、最後の瞬間まで何か作りたいと思い、**「ジャム用の 8×8 ピクセルアート素材パック」** を作成しました（ジャム＝音楽＋食べ物の掛け合わせです）。非商用プロジェクトで自由に使ってください！
 
-<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/jams.png" alt="ジャム瓶や祭りの食べ物（団子、チョコバナナ、かき氷）などの素材一覧。">
+<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/IF-R4DuRwZ-500.png" alt="ジャム瓶や祭りの食べ物（団子、チョコバナナ、かき氷）などの素材一覧。">
 
 [**MATSURI // JAM 8×8 ピクセルアート** をダウンロード](https://itch.io/jam/picojam-2025/rate/3801192)
 
@@ -149,9 +149,9 @@ PICO‑8 が楽しい理由は、**制約が多いほど創造性が刺激され
 
 今回のジャムはとても楽しく、参加者同士が新しいつながりを作れました。こうした場は、みんなが安心して自分らしく振る舞い、ちょっとした“ばかげた”ことに挑戦できる貴重な空間です。
 
-<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/SNAP_00094.JPG" alt="二人の男性がカメラに向かって微笑むポラロイド写真。左が笑顔、右が無表情。">
+<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/IKLHVDGnjv-3680.jpeg" alt="二人の男性がカメラに向かって微笑むポラロイド写真。左が笑顔、右が無表情。">
 
-<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/picojam_15.jpg" alt="同じシーンを別角度から撮った写真。巻き毛の人物が二人の写真を撮っています。">
+<img src="https://illuminesce.net/blog/posts/2025-09-08-PICOJAM-2025/FJZMFRnlNK-2016.jpeg" alt="同じシーンを別角度から撮った写真。巻き毛の人物が二人の写真を撮っています。">
 
 今後、東京でゲームジャムを開催する際のノウハウや、会場確保・言語の壁を越える方法などを書いたジン(zine)を作ろうかと考えています。興味がある方がいればぜひ教えてください！
 
