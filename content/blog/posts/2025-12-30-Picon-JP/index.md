@@ -113,10 +113,10 @@ tags:
 
 ---
 
-### Related Posts
+### 関連記事
 
-- [Reading: Laziness Does Not Exist by Devon Price](/blog/posts/2025-10-02-Laziness-Does-Not-Exist/)
-- [seeing sound, hearing time](/blog/posts/2025-03-21-Sakamoto-Ryuichi/)
 - [My first glass art show at SARAU TOKYO (EN/JP)](/blog/posts/2024-03-16-Sarau-Tokyo-and-Glass-Art/)
+- [PICOJAM 2025 アフターレポート](/blog/posts/2025-09-08-PICOJAM-2025-JP/)
+- [GGJ 2025 アフターレポート](/blog/posts/2025-02-02-GGJ25JP/)
 
-See all posts tagged [Art](/tags/art/).
+すべての[記事](/tags/japanese/)を見る。

@@ -6,7 +6,6 @@ description: 'PICOJAM was a PICO-8 only hackathon (also known as a game jam) hel
 image: ''
 tags:
   - organizing
-  - video-games
   - gamedev
 
 ---

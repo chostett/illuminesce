@@ -6,8 +6,8 @@ description: 'PICOJAM は、吉祥寺の Pico Pico Café で 8月9日〜10 日�
 image: ''
 tags:
   - organizing
-  - video-games
   - gamedev
+  - japanese
 
 ---
 
