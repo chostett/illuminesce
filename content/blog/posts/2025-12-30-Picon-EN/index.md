@@ -108,7 +108,7 @@ Especially when a glass piece has a face, it really gives it personality, don't 
 
 Because it's December and I didn't want Picon to catch a cold, I made them a scarf.
 
-![A photo of CJ smiling as they display the finished Picon with a scarf.](202512-Picon-01.jpg)
+![A photo of CJ smiling as they display the finished Picon with a scarf.](202512-Picon-01.png)
 
 So, what do you think? Were you able to visualize my process?
 
