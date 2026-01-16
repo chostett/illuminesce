@@ -28,6 +28,8 @@ At last month's Picotachi, the owner of Pico Pico Café introduced a "new design
 
 I was so charmed when I saw her new design. So cute!
 
+![A side-by-side of an illustration of Picon, the corgi, and Picon, the glass sculpture.](picon.png)
+
 <img src="https://illuminesce.net/blog/posts/2025-12-30-Picon-JP/wD5oBNo-iE-1920.png" alt="Text: Why make Picon in glass? For a few reasons - one, it's fun, two, it would make the creator happy, and three, I wanted to challenge myself in glass.">
 
 There wasn't a terribly deep reason for making Picon in glass, mostly that I thought it would be fun and make its creator happy - who doesn't love fanart of their OC?
@@ -105,6 +107,8 @@ Especially when a glass piece has a face, it really gives it personality, don't 
 <img src="https://illuminesce.net/blog/posts/2025-12-30-Picon-JP/0voRGGVEA7-1920.png" alt="Text: If you're interested in learning more about glassblowing, I made a game in English and Japanese about the fundamentals of glassblowing called Keep Center. Please take a look!">
 
 Because it's December and I didn't want Picon to catch a cold, I made them a scarf.
+
+![A photo of CJ smiling as they display the finished Picon with a scarf.](202512-Picon-01.jpg)
 
 So, what do you think? Were you able to visualize my process?
 
