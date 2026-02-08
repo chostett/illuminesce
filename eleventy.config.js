@@ -75,7 +75,7 @@ export default async function(eleventyConfig) {
 		extensions: "html",
 
 		// Output formats for each image.
-		formats: ["avif", "webp", "auto"],
+		formats: ["avif", "webp"],
 
 		// widths: ["auto"],
 
@@ -83,7 +83,14 @@ export default async function(eleventyConfig) {
 			// e.g. <img loading decoding> assigned on the HTML tag will override these values.
 			loading: "lazy",
 			decoding: "async",
-		}
+		
+		} , 
+
+		sharpOptions: {
+    		limitInputPixels: false,
+    		failOnError: false,
+   			animated: true
+  		}
 	});
 
 	// OG Image Generator via https://www.kilianfinger.com/blog/generating-og-images-in-eleventy/
