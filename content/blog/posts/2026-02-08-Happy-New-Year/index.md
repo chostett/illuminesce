@@ -1,7 +1,7 @@
 ---
 title: 'Happy Late New Year'
 slug: 2026-02-08-Happy-New-Year
-date: '2025-02-08'
+date: '2026-02-08'
 description: 'Reflections on last year and doing less in the new year.'
 image: ''
 tags:
