@@ -37,4 +37,4 @@ Here's to the new year, where we are more tired than ever, but like hell if we'r
 - [2024 was the year of...](/blog/posts/2024-12-30-2024-Reflections/)
 - [How Do We Share Power Dynamically?](/blog/posts/2025-06-20-Sociocracy-Pt1/)
 
-See all posts tagged [video-games](/tags/video-games/).
+See all posts tagged [Tech and Web](/tags/tech-and-web/).
