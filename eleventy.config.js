@@ -4,7 +4,6 @@ import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import * as fs from 'fs';
-// import EleventyPluginOgImage from 'eleventy-plugin-og-image';
 import pluginFilters from "./_config/filters.js";
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
@@ -85,29 +84,6 @@ export default async function(eleventyConfig) {
 		
 		} 
 	});
-
-	// OG Image Generator via https://www.kilianfinger.com/blog/generating-og-images-in-eleventy/
-// 	eleventyConfig.addPlugin(EleventyPluginOgImage, {
-//     satoriOptions: {
-//       fonts: [
-//         {
-//           name: 'Montserrat',
-//           data: fs.readFileSync('./_includes/font-file/montserrat/montserrat-latin-700-normal.woff'),
-//           weight: 700,
-//           style: 'normal',
-//         },
-
-// 		...(process.env.ELEVENTY_RUN_MODE == "build"
-// 		? [{
-// 			name: 'IBM Plex Sans',
-// 			data: fs.readFileSync('./_includes/font-file/ibm-plex-sans/ibm-plex-sans-jp-japanese-700-normal.woff'),
-// 			weight: 700,
-// 			style: 'normal',
-// 			}]
-// 		: []),
-//       ],
-//     },
-//   });
 
 	// Filters
 	eleventyConfig.addPlugin(pluginFilters);
