@@ -1,14 +1,14 @@
 // Navigation HTML. Can be changed and will reflect on all pages.
 let footerHTML = `<div class='col'>
       <h3>socials.</h3>
+      <p><a href="https://illuminesce.net/rss.xml">rss</a></p>
       <p><a href="https://gamedev.lgbt/@illuminesce" target="_blank">mastodon</a></p>
       <p><a href="https://bsky.app/profile/illuminesce.net">bluesky</a></p>
-      <p><a href="https://www.linkedin.com/in/chostett" target="_blank">linkedin</a></p>
       <p><a href="https://buttondown.com/studioterranova" target="_blank">newsletter</a></p>
     </div>
     <div class='col'>
       <h3>see my work.</h3>
-      <p><a href="https://illuminesce.notion.site/Portfolio-CJ-Hostetter-57b382dd79894960ac6beb5d92318d35" target="_blank">portfolio</a></p>
+      <p><a href="https://illuminesce.notion.site/Portfolio-CJ-Hostetter-57b382dd79894960ac6beb5d92318d35" target="_blank">design</a></p>
       <p><a href="https://illuminesce.itch.io/" target="_blank">games</a></p>
       <p><a href="https://glassart.neocities.org" target="_blank">glassblowing</a></p>
       <p><a href="interface-drama.html">interface drama</a></p>
