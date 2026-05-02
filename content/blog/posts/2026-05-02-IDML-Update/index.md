@@ -16,7 +16,7 @@ Back then we named the genre, ["interface dramas"](https://illuminesce.dreamwidt
 
 With the help of fellow gamedevs and fans, I started collecting these games: first, from the [interactive fiction database](https://ifdb.org/) and then itch.io and Steam into the [Interface Drama Master List](https://illuminesce.net/interface-drama). And now, six years later, I am so excited to see the very first sale event featuring ONLY interface dramas—Interface X26.
 
-[https://store.steampowered.com/sale/InterfaceX26](**Check it out here.**)
+[**Check it out here.**](https://store.steampowered.com/sale/InterfaceX26)
 
 ![A colorful retro computer. Text reads, InterfaceX.net, April 27th-May 4th.](interfacex26.png)
 
