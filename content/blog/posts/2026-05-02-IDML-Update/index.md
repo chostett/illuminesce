@@ -16,7 +16,7 @@ Back then we named the genre, ["interface dramas"](https://illuminesce.dreamwidt
 
 With the help of fellow gamedevs and fans, I started collecting these games: first, from the [interactive fiction database](https://ifdb.org/) and then itch.io and Steam into the [Interface Drama Master List](https://illuminesce.net/interface-drama). And now, six years later, I am so excited to see the very first sale event featuring ONLY interface dramas—Interface X26.
 
-(**Check it out here.**)[https://store.steampowered.com/sale/InterfaceX26]
+[https://store.steampowered.com/sale/InterfaceX26](**Check it out here.**)
 
 ![A colorful retro computer. Text reads, InterfaceX.net, April 27th-May 4th.](interfacex26.png)
 
@@ -69,7 +69,9 @@ Please make us a tag. Make it searchable. These games will only get more and mor
 
 I should know, I've been following this genre since 2020. It has only grown exponentially, year by year, and at this point, it's no longer a "hyper-indie" genre.
 
-And to those of you who are gamedevs and fans of this genre—keep playing games! Write comments! Support devs. We truly wouldn't be where we were without your support.
+And to those of you who are gamedevs and fans of this genre—keep playing games! 
+
+Write comments! Support devs. We truly wouldn't be where we were without your support. Thank you so much for all of the love you've given this genre so far. <3
 
 ---
 
