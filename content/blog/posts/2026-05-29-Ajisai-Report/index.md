@@ -9,7 +9,7 @@ tags:
 
 ---
 
-I have a lot of topics/subjects that have been percolating in my head: in April and May, the Steam Sales for Interface X26 made me realize how much other people are thinking about fake OS/interface drama games and their underlying themes. Studio Terranova is continuing and we're learning a lot about what makes a cooperative and how to run it sociocratically. A cooperative was, at its core, an organization for the trading and exchanging of physical goods, so in a digital age where everything is a subscription and things can't be shared, it's an especially tricky challenge to stay true to our shared roots. 
+I have a lot of topics/subjects that have been percolating in my head: in April and May, [the Steam Sales for Interface X26](/blog/posts/2026-05-02-IDML-Update/) made me realize how much other people are thinking about fake OS/interface drama games and their underlying themes. Studio Terranova is continuing and we're learning a lot about what makes a cooperative and [how to run it sociocratically](/blog/posts/2025-06-20-Sociocracy-Pt). A cooperative was, at its core, an organization for the trading and exchanging of physical goods, so in a digital age where everything is a subscription and things can't be shared, it's an especially tricky challenge to stay true to our shared roots. 
 
 All interesting subjects, but right now on my walks in the neighborhood, I'm thinking about...flowers.
 
