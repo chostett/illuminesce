@@ -97,12 +97,24 @@ function absoluteUrl(urlPath) {
 	return new URL(urlPath, SITE_URL).toString();
 }
 
+function titleFontSize(title) {
+	// Bigger text for short titles, scaled down for long ones so they
+	// still fit within the fixed 1200x630 canvas without overflowing.
+	const length = title.length;
+	if (length <= 20) return 92;
+	if (length <= 35) return 76;
+	if (length <= 55) return 62;
+	return 50;
+}
+
 async function generateFallbackImage(title) {
+	const fontSize = titleFontSize(title);
+
 	const markup = satoriHtml(`
-		<div style="width:1200px;height:630px;display:flex;flex-direction:column;align-items:center;justify-content:center;font-family:Montserrat;background:linear-gradient(145deg, rgba(180,208,186,1), rgba(190,205,145,1));padding:80px;">
-			<img src="${getAvatarDataUri()}" width="180" height="180" style="border-radius:9999px;margin-bottom:48px;" />
-			<div style="display:flex;color:rgba(60,95,68,1);font-size:64px;font-weight:700;text-align:center;line-height:1.3;max-width:1000px;">${escapeHtml(title)}</div>
-			<div style="display:flex;margin-top:48px;font-size:30px;font-weight:400;color:rgba(84,130,95,1);">illuminesce.net</div>
+		<div style="width:1200px;height:630px;display:flex;flex-direction:column;align-items:center;justify-content:center;font-family:Montserrat;background:linear-gradient(145deg, rgba(180,208,186,1), rgba(190,205,145,1));padding:64px;">
+			<img src="${getAvatarDataUri()}" style="width:190px;height:190px;border-radius:9999px;margin-bottom:40px;" />
+			<div style="display:flex;color:rgba(50,85,58,1);font-size:${fontSize}px;font-weight:700;text-align:center;line-height:1.25;max-width:1080px;">${escapeHtml(title)}</div>
+			<div style="display:flex;margin-top:40px;font-size:42px;font-weight:700;color:rgba(70,110,80,1);">illuminesce.net</div>
 		</div>
 	`);
 
@@ -134,17 +146,18 @@ export default function (eleventyConfig) {
 			const excerpt = description && description.trim() ? "" : makeExcerpt(content);
 
 			const imgMatch = content.match(/<img[^>]*\ssrc=["']([^"']+)["']/i);
+			const imgSrc = imgMatch ? imgMatch[1].trim() : null;
 			let imageUrl, imageWidth, imageHeight;
 
 			try {
-				if (imgMatch && imgMatch[1].startsWith("data:")) {
+				if (imgSrc && imgSrc.startsWith("data:")) {
 					// Skip inline data-uri images, nothing useful to link to.
-				} else if (imgMatch && /^https?:\/\//i.test(imgMatch[1])) {
+				} else if (imgSrc && /^https?:\/\//i.test(imgSrc)) {
 					// Already an absolute/remote URL, use as-is.
-					imageUrl = imgMatch[1];
-				} else if (imgMatch) {
+					imageUrl = imgSrc;
+				} else if (imgSrc) {
 					const inputDir = path.dirname(page.inputPath);
-					const absoluteSrcPath = path.join(inputDir, imgMatch[1]);
+					const absoluteSrcPath = path.join(inputDir, imgSrc);
 
 					const stats = await Image(absoluteSrcPath, {
 						formats: ["jpeg"],
