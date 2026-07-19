@@ -1,6 +1,9 @@
 ---
 layout: layouts/base.njk
 ---
+{#- Auto-generate og:image / description preview from the raw post content
+   (must run here, before this renders up into layouts/base.njk's <head>) -#}
+{%- computePostMeta content, title, description -%}
 {# Only include the syntax highlighter CSS on blog posts, included with the CSS per-page bundle #}
 {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %}
 {%- css %}{% include "public/css/index.css" %}{%- endcss %}

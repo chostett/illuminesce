@@ -5,6 +5,7 @@ import pluginNavigation from "@11ty/eleventy-navigation";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 import * as fs from 'fs';
 import pluginFilters from "./_config/filters.js";
+import pluginOgImage from "./_config/og-image.js";
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
@@ -87,6 +88,9 @@ export default async function(eleventyConfig) {
 
 	// Filters
 	eleventyConfig.addPlugin(pluginFilters);
+
+	// Auto og:image + description previews for blog posts
+	eleventyConfig.addPlugin(pluginOgImage);
 
 	eleventyConfig.addPlugin(IdAttributePlugin, {
 		// by default we use Eleventy’s built-in `slugify` filter:

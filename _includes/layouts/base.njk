@@ -1,10 +1,12 @@
 <!doctype html>
 <html lang="{{ metadata.language }}">
 	<head>
+		{%- set postMeta = page.url | postMetaFor -%}
+		{%- set metaDescription = description or postMeta.excerpt or metadata.description -%}
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>{{ title or metadata.title }}</title>
-		<meta name="description" content="{{ description or metadata.description }}">
+		<meta name="description" content="{{ metaDescription }}">
 		<link rel="alternate" href="feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 
 		{# - import Phosphor Icons - #}
@@ -14,13 +16,23 @@
 		{# - For pretty links when sharing your site elsewhere -#}
 		{# - Open Graph / Facebook -#}
 		<meta property="og:title" content="{{ title }}" />
-  		<meta property="og:description" content="{{ description or metadata.description }}" />
+  		<meta property="og:description" content="{{ metaDescription }}" />
+		{%- if postMeta.imageUrl %}
+		<meta property="og:image" content="{{ postMeta.imageUrl }}" />
+		{%- if postMeta.imageWidth %}
+		<meta property="og:image:width" content="{{ postMeta.imageWidth }}" />
+		<meta property="og:image:height" content="{{ postMeta.imageHeight }}" />
+		{%- endif %}
+		{%- endif %}
 		<meta name="fediverse:creator" content="@illuminesce@gamedev.lgbt">
 
   		{# - Twitter -#}
   		<meta property="twitter:card" content="summary_large_image" />
   		<meta property="twitter:title" content="{{ title }}" />
-  		<meta property="twitter:description" content="{{ description or metadata.description }}" />
+  		<meta property="twitter:description" content="{{ metaDescription }}" />
+		{%- if postMeta.imageUrl %}
+		<meta name="twitter:image" content="{{ postMeta.imageUrl }}" />
+		{%- endif %}
 
 		{#-
 		Plain-text bundles are provided via the `eleventy-plugin-bundle` plugin:
