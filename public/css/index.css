@@ -148,7 +148,7 @@ header:after {
 	clear: both;
 }
 footer {
-	grid-row: 2 / -3;
+	display: none;
 }
 
 .links-nextprev {
