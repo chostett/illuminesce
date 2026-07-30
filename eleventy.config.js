@@ -74,7 +74,7 @@ export default async function(eleventyConfig) {
 		extensions: "html",
 
 		// Output formats for each image.
-		formats: ["avif", "webp"],
+		formats: ["webp"],
 
 		// widths: ["auto"],
 
@@ -83,7 +83,10 @@ export default async function(eleventyConfig) {
 			loading: "lazy",
 			decoding: "async",
 		
-		} 
+		},
+		sharpOptions: {
+			animated: true   // <-- Sharp keeps all animations
+		}
 	});
 
 	// Filters
