@@ -2,7 +2,7 @@
 title: 'PICOJAM 2026 アフターレポート'
 slug: 2026-09-24-PICOJAM-2026-JP
 date: '2026-09-24'
-description: "TBD"
+description: "「ま」のテーマにしたPICO-8やPicotronオンリーの２日間のゲームジャム。"
 image: ''
 tags:
   - organizing
@@ -143,13 +143,13 @@ KentaさんにとってPICO-8でのジャム参加はこれが初めてで、「
 
 ほ-のぼうけんとDit Dit Dahの両方でボイスを担当してくれた[CornetTheory](https://cornettheory.itch.io/)さんにも、ぜひ拍手を。いまは実験的なパーリンノイズのゴルフゲームを作っているそうで、まるでジャムがまだ終わっていないかのようです…がんばってください。
 
-ちなみに、[PICO-8のまとめカートリッジはこちらです]((https://www.lexaloffle.com/bbs/?tid=159785)。(Derpy DerbyとThe Chatは含まれません)。
+ちなみに、[PICO-8のまとめカートリッジはこちらです](https://www.lexaloffle.com/bbs/?tid=159785)。(Derpy DerbyとThe Chatは含まれません)。
 
 ### 面白そう!どうやって参加できますか?
 
 来年の日程はまだ決まっていませんが、私のTwitterのほか、Pico Pico CaféやPicotachiを通じてお知らせします。東京にお住まいなら、ぜひPicotachiに遊びに来てください。常連さんの多くがPICOJAMにも参加していて、通ううちに、楽しくてあたたかいコミュニティと知り合えるはずです。
 
-[私のTwitter]((https://bsky.app/profile/illuminesce.net) / [Pico Pico CaféのTwitterをフォロー](https://x.com/picopicocafe)
+[私のTwitter]((https://x.com/its_illuminesce) / [Pico Pico CaféのTwitterをフォロー](https://x.com/picopicocafe)
 
 みなさん、おつかれさまでした!1月のGlobal Game Jamと、来年8月のPICOJAMでまたお会いしましょう!
 

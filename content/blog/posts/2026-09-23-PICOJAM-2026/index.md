@@ -2,7 +2,7 @@
 title: 'PICOJAM 2026 After Report'
 slug: 2026-09-23-PICOJAM-2026
 date: '2026-09-23'
-description: "TBD"
+description: "Centering around the theme of 'ma,' a 2-day PICO-8 and Picotron-only game jam."
 image: ''
 tags:
   - organizing
