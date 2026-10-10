@@ -143,7 +143,7 @@ CJ and another mentor, Yahya, built a bitsy game where you can hang out at a pix
 
 [**(Play on itch.io)**](https://illuminesce.itch.io/hello-world)
 
-![A moving image of a player chatting with a jammer. They say, I'm proud of you](GGJ-helloworld.gif)
+<img src="GGJ-helloworld.gif" alt="A moving image of a player chatting with a jammer. They say, I'm proud of you" eleventy:ignore>
 
 ---
 

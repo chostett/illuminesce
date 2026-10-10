@@ -144,7 +144,7 @@ Let's Games! Tokyo のジャムの会場がピクセル世界で再現されま�
 
 [**(itch.io)**](https://illuminesce.itch.io/hello-world)
 
-![A moving image of a player chatting with a jammer. They say, I'm proud of you](GGJ-helloworld.gif)
+<img src="GGJ-helloworld.gif" alt="A moving image of a player chatting with a jammer. They say, I'm proud of you" eleventy:ignore>
 
 ---
 
